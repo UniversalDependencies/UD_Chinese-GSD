@@ -263,7 +263,7 @@
 36	一些	_	ADJ	JJ	_	37	amod	_	_
 37	啟示	_	NOUN	NN	_	34	dobj	_	_
 38	.	_	PUNCT	.	_	3	punct	_	_
-39	」	_	PUNCT	” ’<-	_	3	punct	_	_
+39	」	_	PUNCT	''	_	3	punct	_	_
 
 1	當時	_	NOUN	NN	_	3	nmod:tmod	_	_
 2	外界	_	NOUN	NN	_	3	nmod	_	_
@@ -282,7 +282,7 @@
 15	日行	_	NOUN	NNP	_	16	nsubj	_	_
 16	否認	_	VERB	VV	_	0	root	_	_
 17	:	_	PUNCT	:	_	16	punct	_	_
-18	「	_	PUNCT	->“ ‘	_	40	punct	_	_
+18	「	_	PUNCT	``	_	40	punct	_	_
 19	人	_	NOUN	NN	_	30	nsubj	_	_
 20	都是	_	VERB	VC	_	30	acl	_	_
 21	吃	_	VERB	VV	_	25	acl	_	_
@@ -1617,9 +1617,9 @@
 18	會	_	AUX	MD	_	19	aux	_	_
 19	扭曲	_	VERB	VV	_	26	acl	_	_
 20	成	_	VERB	VV	_	19	mark	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	S	_	X	FW	_	24	case:suff	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	型	_	PART	SFN	_	19	dobj	_	_
 25	以	_	ADV	RB	_	26	mark	_	_
 26	威嚇	_	VERB	VV	_	0	root	_	_
@@ -2031,19 +2031,19 @@
 27	意義	_	NOUN	NN	_	29	advmod	_	_
 28	上	_	ADP	IN	_	27	acl	_	_
 29	讓	_	VERB	VV	Voice=Cau	0	root	_	_
-30	「	_	PUNCT	->“ ‘	_	33	punct	_	_
+30	「	_	PUNCT	``	_	33	punct	_	_
 31	鐵人	_	NOUN	NN	_	33	nmod	_	_
 32	三	_	NUM	CD	_	33	nummod	_	_
 33	項	_	NOUN	NN	_	35	nsubj	_	_
-34	」	_	PUNCT	” ’<-	_	33	punct	_	_
+34	」	_	PUNCT	''	_	33	punct	_	_
 35	成	_	VERB	VV	_	29	ccomp	_	_
 36	為	_	VERB	VC	_	35	mark	_	_
 37	了	_	PART	AS	Aspect=Perf	35	case:aspect	_	_
-38	「	_	PUNCT	->“ ‘	_	41	punct	_	_
+38	「	_	PUNCT	``	_	41	punct	_	_
 39	三	_	NUM	CD	_	40	nmod	_	_
 40	項	_	NOUN	NNB	_	41	nmod	_	_
 41	全能	_	ADJ	JJ	_	44	det	_	_
-42	」	_	PUNCT	” ’<-	_	41	punct	_	_
+42	」	_	PUNCT	''	_	41	punct	_	_
 43	的	_	PART	DEC	Case=Gen	41	case:dec	_	_
 44	代名詞	_	NOUN	NN	_	35	dobj	_	_
 45	.	_	PUNCT	.	_	29	punct	_	_
@@ -2247,10 +2247,10 @@
 12	仍然	_	ADV	RB	_	13	advmod	_	_
 13	使用	_	VERB	VV	_	21	acl:relcl	_	_
 14	東視	_	NOUN	NNP	_	17	nmod	_	_
-15	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+15	「	_	PUNCT	``	_	17	punct	_	_
 16	紅日	_	NOUN	NN	_	17	nmod	_	_
 17	海鷗	_	NOUN	NN	_	13	dobj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	台標	_	NOUN	NN	_	17	appos	_	_
 20	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
 21	頻道	_	NOUN	NN	_	0	root	_	_
@@ -2290,10 +2290,10 @@
 32	傳媒	_	NOUN	NN	_	33	nmod	_	_
 33	公司	_	NOUN	NN	_	37	nsubj	_	_
 34	為	_	VERB	VC	_	37	cop	_	_
-35	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+35	「	_	PUNCT	``	_	37	punct	_	_
 36	土	_	PART	PFA	_	37	case:pref	_	_
 37	娛樂	_	NOUN	NNP	_	29	ccomp	_	_
-38	」	_	PUNCT	” ’<-	_	37	punct	_	_
+38	」	_	PUNCT	''	_	37	punct	_	_
 39	.	_	PUNCT	.	_	23	punct	_	_
 
 1	公園	_	NOUN	NN	_	3	nsubj	_	_
@@ -2407,10 +2407,10 @@
 45	被	_	VERB	BB	Voice=Pass	46	auxpass	_	_
 46	譽	_	VERB	VV	_	0	root	_	_
 47	為	_	VERB	VC	_	46	mark	_	_
-48	「	_	PUNCT	->“ ‘	_	50	punct	_	_
+48	「	_	PUNCT	``	_	50	punct	_	_
 49	遠東	_	NOUN	NNP	_	50	nmod	_	_
 50	第一	_	NUM	CD	_	46	dobj	_	_
-51	」	_	PUNCT	” ’<-	_	50	punct	_	_
+51	」	_	PUNCT	''	_	50	punct	_	_
 52	.	_	PUNCT	.	_	46	punct	_	_
 
 1	1959	_	NUM	CD	_	2	nummod	_	_
@@ -3087,9 +3087,9 @@
 17	集	_	PART	SFN	_	11	dobj	_	_
 18	.	_	PUNCT	.	_	11	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	2	punct	_	_
+1	「	_	PUNCT	``	_	2	punct	_	_
 2	戰役	_	NOUN	NN	_	12	nsubj	_	_
-3	」	_	PUNCT	” ’<-	_	2	punct	_	_
+3	」	_	PUNCT	''	_	2	punct	_	_
 4	具有	_	VERB	VV	_	12	acl	_	_
 5	一	_	NUM	CD	_	6	nummod	_	_
 6	個	_	NOUN	NNB	_	10	nmod	_	_
@@ -3122,12 +3122,12 @@
 11	室	_	PART	SFN	_	12	nmod	_	_
 12	建立	_	VERB	VV	_	3	ccomp	_	_
 13	了	_	PART	AS	Aspect=Perf	12	case:aspect	_	_
-14	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+14	「	_	PUNCT	``	_	18	punct	_	_
 15	即時	_	ADJ	JJ	_	18	amod	_	_
 16	戰略	_	NOUN	NN	_	18	nmod	_	_
 17	遊戲	_	NOUN	NN	_	18	nmod	_	_
 18	大師	_	NOUN	NN	_	21	det	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	的	_	PART	DEC	Case=Gen	18	case:dec	_	_
 21	聲譽	_	NOUN	NN	_	12	dobj	_	_
 22	.	_	PUNCT	.	_	3	punct	_	_
@@ -3204,15 +3204,15 @@
 2	主要	_	ADV	RB	_	3	advmod	_	_
 3	分	_	VERB	VV	_	0	root	_	_
 4	為	_	VERB	VC	_	3	mark	_	_
-5	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+5	「	_	PUNCT	``	_	7	punct	_	_
 6	隨機	_	ADJ	JJ	_	7	amod	_	_
 7	地圖	_	NOUN	NN	_	3	dobj	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	和	_	CONJ	CC	_	7	cc	_	_
-10	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+10	「	_	PUNCT	``	_	12	punct	_	_
 11	戰役	_	NOUN	NN	_	12	nmod	_	_
 12	模式	_	NOUN	NN	_	7	conj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	兩	_	NUM	CD	_	15	nummod	_	_
 15	部分	_	NOUN	NN	_	7	appos	_	_
 16	.	_	PUNCT	.	_	3	punct	_	_
@@ -3608,12 +3608,12 @@
 37	稱	_	VERB	VV	Voice=Cau	0	root	_	_
 38	之	_	PRON	PRD	_	44	nsubj	_	_
 39	為	_	VERB	VC	_	44	cop	_	_
-40	「	_	PUNCT	->“ ‘	_	44	punct	_	_
+40	「	_	PUNCT	``	_	44	punct	_	_
 41	百	_	NUM	CD	_	42	nummod	_	_
 42	年	_	NOUN	NNB	_	44	nmod	_	_
 43	火車	_	NOUN	NN	_	44	case:suff	_	_
 44	頭	_	PART	SFN	_	37	ccomp	_	_
-45	」	_	PUNCT	” ’<-	_	44	punct	_	_
+45	」	_	PUNCT	''	_	44	punct	_	_
 46	.	_	PUNCT	.	_	37	punct	_	_
 
 1	根據	_	ADP	IN	_	6	case	_	_
@@ -4343,20 +4343,20 @@
 8	地	_	PART	DEV	Case=Advb	9	mark	_	_
 9	濾掉	_	VERB	VV	_	0	root	_	_
 10	含有	_	VERB	VV	_	36	amod	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	人權	_	NOUN	NN	_	10	dobj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	、	_	PUNCT	EC	_	12	punct	_	_
-15	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+15	「	_	PUNCT	``	_	17	punct	_	_
 16	法輪	_	NOUN	NN	_	17	conj	_	_
 17	功	_	PART	SFN	_	12	conj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	和	_	CONJ	CC	_	12	cc	_	_
-20	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+20	「	_	PUNCT	``	_	23	punct	_	_
 21	1989	_	NUM	CD	_	23	nmod	_	_
 22	天安	_	NOUN	NNP	_	23	case:suff	_	_
 23	門	_	PART	SFN	_	12	conj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	等	_	NOUN	NN	_	12	acl	_	_
 26	通常	_	ADV	RB	_	29	advmod	_	_
 27	被	_	VERB	BB	Voice=Pass	29	auxpass	_	_
@@ -4587,7 +4587,7 @@
 10	議員	_	NOUN	NN	_	11	case:suff	_	_
 11	數	_	PART	SFN	_	5	dobj	_	_
 12	,	_	PUNCT	,	_	53	punct	_	_
-13	「	_	PUNCT	->“ ‘	_	45	punct	_	_
+13	「	_	PUNCT	``	_	45	punct	_	_
 14	國民	_	NOUN	NN	_	15	case:suff	_	_
 15	黨	_	PART	SFN	_	16	nsubj	_	_
 16	稱	_	VERB	VV	_	45	dep	_	_
@@ -4622,7 +4622,7 @@
 45	合計	_	VERB	VV	_	53	dep	_	_
 46	八百餘	_	NUM	CD	_	47	nummod	_	_
 47	席	_	NOUN	NNB	_	45	dobj	_	_
-48	」	_	PUNCT	” ’<-	_	45	punct	_	_
+48	」	_	PUNCT	''	_	45	punct	_	_
 49	,	_	PUNCT	,	_	53	punct	_	_
 50	該	_	DET	DT	_	51	det	_	_
 51	總數	_	NOUN	NN	_	53	nsubj	_	_
@@ -5838,7 +5838,7 @@
 5	乙	_	NOUN	NNP	_	6	nsubj	_	_
 6	稱	_	VERB	VV	_	0	root	_	_
 7	,	_	PUNCT	,	_	6	punct	_	_
-8	「	_	PUNCT	->“ ‘	_	31	punct	_	_
+8	「	_	PUNCT	``	_	31	punct	_	_
 9	老舍	_	NOUN	NNP	_	31	nsubj	_	_
 10	成	_	VERB	VV	_	31	acl	_	_
 11	了	_	PART	AS	Aspect=Perf	10	case:aspect	_	_
@@ -6134,10 +6134,10 @@
 22	見	_	VERB	VV	_	27	amod	_	_
 23	真正	_	ADJ	JJ	_	27	amod	_	_
 24	的	_	PART	DEC	Case=Rel	23	acl:relcl	_	_
-25	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+25	「	_	PUNCT	``	_	27	punct	_	_
 26	山丘	_	NOUN	NN	_	27	nmod	_	_
 27	王子	_	NOUN	NN	_	43	dep	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	,	_	PUNCT	,	_	43	punct	_	_
 30	卻	_	ADV	RB	_	43	mark	_	_
 31	因為	_	ADP	IN	_	30	case	_	_
@@ -6188,13 +6188,13 @@
 31	日	_	NOUN	NNB	_	32	nmod	_	_
 32	改名	_	VERB	VV	_	46	acl	_	_
 33	為	_	VERB	VC	_	32	mark	_	_
-34	「	_	PUNCT	->“ ‘	_	39	punct	_	_
+34	「	_	PUNCT	``	_	39	punct	_	_
 35	全國	_	NOUN	NNP	_	39	nmod	_	_
 36	朝日	_	NOUN	NNP	_	39	nmod	_	_
 37	放送	_	VERB	VV	_	39	nmod	_	_
 38	株式	_	NOUN	NN	_	39	nmod	_	_
 39	會社	_	NOUN	NN	_	32	dobj	_	_
-40	」	_	PUNCT	” ’<-	_	39	punct	_	_
+40	」	_	PUNCT	''	_	39	punct	_	_
 41	,	_	PUNCT	,	_	46	punct	_	_
 42	即	_	VERB	VC	_	46	cop	_	_
 43	今	_	NOUN	NN	_	46	nmod	_	_
@@ -6241,11 +6241,11 @@
 19	迷	_	PART	SFN	_	17	dobj	_	_
 20	的	_	PART	DEC	Case=Rel	17	acl:relcl	_	_
 21	活動	_	NOUN	NN	_	25	appos	_	_
-22	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+22	「	_	PUNCT	``	_	25	punct	_	_
 23	家庭	_	NOUN	NN	_	25	nmod	_	_
 24	鐵道	_	NOUN	NN	_	25	case:suff	_	_
 25	展	_	PART	SFN	_	16	dobj	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 27	.	_	PUNCT	.	_	16	punct	_	_
 
 1	在	_	ADP	IN	_	2	case	_	_
@@ -6900,9 +6900,9 @@
 14	國王	_	NOUN	NN	_	15	nmod	_	_
 15	尊稱	_	VERB	VV	_	22	ccomp	_	_
 16	為	_	VERB	VC	_	15	mark	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	主上	_	NOUN	NN	_	15	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	,	_	PUNCT	,	_	22	punct	_	_
 21	她	_	PRON	PRP	Person=3	22	nsubj	_	_
 22	有	_	VERB	VV	_	0	root	_	_
@@ -6913,10 +6913,10 @@
 27	叫	_	VERB	VV	Voice=Cau	22	ccomp	_	_
 28	她	_	PRON	PRP	Person=3	29	nsubj	_	_
 29	作	_	VERB	VV	_	27	ccomp	_	_
-30	「	_	PUNCT	->“ ‘	_	32	punct	_	_
+30	「	_	PUNCT	``	_	32	punct	_	_
 31	小野	_	NOUN	NNP	_	32	nmod	_	_
 32	主上	_	NOUN	NN	_	29	dobj	_	_
-33	」	_	PUNCT	” ’<-	_	32	punct	_	_
+33	」	_	PUNCT	''	_	32	punct	_	_
 34	.	_	PUNCT	.	_	22	punct	_	_
 
 1	1988	_	NUM	CD	_	2	nummod	_	_
@@ -7875,7 +7875,7 @@
 3	正	_	ADV	RB	_	5	advmod	_	_
 4	在	_	ADV	RB	_	5	advmod	_	_
 5	實現	_	VERB	VV	_	22	csubj	_	_
-6	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+6	「	_	PUNCT	``	_	14	punct	_	_
 7	五	_	NUM	CD	_	8	nummod	_	_
 8	縱	_	NOUN	NN	_	14	nmod	_	_
 9	四	_	NUM	CD	_	10	nummod	_	_
@@ -7884,7 +7884,7 @@
 12	環	_	NOUN	NN	_	14	nmod	_	_
 13	八	_	NUM	CD	_	14	nummod	_	_
 14	連	_	NOUN	NN	_	20	det	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	的	_	PART	DEC	Case=Gen	14	case:dec	_	_
 17	高速	_	ADJ	JJ	_	18	amod	_	_
 18	公路	_	NOUN	NN	_	20	nmod	_	_
@@ -8089,9 +8089,9 @@
 8	被	_	VERB	BB	Voice=Pass	9	auxpass	_	_
 9	簡稱	_	VERB	VV	_	0	root	_	_
 10	為	_	VERB	VC	_	9	mark	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	岐女短	_	NOUN	NNP	_	9	dobj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	.	_	PUNCT	.	_	9	punct	_	_
 
 1	八	_	NUM	CD	_	2	nummod	_	_
@@ -8544,10 +8544,10 @@
 3	(	_	PUNCT	(	_	18	punct	_	_
 4	又	_	ADV	RB	_	5	mark	_	_
 5	稱	_	VERB	VV	_	18	acl	_	_
-6	''	_	PUNCT	->“ ‘	_	8	punct	_	_
+6	''	_	PUNCT	``	_	8	punct	_	_
 7	聯盟	_	NOUN	NNP	_	8	case:suff	_	_
 8	宮	_	PART	SFN	_	5	dobj	_	_
-9	''	_	PUNCT	” ’<-	_	8	punct	_	_
+9	''	_	PUNCT	''	_	8	punct	_	_
 10	,	_	PUNCT	.	_	18	punct	_	_
 11	是	_	VERB	VC	_	18	cop	_	_
 12	一	_	NUM	CD	_	13	nummod	_	_
@@ -8749,10 +8749,10 @@
 6	被	_	VERB	BB	Voice=Pass	7	auxpass	_	_
 7	稱	_	VERB	VV	_	0	root	_	_
 8	為	_	VERB	VC	_	7	mark	_	_
-9	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+9	「	_	PUNCT	``	_	11	punct	_	_
 10	大同	_	NOUN	NNP	_	11	case:suff	_	_
 11	教	_	PART	SFN	_	7	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	7	punct	_	_
 14	因為	_	ADP	IN	_	19	case	_	_
 15	其	_	PRON	PRP	Person=3	17	nmod	_	_
@@ -8760,10 +8760,10 @@
 17	教義	_	NOUN	NN	_	19	nsubj	_	_
 18	里	_	ADP	IN	_	17	acl	_	_
 19	有	_	VERB	VV	_	7	ccomp	_	_
-20	''	_	PUNCT	->“ ‘	_	22	punct	_	_
+20	''	_	PUNCT	``	_	22	punct	_	_
 21	世界	_	NOUN	NN	_	22	nsubj	_	_
 22	大同	_	ADJ	JJ	_	25	acl:relcl	_	_
-23	''	_	PUNCT	” ’<-	_	22	punct	_	_
+23	''	_	PUNCT	''	_	22	punct	_	_
 24	的	_	PART	DEC	Case=Rel	22	acl:relcl	_	_
 25	主張	_	NOUN	NN	_	19	dobj	_	_
 26	.	_	PUNCT	.	_	7	punct	_	_
@@ -8856,14 +8856,14 @@
 13	,	_	PUNCT	,	_	4	punct	_	_
 14	因為	_	ADP	IN	_	40	case	_	_
 15	如果	_	ADP	IN	_	26	case	_	_
-16	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+16	「	_	PUNCT	``	_	22	punct	_	_
 17	上帝	_	NOUN	NN	_	20	nsubj	_	_
 18	將	_	ADV	RB	_	20	advmod	_	_
 19	要	_	AUX	MD	_	20	aux	_	_
 20	顯聖	_	VERB	VV	_	22	acl:relcl	_	_
 21	的	_	PART	DEC	Case=Rel	20	acl:relcl	_	_
 22	祂	_	PRON	PRP	Person=3	26	nsubj	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	出現	_	VERB	VV	_	26	acl	_	_
 25	,	_	PUNCT	,	_	26	punct	_	_
 26	創立	_	VERB	VV	_	40	ccomp	_	_
@@ -9671,10 +9671,10 @@
 
 1	其中	_	NOUN	NN	_	8	advmod	_	_
 2	,	_	PUNCT	,	_	8	punct	_	_
-3	「	_	PUNCT	->“ ‘	_	5	punct	_	_
+3	「	_	PUNCT	``	_	5	punct	_	_
 4	北京	_	NOUN	NNP	_	5	nmod	_	_
 5	流派	_	NOUN	NN	_	8	nsubj	_	_
-6	」	_	PUNCT	” ’<-	_	5	punct	_	_
+6	」	_	PUNCT	''	_	5	punct	_	_
 7	完全	_	ADV	RB	_	8	advmod	_	_
 8	沿襲	_	VERB	VV	_	0	root	_	_
 9	了	_	PART	AS	Aspect=Perf	8	case:aspect	_	_
@@ -10275,12 +10275,12 @@
 21	點	_	PART	SFN	_	17	conj	_	_
 22	,	_	PUNCT	,	_	23	punct	_	_
 23	有	_	VERB	VV	_	0	root	_	_
-24	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+24	「	_	PUNCT	``	_	28	punct	_	_
 25	千	_	NUM	CD	_	26	nummod	_	_
 26	城	_	NOUN	NN	_	28	det	_	_
 27	之	_	PART	DEC	Case=Gen	26	case:dec	_	_
 28	國	_	NOUN	NN	_	31	det	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	的	_	PART	DEC	Case=Gen	28	case:dec	_	_
 31	美稱	_	NOUN	NN	_	23	dobj	_	_
 32	.	_	PUNCT	.	_	23	punct	_	_
@@ -10666,14 +10666,14 @@
 13	工程	_	NOUN	NN	_	9	dobj	_	_
 14	.	_	PUNCT	.	_	9	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+1	「	_	PUNCT	``	_	7	punct	_	_
 2	地下	_	NOUN	NN	_	7	nmod	_	_
 3	都市	_	NOUN	NN	_	7	nmod	_	_
 4	高	_	PART	PFA	_	5	case:pref	_	_
 5	速度	_	NOUN	NN	_	7	nmod	_	_
 6	交通	_	NOUN	NN	_	7	nmod	_	_
 7	事業	_	NOUN	NN	_	10	nsubj	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	即	_	ADV	RB	_	10	mark	_	_
 10	是	_	VERB	VC	_	83	dep	_	_
 11	指	_	VERB	VV	_	10	xcomp	_	_
@@ -10715,9 +10715,9 @@
 47	名稱	_	NOUN	NN	_	49	nmod	_	_
 48	中	_	ADP	IN	_	47	acl	_	_
 49	加上	_	VERB	VV	_	57	acl	_	_
-50	「	_	PUNCT	->“ ‘	_	51	punct	_	_
+50	「	_	PUNCT	``	_	51	punct	_	_
 51	高速	_	NOUN	NN	_	49	nmod	_	_
-52	」	_	PUNCT	” ’<-	_	51	punct	_	_
+52	」	_	PUNCT	''	_	51	punct	_	_
 53	兩	_	NUM	CD	_	54	nummod	_	_
 54	字	_	NOUN	NN	_	51	appos	_	_
 55	,	_	PUNCT	,	_	57	punct	_	_
@@ -10729,16 +10729,16 @@
 61	速度	_	NOUN	NN	_	62	case:suff	_	_
 62	性	_	PART	SFN	_	57	dobj	_	_
 63	;	_	PUNCT	:	_	83	punct	_	_
-64	「	_	PUNCT	->“ ‘	_	65	punct	_	_
+64	「	_	PUNCT	``	_	65	punct	_	_
 65	帝都	_	NOUN	NN	_	83	nsubj	_	_
-66	」	_	PUNCT	” ’<-	_	65	punct	_	_
+66	」	_	PUNCT	''	_	65	punct	_	_
 67	則是	_	ADV	RB	_	83	mark	_	_
 68	指	_	VERB	VV	_	83	acl	_	_
-69	「	_	PUNCT	->“ ‘	_	72	punct	_	_
+69	「	_	PUNCT	``	_	72	punct	_	_
 70	帝國	_	NOUN	NN	_	72	det	_	_
 71	的	_	PART	DEC	Case=Gen	70	case:dec	_	_
 72	首都	_	NOUN	NN	_	74	appos	_	_
-73	」	_	PUNCT	” ’<-	_	72	punct	_	_
+73	」	_	PUNCT	''	_	72	punct	_	_
 74	東京	_	NOUN	NNP	_	68	dobj	_	_
 75	,	_	PUNCT	,	_	83	punct	_	_
 76	是	_	VERB	VC	_	83	cop	_	_
@@ -10776,14 +10776,14 @@
 6	地	_	PART	SFN	_	4	nmod	_	_
 7	的	_	PART	DEC	Case=Gen	4	case:dec	_	_
 8	動機	_	NOUN	NN	_	14	nsubj	_	_
-9	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+9	「	_	PUNCT	``	_	14	punct	_	_
 10	是	_	VERB	VC	_	11	cop	_	_
 11	利益	_	NOUN	NN	_	14	acl	_	_
 12	而	_	ADV	RB	_	14	mark	_	_
 13	不是	_	VERB	VC	_	14	cop	_	_
 14	情誼	_	NOUN	NN	_	2	ccomp	_	_
 15	.	_	PUNCT	.	_	2	punct	_	_
-16	」	_	PUNCT	” ’<-	_	2	punct	_	_
+16	」	_	PUNCT	''	_	2	punct	_	_
 
 1	其	_	PRON	PRP	Person=3	2	nmod	_	_
 2	兄	_	NOUN	NN	_	4	appos	_	_
@@ -11018,13 +11018,13 @@
 13	,	_	PUNCT	,	_	21	punct	_	_
 14	前身	_	NOUN	NN	_	21	nsubj	_	_
 15	為	_	VERB	VC	_	21	cop	_	_
-16	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+16	「	_	PUNCT	``	_	21	punct	_	_
 17	南方	_	NOUN	NNP	_	21	nmod	_	_
 18	電視	_	NOUN	NN	_	19	case:suff	_	_
 19	台	_	PART	SFN	_	21	nmod	_	_
 20	科教	_	NOUN	NN	_	21	nmod	_	_
 21	頻道	_	NOUN	NN	_	0	root	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	(	_	PUNCT	(	_	24	punct	_	_
 24	TVS-5	_	X	FW	_	21	appos	_	_
 25	)	_	PUNCT	)	_	24	punct	_	_
@@ -11038,21 +11038,21 @@
 6	此	_	PRON	PRD	_	7	dobj	_	_
 7	定性	_	VERB	VV	_	14	acl	_	_
 8	為	_	VERB	VC	_	7	mark	_	_
-9	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+9	「	_	PUNCT	``	_	11	punct	_	_
 10	反動	_	ADJ	JJ	_	11	amod	_	_
 11	宣傳	_	NOUN	NN	_	8	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	14	punct	_	_
 14	要求	_	VERB	VV	Voice=Cau	0	root	_	_
 15	廣東	_	NOUN	NNP	_	16	nmod	_	_
 16	當局	_	NOUN	NN	_	19	nsubj	_	_
-17	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+17	「	_	PUNCT	``	_	19	punct	_	_
 18	堅決	_	ADV	RB	_	19	advmod	_	_
 19	打擊	_	VERB	VV	_	14	ccomp	_	_
 20	和	_	CONJ	CC	_	19	cc	_	_
 21	依法	_	VERB	VV	_	22	acl	_	_
 22	嚴懲	_	VERB	VV	_	19	conj	_	_
-23	」	_	PUNCT	” ’<-	_	19	punct	_	_
+23	」	_	PUNCT	''	_	19	punct	_	_
 24	.	_	PUNCT	.	_	14	punct	_	_
 
 1	在	_	ADP	IN	_	5	case	_	_
@@ -11369,13 +11369,13 @@
 23	名稱	_	NOUN	NN	_	18	appos	_	_
 24	冠	_	VERB	VV	_	35	acl:relcl	_	_
 25	以	_	VERB	VV	_	24	mark	_	_
-26	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+26	「	_	PUNCT	``	_	27	punct	_	_
 27	數學	_	NOUN	NN	_	24	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	或	_	CONJ	CC	_	27	cc	_	_
-30	「	_	PUNCT	->“ ‘	_	31	punct	_	_
+30	「	_	PUNCT	``	_	31	punct	_	_
 31	數理	_	NOUN	NN	_	27	conj	_	_
-32	」	_	PUNCT	” ’<-	_	31	punct	_	_
+32	」	_	PUNCT	''	_	31	punct	_	_
 33	的	_	PART	DEC	Case=Rel	24	acl:relcl	_	_
 34	新	_	PART	PFA	_	35	case:pref	_	_
 35	學科	_	NOUN	NN	_	18	appos	_	_
@@ -11951,10 +11951,10 @@
 34	犯罪	_	VERB	VV	_	36	nmod	_	_
 35	推理	_	VERB	VV	_	36	nmod	_	_
 36	小說	_	NOUN	NN	_	39	appos	_	_
-37	『	_	PUNCT	->“ ‘	_	39	punct	_	_
+37	『	_	PUNCT	``	_	39	punct	_	_
 38	限時	_	NOUN	NN	_	39	nmod	_	_
 39	殺機	_	NOUN	NN	_	42	nsubj	_	_
-40	』	_	PUNCT	” ’<-	_	39	punct	_	_
+40	』	_	PUNCT	''	_	39	punct	_	_
 41	竟然	_	ADV	RB	_	42	advmod	_	_
 42	有	_	VERB	VV	_	0	root	_	_
 43	著	_	PART	AS	Aspect=Prog	42	case:aspect	_	_
@@ -12496,9 +12496,9 @@
 16	弗吉尼亞	_	NOUN	NNP	_	17	case:suff	_	_
 17	州	_	PART	SFN	_	20	det	_	_
 18	的	_	PART	DEC	Case=Gen	17	case:dec	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	州舞	_	NOUN	NN	_	14	dobj	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	.	_	PUNCT	.	_	2	punct	_	_
 
 1	成立	_	VERB	VV	_	8	acl:relcl	_	_
@@ -12631,12 +12631,12 @@
 16	其	_	PRON	PRP	Person=3	17	nmod	_	_
 17	理念	_	NOUN	NN	_	18	nsubj	_	_
 18	是	_	VERB	VC	_	0	root	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	分享	_	VERB	VV	_	18	xcomp	_	_
 21	所有	_	DET	DT	_	23	det	_	_
 22	的	_	PART	DEC	Case=Gen	21	case:dec	_	_
 23	財物	_	NOUN	NN	_	20	dobj	_	_
-24	」	_	PUNCT	” ’<-	_	20	punct	_	_
+24	」	_	PUNCT	''	_	20	punct	_	_
 25	.	_	PUNCT	.	_	18	punct	_	_
 
 1	光	_	ADV	RB	_	3	advmod	_	_
@@ -13272,12 +13272,12 @@
 23	封面	_	NOUN	NN	_	24	nsubj	_	_
 24	印	_	VERB	VV	_	0	root	_	_
 25	著	_	PART	AS	Aspect=Prog	24	case:aspect	_	_
-26	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+26	「	_	PUNCT	``	_	30	punct	_	_
 27	告別	_	VERB	VV	_	30	amod	_	_
 28	歌壇	_	NOUN	NN	_	27	dobj	_	_
 29	絕版	_	NOUN	NN	_	30	case:suff	_	_
 30	帶	_	PART	SFN	_	24	dobj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	.	_	PUNCT	.	_	24	punct	_	_
 
 1	1938	_	NUM	CD	_	2	nummod	_	_
@@ -13327,14 +13327,14 @@
 23	,	_	PUNCT	,	_	32	punct	_	_
 24	共同	_	ADV	RB	_	25	advmod	_	_
 25	呼籲	_	VERB	VV	_	32	acl	_	_
-26	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+26	「	_	PUNCT	``	_	28	punct	_	_
 27	不要	_	AUX	MD	_	28	aux	_	_
 28	內戰	_	VERB	VV	_	25	xcomp	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	,	_	PUNCT	,	_	32	punct	_	_
 31	並	_	ADV	RB	_	32	mark	_	_
 32	提出	_	VERB	VV	_	0	root	_	_
-33	「	_	PUNCT	->“ ‘	_	48	punct	_	_
+33	「	_	PUNCT	``	_	48	punct	_	_
 34	我們	_	PRON	PRP	Number=Plur|Person=1	48	nsubj	_	_
 35	為	_	ADP	IN	_	36	case	_	_
 36	自身	_	NOUN	NN	_	37	nmod	_	_
@@ -13354,7 +13354,7 @@
 50	的	_	PART	DEC	Case=Gen	49	case:dec	_	_
 51	局面	_	NOUN	NN	_	48	dobj	_	_
 52	.	_	PUNCT	.	_	48	punct	_	_
-53	」	_	PUNCT	” ’<-	_	48	punct	_	_
+53	」	_	PUNCT	''	_	48	punct	_	_
 
 1	他們	_	PRON	PRP	Number=Plur|Person=3	22	nsubj	_	_
 2	自	_	ADP	IN	_	6	case	_	_
@@ -13396,10 +13396,10 @@
 12	家	_	PART	SFN	_	9	conj	_	_
 13	,	_	PUNCT	,	_	14	punct	_	_
 14	主張	_	VERB	VV	_	0	root	_	_
-15	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+15	「	_	PUNCT	``	_	17	punct	_	_
 16	實業	_	NOUN	NN	_	17	advmod	_	_
 17	救國	_	VERB	VV	_	14	xcomp	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	.	_	PUNCT	.	_	14	punct	_	_
 
 1	張	_	NOUN	NNP	_	2	nmod	_	_
@@ -13449,10 +13449,10 @@
 1	2005	_	NUM	CD	_	2	nummod	_	_
 2	年	_	NOUN	NNB	_	8	nmod:tmod	_	_
 3	,	_	PUNCT	,	_	8	punct	_	_
-4	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+4	「	_	PUNCT	``	_	6	punct	_	_
 5	雙	_	NUM	CD	_	6	nummod	_	_
 6	張	_	NOUN	NNP	_	8	nsubj	_	_
-7	」	_	PUNCT	” ’<-	_	6	punct	_	_
+7	」	_	PUNCT	''	_	6	punct	_	_
 8	取得	_	VERB	VV	_	0	root	_	_
 9	4	_	NUM	CD	_	10	nummod	_	_
 10	個	_	NOUN	NNB	_	12	nmod	_	_
@@ -14479,12 +14479,12 @@
 12	,	_	PUNCT	,	_	26	punct	_	_
 13	人	_	NOUN	NN	_	14	nsubj	_	_
 14	稱	_	VERB	VV	_	26	dep	_	_
-15	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+15	「	_	PUNCT	``	_	19	punct	_	_
 16	會	_	AUX	MD	_	17	aux	_	_
 17	說話	_	VERB	VV	_	19	acl:relcl	_	_
 18	的	_	PART	DEC	Case=Rel	17	acl:relcl	_	_
 19	木板	_	NOUN	NN	_	14	dobj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	,	_	PUNCT	,	_	26	punct	_	_
 22	但	_	ADV	RB	_	26	mark	_	_
 23	這些	_	DET	DT	_	24	det	_	_
@@ -14492,10 +14492,10 @@
 25	後來	_	NOUN	NN	_	26	nmod:tmod	_	_
 26	遭遇	_	VERB	VV	_	0	root	_	_
 27	了	_	PART	AS	Aspect=Perf	26	case:aspect	_	_
-28	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+28	「	_	PUNCT	``	_	30	punct	_	_
 29	文明	_	NOUN	NN	_	30	case:suff	_	_
 30	者	_	PART	SFN	_	32	nsubj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	帶來	_	VERB	VV	_	34	acl:relcl	_	_
 33	的	_	PART	DEC	Case=Rel	32	acl:relcl	_	_
 34	浩劫	_	NOUN	NN	_	26	dobj	_	_
@@ -14581,7 +14581,7 @@
 11	著	_	PART	AS	Aspect=Prog	10	case:aspect	_	_
 12	口號	_	NOUN	NN	_	10	dobj	_	_
 13	:	_	PUNCT	:	_	12	punct	_	_
-14	「	_	PUNCT	->“ ‘	_	40	punct	_	_
+14	「	_	PUNCT	``	_	40	punct	_	_
 15	美國	_	NOUN	NNP	_	40	dep	_	_
 16	,	_	PUNCT	,	_	40	punct	_	_
 17	紅	_	NOUN	NN	_	40	dep	_	_
@@ -14609,7 +14609,7 @@
 39	是	_	VERB	VC	_	40	cop	_	_
 40	地獄	_	NOUN	NN	_	12	appos	_	_
 41	.	_	PUNCT	.	_	40	punct	_	_
-42	」	_	PUNCT	” ’<-	_	40	punct	_	_
+42	」	_	PUNCT	''	_	40	punct	_	_
 
 1	以	_	ADP	IN	_	5	case	_	_
 2	2007	_	NUM	CD	_	3	nummod	_	_
@@ -15309,11 +15309,11 @@
 22	所	_	ADV	RB	_	23	mark	_	_
 23	提出	_	VERB	VV	_	28	acl:relcl	_	_
 24	的	_	PART	DEC	Case=Rel	23	acl:relcl	_	_
-25	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+25	「	_	PUNCT	``	_	28	punct	_	_
 26	特異	_	ADJ	JJ	_	27	amod	_	_
 27	功能	_	NOUN	NN	_	28	nmod	_	_
 28	研究	_	NOUN	NN	_	19	dobj	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	一	_	NUM	CD	_	31	nummod	_	_
 31	詞	_	NOUN	NN	_	28	appos	_	_
 32	,	_	PUNCT	,	_	43	punct	_	_
@@ -15438,10 +15438,10 @@
 3	海豹	_	NOUN	NNP	_	8	nmod	_	_
 4	突擊	_	VERB	VV	_	5	case:suff	_	_
 5	隊	_	PART	SFN	_	8	nmod	_	_
-6	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+6	「	_	PUNCT	``	_	8	punct	_	_
 7	第六	_	NUM	CD	_	8	nummod	_	_
 8	分隊	_	NOUN	NN	_	12	det	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	的	_	PART	DEC	Case=Gen	8	case:dec	_	_
 11	狙擊	_	VERB	VV	_	12	case:suff	_	_
 12	手	_	PART	SFN	_	53	nsubj	_	_
@@ -15569,17 +15569,17 @@
 40	的	_	PART	DEC	Case=Gen	37	case:dec	_	_
 41	認知	_	NOUN	NN	_	47	dobj	_	_
 42	從	_	ADP	IN	_	45	case	_	_
-43	「	_	PUNCT	->“ ‘	_	45	punct	_	_
+43	「	_	PUNCT	``	_	45	punct	_	_
 44	速食	_	NOUN	NN	_	45	nmod	_	_
 45	餐廳	_	NOUN	NN	_	47	nmod	_	_
-46	」	_	PUNCT	” ’<-	_	45	punct	_	_
+46	」	_	PUNCT	''	_	45	punct	_	_
 47	轉移	_	VERB	VV	_	34	xcomp	_	_
 48	向	_	ADP	IN	_	52	case	_	_
-49	「	_	PUNCT	->“ ‘	_	52	punct	_	_
+49	「	_	PUNCT	``	_	52	punct	_	_
 50	快速	_	ADV	RB	_	51	advmod	_	_
 51	服務	_	VERB	VV	_	52	amod	_	_
 52	餐廳	_	NOUN	NN	_	47	nmod	_	_
-53	」	_	PUNCT	” ’<-	_	52	punct	_	_
+53	」	_	PUNCT	''	_	52	punct	_	_
 54	.	_	PUNCT	.	_	34	punct	_	_
 
 1	在	_	ADP	IN	_	4	case	_	_
@@ -16304,11 +16304,11 @@
 9	有	_	VERB	VV	_	0	root	_	_
 10	一	_	NUM	CD	_	11	nummod	_	_
 11	條	_	NOUN	NNB	_	15	nmod	_	_
-12	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+12	「	_	PUNCT	``	_	15	punct	_	_
 13	五	_	NUM	CD	_	14	nummod	_	_
 14	里	_	NOUN	NNB	_	15	nmod	_	_
 15	香塍	_	NOUN	NNP	_	38	nsubj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	,	_	PUNCT	,	_	38	punct	_	_
 18	舊稱	_	VERB	VV	_	38	acl	_	_
 19	五	_	NUM	CD	_	20	nummod	_	_
@@ -16457,7 +16457,7 @@
 9	阿一	_	NOUN	NNP	_	10	nsubj	_	_
 10	說	_	VERB	VV	_	0	root	_	_
 11	:	_	PUNCT	:	_	10	punct	_	_
-12	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+12	「	_	PUNCT	``	_	25	punct	_	_
 13	那	_	PRON	PRD	_	18	nsubj	_	_
 14	也是	_	VERB	VC	_	18	cop	_	_
 15	你	_	PRON	PRP	Person=2	18	det	_	_
@@ -16471,7 +16471,7 @@
 23	我	_	PRON	PRP	Person=1	25	nsubj	_	_
 24	願意	_	AUX	MD	_	25	aux	_	_
 25	接受	_	VERB	VV	_	10	dobj	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 
 1	該	_	DET	DT	_	2	det	_	_
 2	節目	_	NOUN	NN	_	25	dep	_	_
@@ -16618,23 +16618,23 @@
 2	廖	_	NOUN	NNP	_	3	nmod	_	_
 3	冰兄	_	NOUN	NNP	_	55	nsubj	_	_
 4	以	_	ADP	IN	_	10	case	_	_
-5	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+5	「	_	PUNCT	``	_	7	punct	_	_
 6	人間	_	NOUN	NN	_	7	nmod	_	_
 7	畫會	_	NOUN	NN	_	10	det	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	的	_	PART	DEC	Case=Gen	7	case:dec	_	_
 10	名義	_	NOUN	NN	_	11	nmod	_	_
 11	發起	_	VERB	VV	_	55	acl	_	_
 12	製作	_	VERB	VV	_	11	xcomp	_	_
 13	題	_	NOUN	NN	_	19	nsubj	_	_
 14	為	_	VERB	VC	_	19	cop	_	_
-15	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+15	「	_	PUNCT	``	_	19	punct	_	_
 16	中國	_	NOUN	NNP	_	17	nmod	_	_
 17	人民	_	NOUN	NN	_	19	nsubj	_	_
 18	站	_	VERB	VV	_	19	acl	_	_
 19	起來	_	VERB	VV	_	25	acl:relcl	_	_
 20	了	_	X	UH	_	19	discourse	_	_
-21	」	_	PUNCT	” ’<-	_	19	punct	_	_
+21	」	_	PUNCT	''	_	19	punct	_	_
 22	的	_	PART	DEC	Case=Rel	19	acl:relcl	_	_
 23	毛	_	NOUN	NNP	_	25	nmod	_	_
 24	澤東	_	NOUN	NNP	_	25	nmod	_	_
@@ -16849,10 +16849,10 @@
 29	當時	_	NOUN	NN	_	31	nmod:tmod	_	_
 30	已	_	ADV	RB	_	31	advmod	_	_
 31	存在	_	VERB	VV	_	28	xcomp	_	_
-32	「	_	PUNCT	->“ ‘	_	34	punct	_	_
+32	「	_	PUNCT	``	_	34	punct	_	_
 33	憤怒	_	ADJ	JJ	_	34	amod	_	_
 34	青年	_	NOUN	NN	_	31	dobj	_	_
-35	」	_	PUNCT	” ’<-	_	34	punct	_	_
+35	」	_	PUNCT	''	_	34	punct	_	_
 36	這	_	DET	DT	_	37	det	_	_
 37	稱呼	_	NOUN	NN	_	34	appos	_	_
 38	.	_	PUNCT	.	_	28	punct	_	_
@@ -16882,11 +16882,11 @@
 12	種	_	NOUN	NNB	_	18	nmod	_	_
 13	有效	_	ADJ	JJ	_	18	amod	_	_
 14	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
-15	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+15	「	_	PUNCT	``	_	18	punct	_	_
 16	月	_	NOUN	NNB	_	17	nmod:tmod	_	_
 17	捐	_	VERB	VV	_	18	amod	_	_
 18	運動	_	NOUN	NN	_	9	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	(	_	PUNCT	(	_	21	punct	_	_
 21	DDC	_	X	FW	_	18	appos	_	_
 22	-	_	PUNCT	HYPH	_	21	punct	_	_
@@ -16959,12 +16959,12 @@
 4	正式	_	ADJ	JJ	_	5	amod	_	_
 5	名稱	_	NOUN	NN	_	2	appos	_	_
 6	為	_	VERB	VC	_	11	cop	_	_
-7	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+7	「	_	PUNCT	``	_	11	punct	_	_
 8	先	_	PART	PFA	_	9	case:pref	_	_
 9	總統	_	NOUN	NN	_	10	appos	_	_
 10	蔣公	_	NOUN	NNP	_	11	nmod	_	_
 11	陵寢	_	NOUN	NN	_	33	acl	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	33	punct	_	_
 14	位	_	VERB	VV	_	33	acl	_	_
 15	於	_	VERB	VV	_	14	mark	_	_
@@ -17230,12 +17230,12 @@
 12	發起	_	VERB	VV	_	5	ccomp	_	_
 13	成立	_	VERB	VV	_	12	xcomp	_	_
 14	的	_	PART	DEC	Case=Rel	5	acl:relcl	_	_
-15	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+15	「	_	PUNCT	``	_	19	punct	_	_
 16	國泰	_	NOUN	NNP	_	19	nmod	_	_
 17	信託	_	NOUN	NN	_	19	nmod	_	_
 18	投資	_	NOUN	NN	_	19	nmod	_	_
 19	公司	_	NOUN	NN	_	22	nsubj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	(	_	PUNCT	(	_	22	punct	_	_
 22	簡稱	_	VERB	VV	_	4	ccomp	_	_
 23	國泰	_	NOUN	NNP	_	24	nmod	_	_
@@ -17446,9 +17446,9 @@
 7	父親	_	NOUN	NN	_	8	dobj	_	_
 8	形容	_	VERB	VV	_	23	acl	_	_
 9	為	_	VERB	VC	_	8	mark	_	_
-10	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+10	「	_	PUNCT	``	_	11	punct	_	_
 11	酒鬼	_	NOUN	NN	_	9	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	23	punct	_	_
 14	並	_	ADV	RB	_	23	mark	_	_
 15	在	_	ADP	IN	_	20	case	_	_
@@ -17469,11 +17469,11 @@
 30	他	_	PRON	PRP	Person=3	39	nmod	_	_
 31	那	_	DET	DT	_	32	det	_	_
 32	個	_	NOUN	NNB	_	39	nmod	_	_
-33	「	_	PUNCT	->“ ‘	_	34	punct	_	_
+33	「	_	PUNCT	``	_	34	punct	_	_
 34	醉醺醺	_	ADJ	JJ	_	39	amod	_	_
 35	且	_	CONJ	CC	_	34	cc	_	_
 36	好色	_	ADJ	JJ	_	34	conj	_	_
-37	」	_	PUNCT	” ’<-	_	34	punct	_	_
+37	」	_	PUNCT	''	_	34	punct	_	_
 38	的	_	PART	DEC	Case=Rel	34	acl:relcl	_	_
 39	父親	_	NOUN	NN	_	40	nsubj	_	_
 40	虐待	_	VERB	VV	_	23	ccomp	_	_
@@ -17778,13 +17778,13 @@
 13	依舊	_	ADV	RB	_	14	advmod	_	_
 14	提供	_	VERB	VV	_	0	root	_	_
 15	了	_	PART	AS	Aspect=Perf	14	case:aspect	_	_
-16	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+16	「	_	PUNCT	``	_	17	punct	_	_
 17	成就	_	NOUN	NN	_	24	det	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	和	_	CONJ	CC	_	17	cc	_	_
-20	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+20	「	_	PUNCT	``	_	21	punct	_	_
 21	獎盃	_	NOUN	NN	_	17	conj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	的	_	PART	DEC	Case=Gen	17	case:dec	_	_
 24	解鎖	_	NOUN	NN	_	14	dobj	_	_
 25	.	_	PUNCT	.	_	14	punct	_	_
@@ -17960,28 +17960,28 @@
 7	和	_	ADP	IN	_	8	case	_	_
 8	過去	_	NOUN	NN	_	9	nmod	_	_
 9	說	_	VERB	VV	_	6	xcomp	_	_
-10	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+10	「	_	PUNCT	``	_	11	punct	_	_
 11	拜拜	_	VERB	VV	_	9	xcomp	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	20	punct	_	_
 14	卻	_	ADV	RB	_	20	mark	_	_
 15	不想	_	AUX	MD	_	20	aux	_	_
 16	將	_	VERB	BB	Voice=Cau	20	aux:caus	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	懷舊	_	NOUN	NN	_	20	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	作	_	VERB	VV	_	49	dep	_	_
 21	為	_	VERB	VC	_	20	mark	_	_
 22	主	_	PART	PFA	_	23	case:pref	_	_
 23	旋律	_	NOUN	NN	_	20	iobj	_	_
 24	,	_	PUNCT	,	_	49	punct	_	_
-25	「	_	PUNCT	->“ ‘	_	29	punct	_	_
+25	「	_	PUNCT	``	_	29	punct	_	_
 26	所有	_	DET	DT	_	29	det	_	_
 27	你	_	PRON	PRP	Person=2	29	nsubj	_	_
 28	想	_	AUX	MD	_	29	aux	_	_
 29	要	_	VERB	VV	_	32	csubj	_	_
 30	的	_	PART	DEC	Case=Rel	29	acl:relcl	_	_
-31	」	_	PUNCT	” ’<-	_	29	punct	_	_
+31	」	_	PUNCT	''	_	29	punct	_	_
 32	代表	_	VERB	VV	_	49	dep	_	_
 33	了	_	PART	AS	Aspect=Perf	32	case:aspect	_	_
 34	快樂	_	NOUN	NN	_	32	dobj	_	_
@@ -18062,7 +18062,7 @@
 22	個	_	NOUN	NNB	_	23	nmod	_	_
 23	月	_	NOUN	NN	_	20	dobj	_	_
 24	的	_	PART	DEC	Case=Rel	20	acl:relcl	_	_
-25	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+25	「	_	PUNCT	``	_	26	punct	_	_
 26	使	_	VERB	VV	Voice=Cau	46	amod	_	_
 27	客戶	_	NOUN	NN	_	33	nsubj	_	_
 28	能夠	_	AUX	MD	_	33	aux	_	_
@@ -18082,7 +18082,7 @@
 42	和	_	CONJ	CC	_	33	cc	_	_
 43	收發	_	VERB	VV	_	33	conj	_	_
 44	簡訊	_	NOUN	NN	_	43	dobj	_	_
-45	」	_	PUNCT	” ’<-	_	26	punct	_	_
+45	」	_	PUNCT	''	_	26	punct	_	_
 46	測試	_	NOUN	NN	_	18	dobj	_	_
 47	.	_	PUNCT	.	_	18	punct	_	_
 
@@ -18205,10 +18205,10 @@
 19	處境	_	NOUN	NN	_	17	dobj	_	_
 20	,	_	PUNCT	,	_	21	punct	_	_
 21	謀求	_	VERB	VV	_	9	conj	_	_
-22	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+22	「	_	PUNCT	``	_	24	punct	_	_
 23	哈萊姆	_	NOUN	NNP	_	24	nsubj	_	_
 24	復興	_	VERB	VV	_	21	dobj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	和	_	CONJ	CC	_	24	cc	_	_
 27	永續	_	ADV	RB	_	28	advmod	_	_
 28	發展	_	VERB	VV	_	24	conj	_	_
@@ -18550,11 +18550,11 @@
 
 1	其	_	PRON	PRP	Person=3	2	nmod	_	_
 2	父親	_	NOUN	NN	_	6	appos	_	_
-3	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+3	「	_	PUNCT	``	_	6	punct	_	_
 4	湯瑪斯	_	NOUN	NNP	_	6	nmod	_	_
 5	·	_	PUNCT	/	_	6	punct	_	_
 6	勞倫斯	_	NOUN	NNP	_	9	det	_	_
-7	」	_	PUNCT	” ’<-	_	6	punct	_	_
+7	」	_	PUNCT	''	_	6	punct	_	_
 8	的	_	PART	DEC	Case=Gen	6	case:dec	_	_
 9	真名	_	NOUN	NN	_	10	nsubj	_	_
 10	叫	_	VERB	VV	_	22	dep	_	_
@@ -18902,9 +18902,9 @@
 16	一	_	NUM	CD	_	17	nummod	_	_
 17	道	_	NOUN	NNB	_	18	nmod	_	_
 18	橫線	_	NOUN	NN	_	20	appos	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	̄	_	PUNCT	HYPH	_	22	nsubj	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	表示	_	VERB	VV	_	15	ccomp	_	_
 23	.	_	PUNCT	.	_	15	punct	_	_
 
@@ -19076,12 +19076,12 @@
 33	病情	_	NOUN	NN	_	32	dobj	_	_
 34	.	_	PUNCT	.	_	32	punct	_	_
 
-1	``	_	PUNCT	->“ ‘	_	4	punct	_	_
-2	'	_	PUNCT	->“ ‘	_	4	punct	_	_
+1	``	_	PUNCT	``	_	4	punct	_	_
+2	'	_	PUNCT	``	_	4	punct	_	_
 3	拉彼魯茲	_	NOUN	NNP	_	4	nmod	_	_
 4	海峽	_	NOUN	NN	_	36	nsubj	_	_
-5	'	_	PUNCT	” ’<-	_	4	punct	_	_
-6	''	_	PUNCT	” ’<-	_	4	punct	_	_
+5	'	_	PUNCT	''	_	4	punct	_	_
+6	''	_	PUNCT	''	_	4	punct	_	_
 7	(	_	PUNCT	(	_	8	punct	_	_
 8	La	_	X	FW	_	4	appos	_	_
 9	Perouse	_	X	FW	_	8	foreign	_	_
@@ -19470,7 +19470,7 @@
 2	總結	_	VERB	VV	_	3	acl	_	_
 3	說	_	VERB	VV	_	0	root	_	_
 4	:	_	PUNCT	:	_	3	punct	_	_
-5	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+5	「	_	PUNCT	``	_	15	punct	_	_
 6	想	_	AUX	MD	_	11	aux	_	_
 7	要	_	AUX	MD	_	11	aux	_	_
 8	在	_	ADP	IN	_	9	case	_	_
@@ -19493,7 +19493,7 @@
 25	欺騙	_	VERB	VV	_	23	xcomp	_	_
 26	的	_	X	UH	_	23	discourse	_	_
 27	.	_	PUNCT	.	_	15	punct	_	_
-28	」	_	PUNCT	” ’<-	_	15	punct	_	_
+28	」	_	PUNCT	''	_	15	punct	_	_
 
 1	參加	_	VERB	VV	_	4	csubj	_	_
 2	的	_	PART	DEC	Case=Rel	1	acl:relcl	_	_
@@ -19758,12 +19758,12 @@
 7	生	_	PART	SFN	_	14	nsubj	_	_
 8	,	_	PUNCT	,	_	14	punct	_	_
 9	也是	_	VERB	VC	_	14	cop	_	_
-10	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+10	「	_	PUNCT	``	_	14	punct	_	_
 11	被	_	VERB	BB	Voice=Pass	12	auxpass	_	_
 12	選上	_	VERB	VV	_	14	acl:relcl	_	_
 13	的	_	PART	DEC	Case=Rel	12	acl:relcl	_	_
 14	人	_	NOUN	NN	_	0	root	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	.	_	PUNCT	.	_	14	punct	_	_
 
 1	他	_	PRON	PRP	Person=3	4	nsubj	_	_
@@ -19819,10 +19819,10 @@
 4	歡樂	_	NOUN	NN	_	5	nmod	_	_
 5	分隊	_	NOUN	NN	_	17	nmod	_	_
 6	於	_	ADP	IN	_	17	det	_	_
-7	「	_	PUNCT	->“ ‘	_	9	punct	_	_
+7	「	_	PUNCT	``	_	9	punct	_	_
 8	德比	_	NOUN	NNP	_	9	nmod	_	_
 9	大廳	_	NOUN	NN	_	6	nmod	_	_
-10	」	_	PUNCT	” ’<-	_	9	punct	_	_
+10	」	_	PUNCT	''	_	9	punct	_	_
 11	(	_	PUNCT	(	_	12	punct	_	_
 12	Derby	_	X	FW	_	9	appos	_	_
 13	Hall	_	X	FW	_	12	foreign	_	_
@@ -20926,11 +20926,11 @@
 1	在	_	VERB	VV	_	15	acl	_	_
 2	美國	_	NOUN	NNP	_	1	dobj	_	_
 3	,	_	PUNCT	,	_	15	punct	_	_
-4	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+4	「	_	PUNCT	``	_	7	punct	_	_
 5	文化	_	NOUN	NN	_	7	nmod	_	_
 6	保守	_	ADJ	JJ	_	7	amod	_	_
 7	主義	_	NOUN	NN	_	15	nsubj	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	可能	_	AUX	MD	_	10	aux	_	_
 10	隱含	_	VERB	VV	_	15	acl	_	_
 11	在	_	ADP	IN	_	13	case	_	_
@@ -21190,16 +21190,16 @@
 22	走	_	VERB	VV	_	36	acl	_	_
 23	,	_	PUNCT	,	_	36	punct	_	_
 24	至	_	VERB	VV	_	29	acl	_	_
-25	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+25	「	_	PUNCT	``	_	27	punct	_	_
 26	常德	_	NOUN	NNP	_	27	case:suff	_	_
 27	街	_	PART	SFN	_	24	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	左轉	_	VERB	VV	_	36	acl	_	_
 30	至	_	VERB	VV	_	29	mark	_	_
-31	「	_	PUNCT	->“ ‘	_	33	punct	_	_
+31	「	_	PUNCT	``	_	33	punct	_	_
 32	二二八	_	NUM	CD	_	33	nummod	_	_
 33	公園	_	NOUN	NN	_	35	nmod	_	_
-34	」	_	PUNCT	” ’<-	_	33	punct	_	_
+34	」	_	PUNCT	''	_	33	punct	_	_
 35	門口	_	NOUN	NN	_	29	dobj	_	_
 36	沿著	_	VERB	VV	_	12	xcomp	_	_
 37	公園	_	NOUN	NN	_	38	nmod	_	_
@@ -22145,10 +22145,10 @@
 13	是	_	VERB	VC	_	18	cop	_	_
 14	新加坡	_	NOUN	NNP	_	18	det	_	_
 15	的	_	PART	DEC	Case=Gen	14	case:dec	_	_
-16	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+16	「	_	PUNCT	``	_	18	punct	_	_
 17	本地	_	NOUN	NN	_	18	case:suff	_	_
 18	人	_	PART	SFN	_	10	ccomp	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	,	_	PUNCT	,	_	22	punct	_	_
 21	不	_	ADV	RB	_	22	neg	_	_
 22	像	_	VERB	VV	_	32	acl	_	_
@@ -22276,11 +22276,11 @@
 2	經過	_	ADP	IN	_	8	case	_	_
 3	這	_	DET	DT	_	4	det	_	_
 4	次	_	NOUN	NNB	_	8	nmod	_	_
-5	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+5	「	_	PUNCT	``	_	8	punct	_	_
 6	666	_	NUM	CD	_	8	nmod	_	_
 7	大	_	PART	PFA	_	8	case:pref	_	_
 8	行動	_	NOUN	NN	_	17	nmod	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	後	_	ADP	IN	_	8	acl	_	_
 11	,	_	PUNCT	,	_	17	punct	_	_
 12	新城	_	NOUN	NNP	_	15	det	_	_
@@ -23018,7 +23018,7 @@
 26	人	_	PART	SFN	_	27	nsubj	_	_
 27	表示	_	VERB	VV	_	0	root	_	_
 28	:	_	PUNCT	:	_	27	punct	_	_
-29	「	_	PUNCT	->“ ‘	_	33	punct	_	_
+29	「	_	PUNCT	``	_	33	punct	_	_
 30	馬丁	_	NOUN	NNP	_	33	nsubj	_	_
 31	實在	_	ADV	RB	_	32	advmod	_	_
 32	不想	_	AUX	MD	_	33	aux	_	_
@@ -23028,7 +23028,7 @@
 36	邦德	_	NOUN	NNP	_	37	nmod	_	_
 37	電影	_	NOUN	NN	_	33	dobj	_	_
 38	.	_	PUNCT	.	_	33	punct	_	_
-39	」	_	PUNCT	” ’<-	_	33	punct	_	_
+39	」	_	PUNCT	''	_	33	punct	_	_
 
 1	由	_	VERB	VV	_	6	acl:relcl	_	_
 2	蛇	_	NOUN	NN	_	3	nsubj	_	_
@@ -24696,9 +24696,9 @@
 18	女巫	_	NOUN	NN	_	19	nsubj	_	_
 19	通稱	_	VERB	VV	_	29	dep	_	_
 20	為	_	VERB	VC	_	19	mark	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	Lilim	_	X	FW	_	19	dobj	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	)	_	PUNCT	)	_	19	punct	_	_
 25	,	_	PUNCT	,	_	29	punct	_	_
 26	他們	_	PRON	PRP	Number=Plur|Person=3	28	det	_	_
@@ -24913,10 +24913,10 @@
 7	於	_	VERB	VV	_	6	mark	_	_
 8	激光	_	NOUN	NN	_	6	dobj	_	_
 9	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
-10	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+10	「	_	PUNCT	``	_	12	punct	_	_
 11	相位	_	NOUN	NN	_	12	case:suff	_	_
 12	束	_	PART	SFN	_	3	dobj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	,	_	PUNCT	,	_	17	punct	_	_
 15	對	_	ADP	IN	_	16	case	_	_
 16	敵人	_	NOUN	NN	_	17	nmod	_	_
@@ -25049,9 +25049,9 @@
 6	通婚	_	VERB	VV	_	12	dep	_	_
 7	,	_	PUNCT	,	_	12	punct	_	_
 8	成語	_	NOUN	NN	_	10	appos	_	_
-9	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+9	「	_	PUNCT	``	_	10	punct	_	_
 10	秦晉之好	_	NOUN	NN	_	12	nsubj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	就是	_	VERB	VC	_	0	root	_	_
 13	形容	_	VERB	VV	_	12	xcomp	_	_
 14	雙	_	NUM	CD	_	15	nummod	_	_
@@ -25255,20 +25255,20 @@
 14	.	_	PUNCT	.	_	9	punct	_	_
 
 1	湖名	_	NOUN	NN	_	3	appos	_	_
-2	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+2	「	_	PUNCT	``	_	3	punct	_	_
 3	Pukaki	_	X	FW	_	7	nsubj	_	_
-4	」	_	PUNCT	” ’<-	_	3	punct	_	_
+4	」	_	PUNCT	''	_	3	punct	_	_
 5	為	_	VERB	VC	_	7	cop	_	_
 6	毛利	_	NOUN	NNP	_	7	case:suff	_	_
 7	語	_	PART	SFN	_	14	dep	_	_
 8	,	_	PUNCT	,	_	14	punct	_	_
 9	意	_	NOUN	NN	_	14	nsubj	_	_
 10	為	_	VERB	VC	_	14	cop	_	_
-11	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+11	「	_	PUNCT	``	_	14	punct	_	_
 12	聚集	_	VERB	VV	_	14	acl:relcl	_	_
 13	的	_	PART	DEC	Case=Rel	12	acl:relcl	_	_
 14	水	_	NOUN	NN	_	0	root	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	.	_	PUNCT	.	_	14	punct	_	_
 
 1	新	_	PART	PFA	_	3	case:pref	_	_
@@ -25543,7 +25543,7 @@
 11	新	_	PART	PFA	_	13	case:pref	_	_
 12	一	_	NUM	CD	_	13	nummod	_	_
 13	季	_	NOUN	NNB	_	23	nmod	_	_
-14	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+14	「	_	PUNCT	``	_	23	punct	_	_
 15	電視	_	NOUN	NN	_	23	nmod	_	_
 16	節目	_	NOUN	NN	_	23	nmod	_	_
 17	欣賞	_	NOUN	NN	_	23	nmod	_	_
@@ -25551,7 +25551,7 @@
 19	調查	_	NOUN	NN	_	23	nmod	_	_
 20	第三	_	NUM	CD	_	21	nummod	_	_
 21	階段	_	NOUN	NN	_	23	nmod	_	_
-22	」	_	PUNCT	” ’<-	_	23	punct	_	_
+22	」	_	PUNCT	''	_	23	punct	_	_
 23	結果	_	NOUN	NN	_	10	dobj	_	_
 24	,	_	PUNCT	,	_	39	punct	_	_
 25	智趣	_	NOUN	NN	_	27	nmod	_	_
@@ -25560,14 +25560,14 @@
 28	在	_	ADP	IN	_	37	case	_	_
 29	第三	_	NUM	CD	_	30	nummod	_	_
 30	階段	_	NOUN	NN	_	37	nmod	_	_
-31	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+31	「	_	PUNCT	``	_	37	punct	_	_
 32	2006	_	NUM	CD	_	37	nmod	_	_
 33	電視	_	NOUN	NN	_	37	nmod	_	_
 34	節目	_	NOUN	NN	_	37	nmod	_	_
 35	欣賞	_	NOUN	NN	_	37	nmod	_	_
 36	指數	_	NOUN	NN	_	37	nmod	_	_
 37	調查	_	NOUN	NN	_	39	nmod	_	_
-38	」	_	PUNCT	” ’<-	_	37	punct	_	_
+38	」	_	PUNCT	''	_	37	punct	_	_
 39	榮獲	_	VERB	VV	_	0	root	_	_
 40	欣賞	_	NOUN	NN	_	44	nmod	_	_
 41	指數	_	NOUN	NN	_	44	nmod	_	_
@@ -25591,11 +25591,11 @@
 13	進攻	_	VERB	VV	_	9	ccomp	_	_
 14	關中	_	NOUN	NNP	_	19	det	_	_
 15	的	_	PART	DEC	Case=Gen	14	case:dec	_	_
-16	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+16	「	_	PUNCT	``	_	19	punct	_	_
 17	三	_	NUM	CD	_	18	nummod	_	_
 18	秦	_	NOUN	NNP	_	19	case:suff	_	_
 19	王	_	PART	SFN	_	13	dobj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	.	_	PUNCT	.	_	9	punct	_	_
 
 1	假使	_	ADP	IN	_	6	case	_	_
@@ -25864,9 +25864,9 @@
 8	書店	_	NOUN	NN	_	3	conj	_	_
 9	亦	_	ADV	RB	_	10	mark	_	_
 10	以	_	VERB	VV	Voice=Cau	17	acl	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	書房	_	NOUN	NN	_	15	nsubj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	為	_	VERB	VC	_	15	cop	_	_
 15	名	_	NOUN	NN	_	10	ccomp	_	_
 16	,	_	PUNCT	,	_	17	punct	_	_
@@ -25940,7 +25940,7 @@
 3	時	_	ADP	IN	_	2	mark	_	_
 4	表示	_	VERB	VV	_	0	root	_	_
 5	,	_	PUNCT	,	_	4	punct	_	_
-6	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+6	「	_	PUNCT	``	_	30	punct	_	_
 7	擔任	_	VERB	VV	_	30	dep	_	_
 8	系	_	NOUN	NN	_	9	nmod	_	_
 9	主任	_	NOUN	NN	_	7	dobj	_	_
@@ -25966,7 +25966,7 @@
 29	合適	_	ADJ	JJ	_	30	amod	_	_
 30	時機	_	NOUN	NN	_	4	xcomp	_	_
 31	.	_	PUNCT	.	_	30	punct	_	_
-32	」	_	PUNCT	” ’<-	_	30	punct	_	_
+32	」	_	PUNCT	''	_	30	punct	_	_
 
 1	曼切華	_	NOUN	NNP	_	2	nmod	_	_
 2	公國	_	NOUN	NN	_	16	nsubj	_	_
@@ -26586,7 +26586,7 @@
 22	問題	_	NOUN	NN	_	19	dobj	_	_
 23	.	_	PUNCT	.	_	3	punct	_	_
 
-1	『	_	PUNCT	->“ ‘	_	18	punct	_	_
+1	『	_	PUNCT	``	_	18	punct	_	_
 2	把	_	VERB	BB	Voice=Cau	8	aux:caus	_	_
 3	所有	_	DET	DT	_	5	det	_	_
 4	的	_	PART	DEC	Case=Gen	3	case:dec	_	_
@@ -26795,10 +26795,10 @@
 19	相似	_	ADJ	JJ	_	20	case:suff	_	_
 20	性	_	PART	SFN	_	24	det	_	_
 21	的	_	PART	DEC	Case=Gen	20	case:dec	_	_
-22	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+22	「	_	PUNCT	``	_	24	punct	_	_
 23	例子	_	NOUN	NN	_	24	nmod	_	_
 24	查找	_	NOUN	NN	_	14	dobj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	來	_	ADV	RB	_	27	mark	_	_
 27	得到	_	VERB	VV	_	0	root	_	_
 28	圖像	_	NOUN	NN	_	27	dobj	_	_
@@ -27154,9 +27154,9 @@
 42	仍然	_	ADV	RB	_	43	advmod	_	_
 43	繼續	_	VERB	VV	_	0	root	_	_
 44	以	_	VERB	VV	Voice=Cau	43	xcomp	_	_
-45	「	_	PUNCT	->“ ‘	_	46	punct	_	_
+45	「	_	PUNCT	``	_	46	punct	_	_
 46	高麗	_	NOUN	NNP	_	48	nsubj	_	_
-47	」	_	PUNCT	” ’<-	_	46	punct	_	_
+47	」	_	PUNCT	''	_	46	punct	_	_
 48	作	_	VERB	VV	_	44	ccomp	_	_
 49	為	_	VERB	VC	_	48	mark	_	_
 50	朝鮮	_	NOUN	NNP	_	52	det	_	_
@@ -27173,10 +27173,10 @@
 7	決定	_	VERB	VV	_	0	root	_	_
 8	接受	_	VERB	VV	_	18	acl	_	_
 9	美國	_	NOUN	NNP	_	14	nmod	_	_
-10	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+10	「	_	PUNCT	``	_	12	punct	_	_
 11	自願	_	ADV	RB	_	12	advmod	_	_
 12	遣返	_	VERB	VV	_	14	amod	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	原則	_	NOUN	NN	_	8	dobj	_	_
 15	,	_	PUNCT	,	_	18	punct	_	_
 16	在	_	VERB	VV	_	18	acl	_	_
@@ -27321,14 +27321,14 @@
 17	的	_	PART	DEC	Case=Rel	15	acl:relcl	_	_
 18	信裡	_	NOUN	NN	_	19	nmod	_	_
 19	寫道	_	VERB	VV	_	0	root	_	_
-20	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+20	「	_	PUNCT	``	_	25	punct	_	_
 21	長州	_	NOUN	NNP	_	22	case:suff	_	_
 22	軍	_	PART	SFN	_	25	nsubj	_	_
 23	是	_	VERB	VC	_	25	cop	_	_
 24	日本	_	NOUN	NNP	_	25	advmod	_	_
 25	最強	_	ADJ	JJ	_	19	ccomp	_	_
 26	的	_	X	UH	_	25	discourse	_	_
-27	」	_	PUNCT	” ’<-	_	25	punct	_	_
+27	」	_	PUNCT	''	_	25	punct	_	_
 28	.	_	PUNCT	.	_	19	punct	_	_
 
 1	同時	_	NOUN	NN	_	7	nmod:tmod	_	_
@@ -27399,9 +27399,9 @@
 8	宣布	_	VERB	VV	_	18	acl	_	_
 9	承認	_	VERB	VV	_	8	xcomp	_	_
 10	緬甸	_	NOUN	NNP	_	12	nsubj	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	獨立	_	VERB	VV	_	9	ccomp	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	,	_	PUNCT	,	_	18	punct	_	_
 15	並	_	ADV	RB	_	18	mark	_	_
 16	在	_	VERB	VV	_	18	acl	_	_
@@ -27855,11 +27855,11 @@
 22	一	_	NUM	CD	_	23	nummod	_	_
 23	個	_	NOUN	NNB	_	32	nmod	_	_
 24	叫	_	VERB	VV	_	32	acl:relcl	_	_
-25	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+25	「	_	PUNCT	``	_	28	punct	_	_
 26	魯伯	_	NOUN	NNP	_	28	nmod	_	_
 27	·	_	PUNCT	/	_	28	punct	_	_
 28	巴恩斯	_	NOUN	NNP	_	24	dobj	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	的	_	PART	DEC	Case=Rel	24	acl:relcl	_	_
 31	科學	_	NOUN	NN	_	32	case:suff	_	_
 32	家	_	PART	SFN	_	20	dobj	_	_
@@ -27923,7 +27923,7 @@
 8	寫道	_	VERB	VV	Voice=Cau	0	root	_	_
 9	小說	_	NOUN	NN	_	14	nsubj	_	_
 10	是	_	VERB	VC	_	14	cop	_	_
-11	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+11	「	_	PUNCT	``	_	14	punct	_	_
 12	一	_	NUM	CD	_	13	nummod	_	_
 13	個	_	NOUN	NNB	_	14	nmod	_	_
 14	標誌	_	NOUN	NN	_	22	dep	_	_
@@ -27942,7 +27942,7 @@
 27	沒有	_	VERB	VV	_	22	ccomp	_	_
 28	受到	_	VERB	VV	_	27	xcomp	_	_
 29	審評	_	VERB	VV	_	28	xcomp	_	_
-30	」	_	PUNCT	” ’<-	_	8	punct	_	_
+30	」	_	PUNCT	''	_	8	punct	_	_
 31	.	_	PUNCT	.	_	8	punct	_	_
 
 1	但	_	ADV	RB	_	4	mark	_	_
@@ -28086,7 +28086,7 @@
 8	大怒	_	VERB	VV	_	9	acl	_	_
 9	說道	_	VERB	VV	_	0	root	_	_
 10	:	_	PUNCT	:	_	9	punct	_	_
-11	「	_	PUNCT	->“ ‘	_	38	punct	_	_
+11	「	_	PUNCT	``	_	38	punct	_	_
 12	淮南	_	NOUN	NNP	_	13	nsubj	_	_
 13	派	_	VERB	VV	Voice=Cau	38	dep	_	_
 14	你	_	PRON	PRP	Person=2	16	nsubj	_	_
@@ -28115,7 +28115,7 @@
 37	的	_	PART	DEC	Case=Gen	36	case:dec	_	_
 38	死地	_	NOUN	NN	_	9	ccomp	_	_
 39	!	_	PUNCT	.	_	38	punct	_	_
-40	」	_	PUNCT	” ’<-	_	38	punct	_	_
+40	」	_	PUNCT	''	_	38	punct	_	_
 
 1	這	_	DET	DT	_	2	det	_	_
 2	則	_	NOUN	NNB	_	3	nmod	_	_
@@ -29307,7 +29307,7 @@
 6	錫	_	NOUN	NNP	_	4	dobj	_	_
 7	說	_	VERB	VV	_	0	root	_	_
 8	:	_	PUNCT	:	_	7	punct	_	_
-9	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+9	「	_	PUNCT	``	_	19	punct	_	_
 10	你	_	PRON	PRP	Person=2	19	nsubj	_	_
 11	這麼	_	ADV	RB	_	12	advmod	_	_
 12	喜歡	_	VERB	VV	_	19	acl	_	_
@@ -29325,7 +29325,7 @@
 24	境地	_	NOUN	NN	_	19	dobj	_	_
 25	啊	_	X	UH	Mood=Inter	19	discourse	_	_
 26	?	_	PUNCT	.	_	19	punct	_	_
-27	」	_	PUNCT	” ’<-	_	19	punct	_	_
+27	」	_	PUNCT	''	_	19	punct	_	_
 
 1	他	_	PRON	PRP	Person=3	2	nsubj	_	_
 2	說	_	VERB	VV	_	0	root	_	_
@@ -29479,11 +29479,11 @@
 30	杭州	_	NOUN	NNP	_	28	nmod	_	_
 31	的	_	PART	DEC	Case=Rel	28	acl:relcl	_	_
 32	真正	_	ADJ	JJ	_	36	amod	_	_
-33	「	_	PUNCT	->“ ‘	_	36	punct	_	_
+33	「	_	PUNCT	``	_	36	punct	_	_
 34	老	_	PART	PFA	_	36	case:pref	_	_
 35	杭州	_	NOUN	NNP	_	36	case:suff	_	_
 36	人	_	PART	SFN	_	47	nsubj	_	_
-37	」	_	PUNCT	” ’<-	_	36	punct	_	_
+37	」	_	PUNCT	''	_	36	punct	_	_
 38	(	_	PUNCT	(	_	39	punct	_	_
 39	包含	_	VERB	VV	_	47	acl	_	_
 40	其	_	PRON	PRP	Person=3	44	nmod	_	_
@@ -29706,7 +29706,7 @@
 23	》	_	PUNCT	)	_	22	punct	_	_
 24	的	_	PART	DEC	Case=Gen	19	case:dec	_	_
 25	笑話	_	NOUN	NN	_	28	nsubj	_	_
-26	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+26	「	_	PUNCT	``	_	28	punct	_	_
 27	已經	_	ADV	RB	_	28	advmod	_	_
 28	開始	_	VERB	VV	_	13	ccomp	_	_
 29	很	_	ADV	RB	_	30	advmod	_	_
@@ -29714,7 +29714,7 @@
 31	地	_	PART	DEV	Case=Advb	32	mark	_	_
 32	出現	_	VERB	VV	_	28	xcomp	_	_
 33	了	_	X	UH	_	28	discourse	_	_
-34	」	_	PUNCT	” ’<-	_	28	punct	_	_
+34	」	_	PUNCT	''	_	28	punct	_	_
 35	,	_	PUNCT	,	_	28	punct	_	_
 36	因為	_	ADP	IN	_	39	case	_	_
 37	劇組	_	NOUN	NN	_	39	nsubj	_	_
@@ -29722,12 +29722,12 @@
 39	意識	_	VERB	VV	_	28	ccomp	_	_
 40	到	_	VERB	VV	_	39	mark	_	_
 41	他們	_	PRON	PRP	Number=Plur|Person=3	45	nmod	_	_
-42	「	_	PUNCT	->“ ‘	_	45	punct	_	_
+42	「	_	PUNCT	``	_	45	punct	_	_
 43	幾乎	_	ADJ	JJ	_	45	amod	_	_
 44	每個	_	DET	DT	_	45	det	_	_
 45	節目	_	NOUN	NN	_	50	nsubj	_	_
 46	中	_	ADP	IN	_	45	acl	_	_
-47	」	_	PUNCT	” ’<-	_	45	punct	_	_
+47	」	_	PUNCT	''	_	45	punct	_	_
 48	都	_	ADV	RB	_	50	mark	_	_
 49	會	_	AUX	MD	_	50	aux	_	_
 50	有	_	VERB	VV	_	39	ccomp	_	_
@@ -29741,19 +29741,19 @@
 1	兩	_	NUM	CD	_	2	nummod	_	_
 2	人	_	NOUN	NN	_	20	nsubj	_	_
 3	在	_	ADP	IN	_	8	case	_	_
-4	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+4	「	_	PUNCT	``	_	8	punct	_	_
 5	金魚	_	NOUN	NN	_	8	det	_	_
 6	的	_	PART	DEC	Case=Gen	5	case:dec	_	_
 7	記憶	_	NOUN	NN	_	8	case:suff	_	_
 8	力	_	PART	SFN	_	20	nmod	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	和	_	CONJ	CC	_	8	cc	_	_
-11	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+11	「	_	PUNCT	``	_	15	punct	_	_
 12	吸塵	_	VERB	VV	_	13	case:suff	_	_
 13	器	_	PART	SFN	_	15	nmod	_	_
 14	漂浮	_	NOUN	NN	_	15	nmod	_	_
 15	機器	_	NOUN	NN	_	8	conj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	兩	_	NUM	CD	_	18	nummod	_	_
 18	集	_	NOUN	NNB	_	8	appos	_	_
 19	中	_	ADP	IN	_	8	acl	_	_
@@ -29779,10 +29779,10 @@
 6	》	_	PUNCT	)	_	5	punct	_	_
 7	中	_	ADP	IN	_	5	acl	_	_
 8	的	_	PART	DEC	Case=Gen	5	case:dec	_	_
-9	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+9	「	_	PUNCT	``	_	11	punct	_	_
 10	墜落	_	NOUN	NN	_	11	nmod	_	_
 11	榔頭	_	NOUN	NN	_	17	nmod	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	一	_	NUM	CD	_	14	nummod	_	_
 14	集	_	NOUN	NNB	_	11	appos	_	_
 15	中	_	ADP	IN	_	11	acl	_	_
@@ -30007,10 +30007,10 @@
 
 1	廣義	_	NOUN	NN	_	5	det	_	_
 2	的	_	PART	DEC	Case=Gen	1	case:dec	_	_
-3	「	_	PUNCT	->“ ‘	_	5	punct	_	_
+3	「	_	PUNCT	``	_	5	punct	_	_
 4	東	_	NOUN	NN	_	5	nmod	_	_
 5	印度	_	NOUN	NNP	_	24	nsubj	_	_
-6	」	_	PUNCT	” ’<-	_	5	punct	_	_
+6	」	_	PUNCT	''	_	5	punct	_	_
 7	還	_	ADV	RB	_	8	mark	_	_
 8	包括	_	VERB	VV	_	24	acl	_	_
 9	中	_	NOUN	NNP	_	11	nmod	_	_
@@ -30210,11 +30210,11 @@
 6	鐵路	_	NOUN	NN	_	7	nmod	_	_
 7	北段	_	NOUN	NN	_	8	nsubj	_	_
 8	始稱	_	VERB	VV	_	15	acl	_	_
-9	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+9	「	_	PUNCT	``	_	12	punct	_	_
 10	中國	_	NOUN	NNP	_	12	nmod	_	_
 11	東方	_	NOUN	NN	_	12	nmod	_	_
 12	鐵路	_	NOUN	NN	_	8	dobj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	,	_	PUNCT	,	_	15	punct	_	_
 15	簡稱	_	VERB	VV	_	0	root	_	_
 16	中東	_	NOUN	NNP	_	17	nmod	_	_
@@ -30437,10 +30437,10 @@
 13	.	_	PUNCT	.	_	9	punct	_	_
 
 1	在	_	ADP	IN	_	4	case	_	_
-2	「	_	PUNCT	->“ ‘	_	4	punct	_	_
+2	「	_	PUNCT	``	_	4	punct	_	_
 3	文字	_	NOUN	NN	_	4	nmod	_	_
 4	藝術	_	NOUN	NN	_	14	nmod	_	_
-5	」	_	PUNCT	” ’<-	_	4	punct	_	_
+5	」	_	PUNCT	''	_	4	punct	_	_
 6	(	_	PUNCT	(	_	7	punct	_	_
 7	Language	_	X	FW	_	4	appos	_	_
 8	Arts	_	X	FW	_	7	foreign	_	_
@@ -30836,9 +30836,9 @@
 23	年	_	NOUN	NNB	_	24	nmod:tmod	_	_
 24	參與	_	VERB	VV	_	36	acl	_	_
 25	創立	_	VERB	VV	_	24	xcomp	_	_
-26	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+26	「	_	PUNCT	``	_	27	punct	_	_
 27	綠社	_	NOUN	NNP	_	25	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	和	_	CONJ	CC	_	27	cc	_	_
 30	《	_	PUNCT	(	_	31	punct	_	_
 31	詩篇	_	NOUN	NN	_	27	conj	_	_
@@ -30850,12 +30850,12 @@
 37	唯美	_	ADJ	JJ	_	38	amod	_	_
 38	主義	_	NOUN	NN	_	36	dobj	_	_
 39	,	_	PUNCT	,	_	38	punct	_	_
-40	「	_	PUNCT	->“ ‘	_	44	punct	_	_
+40	「	_	PUNCT	``	_	44	punct	_	_
 41	為	_	ADP	IN	_	42	case	_	_
 42	藝術	_	NOUN	NN	_	44	nmod	_	_
 43	而	_	ADV	RB	_	44	mark	_	_
 44	人生	_	VERB	VV	_	38	conj	_	_
-45	」	_	PUNCT	” ’<-	_	44	punct	_	_
+45	」	_	PUNCT	''	_	44	punct	_	_
 46	,	_	PUNCT	,	_	56	punct	_	_
 47	他	_	PRON	PRP	Person=3	49	nsubj	_	_
 48	所	_	ADV	RB	_	49	mark	_	_
@@ -30953,10 +30953,10 @@
 10	於	_	VERB	VV	_	12	acl	_	_
 11	台中	_	NOUN	NNP	_	10	dobj	_	_
 12	舉行	_	VERB	VV	_	19	acl	_	_
-13	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+13	「	_	PUNCT	``	_	15	punct	_	_
 14	庚戌	_	NOUN	NN	_	15	nmod	_	_
 15	春會	_	NOUN	NN	_	12	dobj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	,	_	PUNCT	,	_	19	punct	_	_
 18	次年	_	NOUN	NN	_	19	nmod:tmod	_	_
 19	邀請	_	VERB	VV	Voice=Cau	0	root	_	_
@@ -31141,10 +31141,10 @@
 18	答應	_	VERB	VV	_	15	ccomp	_	_
 19	不	_	ADV	RB	_	25	neg	_	_
 20	把	_	VERB	BB	Voice=Cau	25	aux:caus	_	_
-21	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+21	「	_	PUNCT	``	_	23	punct	_	_
 22	最後	_	NOUN	NN	_	23	nmod	_	_
 23	目標	_	NOUN	NN	_	25	dobj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	列入	_	VERB	VV	_	18	xcomp	_	_
 26	教育	_	NOUN	NN	_	27	nmod	_	_
 27	法令	_	NOUN	NN	_	25	iobj	_	_
@@ -32484,12 +32484,12 @@
 9	總	_	PART	PFA	_	10	case:pref	_	_
 10	進球	_	NOUN	NN	_	11	nmod	_	_
 11	獲得	_	VERB	VV	_	0	root	_	_
-12	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+12	「	_	PUNCT	``	_	16	punct	_	_
 13	英乙	_	NOUN	NNP	_	16	nmod	_	_
 14	彪馬	_	NOUN	NNP	_	16	nmod	_	_
 15	金靴	_	NOUN	NN	_	16	case:suff	_	_
 16	獎	_	PART	SFN	_	11	dobj	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	(	_	PUNCT	(	_	19	punct	_	_
 19	Purma	_	X	FW	_	16	appos	_	_
 20	Golden	_	X	FW	_	19	foreign	_	_
@@ -33075,7 +33075,7 @@
 8	並	_	ADV	RB	_	10	mark	_	_
 9	回信	_	VERB	VV	_	10	acl	_	_
 10	說	_	VERB	VV	_	0	root	_	_
-11	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+11	「	_	PUNCT	``	_	24	punct	_	_
 12	只要	_	ADP	IN	_	16	case	_	_
 13	梁	_	NOUN	NNP	_	14	nmod	_	_
 14	啟超	_	NOUN	NNP	_	16	nsubj	_	_
@@ -33091,7 +33091,7 @@
 24	宣布	_	VERB	VV	_	10	ccomp	_	_
 25	獨立	_	VERB	VV	_	24	xcomp	_	_
 26	.	_	PUNCT	.	_	24	punct	_	_
-27	」	_	PUNCT	” ’<-	_	24	punct	_	_
+27	」	_	PUNCT	''	_	24	punct	_	_
 
 1	梁	_	NOUN	NNP	_	2	nmod	_	_
 2	曉聲	_	NOUN	NNP	_	18	nsubj	_	_
@@ -33099,11 +33099,11 @@
 4	認為	_	VERB	VV	_	18	acl	_	_
 5	是	_	VERB	VC	_	10	cop	_	_
 6	中國	_	NOUN	NNP	_	10	nmod	_	_
-7	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+7	「	_	PUNCT	``	_	10	punct	_	_
 8	平民	_	NOUN	NN	_	10	nmod	_	_
 9	代言	_	VERB	VV	_	10	case:suff	_	_
 10	人	_	PART	SFN	_	4	xcomp	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	,	_	PUNCT	,	_	18	punct	_	_
 13	經常	_	ADV	RB	_	14	advmod	_	_
 14	描寫	_	VERB	VV	_	18	acl	_	_
@@ -33555,10 +33555,10 @@
 27	了	_	X	UH	_	26	discourse	_	_
 28	.	_	PUNCT	.	_	26	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+1	「	_	PUNCT	``	_	3	punct	_	_
 2	燒荒	_	VERB	VV	_	3	acl	_	_
 3	肥田	_	VERB	VV	_	16	csubjpass	_	_
-4	」	_	PUNCT	” ’<-	_	3	punct	_	_
+4	」	_	PUNCT	''	_	3	punct	_	_
 5	是	_	VERB	VC	_	11	cop	_	_
 6	一	_	NUM	CD	_	7	nummod	_	_
 7	種	_	NOUN	NNB	_	11	nmod	_	_
@@ -33851,13 +33851,13 @@
 26	總行	_	NOUN	NN	_	37	nmod	_	_
 27	(	_	PUNCT	(	_	34	punct	_	_
 28	今	_	NOUN	NN	_	34	nmod	_	_
-29	「	_	PUNCT	->“ ‘	_	34	punct	_	_
+29	「	_	PUNCT	``	_	34	punct	_	_
 30	台北	_	NOUN	NNP	_	34	nmod	_	_
 31	富邦	_	NOUN	NNP	_	34	nmod	_	_
 32	銀行	_	NOUN	NN	_	34	nmod	_	_
 33	中山	_	NOUN	NNP	_	34	nmod	_	_
 34	大樓	_	NOUN	NN	_	26	appos	_	_
-35	」	_	PUNCT	” ’<-	_	34	punct	_	_
+35	」	_	PUNCT	''	_	34	punct	_	_
 36	)	_	PUNCT	)	_	34	punct	_	_
 37	前面	_	NOUN	NN	_	13	dobj	_	_
 38	.	_	PUNCT	.	_	5	punct	_	_
@@ -33935,10 +33935,10 @@
 2	這	_	PRON	PRD	_	4	advmod	_	_
 3	才	_	ADV	RB	_	4	mark	_	_
 4	知道	_	VERB	VV	_	0	root	_	_
-5	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+5	「	_	PUNCT	``	_	7	punct	_	_
 6	張	_	NOUN	NNP	_	7	nmod	_	_
 7	嘯林	_	NOUN	NNP	_	11	det	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	的	_	PART	DEC	Case=Gen	7	case:dec	_	_
 10	真實	_	ADJ	JJ	_	11	amod	_	_
 11	身份	_	NOUN	NN	_	4	dobj	_	_
@@ -34021,13 +34021,13 @@
 17	會	_	AUX	MD	_	18	aux	_	_
 18	說	_	VERB	VV	_	2	ccomp	_	_
 19	:	_	PUNCT	:	_	18	punct	_	_
-20	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+20	「	_	PUNCT	``	_	25	punct	_	_
 21	我	_	PRON	PRP	Person=1	25	nsubj	_	_
 22	是	_	VERB	VC	_	25	cop	_	_
 23	龍馬	_	NOUN	NNP	_	25	det	_	_
 24	的	_	PART	DEC	Case=Gen	23	case:dec	_	_
 25	妻子	_	NOUN	NN	_	18	ccomp	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 27	.	_	PUNCT	.	_	2	punct	_	_
 
 1	1998	_	NUM	CD	_	2	nummod	_	_
@@ -34114,11 +34114,11 @@
 
 1	口號	_	NOUN	NN	_	2	nsubj	_	_
 2	為	_	VERB	VC	_	10	dep	_	_
-3	「	_	PUNCT	->“ ‘	_	4	punct	_	_
+3	「	_	PUNCT	``	_	4	punct	_	_
 4	延續	_	VERB	VV	_	2	xcomp	_	_
 5	真好	_	ADJ	JJ	_	6	amod	_	_
 6	音樂	_	NOUN	NN	_	4	dobj	_	_
-7	」	_	PUNCT	” ’<-	_	4	punct	_	_
+7	」	_	PUNCT	''	_	4	punct	_	_
 8	,	_	PUNCT	,	_	10	punct	_	_
 9	目的	_	NOUN	NN	_	10	nsubj	_	_
 10	是	_	VERB	VC	_	0	root	_	_
@@ -34714,9 +34714,9 @@
 
 1	另外	_	ADV	RB	_	14	advmod	_	_
 2	,	_	PUNCT	,	_	14	punct	_	_
-3	「	_	PUNCT	->“ ‘	_	4	punct	_	_
+3	「	_	PUNCT	``	_	4	punct	_	_
 4	春緋	_	NOUN	NNP	_	14	nsubj	_	_
-5	」	_	PUNCT	” ’<-	_	4	punct	_	_
+5	」	_	PUNCT	''	_	4	punct	_	_
 6	這	_	DET	DT	_	7	det	_	_
 7	個	_	NOUN	NNB	_	8	nmod	_	_
 8	名字	_	NOUN	NN	_	4	appos	_	_
@@ -34729,9 +34729,9 @@
 15	作者	_	NOUN	NN	_	14	iobj	_	_
 16	一	_	NUM	CD	_	17	nummod	_	_
 17	種	_	NOUN	NNB	_	22	nmod	_	_
-18	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+18	「	_	PUNCT	``	_	19	punct	_	_
 19	遙陽	_	NOUN	NNP	_	22	det	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	的	_	PART	DEC	Case=Gen	19	case:dec	_	_
 22	感覺	_	NOUN	NN	_	14	dobj	_	_
 23	;	_	PUNCT	:	_	33	punct	_	_
@@ -34750,9 +34750,9 @@
 36	感覺	_	NOUN	NN	_	37	nsubj	_	_
 37	變成	_	VERB	VV	_	33	ccomp	_	_
 38	了	_	PART	AS	Aspect=Perf	37	case:aspect	_	_
-39	「	_	PUNCT	->“ ‘	_	40	punct	_	_
+39	「	_	PUNCT	``	_	40	punct	_	_
 40	春日	_	NOUN	NNP	_	37	dobj	_	_
-41	」	_	PUNCT	” ’<-	_	40	punct	_	_
+41	」	_	PUNCT	''	_	40	punct	_	_
 42	.	_	PUNCT	.	_	33	punct	_	_
 
 1	從	_	ADP	IN	_	2	case	_	_
@@ -34823,13 +34823,13 @@
 5	的	_	PART	DEC	Case=Gen	4	case:dec	_	_
 6	作品	_	NOUN	NN	_	3	dobj	_	_
 7	,	_	PUNCT	,	_	15	punct	_	_
-8	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+8	「	_	PUNCT	``	_	13	punct	_	_
 9	歐	_	NOUN	NNP	_	11	nmod	_	_
 10	·	_	PUNCT	/	_	11	punct	_	_
 11	亨利	_	NOUN	NNP	_	12	case:suff	_	_
 12	式	_	PART	SFN	_	13	nmod	_	_
 13	結尾	_	NOUN	NN	_	15	nsubj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	就是	_	VERB	VC	_	0	root	_	_
 16	受到	_	VERB	VV	_	27	acl	_	_
 17	莫泊桑	_	NOUN	NNP	_	20	det	_	_
@@ -36330,10 +36330,10 @@
 21	回來	_	VERB	VV	_	19	ccomp	_	_
 22	而	_	ADV	RB	_	23	mark	_	_
 23	打	_	VERB	VV	_	31	csubj	_	_
-24	『	_	PUNCT	->“ ‘	_	26	punct	_	_
+24	『	_	PUNCT	``	_	26	punct	_	_
 25	拉布	_	VERB	VV	_	26	case:suff	_	_
 26	戰	_	PART	SFN	_	23	dobj	_	_
-27	』	_	PUNCT	” ’<-	_	26	punct	_	_
+27	』	_	PUNCT	''	_	26	punct	_	_
 28	,	_	PUNCT	,	_	31	punct	_	_
 29	那	_	ADV	RB	_	31	advmod	_	_
 30	又	_	ADV	RB	_	31	mark	_	_
@@ -36356,11 +36356,11 @@
 11	民進	_	NOUN	NNP	_	12	case:suff	_	_
 12	黨	_	PART	SFN	_	17	det	_	_
 13	的	_	PART	DEC	Case=Gen	12	case:dec	_	_
-14	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+14	「	_	PUNCT	``	_	17	punct	_	_
 15	水	_	NOUN	NNP	_	17	case:suff	_	_
 16	蓮	_	NOUN	NNP	_	15	conj	_	_
 17	配	_	PART	SFN	_	29	nsubj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	以	_	ADP	IN	_	27	case	_	_
 20	近	_	ADV	RB	_	21	advmod	_	_
 21	三萬	_	NUM	CD	_	22	nummod	_	_
@@ -36415,21 +36415,21 @@
 11	下	_	ADP	IN	_	10	acl	_	_
 12	,	_	PUNCT	.	_	29	punct	_	_
 13	訴求	_	VERB	VV	_	20	acl:relcl	_	_
-14	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+14	「	_	PUNCT	``	_	16	punct	_	_
 15	和解	_	VERB	VV	_	16	acl	_	_
 16	共生	_	VERB	VV	_	13	xcomp	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
 19	謝	_	NOUN	NNP	_	20	nmod	_	_
 20	長廷	_	NOUN	NNP	_	29	nsubj	_	_
 21	以	_	ADP	IN	_	26	case	_	_
-22	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+22	「	_	PUNCT	``	_	26	punct	_	_
 23	堅持	_	VERB	VV	_	26	acl	_	_
 24	理念	_	NOUN	NN	_	23	dobj	_	_
 25	,	_	PUNCT	.	_	26	punct	_	_
 26	分擔	_	VERB	VV	_	29	xcomp	_	_
 27	責任	_	NOUN	NN	_	26	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	26	punct	_	_
+28	」	_	PUNCT	''	_	26	punct	_	_
 29	請辭	_	VERB	VV	_	37	dep	_	_
 30	行政	_	NOUN	NN	_	31	nmod	_	_
 31	院長	_	NOUN	NN	_	29	dobj	_	_
@@ -36839,10 +36839,10 @@
 10	氫彈	_	NOUN	NN	_	12	nmod	_	_
 11	試驗	_	NOUN	NN	_	12	nmod	_	_
 12	裝置	_	NOUN	NN	_	15	appos	_	_
-13	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+13	「	_	PUNCT	``	_	15	punct	_	_
 14	常春藤	_	NOUN	NN	_	15	nmod	_	_
 15	麥克	_	NOUN	NNP	_	24	nsubj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	在	_	VERB	VV	_	24	acl	_	_
 18	太平	_	NOUN	NNP	_	19	case:suff	_	_
 19	洋	_	PART	SFN	_	22	det	_	_
@@ -37221,11 +37221,11 @@
 5	被	_	VERB	BB	Voice=Pass	6	auxpass	_	_
 6	稱	_	VERB	VV	_	14	acl:relcl	_	_
 7	為	_	VERB	VC	_	6	mark	_	_
-8	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+8	「	_	PUNCT	``	_	11	punct	_	_
 9	西沙	_	NOUN	NNP	_	11	nmod	_	_
 10	將軍	_	NOUN	NN	_	11	case:suff	_	_
 11	林	_	PART	SFN	_	6	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
 14	椰林	_	NOUN	NN	_	2	dobj	_	_
 15	,	_	PUNCT	,	_	39	punct	_	_
@@ -37670,12 +37670,12 @@
 14	鑑定	_	VERB	VV	Voice=Cau	0	root	_	_
 15	其	_	PRON	PRP	Person=3	21	nsubj	_	_
 16	為	_	VERB	VC	_	21	cop	_	_
-17	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+17	「	_	PUNCT	``	_	21	punct	_	_
 18	固定	_	ADJ	JJ	_	19	case:suff	_	_
 19	型	_	PART	SFN	_	21	nmod	_	_
 20	戀童	_	VERB	VV	_	21	case:suff	_	_
 21	症	_	PART	SFN	_	29	dep	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	,	_	PUNCT	,	_	29	punct	_	_
 24	再	_	ADV	RB	_	25	advmod	_	_
 25	犯	_	VERB	VV	_	28	acl:relcl	_	_
@@ -37866,7 +37866,7 @@
 32	,	_	PUNCT	,	_	68	punct	_	_
 33	但	_	ADV	RB	_	68	mark	_	_
 34	在	_	ADP	IN	_	48	case	_	_
-35	「	_	PUNCT	->“ ‘	_	40	punct	_	_
+35	「	_	PUNCT	``	_	40	punct	_	_
 36	每個	_	DET	DT	_	37	det	_	_
 37	國家	_	NOUN	NN	_	40	nsubj	_	_
 38	只	_	ADV	RB	_	40	advmod	_	_
@@ -37877,7 +37877,7 @@
 43	選手	_	NOUN	NN	_	44	nsubj	_	_
 44	進入	_	VERB	VV	_	40	ccomp	_	_
 45	決賽	_	NOUN	NN	_	44	dobj	_	_
-46	」	_	PUNCT	” ’<-	_	40	punct	_	_
+46	」	_	PUNCT	''	_	40	punct	_	_
 47	的	_	PART	DEC	Case=Rel	40	acl:relcl	_	_
 48	規例	_	NOUN	NN	_	68	nmod	_	_
 49	下	_	ADP	IN	_	48	acl	_	_
@@ -37935,7 +37935,7 @@
 5	汪	_	NOUN	NNP	_	6	nmod	_	_
 6	東興	_	NOUN	NNP	_	7	nsubj	_	_
 7	表示	_	VERB	VV	_	65	dep	_	_
-8	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+8	「	_	PUNCT	``	_	17	punct	_	_
 9	誰	_	PRON	WP	_	14	nsubj	_	_
 10	跟	_	ADP	IN	_	13	case	_	_
 11	四	_	NUM	CD	_	12	nummod	_	_
@@ -37946,7 +37946,7 @@
 16	就	_	ADV	RB	_	17	mark	_	_
 17	抓	_	VERB	VV	_	7	ccomp	_	_
 18	誰	_	PRON	WP	_	17	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	17	punct	_	_
+19	」	_	PUNCT	''	_	17	punct	_	_
 20	,	_	PUNCT	,	_	65	punct	_	_
 21	北京	_	NOUN	NNP	_	25	nmod	_	_
 22	衛戍	_	NOUN	NNP	_	23	case:suff	_	_
@@ -37969,12 +37969,12 @@
 39	國鋒	_	NOUN	NNP	_	41	det	_	_
 40	之	_	PART	DEC	Case=Gen	39	case:dec	_	_
 41	命	_	NOUN	NN	_	37	dobj	_	_
-42	「	_	PUNCT	->“ ‘	_	44	punct	_	_
+42	「	_	PUNCT	``	_	44	punct	_	_
 43	全權	_	NOUN	NN	_	44	advmod	_	_
 44	負責	_	VERB	VV	_	65	dep	_	_
 45	北京	_	NOUN	NNP	_	46	nmod	_	_
 46	安全	_	NOUN	NN	_	44	dobj	_	_
-47	」	_	PUNCT	” ’<-	_	44	punct	_	_
+47	」	_	PUNCT	''	_	44	punct	_	_
 48	,	_	PUNCT	,	_	65	punct	_	_
 49	意	_	NOUN	NN	_	50	nsubj	_	_
 50	即	_	VERB	VC	_	65	dep	_	_
@@ -38260,12 +38260,12 @@
 17	車展	_	NOUN	NN	_	9	conj	_	_
 18	讚喻	_	VERB	VV	_	0	root	_	_
 19	為	_	VERB	VC	_	18	mark	_	_
-20	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+20	「	_	PUNCT	``	_	24	punct	_	_
 21	世界	_	NOUN	NN	_	24	nmod	_	_
 22	五	_	NUM	CD	_	24	nummod	_	_
 23	大	_	PART	SFA	_	24	case:pref	_	_
 24	車展	_	NOUN	NN	_	19	dobj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	.	_	PUNCT	.	_	18	punct	_	_
 
 1	在	_	VERB	VV	_	20	acl	_	_
@@ -38818,14 +38818,14 @@
 18	中共	_	NOUN	NNP	_	19	nmod	_	_
 19	中央	_	NOUN	NN	_	20	nsubj	_	_
 20	提出	_	VERB	VV	_	52	dep	_	_
-21	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+21	「	_	PUNCT	``	_	25	punct	_	_
 22	讓開	_	VERB	VV	_	25	acl	_	_
 23	大路	_	NOUN	NN	_	22	dobj	_	_
 24	,	_	PUNCT	,	_	25	punct	_	_
 25	佔領	_	VERB	VV	_	30	det	_	_
 26	兩	_	NUM	CD	_	27	nummod	_	_
 27	廂	_	NOUN	NN	_	25	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	25	punct	_	_
+28	」	_	PUNCT	''	_	25	punct	_	_
 29	的	_	PART	DEC	Case=Gen	25	case:dec	_	_
 30	方針	_	NOUN	NN	_	20	dobj	_	_
 31	,	_	PUNCT	,	_	52	punct	_	_
@@ -38895,12 +38895,12 @@
 14	開始	_	VERB	VV	_	24	acl	_	_
 15	連篇累牘	_	ADV	RB	_	16	advmod	_	_
 16	探討	_	VERB	VV	_	14	xcomp	_	_
-17	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+17	「	_	PUNCT	``	_	21	punct	_	_
 18	新	_	PART	PFA	_	21	case:pref	_	_
 19	滿	_	NOUN	NNP	_	21	nmod	_	_
 20	蒙	_	NOUN	NNP	_	21	nmod	_	_
 21	現象	_	NOUN	NN	_	16	dobj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	,	_	PUNCT	,	_	24	punct	_	_
 24	討論	_	VERB	VV	_	8	conj	_	_
 25	為	_	ADP	IN	_	26	case	_	_
@@ -39881,10 +39881,10 @@
 8	多	_	NUM	CD	_	9	nummod	_	_
 9	次	_	NOUN	NNB	_	10	advmod	_	_
 10	提到	_	VERB	VV	_	0	root	_	_
-11	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+11	「	_	PUNCT	``	_	13	punct	_	_
 12	中國	_	NOUN	NNP	_	13	nmod	_	_
 13	夢	_	NOUN	NN	_	10	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	.	_	PUNCT	.	_	10	punct	_	_
 
 1	選區	_	NOUN	NN	_	15	nsubj	_	_
@@ -41533,10 +41533,10 @@
 46	,	_	PUNCT	,	_	47	punct	_	_
 47	稱	_	VERB	VV	_	0	root	_	_
 48	為	_	VERB	VC	_	47	mark	_	_
-49	「	_	PUNCT	->“ ‘	_	51	punct	_	_
+49	「	_	PUNCT	``	_	51	punct	_	_
 50	剩餘	_	NOUN	NN	_	51	nmod	_	_
 51	污泥	_	NOUN	NN	_	47	dobj	_	_
-52	」	_	PUNCT	” ’<-	_	51	punct	_	_
+52	」	_	PUNCT	''	_	51	punct	_	_
 53	.	_	PUNCT	.	_	47	punct	_	_
 
 1	活水	_	NOUN	NNP	_	2	case:suff	_	_
@@ -41637,7 +41637,7 @@
 14	的	_	PART	DEC	Case=Gen	13	case:dec	_	_
 15	這	_	DET	DT	_	16	det	_	_
 16	個	_	NOUN	NNB	_	18	nmod	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	流求	_	NOUN	NNP	_	23	nsubj	_	_
 19	」	_	PUNCT	.	_	18	punct	_	_
 20	是	_	VERB	VC	_	23	cop	_	_
@@ -41648,14 +41648,14 @@
 25	但是	_	ADV	RB	_	41	mark	_	_
 26	卻	_	ADV	RB	_	41	mark	_	_
 27	對	_	ADP	IN	_	39	case	_	_
-28	「	_	PUNCT	->“ ‘	_	32	punct	_	_
+28	「	_	PUNCT	``	_	32	punct	_	_
 29	將	_	VERB	BB	Voice=Cau	32	aux:caus	_	_
 30	隋代	_	NOUN	NNP	_	31	nmod	_	_
 31	流求	_	NOUN	NNP	_	32	dobj	_	_
 32	視	_	VERB	VV	_	39	acl:relcl	_	_
 33	為	_	VERB	VC	_	32	mark	_	_
 34	台灣	_	NOUN	NNP	_	33	dobj	_	_
-35	」	_	PUNCT	” ’<-	_	32	punct	_	_
+35	」	_	PUNCT	''	_	32	punct	_	_
 36	的	_	PART	DEC	Case=Rel	32	acl:relcl	_	_
 37	這	_	DET	DT	_	38	det	_	_
 38	種	_	NOUN	NNB	_	39	nmod	_	_
@@ -41938,9 +41938,9 @@
 8	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
 9	30000	_	NUM	CD	_	10	nummod	_	_
 10	型	_	NOUN	NN	_	12	nmod	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	EXE	_	X	FW	_	15	nsubj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	也	_	ADV	RB	_	15	mark	_	_
 15	成	_	VERB	VV	_	0	root	_	_
 16	為	_	VERB	VC	_	15	mark	_	_
@@ -42864,9 +42864,9 @@
 9	竄紅	_	VERB	VV	_	10	ccomp	_	_
 10	推出	_	VERB	VV	_	4	ccomp	_	_
 11	以	_	VERB	VV	Voice=Cau	18	acl:relcl	_	_
-12	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+12	「	_	PUNCT	``	_	13	punct	_	_
 13	淡定	_	NOUN	NN	_	15	nsubj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	作	_	VERB	VV	_	11	ccomp	_	_
 16	品牌	_	NOUN	NN	_	15	dobj	_	_
 17	的	_	PART	DEC	Case=Rel	11	acl:relcl	_	_
@@ -43187,7 +43187,7 @@
 18	駐	_	VERB	VV	_	31	acl	_	_
 19	喇薩	_	NOUN	NNP	_	18	dobj	_	_
 20	,	_	PUNCT	,	_	31	punct	_	_
-21	「	_	PUNCT	->“ ‘	_	31	punct	_	_
+21	「	_	PUNCT	``	_	31	punct	_	_
 22	與	_	ADP	IN	_	24	case	_	_
 23	達賴	_	NOUN	NN	_	24	nmod	_	_
 24	喇嘛	_	NOUN	NN	_	31	nmod	_	_
@@ -43198,7 +43198,7 @@
 29	等	_	NOUN	NN	_	24	acl	_	_
 30	和衷	_	ADV	RB	_	31	advmod	_	_
 31	辦事	_	VERB	VV	_	10	ccomp	_	_
-32	」	_	PUNCT	” ’<-	_	31	punct	_	_
+32	」	_	PUNCT	''	_	31	punct	_	_
 33	,	_	PUNCT	,	_	35	punct	_	_
 34	並	_	ADV	RB	_	35	mark	_	_
 35	設立	_	VERB	VV	_	0	root	_	_
@@ -43669,7 +43669,7 @@
 14	政府	_	NOUN	NN	_	32	nsubj	_	_
 15	提出	_	VERB	VV	_	32	acl	_	_
 16	了	_	PART	AS	Aspect=Perf	15	case:aspect	_	_
-17	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+17	「	_	PUNCT	``	_	24	punct	_	_
 18	紓緩	_	VERB	VV	_	24	amod	_	_
 19	鰂魚	_	NOUN	NNP	_	20	case:suff	_	_
 20	涌	_	PART	SFN	_	21	case:suff	_	_
@@ -43677,7 +43677,7 @@
 22	乘客	_	NOUN	NN	_	23	nmod	_	_
 23	擠塞	_	NOUN	NN	_	18	dobj	_	_
 24	工程	_	NOUN	NN	_	15	dobj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	,	_	PUNCT	,	_	32	punct	_	_
 27	決定	_	VERB	VV	_	32	acl	_	_
 28	擴建	_	VERB	VV	_	27	xcomp	_	_
@@ -44003,13 +44003,13 @@
 9	,	_	PUNCT	,	_	10	punct	_	_
 10	改名	_	VERB	VV	_	0	root	_	_
 11	為	_	VERB	VC	_	10	mark	_	_
-12	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+12	「	_	PUNCT	``	_	17	punct	_	_
 13	湖南	_	NOUN	NNP	_	17	nmod	_	_
 14	民族	_	NOUN	NN	_	17	nmod	_	_
 15	教育	_	NOUN	NN	_	17	nmod	_	_
 16	職業	_	NOUN	NN	_	17	nmod	_	_
 17	學院	_	NOUN	NN	_	10	dobj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	.	_	PUNCT	.	_	10	punct	_	_
 
 1	南方	_	NOUN	NNP	_	2	nmod	_	_
@@ -44523,16 +44523,16 @@
 14	把	_	VERB	BB	Voice=Cau	16	aux:caus	_	_
 15	它	_	PRON	PRP	Person=3	16	dobj	_	_
 16	叫作	_	VERB	VV	_	35	dep	_	_
-17	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+17	「	_	PUNCT	``	_	19	punct	_	_
 18	大笨	_	ADJ	JJ	_	19	case:suff	_	_
 19	象	_	PART	SFN	_	16	iobj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	,	_	PUNCT	,	_	35	punct	_	_
 22	當	_	ADP	IN	_	30	case	_	_
-23	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+23	「	_	PUNCT	``	_	25	punct	_	_
 24	大笨	_	ADJ	JJ	_	25	case:suff	_	_
 25	象	_	PART	SFN	_	28	det	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 27	的	_	PART	DEC	Case=Gen	25	case:dec	_	_
 28	股價	_	NOUN	NN	_	30	nsubj	_	_
 29	急速	_	ADV	RB	_	30	advmod	_	_
@@ -44562,11 +44562,11 @@
 4	拓務	_	VERB	VV	_	5	case:suff	_	_
 5	省	_	PART	SFN	_	16	nsubj	_	_
 6	制訂	_	VERB	VV	_	16	acl	_	_
-7	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+7	「	_	PUNCT	``	_	10	punct	_	_
 8	集團	_	NOUN	NN	_	10	nmod	_	_
 9	移民	_	NOUN	NN	_	10	nmod	_	_
 10	計劃	_	NOUN	NN	_	6	dobj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	,	_	PUNCT	,	_	16	punct	_	_
 13	從	_	ADP	IN	_	15	case	_	_
 14	日本	_	NOUN	NNP	_	15	nmod	_	_
@@ -44978,11 +44978,11 @@
 12	能	_	AUX	MD	_	13	aux	_	_
 13	稱	_	VERB	VV	_	1	ccomp	_	_
 14	為	_	VERB	VC	_	13	mark	_	_
-15	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+15	「	_	PUNCT	``	_	18	punct	_	_
 16	傳統	_	NOUN	NN	_	18	nmod	_	_
 17	漫畫	_	NOUN	NN	_	18	case:suff	_	_
 18	家	_	PART	SFN	_	13	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	.	_	PUNCT	.	_	1	punct	_	_
 
 1	其	_	PRON	PRP	Person=3	2	nmod	_	_
@@ -45175,9 +45175,9 @@
 9	暱稱	_	NOUN	NN	_	8	dobj	_	_
 10	稱	_	VERB	VV	_	0	root	_	_
 11	為	_	VERB	VC	_	10	mark	_	_
-12	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+12	「	_	PUNCT	``	_	13	punct	_	_
 13	蜘蛛	_	NOUN	NN	_	10	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	.	_	PUNCT	.	_	10	punct	_	_
 
 1	如	_	VERB	VV	_	0	root	_	_
@@ -45546,13 +45546,13 @@
 30	政策	_	NOUN	NN	_	24	dobj	_	_
 31	.	_	PUNCT	.	_	21	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	2	punct	_	_
+1	「	_	PUNCT	``	_	2	punct	_	_
 2	州	_	NOUN	NN	_	18	nsubj	_	_
-3	」	_	PUNCT	” ’<-	_	2	punct	_	_
+3	」	_	PUNCT	''	_	2	punct	_	_
 4	和	_	CONJ	CC	_	2	cc	_	_
-5	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+5	「	_	PUNCT	``	_	6	punct	_	_
 6	領地	_	NOUN	NN	_	2	conj	_	_
-7	」	_	PUNCT	” ’<-	_	6	punct	_	_
+7	」	_	PUNCT	''	_	6	punct	_	_
 8	是	_	VERB	VC	_	14	cop	_	_
 9	中	_	NOUN	NNP	_	10	case:suff	_	_
 10	文	_	PART	SFN	_	14	det	_	_
@@ -45574,9 +45574,9 @@
 4	地	_	PART	SFN	_	5	nmod	_	_
 5	名	_	NOUN	NN	_	8	nsubj	_	_
 6	為	_	VERB	VC	_	8	cop	_	_
-7	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+7	「	_	PUNCT	``	_	8	punct	_	_
 8	挖子	_	NOUN	NNP	_	18	dep	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	,	_	PUNCT	,	_	18	punct	_	_
 11	但	_	ADV	RB	_	18	mark	_	_
 12	在	_	ADP	IN	_	14	case	_	_
@@ -45792,12 +45792,12 @@
 10	及	_	CONJ	CC	_	9	cc	_	_
 11	博彩	_	NOUN	NN	_	9	conj	_	_
 12	項目	_	NOUN	NN	_	17	appos	_	_
-13	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+13	「	_	PUNCT	``	_	17	punct	_	_
 14	澳門	_	NOUN	NNP	_	17	nmod	_	_
 15	銀河	_	NOUN	NNP	_	17	nmod	_	_
 16	2	_	NUM	CD	_	17	nummod	_	_
 17	期	_	NOUN	NNB	_	8	dobj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	.	_	PUNCT	.	_	8	punct	_	_
 
 1	印表	_	VERB	VV	_	2	case:suff	_	_
@@ -45877,7 +45877,7 @@
 13	不能	_	AUX	MD	_	14	aux	_	_
 14	逃避	_	VERB	VV	_	0	root	_	_
 15	.	_	PUNCT	.	_	14	punct	_	_
-16	」	_	PUNCT	” ’<-	_	14	punct	_	_
+16	」	_	PUNCT	''	_	14	punct	_	_
 
 1	這些	_	DET	DT	_	2	det	_	_
 2	風格	_	NOUN	NN	_	6	nsubj	_	_
@@ -46629,12 +46629,12 @@
 13	,	_	PUNCT	,	_	14	punct	_	_
 14	稱	_	VERB	VV	_	10	ccomp	_	_
 15	為	_	VERB	VC	_	14	mark	_	_
-16	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+16	「	_	PUNCT	``	_	20	punct	_	_
 17	自發	_	VERB	VV	_	18	case:suff	_	_
 18	性	_	PART	SFN	_	20	nmod	_	_
 19	脫疽	_	VERB	VV	_	20	case:suff	_	_
 20	症	_	PART	SFN	_	14	dobj	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	.	_	PUNCT	.	_	10	punct	_	_
 
 1	吸菸	_	VERB	VV	_	21	csubj	_	_
@@ -47788,10 +47788,10 @@
 22	(	_	PUNCT	(	_	24	punct	_	_
 23	人	_	VERB	VV	_	24	nsubj	_	_
 24	稱	_	VERB	VV	_	16	ccomp	_	_
-25	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+25	「	_	PUNCT	``	_	27	punct	_	_
 26	開羅	_	NOUN	NNP	_	27	case:suff	_	_
 27	幫	_	PART	SFN	_	24	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	)	_	PUNCT	)	_	24	punct	_	_
 30	.	_	PUNCT	.	_	16	punct	_	_
 
@@ -48832,10 +48832,10 @@
 56	古代	_	NOUN	NN	_	58	nmod	_	_
 57	卻	_	ADV	RB	_	58	mark	_	_
 58	有	_	VERB	VV	_	0	root	_	_
-59	「	_	PUNCT	->“ ‘	_	61	punct	_	_
+59	「	_	PUNCT	``	_	61	punct	_	_
 60	玄貓	_	NOUN	NN	_	61	nsubj	_	_
 61	辟邪	_	VERB	VV	_	64	acl:relcl	_	_
-62	」	_	PUNCT	” ’<-	_	61	punct	_	_
+62	」	_	PUNCT	''	_	61	punct	_	_
 63	的	_	PART	DEC	Case=Rel	61	acl:relcl	_	_
 64	說法	_	NOUN	NN	_	58	dobj	_	_
 65	.	_	PUNCT	.	_	58	punct	_	_
@@ -49198,9 +49198,9 @@
 18	,	_	PUNCT	,	_	36	punct	_	_
 19	名	_	NOUN	NN	_	22	nsubj	_	_
 20	為	_	VERB	VC	_	22	cop	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	妖精	_	NOUN	NN	_	36	dep	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	(	_	PUNCT	(	_	25	punct	_	_
 25	Spirit	_	X	FW	_	22	appos	_	_
 26	)	_	PUNCT	)	_	25	punct	_	_
@@ -49363,16 +49363,16 @@
 15	獨特	_	ADJ	JJ	_	30	dep	_	_
 16	,	_	PUNCT	,	_	30	punct	_	_
 17	其	_	PRON	PRP	Person=3	29	nmod	_	_
-18	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+18	「	_	PUNCT	``	_	20	punct	_	_
 19	手提	_	VERB	VV	_	20	case:suff	_	_
 20	式	_	PART	SFN	_	29	det	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	及	_	CONJ	CC	_	20	cc	_	_
-23	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+23	「	_	PUNCT	``	_	26	punct	_	_
 24	半	_	NUM	CD	_	25	advmod	_	_
 25	掩	_	VERB	VV	_	26	case:suff	_	_
 26	式	_	PART	SFN	_	20	conj	_	_
-27	」	_	PUNCT	” ’<-	_	26	punct	_	_
+27	」	_	PUNCT	''	_	26	punct	_	_
 28	的	_	PART	DEC	Case=Gen	20	case:dec	_	_
 29	手法	_	NOUN	NN	_	30	nsubj	_	_
 30	成	_	VERB	VV	_	0	root	_	_
@@ -49640,7 +49640,7 @@
 3	也是	_	VERB	VC	_	13	cop	_	_
 4	1998	_	NUM	CD	_	5	nummod	_	_
 5	年	_	NOUN	NNB	_	10	nmod	_	_
-6	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+6	「	_	PUNCT	``	_	7	punct	_	_
 7	門修斯	_	NOUN	NNP	_	10	nmod	_	_
 8	」	_	PUNCT	.	_	7	punct	_	_
 9	誤譯	_	NOUN	NN	_	10	nmod	_	_
@@ -50005,9 +50005,9 @@
 7	什麼	_	PRON	WP	_	15	nmod	_	_
 8	玻璃	_	NOUN	NN	_	15	nsubj	_	_
 9	是	_	VERB	VC	_	11	cop	_	_
-10	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+10	「	_	PUNCT	``	_	11	punct	_	_
 11	玻璃	_	NOUN	NN	_	15	acl	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	而	_	ADV	RB	_	15	mark	_	_
 14	不是	_	VERB	VC	_	15	cop	_	_
 15	液體	_	NOUN	NN	_	4	ccomp	_	_
@@ -50677,7 +50677,7 @@
 7	蒙哥馬利	_	NOUN	NNP	_	19	nsubj	_	_
 8	是	_	VERB	VC	_	19	cop	_	_
 9	個	_	NOUN	NNB	_	19	nmod	_	_
-10	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+10	「	_	PUNCT	``	_	19	punct	_	_
 11	勇武	_	ADJ	JJ	_	19	amod	_	_
 12	、	_	PUNCT	EC	_	11	punct	_	_
 13	能幹	_	ADJ	JJ	_	11	conj	_	_
@@ -50687,7 +50687,7 @@
 17	慷慨	_	ADJ	JJ	_	11	conj	_	_
 18	的	_	PART	DEC	Case=Rel	11	acl:relcl	_	_
 19	叛徒	_	NOUN	NN	_	6	ccomp	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	.	_	PUNCT	.	_	6	punct	_	_
 
 1	華盛頓	_	NOUN	NNP	_	6	nsubj	_	_
@@ -51090,11 +51090,11 @@
 16	個	_	NOUN	NNB	_	18	nmod	_	_
 17	小	_	PART	PFA	_	18	case:pref	_	_
 18	插曲	_	NOUN	NN	_	20	appos	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	ET	_	X	FW	_	13	dobj	_	_
 21	Varginha	_	X	FW	_	20	foreign	_	_
 22	.	_	PUNCT	.	_	20	punct	_	_
-23	」	_	PUNCT	” ’<-	_	20	punct	_	_
+23	」	_	PUNCT	''	_	20	punct	_	_
 
 1	他	_	PRON	PRP	Person=3	15	nsubj	_	_
 2	曾	_	ADV	RB	_	7	advmod	_	_
@@ -51138,13 +51138,13 @@
 1	瓦爾那	_	NOUN	NN	_	2	nmod	_	_
 2	原意	_	NOUN	NN	_	17	nsubj	_	_
 3	是	_	VERB	VC	_	5	cop	_	_
-4	「	_	PUNCT	->“ ‘	_	5	punct	_	_
+4	「	_	PUNCT	``	_	5	punct	_	_
 5	顏色	_	NOUN	NN	_	17	acl	_	_
-6	」	_	PUNCT	” ’<-	_	5	punct	_	_
+6	」	_	PUNCT	''	_	5	punct	_	_
 7	或	_	CONJ	CC	_	5	cc	_	_
-8	「	_	PUNCT	->“ ‘	_	9	punct	_	_
+8	「	_	PUNCT	``	_	9	punct	_	_
 9	階層	_	NOUN	NN	_	5	conj	_	_
-10	」	_	PUNCT	” ’<-	_	9	punct	_	_
+10	」	_	PUNCT	''	_	9	punct	_	_
 11	,	_	PUNCT	,	_	17	punct	_	_
 12	在	_	ADP	IN	_	14	case	_	_
 13	該	_	DET	DT	_	14	det	_	_
@@ -51685,13 +51685,13 @@
 11	可能	_	AUX	MD	_	13	aux	_	_
 12	被	_	VERB	BB	Voice=Pass	13	auxpass	_	_
 13	用	_	VERB	VV	_	29	acl	_	_
-14	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+14	「	_	PUNCT	``	_	15	punct	_	_
 15	氣	_	NOUN	NN	_	22	nmod	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	、	_	PUNCT	EC	_	15	punct	_	_
-18	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+18	「	_	PUNCT	``	_	19	punct	_	_
 19	靈	_	NOUN	NN	_	15	conj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	等	_	NOUN	NN	_	15	acl	_	_
 22	方式	_	NOUN	NN	_	23	nsubj	_	_
 23	表述	_	VERB	VV	_	13	ccomp	_	_
@@ -51702,9 +51702,9 @@
 28	被	_	VERB	BB	Voice=Pass	29	auxpass	_	_
 29	稱	_	VERB	VV	_	0	root	_	_
 30	為	_	VERB	VC	_	29	conj	_	_
-31	「	_	PUNCT	->“ ‘	_	32	punct	_	_
+31	「	_	PUNCT	``	_	32	punct	_	_
 32	場	_	NOUN	NN	_	29	dobj	_	_
-33	」	_	PUNCT	” ’<-	_	32	punct	_	_
+33	」	_	PUNCT	''	_	32	punct	_	_
 34	.	_	PUNCT	.	_	29	punct	_	_
 
 1	澳洲	_	NOUN	NNP	_	4	nmod	_	_
@@ -52347,7 +52347,7 @@
 2	甚至	_	ADV	RB	_	3	mark	_	_
 3	說	_	VERB	VV	_	0	root	_	_
 4	:	_	PUNCT	:	_	3	punct	_	_
-5	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+5	「	_	PUNCT	``	_	22	punct	_	_
 6	很多	_	NUM	CD	_	7	nummod	_	_
 7	人	_	NOUN	NN	_	10	nsubj	_	_
 8	都	_	ADV	RB	_	10	mark	_	_
@@ -52366,7 +52366,7 @@
 21	地方	_	NOUN	NN	_	22	nmod	_	_
 22	抄襲	_	VERB	VV	_	3	ccomp	_	_
 23	.	_	PUNCT	.	_	22	punct	_	_
-24	」	_	PUNCT	” ’<-	_	22	punct	_	_
+24	」	_	PUNCT	''	_	22	punct	_	_
 
 1	由於	_	ADP	IN	_	6	case	_	_
 2	太空	_	NOUN	NN	_	3	case:suff	_	_
@@ -52423,7 +52423,7 @@
 15	的	_	PART	DEC	Case=Rel	11	acl:relcl	_	_
 16	標語	_	NOUN	NN	_	4	dobj	_	_
 17	:	_	PUNCT	:	_	16	punct	_	_
-18	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+18	「	_	PUNCT	``	_	22	punct	_	_
 19	在	_	VERB	VV	_	22	acl	_	_
 20	太空	_	NOUN	NN	_	19	dobj	_	_
 21	,	_	PUNCT	,	_	22	punct	_	_
@@ -52448,7 +52448,7 @@
 40	scream	_	X	FW	_	32	foreign	_	_
 41	)	_	PUNCT	)	_	32	punct	_	_
 42	.	_	PUNCT	.	_	22	punct	_	_
-43	」	_	PUNCT	” ’<-	_	22	punct	_	_
+43	」	_	PUNCT	''	_	22	punct	_	_
 
 1	皰疹	_	NOUN	NN	_	3	nmod	_	_
 2	病毒	_	NOUN	NN	_	3	case:suff	_	_
@@ -52817,7 +52817,7 @@
 1	老婦	_	NOUN	NN	_	2	nsubj	_	_
 2	說	_	VERB	VV	_	0	root	_	_
 3	:	_	PUNCT	:	_	2	punct	_	_
-4	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+4	「	_	PUNCT	``	_	18	punct	_	_
 5	有	_	VERB	VV	_	18	dep	_	_
 6	人	_	NOUN	NN	_	7	nsubj	_	_
 7	殺	_	VERB	VV	_	5	ccomp	_	_
@@ -52833,7 +52833,7 @@
 17	而	_	ADV	RB	_	18	mark	_	_
 18	哭	_	VERB	VV	_	2	xcomp	_	_
 19	.	_	PUNCT	.	_	18	punct	_	_
-20	」	_	PUNCT	” ’<-	_	18	punct	_	_
+20	」	_	PUNCT	''	_	18	punct	_	_
 
 1	體色	_	NOUN	NN	_	8	nsubj	_	_
 2	會	_	AUX	MD	_	6	aux	_	_
@@ -53184,31 +53184,31 @@
 4	的	_	PART	DEC	Case=Gen	3	case:dec	_	_
 5	想法	_	NOUN	NN	_	6	nsubj	_	_
 6	是	_	VERB	VC	_	0	root	_	_
-7	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+7	「	_	PUNCT	``	_	10	punct	_	_
 8	白馬	_	NOUN	NN	_	10	nsubj	_	_
 9	是	_	VERB	VC	_	10	cop	_	_
 10	馬	_	NOUN	NN	_	45	csubj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	,	_	PUNCT	,	_	10	punct	_	_
 13	就	_	ADV	RB	_	32	mark	_	_
 14	如同	_	VERB	VV	_	32	cop	_	_
-15	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+15	「	_	PUNCT	``	_	18	punct	_	_
 16	黑貓	_	NOUN	NN	_	18	nsubj	_	_
 17	是	_	VERB	VC	_	18	cop	_	_
 18	貓	_	NOUN	NN	_	32	ccomp	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	,	_	PUNCT	,	_	18	punct	_	_
-21	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+21	「	_	PUNCT	``	_	24	punct	_	_
 22	女人	_	NOUN	NN	_	24	nsubj	_	_
 23	是	_	VERB	VC	_	24	cop	_	_
 24	人	_	NOUN	NN	_	18	conj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	和	_	CONJ	CC	_	18	cc	_	_
-27	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+27	「	_	PUNCT	``	_	30	punct	_	_
 28	蘋果	_	NOUN	NN	_	30	nsubj	_	_
 29	是	_	VERB	VC	_	30	cop	_	_
 30	水果	_	NOUN	NN	_	18	conj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	一樣	_	ADJ	JJ	_	45	acl	_	_
 33	,	_	PUNCT	,	_	45	punct	_	_
 34	不	_	ADV	RB	_	45	neg	_	_
@@ -53541,7 +53541,7 @@
 12	長大	_	VERB	VV	_	0	root	_	_
 13	.	_	PUNCT	.	_	12	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+1	「	_	PUNCT	``	_	3	punct	_	_
 2	十一	_	NUM	CD	_	3	nummod	_	_
 3	羅漢	_	NOUN	NN	_	9	det	_	_
 4	」	_	PUNCT	"	_	3	punct	_	_
@@ -53724,10 +53724,10 @@
 8	在	_	VERB	VV	_	7	mark	_	_
 9	一起	_	NOUN	NN	_	7	dobj	_	_
 10	的	_	PART	DEC	Case=Rel	7	acl:relcl	_	_
-11	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+11	「	_	PUNCT	``	_	13	punct	_	_
 12	透鏡	_	NOUN	NN	_	13	nmod	_	_
 13	元件	_	NOUN	NN	_	4	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	,	_	PUNCT	,	_	16	punct	_	_
 16	裝	_	VERB	VV	_	0	root	_	_
 17	在	_	VERB	VV	_	16	mark	_	_
@@ -54646,9 +54646,9 @@
 10	語言	_	NOUN	NN	_	11	nsubj	_	_
 11	保持	_	VERB	VV	_	23	dep	_	_
 12	了	_	PART	AS	Aspect=Perf	11	case:aspect	_	_
-13	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+13	「	_	PUNCT	``	_	14	punct	_	_
 14	驚人	_	ADJ	JJ	_	17	amod	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	的	_	PART	DEC	Case=Rel	14	acl:relcl	_	_
 17	一致	_	NOUN	NN	_	11	dobj	_	_
 18	,	_	PUNCT	,	_	23	punct	_	_
@@ -54730,9 +54730,9 @@
 16	一	_	NUM	CD	_	17	nummod	_	_
 17	所	_	NOUN	NNB	_	24	nmod	_	_
 18	以	_	ADP	IN	_	20	case	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	鐵道	_	NOUN	NN	_	22	nmod	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	命名	_	VERB	VV	_	24	acl:relcl	_	_
 23	的	_	PART	DEC	Case=Rel	22	acl:relcl	_	_
 24	高校	_	NOUN	NN	_	29	appos	_	_
@@ -54843,10 +54843,10 @@
 19	區	_	PART	SFN	_	20	nmod	_	_
 20	政府	_	NOUN	NN	_	21	nsubj	_	_
 21	賦予	_	VERB	VV	_	0	root	_	_
-22	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+22	「	_	PUNCT	``	_	24	punct	_	_
 23	石牆	_	NOUN	NNP	_	24	case:suff	_	_
 24	街	_	PART	SFN	_	33	det	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	(	_	PUNCT	(	_	27	punct	_	_
 27	Stonewall	_	X	FW	_	24	appos	_	_
 28	Place	_	X	FW	_	27	foreign	_	_
@@ -55328,13 +55328,13 @@
 13	公司	_	NOUN	NN	_	14	dobj	_	_
 14	改制	_	VERB	VV	_	24	acl	_	_
 15	為	_	VERB	VC	_	14	mark	_	_
-16	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+16	「	_	PUNCT	``	_	21	punct	_	_
 17	同仁社	_	NOUN	NNP	_	21	nmod	_	_
 18	通運	_	NOUN	NN	_	21	nmod	_	_
 19	股份	_	NOUN	NN	_	21	nmod	_	_
 20	有限	_	ADJ	JJ	_	21	amod	_	_
 21	公司	_	NOUN	NN	_	14	dobj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	,	_	PUNCT	,	_	24	punct	_	_
 24	繼續	_	VERB	VV	_	39	dep	_	_
 25	經營	_	VERB	VV	_	24	xcomp	_	_
@@ -56132,10 +56132,10 @@
 1	它	_	PRON	PRP	Person=3	3	nsubj	_	_
 2	首先	_	ADV	RB	_	3	advmod	_	_
 3	認為	_	VERB	VV	_	0	root	_	_
-4	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+4	「	_	PUNCT	``	_	6	punct	_	_
 5	銀河	_	NOUN	NNP	_	6	nmod	_	_
 6	聖靈	_	NOUN	NN	_	11	nsubj	_	_
-7	」	_	PUNCT	” ’<-	_	6	punct	_	_
+7	」	_	PUNCT	''	_	6	punct	_	_
 8	對	_	ADP	IN	_	10	case	_	_
 9	銀河	_	NOUN	NNP	_	10	case:suff	_	_
 10	系	_	PART	SFN	_	11	nmod	_	_
@@ -56378,19 +56378,19 @@
 7	君主	_	NOUN	NN	_	15	nsubj	_	_
 8	成	_	VERB	VV	_	15	acl	_	_
 9	為	_	VERB	VC	_	8	mark	_	_
-10	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+10	「	_	PUNCT	``	_	11	punct	_	_
 11	王	_	NOUN	NN	_	8	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	15	punct	_	_
 14	又	_	ADV	RB	_	15	mark	_	_
 15	稱	_	VERB	VV	_	0	root	_	_
-16	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+16	「	_	PUNCT	``	_	17	punct	_	_
 17	天子	_	NOUN	NN	_	15	dobj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	、	_	PUNCT	EC	_	17	punct	_	_
-20	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+20	「	_	PUNCT	``	_	21	punct	_	_
 21	天王	_	NOUN	NN	_	17	conj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	.	_	PUNCT	.	_	15	punct	_	_
 
 1	中國	_	NOUN	NNP	_	2	nmod	_	_
@@ -56679,9 +56679,9 @@
 12	的	_	PART	DEC	Case=Gen	11	case:dec	_	_
 13	子	_	NOUN	NN	_	14	nmod	_	_
 14	域名	_	NOUN	NN	_	16	appos	_	_
-15	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+15	「	_	PUNCT	``	_	16	punct	_	_
 16	t.xxxx.com	_	SYM	ADD	_	7	dobj	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	,	_	PUNCT	,	_	36	punct	_	_
 19	新浪	_	NOUN	NNP	_	20	nmod	_	_
 20	微博	_	NOUN	NN	_	21	nsubj	_	_
@@ -56892,17 +56892,17 @@
 37	,	_	PUNCT	,	_	63	punct	_	_
 38	於是	_	ADV	RB	_	63	mark	_	_
 39	取	_	VERB	VV	_	53	acl	_	_
-40	「	_	PUNCT	->“ ‘	_	42	punct	_	_
+40	「	_	PUNCT	``	_	42	punct	_	_
 41	三	_	NUM	CD	_	42	nummod	_	_
 42	皇	_	NOUN	NN	_	45	det	_	_
-43	」	_	PUNCT	” ’<-	_	42	punct	_	_
+43	」	_	PUNCT	''	_	42	punct	_	_
 44	的	_	PART	DEC	Case=Gen	42	case:dec	_	_
 45	皇	_	NOUN	NN	_	39	dobj	_	_
 46	和	_	CONJ	CC	_	45	cc	_	_
-47	「	_	PUNCT	->“ ‘	_	49	punct	_	_
+47	「	_	PUNCT	``	_	49	punct	_	_
 48	五	_	NUM	CD	_	49	nummod	_	_
 49	帝	_	NOUN	NN	_	52	det	_	_
-50	」	_	PUNCT	” ’<-	_	49	punct	_	_
+50	」	_	PUNCT	''	_	49	punct	_	_
 51	的	_	PART	DEC	Case=Gen	49	case:dec	_	_
 52	帝	_	NOUN	NN	_	45	conj	_	_
 53	合併	_	VERB	VV	_	63	acl	_	_
@@ -56916,10 +56916,10 @@
 61	自己	_	PRON	PRD	_	60	dobj	_	_
 62	,	_	PUNCT	,	_	63	punct	_	_
 63	稱	_	VERB	VV	_	0	root	_	_
-64	「	_	PUNCT	->“ ‘	_	66	punct	_	_
+64	「	_	PUNCT	``	_	66	punct	_	_
 65	始	_	PART	PFA	_	66	case:pref	_	_
 66	皇帝	_	NOUN	NN	_	63	dobj	_	_
-67	」	_	PUNCT	” ’<-	_	66	punct	_	_
+67	」	_	PUNCT	''	_	66	punct	_	_
 68	.	_	PUNCT	.	_	63	punct	_	_
 
 1	中華	_	NOUN	NNP	_	2	nmod	_	_
@@ -57728,10 +57728,10 @@
 14	與	_	ADP	IN	_	23	case	_	_
 15	孫	_	NOUN	NNP	_	16	nmod	_	_
 16	中山	_	NOUN	NNP	_	18	nsubj	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	喚起	_	VERB	VV	_	23	acl:relcl	_	_
 19	民眾	_	NOUN	NN	_	18	dobj	_	_
-20	」	_	PUNCT	” ’<-	_	18	punct	_	_
+20	」	_	PUNCT	''	_	18	punct	_	_
 21	的	_	PART	DEC	Case=Rel	18	acl:relcl	_	_
 22	政治	_	NOUN	NN	_	23	nmod	_	_
 23	遺囑	_	NOUN	NN	_	25	nmod	_	_
@@ -58187,10 +58187,10 @@
 54	人	_	PART	SFN	_	55	case:suff	_	_
 55	團	_	PART	SFN	_	59	det	_	_
 56	之	_	PART	DEC	Case=Gen	55	case:dec	_	_
-57	「	_	PUNCT	->“ ‘	_	59	punct	_	_
+57	「	_	PUNCT	``	_	59	punct	_	_
 58	委任	_	NOUN	NN	_	59	nmod	_	_
 59	選舉	_	NOUN	NN	_	51	dobj	_	_
-60	」	_	PUNCT	” ’<-	_	59	punct	_	_
+60	」	_	PUNCT	''	_	59	punct	_	_
 61	,	_	PUNCT	,	_	64	punct	_	_
 62	但	_	ADV	RB	_	64	mark	_	_
 63	最終	_	NOUN	NN	_	64	nmod:tmod	_	_
@@ -58690,10 +58690,10 @@
 10	涉及	_	VERB	VV	_	0	root	_	_
 11	到	_	VERB	VV	_	10	mark	_	_
 12	了	_	PART	AS	Aspect=Perf	10	case:aspect	_	_
-13	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+13	「	_	PUNCT	``	_	15	punct	_	_
 14	中間	_	NOUN	NN	_	15	nmod	_	_
 15	人物	_	NOUN	NN	_	10	dobj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	.	_	PUNCT	.	_	10	punct	_	_
 
 1	供應	_	VERB	VV	_	58	dep	_	_
@@ -59217,9 +59217,9 @@
 35	現在	_	NOUN	NN	_	37	nmod:tmod	_	_
 36	單獨	_	ADV	RB	_	37	advmod	_	_
 37	稱	_	VERB	VV	_	42	csubj	_	_
-38	「	_	PUNCT	->“ ‘	_	39	punct	_	_
+38	「	_	PUNCT	``	_	39	punct	_	_
 39	主席	_	NOUN	NN	_	37	dobj	_	_
-40	」	_	PUNCT	” ’<-	_	39	punct	_	_
+40	」	_	PUNCT	''	_	39	punct	_	_
 41	多	_	ADV	RB	_	42	advmod	_	_
 42	指	_	VERB	VV	_	0	root	_	_
 43	國家	_	NOUN	NN	_	44	nmod	_	_
@@ -59413,13 +59413,13 @@
 31	了	_	PART	AS	Aspect=Perf	30	case:aspect	_	_
 32	其	_	PRON	PRP	Person=3	33	nmod	_	_
 33	弟弟	_	NOUN	NN	_	30	dobj	_	_
-34	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+34	「	_	PUNCT	``	_	37	punct	_	_
 35	烏魯木齊	_	NOUN	NNP	_	37	nsubj	_	_
 36	將	_	ADV	RB	_	37	advmod	_	_
 37	發生	_	VERB	VV	_	30	ccomp	_	_
 38	大	_	ADJ	JJ	_	39	amod	_	_
 39	事	_	PART	SFN	_	37	dobj	_	_
-40	」	_	PUNCT	” ’<-	_	37	punct	_	_
+40	」	_	PUNCT	''	_	37	punct	_	_
 41	.	_	PUNCT	.	_	14	punct	_	_
 
 1	議員	_	NOUN	NN	_	6	nsubj	_	_
@@ -59681,15 +59681,15 @@
 11	被	_	VERB	BB	Voice=Pass	12	auxpass	_	_
 12	稱	_	VERB	VV	_	0	root	_	_
 13	為	_	VERB	VC	_	16	cop	_	_
-14	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+14	「	_	PUNCT	``	_	16	punct	_	_
 15	快速	_	ADJ	JJ	_	16	amod	_	_
 16	方法	_	NOUN	NN	_	12	ccomp	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	或	_	CONJ	CC	_	16	cc	_	_
-19	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+19	「	_	PUNCT	``	_	21	punct	_	_
 20	德國	_	NOUN	NNP	_	21	nmod	_	_
 21	方法	_	NOUN	NN	_	16	conj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	,	_	PUNCT	,	_	12	punct	_	_
 24	因為	_	ADP	IN	_	27	case	_	_
 25	首次	_	NUM	CD	_	26	nummod	_	_
@@ -59988,10 +59988,10 @@
 23	故事	_	NOUN	NN	_	2	dobj	_	_
 24	.	_	PUNCT	.	_	2	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+1	「	_	PUNCT	``	_	3	punct	_	_
 2	單	_	NUM	CD	_	3	nummod	_	_
 3	出頭	_	VERB	VV	_	6	csubj	_	_
-4	」	_	PUNCT	” ’<-	_	3	punct	_	_
+4	」	_	PUNCT	''	_	3	punct	_	_
 5	通常	_	ADV	RB	_	6	advmod	_	_
 6	由	_	ADP	IN	_	31	dep	_	_
 7	一	_	NUM	CD	_	8	nummod	_	_
@@ -60173,11 +60173,11 @@
 25	.	_	PUNCT	.	_	15	punct	_	_
 
 1	此	_	DET	DT	_	5	det	_	_
-2	「	_	PUNCT	->“ ‘	_	5	punct	_	_
+2	「	_	PUNCT	``	_	5	punct	_	_
 3	防凍	_	VERB	VV	_	4	case:suff	_	_
 4	劑	_	PART	SFN	_	5	nmod	_	_
 5	醜聞	_	NOUN	NN	_	9	nsubjpass	_	_
-6	」	_	PUNCT	” ’<-	_	5	punct	_	_
+6	」	_	PUNCT	''	_	5	punct	_	_
 7	現在	_	NOUN	NN	_	9	nmod:tmod	_	_
 8	被	_	VERB	BB	Voice=Pass	9	auxpass	_	_
 9	認為	_	VERB	VV	_	0	root	_	_
@@ -60527,12 +60527,12 @@
 21	售票	_	NOUN	NN	_	23	nmod	_	_
 22	演唱	_	VERB	VV	_	23	case:suff	_	_
 23	會	_	PART	SFN	_	27	appos	_	_
-24	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+24	「	_	PUNCT	``	_	27	punct	_	_
 25	你	_	PRON	PRP	Person=2	27	nsubj	_	_
 26	要	_	AUX	MD	_	27	aux	_	_
 27	去	_	VERB	VV	_	15	dobj	_	_
 28	哪裡	_	PRON	WP	_	27	dobj	_	_
-29	」	_	PUNCT	” ’<-	_	27	punct	_	_
+29	」	_	PUNCT	''	_	27	punct	_	_
 30	,	_	PUNCT	,	_	62	punct	_	_
 31	由於	_	ADP	IN	_	44	case	_	_
 32	樂團	_	NOUN	NN	_	33	nmod	_	_
@@ -60771,11 +60771,11 @@
 16	王	_	NOUN	NNP	_	17	nmod	_	_
 17	承斌	_	NOUN	NNP	_	20	nsubj	_	_
 18	重新	_	ADV	RB	_	20	advmod	_	_
-19	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+19	「	_	PUNCT	``	_	20	punct	_	_
 20	收回	_	VERB	VV	_	0	root	_	_
 21	國	_	NOUN	NN	_	22	nsubj	_	_
 22	有	_	VERB	VV	_	20	ccomp	_	_
-23	」	_	PUNCT	” ’<-	_	20	punct	_	_
+23	」	_	PUNCT	''	_	20	punct	_	_
 24	.	_	PUNCT	.	_	20	punct	_	_
 
 1	在	_	VERB	VV	_	6	acl	_	_
@@ -61400,10 +61400,10 @@
 13	法庭	_	NOUN	NN	_	14	nmod	_	_
 14	表示	_	VERB	VV	_	71	dep	_	_
 15	過	_	PART	AS	Aspect=Perf	14	case:aspect	_	_
-16	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+16	「	_	PUNCT	``	_	18	punct	_	_
 17	亞視	_	NOUN	NNP	_	18	nsubj	_	_
 18	財困	_	VERB	VV	_	14	ccomp	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	,	_	PUNCT	,	_	71	punct	_	_
 21	胡	_	NOUN	NNP	_	29	nsubj	_	_
 22	遂	_	ADV	RB	_	29	mark	_	_
@@ -61447,13 +61447,13 @@
 60	將	_	ADV	RB	_	71	advmod	_	_
 61	會	_	AUX	MD	_	71	aux	_	_
 62	是	_	VERB	VC	_	71	cop	_	_
-63	「	_	PUNCT	->“ ‘	_	65	punct	_	_
+63	「	_	PUNCT	``	_	65	punct	_	_
 64	新	_	PART	PFA	_	65	case:pref	_	_
 65	人事	_	NOUN	NN	_	71	det	_	_
 66	、	_	PUNCT	EC	_	65	punct	_	_
 67	新	_	PART	PFA	_	68	case:pref	_	_
 68	作風	_	NOUN	NN	_	65	conj	_	_
-69	」	_	PUNCT	” ’<-	_	65	punct	_	_
+69	」	_	PUNCT	''	_	65	punct	_	_
 70	的	_	PART	DEC	Case=Gen	65	case:dec	_	_
 71	前奏	_	NOUN	NN	_	0	root	_	_
 72	.	_	PUNCT	.	_	71	punct	_	_
@@ -61546,10 +61546,10 @@
 14	施工	_	NOUN	NN	_	15	nmod	_	_
 15	人員	_	NOUN	NN	_	16	nsubj	_	_
 16	取下	_	VERB	VV	_	35	acl	_	_
-17	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+17	「	_	PUNCT	``	_	19	punct	_	_
 18	科學	_	NOUN	NN	_	19	case:suff	_	_
 19	館	_	PART	SFN	_	22	det	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	的	_	PART	DEC	Case=Gen	19	case:dec	_	_
 22	鐵匾	_	NOUN	NN	_	16	dobj	_	_
 23	,	_	PUNCT	,	_	35	punct	_	_
@@ -61558,10 +61558,10 @@
 26	右任	_	NOUN	NNP	_	27	nsubj	_	_
 27	題寫	_	VERB	VV	_	31	acl:relcl	_	_
 28	的	_	PART	DEC	Case=Rel	27	acl:relcl	_	_
-29	「	_	PUNCT	->“ ‘	_	31	punct	_	_
+29	「	_	PUNCT	``	_	31	punct	_	_
 30	哲生	_	NOUN	NN	_	31	case:suff	_	_
 31	館	_	PART	SFN	_	35	nsubj	_	_
-32	」	_	PUNCT	” ’<-	_	31	punct	_	_
+32	」	_	PUNCT	''	_	31	punct	_	_
 33	館名	_	NOUN	NN	_	31	appos	_	_
 34	方	_	ADV	RB	_	35	mark	_	_
 35	重見天日	_	VERB	VV	_	0	root	_	_
@@ -62479,11 +62479,11 @@
 16	地	_	PART	DEV	Case=Advb	17	mark	_	_
 17	攻擊	_	VERB	VV	_	0	root	_	_
 18	到	_	VERB	VV	_	17	mark	_	_
-19	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+19	「	_	PUNCT	``	_	21	punct	_	_
 20	我	_	PRON	PRP	Person=1	21	nsubj	_	_
 21	憎恨	_	VERB	VV	_	17	ccomp	_	_
 22	他	_	PRON	PRP	Person=3	21	dobj	_	_
-23	」	_	PUNCT	” ’<-	_	21	punct	_	_
+23	」	_	PUNCT	''	_	21	punct	_	_
 24	.	_	PUNCT	.	_	17	punct	_	_
 
 1	據	_	ADP	IN	_	2	case	_	_
@@ -62607,16 +62607,16 @@
 7	該片	_	NOUN	NN	_	14	nsubj	_	_
 8	過	_	VERB	VV	_	11	advcl	_	_
 9	於	_	VERB	VV	_	8	mark	_	_
-10	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+10	「	_	PUNCT	``	_	11	punct	_	_
 11	現實	_	ADJ	JJ	_	14	advmod	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	地	_	PART	DEV	Case=Advb	14	mark	_	_
 14	賦予	_	VERB	VV	_	21	ccomp	_	_
 15	游擊	_	NOUN	NN	_	16	nmod	_	_
 16	隊員	_	NOUN	NN	_	14	iobj	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	人性	_	NOUN	NN	_	14	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	而	_	ADV	RB	_	21	mark	_	_
 21	給予	_	VERB	VV	_	33	acl	_	_
 22	強烈	_	ADJ	JJ	_	23	amod	_	_
@@ -63369,12 +63369,12 @@
 15	領事	_	NOUN	NN	_	16	case:suff	_	_
 16	館	_	PART	SFN	_	17	nsubj	_	_
 17	說	_	VERB	VV	_	13	ccomp	_	_
-18	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+18	「	_	PUNCT	``	_	22	punct	_	_
 19	蘇家	_	NOUN	NNP	_	20	case:suff	_	_
 20	屯	_	PART	SFN	_	22	nmod	_	_
 21	集中	_	VERB	VV	_	22	case:suff	_	_
 22	營	_	PART	SFN	_	24	nsubj	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	屬	_	VERB	VV	_	17	ccomp	_	_
 25	謊言	_	NOUN	NN	_	24	dobj	_	_
 26	.	_	PUNCT	.	_	13	punct	_	_
@@ -63393,7 +63393,7 @@
 12	》	_	PUNCT	)	_	11	punct	_	_
 13	記者	_	NOUN	NN	_	14	nsubj	_	_
 14	稱	_	VERB	VV	_	0	root	_	_
-15	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+15	「	_	PUNCT	``	_	25	punct	_	_
 16	醫院	_	NOUN	NN	_	17	nsubj	_	_
 17	自用	_	VERB	VV	_	21	amod	_	_
 18	供暖	_	VERB	VV	_	21	acl:relcl	_	_
@@ -63406,9 +63406,9 @@
 25	說成	_	VERB	VV	_	58	dep	_	_
 26	焚屍	_	VERB	VV	_	27	case:suff	_	_
 27	爐	_	PART	SFN	_	25	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	25	punct	_	_
+28	」	_	PUNCT	''	_	25	punct	_	_
 29	,	_	PUNCT	,	_	58	punct	_	_
-30	「	_	PUNCT	->“ ‘	_	58	punct	_	_
+30	「	_	PUNCT	``	_	58	punct	_	_
 31	謠言	_	NOUN	NN	_	33	nsubj	_	_
 32	所	_	ADV	RB	_	33	mark	_	_
 33	指	_	VERB	VV	_	42	acl:relcl	_	_
@@ -63437,7 +63437,7 @@
 56	專科	_	NOUN	NN	_	58	nmod	_	_
 57	治療	_	NOUN	NN	_	58	nmod	_	_
 58	醫院	_	NOUN	NN	_	14	ccomp	_	_
-59	」	_	PUNCT	” ’<-	_	58	punct	_	_
+59	」	_	PUNCT	''	_	58	punct	_	_
 60	.	_	PUNCT	.	_	14	punct	_	_
 
 1	為了	_	ADP	IN	_	8	case	_	_
@@ -64739,11 +64739,11 @@
 17	西	_	NOUN	NN	_	18	nmod	_	_
 18	澳	_	NOUN	NNP	_	21	det	_	_
 19	的	_	PART	DEC	Case=Gen	18	case:dec	_	_
-20	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+20	「	_	PUNCT	``	_	21	punct	_	_
 21	Mitchell	_	X	FW	_	0	root	_	_
 22	River	_	X	FW	_	21	foreign	_	_
 23	Falls	_	X	FW	_	21	foreign	_	_
-24	」	_	PUNCT	” ’<-	_	21	punct	_	_
+24	」	_	PUNCT	''	_	21	punct	_	_
 25	.	_	PUNCT	.	_	21	punct	_	_
 
 1	擂台	_	NOUN	NN	_	2	advmod	_	_
@@ -64759,11 +64759,11 @@
 11	被	_	VERB	BB	Voice=Pass	12	auxpass	_	_
 12	安排	_	VERB	VV	_	0	root	_	_
 13	在	_	ADP	IN	_	17	case	_	_
-14	『	_	PUNCT	->“ ‘	_	17	punct	_	_
+14	『	_	PUNCT	``	_	17	punct	_	_
 15	精武	_	NOUN	NNP	_	17	nmod	_	_
 16	體操	_	NOUN	NN	_	17	nmod	_	_
 17	學校	_	NOUN	NN	_	19	nmod	_	_
-18	』	_	PUNCT	” ’<-	_	17	punct	_	_
+18	』	_	PUNCT	''	_	17	punct	_	_
 19	任職	_	VERB	VV	_	12	xcomp	_	_
 20	主	_	PART	PFA	_	21	case:pref	_	_
 21	教席	_	NOUN	NN	_	19	dobj	_	_
@@ -65891,13 +65891,13 @@
 4	為	_	VERB	VC	_	3	mark	_	_
 5	除	_	VERB	VV	_	17	acl:relcl	_	_
 6	了	_	PART	AS	Aspect=Perf	5	case:aspect	_	_
-7	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+7	「	_	PUNCT	``	_	8	punct	_	_
 8	紅軍	_	NOUN	NN	_	5	nmod	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	、	_	PUNCT	EC	_	8	punct	_	_
-11	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+11	「	_	PUNCT	``	_	12	punct	_	_
 12	白軍	_	NOUN	NN	_	8	conj	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	之外	_	ADP	IN	_	5	mark	_	_
 15	的	_	PART	DEC	Case=Rel	5	acl:relcl	_	_
 16	第三	_	NUM	CD	_	17	nummod	_	_
@@ -65916,9 +65916,9 @@
 10	器	_	PART	SFN	_	14	nmod	_	_
 11	上	_	ADP	IN	_	10	acl	_	_
 12	被	_	VERB	BB	Voice=Pass	14	auxpass	_	_
-13	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+13	「	_	PUNCT	``	_	14	punct	_	_
 14	廢止	_	VERB	VV	_	0	root	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	.	_	PUNCT	.	_	14	punct	_	_
 
 1	1972	_	NUM	CD	_	2	nummod	_	_
@@ -66689,9 +66689,9 @@
 15	促成	_	VERB	VV	_	31	dep	_	_
 16	人	_	NOUN	NN	_	19	det	_	_
 17	的	_	PART	DEC	Case=Gen	16	case:dec	_	_
-18	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+18	「	_	PUNCT	``	_	19	punct	_	_
 19	相信	_	NOUN	NN	_	15	dobj	_	_
-20	」	_	PUNCT	” ’<-	_	19	punct	_	_
+20	」	_	PUNCT	''	_	19	punct	_	_
 21	,	_	PUNCT	,	_	31	punct	_	_
 22	當	_	ADP	IN	_	28	case	_	_
 23	聖靈	_	NOUN	NNP	_	25	nsubj	_	_
@@ -67661,17 +67661,17 @@
 2	稱	_	VERB	VV	Voice=Cau	43	dep	_	_
 3	他	_	PRON	PRP	Person=3	8	nsubj	_	_
 4	為	_	VERB	VC	_	8	cop	_	_
-5	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+5	「	_	PUNCT	``	_	8	punct	_	_
 6	我	_	PRON	PRP	Person=1	8	det	_	_
 7	的	_	PART	DEC	Case=Gen	6	case:dec	_	_
 8	嚮導	_	NOUN	NN	_	2	ccomp	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	、	_	PUNCT	EC	_	8	punct	_	_
-11	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+11	「	_	PUNCT	``	_	14	punct	_	_
 12	我	_	PRON	PRP	Person=1	14	det	_	_
 13	的	_	PART	DEC	Case=Gen	12	case:dec	_	_
 14	老師	_	NOUN	NN	_	8	conj	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	,	_	PUNCT	,	_	43	punct	_	_
 17	隨	_	VERB	VV	_	35	advcl	_	_
 18	著	_	PART	AS	Aspect=Prog	17	case:aspect	_	_
@@ -67702,11 +67702,11 @@
 43	稱	_	VERB	VV	Voice=Cau	0	root	_	_
 44	其	_	PRON	PRP	Person=3	49	nsubj	_	_
 45	為	_	VERB	VC	_	49	cop	_	_
-46	「	_	PUNCT	->“ ‘	_	49	punct	_	_
+46	「	_	PUNCT	``	_	49	punct	_	_
 47	我	_	PRON	PRP	Person=1	49	det	_	_
 48	的	_	PART	DEC	Case=Gen	47	case:dec	_	_
 49	主人	_	NOUN	NN	_	43	ccomp	_	_
-50	」	_	PUNCT	” ’<-	_	49	punct	_	_
+50	」	_	PUNCT	''	_	49	punct	_	_
 51	.	_	PUNCT	.	_	43	punct	_	_
 
 1	這些	_	DET	DT	_	2	det	_	_
@@ -67995,10 +67995,10 @@
 11	,	_	PUNCT	,	_	13	punct	_	_
 12	直	_	ADV	RB	_	13	advmod	_	_
 13	指	_	VERB	VV	_	27	acl	_	_
-14	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+14	「	_	PUNCT	``	_	16	punct	_	_
 15	港	_	NOUN	NNP	_	16	case:suff	_	_
 16	女	_	PART	SFN	_	19	appos	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	關	_	NOUN	NNP	_	19	nmod	_	_
 19	嘉樂	_	NOUN	NNP	_	21	nsubj	_	_
 20	裝	_	VERB	VV	_	21	cop	_	_
@@ -68047,10 +68047,10 @@
 63	被	_	VERB	BB	Voice=Pass	64	auxpass	_	_
 64	封	_	VERB	VV	_	27	conj	_	_
 65	為	_	VERB	VC	_	64	mark	_	_
-66	「	_	PUNCT	->“ ‘	_	68	punct	_	_
+66	「	_	PUNCT	``	_	68	punct	_	_
 67	世紀	_	NOUN	NN	_	68	nmod	_	_
 68	賤女	_	NOUN	NN	_	64	dobj	_	_
-69	」	_	PUNCT	” ’<-	_	68	punct	_	_
+69	」	_	PUNCT	''	_	68	punct	_	_
 70	.	_	PUNCT	.	_	27	punct	_	_
 
 1	在	_	VERB	VV	_	13	acl	_	_
@@ -68252,12 +68252,12 @@
 23	曾	_	NOUN	NNP	_	24	nmod	_	_
 24	習經	_	NOUN	NNP	_	18	conj	_	_
 25	合稱	_	VERB	VV	_	0	root	_	_
-26	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+26	「	_	PUNCT	``	_	30	punct	_	_
 27	嶺南	_	NOUN	NNP	_	30	nmod	_	_
 28	近代	_	NOUN	NN	_	30	nmod	_	_
 29	四	_	NUM	CD	_	30	dobj	_	_
 30	家	_	NOUN	NN	_	25	dobj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	.	_	PUNCT	.	_	25	punct	_	_
 
 1	《	_	PUNCT	(	_	3	punct	_	_
@@ -68849,9 +68849,9 @@
 9	超過	_	VERB	VV	_	13	amod	_	_
 10	五百	_	NUM	CD	_	11	nummod	_	_
 11	條	_	NOUN	NNB	_	9	dobj	_	_
-12	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+12	「	_	PUNCT	``	_	13	punct	_	_
 13	運河	_	NOUN	NN	_	5	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	,	_	PUNCT	,	_	29	punct	_	_
 16	不過	_	ADV	RB	_	29	mark	_	_
 17	太空	_	NOUN	NN	_	19	nmod	_	_
@@ -69824,10 +69824,10 @@
 8	空軍	_	NOUN	NN	_	16	nsubj	_	_
 9	準確	_	ADV	RB	_	10	advmod	_	_
 10	應用	_	VERB	VV	_	16	acl	_	_
-11	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+11	「	_	PUNCT	``	_	13	punct	_	_
 12	精確	_	ADJ	JJ	_	13	amod	_	_
 13	打擊	_	NOUN	NN	_	10	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	,	_	PUNCT	,	_	16	punct	_	_
 16	炸死	_	VERB	VV	_	0	root	_	_
 17	了	_	PART	AS	Aspect=Perf	16	case:aspect	_	_
@@ -69892,10 +69892,10 @@
 25	部	_	PART	SFN	_	20	dobj	_	_
 26	.	_	PUNCT	.	_	19	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+1	「	_	PUNCT	``	_	3	punct	_	_
 2	勝者	_	NOUN	NN	_	3	nsubj	_	_
 3	全得	_	VERB	VV	_	8	nsubj	_	_
-4	」	_	PUNCT	” ’<-	_	3	punct	_	_
+4	」	_	PUNCT	''	_	3	punct	_	_
 5	制度	_	NOUN	NN	_	3	appos	_	_
 6	實際	_	NOUN	NN	_	8	advmod	_	_
 7	上	_	ADP	IN	_	6	acl	_	_
@@ -70261,15 +70261,15 @@
 22	大約	_	ADV	RB	_	24	advmod	_	_
 23	4000	_	NUM	CD	_	24	nummod	_	_
 24	家	_	NOUN	NNB	_	36	nmod	_	_
-25	''	_	PUNCT	->“ ‘	_	27	punct	_	_
+25	''	_	PUNCT	``	_	27	punct	_	_
 26	生物	_	NOUN	NN	_	27	nmod	_	_
 27	醫學	_	NOUN	NN	_	36	det	_	_
-28	''	_	PUNCT	” ’<-	_	27	punct	_	_
+28	''	_	PUNCT	''	_	27	punct	_	_
 29	與	_	CONJ	CC	_	27	cc	_	_
-30	''	_	PUNCT	->“ ‘	_	32	punct	_	_
+30	''	_	PUNCT	``	_	32	punct	_	_
 31	行為	_	NOUN	NN	_	32	nmod	_	_
 32	科學	_	NOUN	NN	_	27	conj	_	_
-33	''	_	PUNCT	” ’<-	_	32	punct	_	_
+33	''	_	PUNCT	''	_	32	punct	_	_
 34	的	_	PART	DEC	Case=Gen	27	case:dec	_	_
 35	研究	_	NOUN	NN	_	36	nmod	_	_
 36	機構	_	NOUN	NN	_	39	det	_	_
@@ -70910,11 +70910,11 @@
 33	被	_	VERB	BB	Voice=Pass	34	auxpass	_	_
 34	廣稱	_	VERB	VV	_	0	root	_	_
 35	為	_	VERB	VC	_	34	mark	_	_
-36	「	_	PUNCT	->“ ‘	_	39	punct	_	_
+36	「	_	PUNCT	``	_	39	punct	_	_
 37	成都	_	NOUN	NNP	_	39	nmod	_	_
 38	保衛	_	VERB	VV	_	39	case:suff	_	_
 39	戰	_	PART	SFN	_	34	dobj	_	_
-40	」	_	PUNCT	” ’<-	_	39	punct	_	_
+40	」	_	PUNCT	''	_	39	punct	_	_
 41	.	_	PUNCT	.	_	34	punct	_	_
 
 1	印度	_	NOUN	NNP	_	3	nmod	_	_
@@ -71060,10 +71060,10 @@
 32	,	_	PUNCT	,	_	50	punct	_	_
 33	第四	_	NUM	CD	_	34	nummod	_	_
 34	版	_	NOUN	NNB	_	37	nmod	_	_
-35	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+35	「	_	PUNCT	``	_	37	punct	_	_
 36	老	_	PART	PFA	_	37	case:pref	_	_
 37	娘舅	_	NOUN	NN	_	42	det	_	_
-38	」	_	PUNCT	” ’<-	_	37	punct	_	_
+38	」	_	PUNCT	''	_	37	punct	_	_
 39	劇集	_	NOUN	NN	_	37	appos	_	_
 40	的	_	PART	DEC	Case=Gen	37	case:dec	_	_
 41	各	_	DET	DT	_	42	det	_	_
@@ -71153,9 +71153,9 @@
 2	銜稱	_	NOUN	NN	_	6	det	_	_
 3	中	_	ADP	IN	_	2	acl	_	_
 4	的	_	PART	DEC	Case=Gen	2	case:dec	_	_
-5	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+5	「	_	PUNCT	``	_	6	punct	_	_
 6	考試	_	NOUN	NN	_	18	nsubj	_	_
-7	」	_	PUNCT	” ’<-	_	6	punct	_	_
+7	」	_	PUNCT	''	_	6	punct	_	_
 8	一	_	NUM	CD	_	9	nummod	_	_
 9	詞	_	NOUN	NN	_	6	appos	_	_
 10	,	_	PUNCT	,	_	18	punct	_	_
@@ -71322,7 +71322,7 @@
 2	卻	_	ADV	RB	_	3	mark	_	_
 3	道	_	VERB	VV	_	0	root	_	_
 4	:	_	PUNCT	:	_	3	punct	_	_
-5	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+5	「	_	PUNCT	``	_	11	punct	_	_
 6	佛教	_	NOUN	NNP	_	11	nsubj	_	_
 7	不是	_	VERB	VC	_	11	cop	_	_
 8	中國	_	NOUN	NNP	_	9	nmod	_	_
@@ -71330,7 +71330,7 @@
 10	的	_	PART	DEC	Case=Gen	9	case:dec	_	_
 11	宗教	_	NOUN	NN	_	3	ccomp	_	_
 12	.	_	PUNCT	.	_	11	punct	_	_
-13	」	_	PUNCT	” ’<-	_	11	punct	_	_
+13	」	_	PUNCT	''	_	11	punct	_	_
 
 1	滄州	_	NOUN	NNP	_	3	nmod	_	_
 2	節度	_	NOUN	NN	_	3	case:suff	_	_
@@ -71475,11 +71475,11 @@
 17	燃燒	_	VERB	VV	_	13	conj	_	_
 18	中	_	ADP	IN	_	17	acl	_	_
 19	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
-20	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+20	「	_	PUNCT	``	_	23	punct	_	_
 21	大	_	PART	PFA	_	22	case:pref	_	_
 22	黃蜂	_	NOUN	NN	_	23	case:suff	_	_
 23	號	_	PART	SFN	_	12	dobj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	.	_	PUNCT	.	_	12	punct	_	_
 
 1	大	_	PART	PFA	_	2	case:pref	_	_
@@ -71962,16 +71962,16 @@
 63	書	_	NOUN	NN	_	60	appos	_	_
 64	提到	_	VERB	VV	_	74	acl:relcl	_	_
 65	的	_	PART	DEC	Case=Rel	64	acl:relcl	_	_
-66	「	_	PUNCT	->“ ‘	_	69	punct	_	_
+66	「	_	PUNCT	``	_	69	punct	_	_
 67	周代	_	NOUN	NNP	_	69	nmod	_	_
 68	八	_	NUM	CD	_	69	nummod	_	_
 69	珍	_	NOUN	NN	_	74	det	_	_
-70	」	_	PUNCT	” ’<-	_	69	punct	_	_
+70	」	_	PUNCT	''	_	69	punct	_	_
 71	中	_	ADP	IN	_	69	acl	_	_
 72	的	_	PART	DEC	Case=Gen	69	case:dec	_	_
-73	「	_	PUNCT	->“ ‘	_	74	punct	_	_
+73	「	_	PUNCT	``	_	74	punct	_	_
 74	漬	_	NOUN	NN	_	78	nsubj	_	_
-75	」	_	PUNCT	” ’<-	_	74	punct	_	_
+75	」	_	PUNCT	''	_	74	punct	_	_
 76	就是	_	VERB	VC	_	78	cop	_	_
 77	臘汁	_	NOUN	NN	_	78	case:suff	_	_
 78	肉	_	PART	SFN	_	0	root	_	_
@@ -72216,10 +72216,10 @@
 3	認為	_	VERB	VV	_	13	acl	_	_
 4	王	_	NOUN	NNP	_	5	nmod	_	_
 5	雙立	_	NOUN	NNP	_	8	nsubj	_	_
-6	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+6	「	_	PUNCT	``	_	8	punct	_	_
 7	不夠	_	VERB	VV	_	8	cop	_	_
 8	謙虛	_	ADJ	JJ	_	3	ccomp	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	,	_	PUNCT	,	_	13	punct	_	_
 11	併	_	ADV	RB	_	13	mark	_	_
 12	當面	_	ADV	RB	_	13	advmod	_	_
@@ -72363,9 +72363,9 @@
 36	障礙	_	NOUN	NN	_	0	root	_	_
 37	.	_	PUNCT	.	_	36	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	2	punct	_	_
+1	「	_	PUNCT	``	_	2	punct	_	_
 2	胖子	_	NOUN	NNP	_	30	nsubj	_	_
-3	」	_	PUNCT	” ’<-	_	2	punct	_	_
+3	」	_	PUNCT	''	_	2	punct	_	_
 4	是	_	VERB	VC	_	15	cop	_	_
 5	人類	_	NOUN	NN	_	6	nmod	_	_
 6	歷史	_	NOUN	NN	_	12	advmod	_	_
@@ -72699,13 +72699,13 @@
 18	教科文	_	NOUN	NN	_	19	nmod	_	_
 19	組織	_	NOUN	NN	_	20	nsubj	_	_
 20	授予	_	VERB	VV	_	63	acl	_	_
-21	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+21	「	_	PUNCT	``	_	26	punct	_	_
 22	中國	_	NOUN	NNP	_	26	nmod	_	_
 23	民間	_	NOUN	NN	_	26	nmod	_	_
 24	工藝	_	NOUN	NN	_	26	nmod	_	_
 25	美術	_	NOUN	NN	_	26	nmod	_	_
 26	大師	_	NOUN	NN	_	20	dobj	_	_
-27	」	_	PUNCT	” ’<-	_	26	punct	_	_
+27	」	_	PUNCT	''	_	26	punct	_	_
 28	稱號	_	NOUN	NN	_	26	appos	_	_
 29	,	_	PUNCT	,	_	63	punct	_	_
 30	享受	_	VERB	VV	_	63	acl	_	_
@@ -72727,15 +72727,15 @@
 46	國家	_	NOUN	NN	_	48	nmod	_	_
 47	生肖	_	NOUN	NN	_	48	nmod	_	_
 48	郵票	_	NOUN	NN	_	51	appos	_	_
-49	「	_	PUNCT	->“ ‘	_	51	punct	_	_
+49	「	_	PUNCT	``	_	51	punct	_	_
 50	泥塑	_	NOUN	NN	_	51	case:suff	_	_
 51	馬	_	PART	SFN	_	61	det	_	_
-52	」	_	PUNCT	” ’<-	_	51	punct	_	_
+52	」	_	PUNCT	''	_	51	punct	_	_
 53	和	_	CONJ	CC	_	51	cc	_	_
-54	「	_	PUNCT	->“ ‘	_	56	punct	_	_
+54	「	_	PUNCT	``	_	56	punct	_	_
 55	泥塑	_	NOUN	NN	_	56	case:suff	_	_
 56	羊	_	PART	SFN	_	51	conj	_	_
-57	」	_	PUNCT	” ’<-	_	56	punct	_	_
+57	」	_	PUNCT	''	_	56	punct	_	_
 58	的	_	PART	DEC	Case=Gen	51	case:dec	_	_
 59	設計	_	VERB	VV	_	61	amod	_	_
 60	製作	_	VERB	VV	_	61	case:suff	_	_
@@ -73192,11 +73192,11 @@
 17	和	_	CONJ	CC	_	16	cc	_	_
 18	支持	_	NOUN	NN	_	16	conj	_	_
 19	,	_	PUNCT	,	_	25	punct	_	_
-20	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+20	「	_	PUNCT	``	_	23	punct	_	_
 21	德意志	_	NOUN	NNP	_	23	nmod	_	_
 22	啟蒙	_	NOUN	NN	_	23	nmod	_	_
 23	運動	_	NOUN	NN	_	25	nsubj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	得	_	VERB	VV	_	0	root	_	_
 26	以	_	ADV	RB	_	25	mark	_	_
 27	開展	_	VERB	VV	_	25	xcomp	_	_
@@ -73426,9 +73426,9 @@
 18	島	_	NOUN	NN	_	16	dobj	_	_
 19	上	_	NOUN	NN	_	18	acl	_	_
 20	豎起	_	VERB	VV	_	26	acl	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	佔領	_	NOUN	NN	_	24	case:suff	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	牌	_	PART	SFN	_	20	dobj	_	_
 25	,	_	PUNCT	,	_	26	punct	_	_
 26	聲稱	_	VERB	VV	_	0	root	_	_
@@ -73837,10 +73837,10 @@
 23	陣營	_	NOUN	NN	_	32	nsubj	_	_
 24	則	_	ADV	RB	_	25	mark	_	_
 25	喊出	_	VERB	VV	_	32	acl	_	_
-26	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+26	「	_	PUNCT	``	_	28	punct	_	_
 27	中道	_	NOUN	NN	_	28	nmod	_	_
 28	路線	_	NOUN	NN	_	25	dobj	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	,	_	PUNCT	,	_	32	punct	_	_
 31	並	_	ADV	RB	_	32	mark	_	_
 32	獲	_	VERB	VV	_	0	root	_	_
@@ -73983,10 +73983,10 @@
 31	公司	_	NOUN	NN	_	27	conj	_	_
 32	建議	_	VERB	VV	_	38	acl:relcl	_	_
 33	的	_	PART	DEC	Case=Rel	32	acl:relcl	_	_
-34	「	_	PUNCT	->“ ‘	_	38	punct	_	_
+34	「	_	PUNCT	``	_	38	punct	_	_
 35	綠滙	_	NOUN	NN	_	38	nmod	_	_
 36	學苑	_	NOUN	NN	_	38	nmod	_	_
-37	」	_	PUNCT	” ’<-	_	38	punct	_	_
+37	」	_	PUNCT	''	_	38	punct	_	_
 38	方案	_	NOUN	NN	_	39	nsubj	_	_
 39	獲選	_	VERB	VV	_	25	ccomp	_	_
 40	.	_	PUNCT	.	_	25	punct	_	_
@@ -74732,7 +74732,7 @@
 26	越遠	_	ADJ	JJ	_	27	advcl	_	_
 27	越好	_	ADJ	JJ	_	19	xcomp	_	_
 28	.	_	PUNCT	.	_	19	punct	_	_
-29	」	_	PUNCT	” ’<-	_	19	punct	_	_
+29	」	_	PUNCT	''	_	19	punct	_	_
 
 1	2001	_	NUM	CD	_	2	nummod	_	_
 2	年	_	NOUN	NNB	_	5	nmod:tmod	_	_
@@ -76526,9 +76526,9 @@
 9	為	_	VERB	VC	_	8	mark	_	_
 10	了	_	PART	AS	Aspect=Perf	8	case:aspect	_	_
 11	戰士	_	NOUN	NN	_	13	appos	_	_
-12	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+12	「	_	PUNCT	``	_	13	punct	_	_
 13	火心	_	NOUN	NNP	_	8	dobj	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	.	_	PUNCT	.	_	8	punct	_	_
 
 1	故事	_	NOUN	NN	_	2	nsubj	_	_
@@ -76578,10 +76578,10 @@
 6	將	_	VERB	BB	Voice=Cau	14	aux:caus	_	_
 7	梅園	_	NOUN	NNP	_	14	dobj	_	_
 8	除	_	ADP	IN	_	11	case	_	_
-9	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+9	「	_	PUNCT	``	_	11	punct	_	_
 10	樂農	_	NOUN	NN	_	11	nmod	_	_
 11	別墅	_	NOUN	NN	_	14	nmod	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	外	_	ADP	IN	_	11	acl	_	_
 14	捐獻	_	VERB	VV	_	0	root	_	_
 15	給	_	VERB	VV	_	14	mark	_	_
@@ -76856,11 +76856,11 @@
 18	廣告	_	NOUN	NN	_	19	nmod	_	_
 19	口號	_	NOUN	NN	_	23	nsubj	_	_
 20	是	_	VERB	VC	_	23	cop	_	_
-21	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+21	「	_	PUNCT	``	_	23	punct	_	_
 22	莎莉	_	NOUN	NNP	_	23	vocative	_	_
 23	多謝	_	VERB	VV	_	0	root	_	_
 24	您	_	PRON	PRP	Person=2	23	dobj	_	_
-25	」	_	PUNCT	” ’<-	_	23	punct	_	_
+25	」	_	PUNCT	''	_	23	punct	_	_
 26	.	_	PUNCT	.	_	23	punct	_	_
 
 1	他	_	PRON	PRP	Person=3	11	nsubj	_	_
@@ -77138,15 +77138,15 @@
 3	,	_	PUNCT	,	_	16	punct	_	_
 4	他們	_	PRON	PRP	Number=Plur|Person=3	16	nsubj	_	_
 5	乘	_	VERB	VV	_	16	acl	_	_
-6	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+6	「	_	PUNCT	``	_	10	punct	_	_
 7	五	_	NUM	CD	_	8	nummod	_	_
 8	月	_	NOUN	NNB	_	9	case:suff	_	_
 9	花	_	PART	SFN	_	10	case:suff	_	_
 10	號	_	PART	SFN	_	5	dobj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	(	_	PUNCT	(	_	13	punct	_	_
 13	Mayflower	_	X	FW	_	10	appos	_	_
-14	)	_	PUNCT	” ’<-	_	13	punct	_	_
+14	)	_	PUNCT	''	_	13	punct	_	_
 15	出發	_	VERB	VV	_	16	acl	_	_
 16	赴	_	VERB	VV	_	0	root	_	_
 17	新	_	PART	PFA	_	18	case:pref	_	_
@@ -77368,12 +77368,12 @@
 1	初期	_	NOUN	NN	_	8	nmod:tmod	_	_
 2	校名	_	NOUN	NN	_	8	nsubj	_	_
 3	為	_	VERB	VC	_	8	cop	_	_
-4	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+4	「	_	PUNCT	``	_	8	punct	_	_
 5	華夏	_	NOUN	NNP	_	8	nmod	_	_
 6	農業	_	NOUN	NN	_	8	nmod	_	_
 7	專科	_	NOUN	NN	_	8	nmod	_	_
 8	學校	_	NOUN	NN	_	20	dep	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	,	_	PUNCT	,	_	20	punct	_	_
 11	主要	_	ADJ	JJ	_	13	det	_	_
 12	的	_	PART	DEC	Case=Gen	11	case:dec	_	_
@@ -77398,12 +77398,12 @@
 
 1	前身	_	NOUN	NN	_	19	nsubj	_	_
 2	為	_	VERB	VC	_	7	cop	_	_
-3	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+3	「	_	PUNCT	``	_	7	punct	_	_
 4	華夏	_	NOUN	NNP	_	7	nmod	_	_
 5	工業	_	NOUN	NN	_	7	nmod	_	_
 6	專科	_	NOUN	NN	_	7	nmod	_	_
 7	學校	_	NOUN	NN	_	19	acl	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	,	_	PUNCT	,	_	19	punct	_	_
 10	2004	_	NUM	CD	_	11	nummod	_	_
 11	年	_	NOUN	NNB	_	12	case:suff	_	_
@@ -77656,7 +77656,7 @@
 53	,	_	PUNCT	,	_	54	punct	_	_
 54	要	_	VERB	VV	Voice=Cau	3	ccomp	_	_
 55	他	_	PRON	PRP	Person=3	61	nsubj	_	_
-56	「	_	PUNCT	->“ ‘	_	55	punct	_	_
+56	「	_	PUNCT	``	_	55	punct	_	_
 57	在	_	ADP	IN	_	59	case	_	_
 58	新聞	_	NOUN	NN	_	59	case:suff	_	_
 59	部	_	PART	SFN	_	61	nmod	_	_
@@ -77667,7 +77667,7 @@
 64	職位	_	NOUN	NN	_	61	dobj	_	_
 65	都	_	ADV	RB	_	66	mark	_	_
 66	可以	_	AUX	MD	_	54	ccomp	_	_
-67	」	_	PUNCT	” ’<-	_	54	punct	_	_
+67	」	_	PUNCT	''	_	54	punct	_	_
 68	.	_	PUNCT	.	_	3	punct	_	_
 
 1	2013	_	NUM	CD	_	2	nummod	_	_
@@ -77809,9 +77809,9 @@
 10	的	_	PART	DEC	Case=Rel	9	acl:relcl	_	_
 11	只是	_	VERB	VC	_	17	cop	_	_
 12	對	_	ADP	IN	_	17	det	_	_
-13	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+13	「	_	PUNCT	``	_	14	punct	_	_
 14	萌	_	NOUN	NN	_	12	nmod	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	的	_	PART	DEC	Case=Gen	12	case:dec	_	_
 17	知識	_	NOUN	NN	_	0	root	_	_
 18	、	_	PUNCT	EC	_	17	punct	_	_
@@ -78410,9 +78410,9 @@
 13	中	_	NOUN	NNP	_	14	case:suff	_	_
 14	文	_	PART	SFN	_	12	dobj	_	_
 15	,	_	PUNCT	,	_	25	punct	_	_
-16	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+16	「	_	PUNCT	``	_	17	punct	_	_
 17	葛浩文	_	NOUN	NNP	_	25	nsubj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	便是	_	VERB	VC	_	25	cop	_	_
 20	這	_	DET	DT	_	21	det	_	_
 21	位	_	NOUN	NNB	_	22	nmod	_	_
@@ -78451,13 +78451,13 @@
 27	神話	_	NOUN	NN	_	37	det	_	_
 28	中	_	ADP	IN	_	27	acl	_	_
 29	的	_	PART	DEC	Case=Gen	27	case:dec	_	_
-30	「	_	PUNCT	->“ ‘	_	35	punct	_	_
+30	「	_	PUNCT	``	_	35	punct	_	_
 31	月	_	NOUN	NN	_	35	det	_	_
 32	與	_	CONJ	CC	_	31	cc	_	_
 33	狩獵	_	NOUN	NN	_	31	conj	_	_
 34	的	_	PART	DEC	Case=Gen	31	case:dec	_	_
 35	女神	_	NOUN	NN	_	37	appos	_	_
-36	」	_	PUNCT	” ’<-	_	35	punct	_	_
+36	」	_	PUNCT	''	_	35	punct	_	_
 37	阿耳忒彌斯	_	NOUN	NNP	_	25	dobj	_	_
 38	或	_	CONJ	CC	_	37	cc	_	_
 39	羅馬	_	NOUN	NNP	_	40	nmod	_	_
@@ -78573,15 +78573,15 @@
 15	允	_	NOUN	NNP	_	6	conj	_	_
 16	為	_	VERB	VC	_	20	cop	_	_
 17	:	_	PUNCT	:	_	20	punct	_	_
-18	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+18	「	_	PUNCT	``	_	20	punct	_	_
 19	四	_	NUM	CD	_	20	nummod	_	_
 20	相	_	NOUN	NN	_	4	ccomp	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	、	_	PUNCT	EC	_	20	punct	_	_
-23	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+23	「	_	PUNCT	``	_	25	punct	_	_
 24	四	_	NUM	CD	_	25	nummod	_	_
 25	英	_	NOUN	NN	_	20	conj	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 27	.	_	PUNCT	.	_	4	punct	_	_
 
 1	2012	_	NUM	CD	_	2	nummod	_	_
@@ -78805,9 +78805,9 @@
 24	呼	_	VERB	VV	_	0	root	_	_
 25	之	_	PRON	PRD	_	28	nsubj	_	_
 26	為	_	VERB	VC	_	28	cop	_	_
-27	「	_	PUNCT	->“ ‘	_	28	punct	_	_
+27	「	_	PUNCT	``	_	28	punct	_	_
 28	蠻子	_	NOUN	NN	_	24	ccomp	_	_
-29	」	_	PUNCT	” ’<-	_	28	punct	_	_
+29	」	_	PUNCT	''	_	28	punct	_	_
 30	.	_	PUNCT	.	_	24	punct	_	_
 
 1	1936	_	NUM	CD	_	2	nummod	_	_
@@ -79729,7 +79729,7 @@
 18	描述	_	VERB	VV	_	0	root	_	_
 19	他	_	PRON	PRP	Person=3	18	dobj	_	_
 20	:	_	PUNCT	:	_	18	punct	_	_
-21	「	_	PUNCT	->“ ‘	_	43	punct	_	_
+21	「	_	PUNCT	``	_	43	punct	_	_
 22	他	_	PRON	PRP	Person=3	43	nsubj	_	_
 23	是	_	VERB	VC	_	29	cop	_	_
 24	一	_	NUM	CD	_	25	nummod	_	_
@@ -79762,7 +79762,7 @@
 51	驚醒	_	VERB	VV	_	43	ccomp	_	_
 52	過來	_	VERB	VV	_	51	mark	_	_
 53	.	_	PUNCT	.	_	43	punct	_	_
-54	」	_	PUNCT	” ’<-	_	43	punct	_	_
+54	」	_	PUNCT	''	_	43	punct	_	_
 
 1	2012	_	NUM	CD	_	2	nummod	_	_
 2	年	_	NOUN	NNB	_	6	nmod	_	_
@@ -79791,7 +79791,7 @@
 25	的	_	PART	DEC	Case=Rel	24	acl:relcl	_	_
 26	第三	_	NUM	CD	_	27	nummod	_	_
 27	屆	_	NOUN	NNB	_	40	nmod	_	_
-28	「	_	PUNCT	->“ ‘	_	35	punct	_	_
+28	「	_	PUNCT	``	_	35	punct	_	_
 29	兩	_	NUM	CD	_	30	nummod	_	_
 30	岸	_	NOUN	NN	_	31	nmod	_	_
 31	關係	_	NOUN	NN	_	33	nsubj	_	_
@@ -79801,7 +79801,7 @@
 35	機遇	_	NOUN	NN	_	40	nmod	_	_
 36	和	_	CONJ	CC	_	35	cc	_	_
 37	挑戰	_	NOUN	NN	_	35	conj	_	_
-38	」	_	PUNCT	” ’<-	_	35	punct	_	_
+38	」	_	PUNCT	''	_	35	punct	_	_
 39	研討	_	VERB	VV	_	40	case:suff	_	_
 40	會	_	PART	SFN	_	21	dobj	_	_
 41	.	_	PUNCT	.	_	21	punct	_	_
@@ -81274,19 +81274,19 @@
 12	比褂	_	ADV	RB	_	13	advmod	_	_
 13	長	_	ADJ	JJ	_	16	amod	_	_
 14	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
-15	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+15	「	_	PUNCT	``	_	16	punct	_	_
 16	外套	_	NOUN	NN	_	20	nsubj	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	,	_	PUNCT	,	_	20	punct	_	_
 19	或	_	ADV	RB	_	20	advmod	_	_
 20	稱	_	VERB	VV	_	6	ccomp	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	外褂	_	NOUN	NN	_	20	dobj	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	、	_	PUNCT	EC	_	22	punct	_	_
-25	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+25	「	_	PUNCT	``	_	26	punct	_	_
 26	補褂	_	NOUN	NN	_	22	conj	_	_
-27	」	_	PUNCT	” ’<-	_	26	punct	_	_
+27	」	_	PUNCT	''	_	26	punct	_	_
 28	.	_	PUNCT	.	_	6	punct	_	_
 
 1	1884	_	NUM	CD	_	2	nummod	_	_
@@ -82060,7 +82060,7 @@
 6	艾登堡	_	NOUN	NNP	_	7	nsubj	_	_
 7	稱	_	VERB	VV	_	0	root	_	_
 8	:	_	PUNCT	:	_	7	punct	_	_
-9	「	_	PUNCT	->“ ‘	_	36	punct	_	_
+9	「	_	PUNCT	``	_	36	punct	_	_
 10	沒	_	ADV	RB	_	11	neg	_	_
 11	讀	_	VERB	VV	_	25	csubj	_	_
 12	過	_	PART	AS	Aspect=Perf	11	case:aspect	_	_
@@ -82089,7 +82089,7 @@
 35	謂	_	VERB	VV	_	36	cop	_	_
 36	大膽	_	ADJ	JJ	_	7	ccomp	_	_
 37	.	_	PUNCT	.	_	36	punct	_	_
-38	」	_	PUNCT	” ’<-	_	36	punct	_	_
+38	」	_	PUNCT	''	_	36	punct	_	_
 
 1	1976	_	NUM	CD	_	2	nummod	_	_
 2	年	_	NOUN	NNB	_	10	nmod:tmod	_	_
@@ -82504,15 +82504,15 @@
 13	活佛	_	NOUN	NN	_	14	nmod	_	_
 14	系統	_	NOUN	NN	_	18	appos	_	_
 15	,	_	PUNCT	,	_	18	punct	_	_
-16	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+16	「	_	PUNCT	``	_	18	punct	_	_
 17	西納	_	NOUN	NNP	_	18	nmod	_	_
 18	夏茸切哇	_	X	FW	_	6	dobj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	與	_	CONJ	CC	_	18	cc	_	_
-21	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+21	「	_	PUNCT	``	_	23	punct	_	_
 22	西納	_	NOUN	NNP	_	23	nmod	_	_
 23	夏茸穹哇	_	X	FW	_	18	conj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	.	_	PUNCT	.	_	6	punct	_	_
 
 1	在此	_	VERB	VV	_	5	acl	_	_
@@ -83040,9 +83040,9 @@
 17	,	_	PUNCT	,	_	31	punct	_	_
 18	平面	_	NOUN	NN	_	19	advmod	_	_
 19	呈	_	VERB	VV	_	31	acl	_	_
-20	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+20	「	_	PUNCT	``	_	21	punct	_	_
 21	凸	_	NOUN	NN	_	23	case:suff	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	字	_	PART	SFN	_	24	case:suff	_	_
 24	形	_	PART	SFN	_	19	dobj	_	_
 25	,	_	PUNCT	,	_	31	punct	_	_
@@ -83455,10 +83455,10 @@
 10	與	_	ADP	IN	_	15	det	_	_
 11	法蘭西	_	NOUN	NNP	_	10	nmod	_	_
 12	的	_	PART	DEC	Case=Gen	10	case:dec	_	_
-13	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+13	「	_	PUNCT	``	_	15	punct	_	_
 14	老	_	PART	PFA	_	15	case:pref	_	_
 15	同盟	_	NOUN	NN	_	8	dobj	_	_
-16	」	_	PUNCT	” ’<-	_	15	punct	_	_
+16	」	_	PUNCT	''	_	15	punct	_	_
 17	(	_	PUNCT	(	_	18	punct	_	_
 18	Auld	_	X	FW	_	15	appos	_	_
 19	Alliance	_	X	FW	_	18	foreign	_	_
@@ -83590,10 +83590,10 @@
 32	掌權	_	VERB	VV	_	37	csubj	_	_
 33	的	_	PART	DEC	Case=Rel	32	acl:relcl	_	_
 34	是	_	VERB	VC	_	37	cop	_	_
-35	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+35	「	_	PUNCT	``	_	37	punct	_	_
 36	本土	_	NOUN	NN	_	37	case:suff	_	_
 37	派	_	PART	SFN	_	52	xcomp	_	_
-38	」	_	PUNCT	” ’<-	_	37	punct	_	_
+38	」	_	PUNCT	''	_	37	punct	_	_
 39	,	_	PUNCT	,	_	52	punct	_	_
 40	李	_	NOUN	NNP	_	41	nmod	_	_
 41	斯	_	NOUN	NNP	_	42	nsubj	_	_
@@ -83956,11 +83956,11 @@
 11	引起	_	VERB	VV	_	5	ccomp	_	_
 12	.	_	PUNCT	.	_	5	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	4	punct	_	_
+1	「	_	PUNCT	``	_	4	punct	_	_
 2	張	_	NOUN	NNP	_	3	nmod	_	_
 3	勳	_	NOUN	NNP	_	4	nsubj	_	_
 4	復辟	_	VERB	VV	_	14	csubjpass	_	_
-5	」	_	PUNCT	” ’<-	_	4	punct	_	_
+5	」	_	PUNCT	''	_	4	punct	_	_
 6	最後	_	NOUN	NN	_	14	nmod:tmod	_	_
 7	被	_	VERB	BB	Voice=Pass	14	auxpass	_	_
 8	段	_	NOUN	NNP	_	9	nmod	_	_
@@ -84192,9 +84192,9 @@
 18	對	_	ADP	IN	_	25	det	_	_
 19	漢	_	NOUN	NNP	_	20	case:suff	_	_
 20	語	_	PART	SFN	_	22	nmod	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	都	_	NOUN	NN	_	18	nmod	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	的	_	PART	DEC	Case=Gen	18	case:dec	_	_
 25	研究	_	NOUN	NN	_	16	dobj	_	_
 26	.	_	PUNCT	.	_	16	punct	_	_
@@ -84318,7 +84318,7 @@
 9	,	_	PUNCT	,	_	8	punct	_	_
 10	西哈莫尼	_	NOUN	NNP	_	32	nsubj	_	_
 11	是	_	VERB	VC	_	18	cop	_	_
-12	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+12	「	_	PUNCT	``	_	18	punct	_	_
 13	一	_	NUM	CD	_	14	nummod	_	_
 14	位	_	NOUN	NNB	_	18	nmod	_	_
 15	正直	_	ADJ	JJ	_	18	amod	_	_
@@ -84341,7 +84341,7 @@
 32	對抗	_	VERB	VV	_	8	ccomp	_	_
 33	侵略	_	VERB	VV	_	34	case:suff	_	_
 34	者	_	PART	SFN	_	32	dobj	_	_
-35	」	_	PUNCT	” ’<-	_	8	punct	_	_
+35	」	_	PUNCT	''	_	8	punct	_	_
 36	.	_	PUNCT	.	_	8	punct	_	_
 
 1	這	_	DET	DT	_	2	det	_	_
@@ -84537,13 +84537,13 @@
 13	為	_	VERB	VC	_	12	mark	_	_
 14	李	_	NOUN	NNP	_	21	nmod	_	_
 15	雙江	_	NOUN	NNP	_	21	nmod	_	_
-16	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+16	「	_	PUNCT	``	_	21	punct	_	_
 17	四	_	NUM	CD	_	21	nummod	_	_
 18	大	_	PART	PFA	_	21	case:pref	_	_
 19	關門	_	NOUN	NN	_	21	nmod	_	_
 20	女	_	NOUN	NN	_	21	nmod	_	_
 21	弟子	_	NOUN	NN	_	12	dobj	_	_
-22	」	_	PUNCT	” ’<-	_	21	punct	_	_
+22	」	_	PUNCT	''	_	21	punct	_	_
 23	.	_	PUNCT	.	_	12	punct	_	_
 
 1	提督	_	NOUN	NN	_	2	nmod	_	_
@@ -84677,9 +84677,9 @@
 10	榜	_	PART	SFN	_	4	dobj	_	_
 11	,	_	PUNCT	,	_	22	punct	_	_
 12	使	_	VERB	VV	Voice=Cau	22	acl	_	_
-13	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+13	「	_	PUNCT	``	_	14	punct	_	_
 14	荷蘭豬	_	NOUN	NN	_	19	nsubj	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	一	_	NUM	CD	_	17	nummod	_	_
 17	詞	_	NOUN	NN	_	14	appos	_	_
 18	更加	_	ADV	RB	_	19	advmod	_	_
@@ -84905,12 +84905,12 @@
 49	海域	_	NOUN	NN	_	10	appos	_	_
 50	.	_	PUNCT	.	_	2	punct	_	_
 
-1	「	_	PUNCT	->“ ‘	_	5	punct	_	_
+1	「	_	PUNCT	``	_	5	punct	_	_
 2	貓囒	_	NOUN	NNP	_	3	case:suff	_	_
 3	山	_	PART	SFN	_	5	nmod	_	_
 4	自然	_	NOUN	NN	_	5	nmod	_	_
 5	步道	_	NOUN	NN	_	11	nmod	_	_
-6	」	_	PUNCT	” ’<-	_	5	punct	_	_
+6	」	_	PUNCT	''	_	5	punct	_	_
 7	(	_	PUNCT	(	_	8	punct	_	_
 8	Maolan	_	X	FW	_	5	appos	_	_
 9	trail	_	X	FW	_	8	foreign	_	_
@@ -84979,11 +84979,11 @@
 4	一	_	NUM	CD	_	5	nummod	_	_
 5	個	_	NOUN	NNB	_	24	nmod	_	_
 6	叫做	_	VERB	VV	_	24	acl:relcl	_	_
-7	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+7	「	_	PUNCT	``	_	10	punct	_	_
 8	Mappy	_	X	FW	_	10	nmod	_	_
 9	小	_	PART	PFA	_	10	case:pref	_	_
 10	警察	_	NOUN	NN	_	6	dobj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	(	_	PUNCT	(	_	19	punct	_	_
 13	Mappy	_	X	FW	_	19	nsubj	_	_
 14	the	_	X	FW	_	13	foreign	_	_
@@ -85314,9 +85314,9 @@
 3	是	_	VERB	VC	_	10	cop	_	_
 4	大	_	PART	PFA	_	5	case:pref	_	_
 5	富翁	_	NOUN	NN	_	7	appos	_	_
-6	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+6	「	_	PUNCT	``	_	7	punct	_	_
 7	老闆	_	NOUN	NN	_	10	det	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	的	_	PART	DEC	Case=Gen	7	case:dec	_	_
 10	親信	_	NOUN	NN	_	30	dep	_	_
 11	,	_	PUNCT	,	_	30	punct	_	_
@@ -85488,10 +85488,10 @@
 5	鐵路	_	NOUN	NN	_	10	nmod	_	_
 6	獨特	_	ADJ	JJ	_	10	amod	_	_
 7	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
-8	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+8	「	_	PUNCT	``	_	10	punct	_	_
 9	貨車	_	NOUN	NN	_	10	case:suff	_	_
 10	紅	_	PART	SFN	_	13	nsubj	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	,	_	PUNCT	,	_	13	punct	_	_
 13	為	_	VERB	VC	_	3	ccomp	_	_
 14	暗紅	_	NOUN	NN	_	15	case:suff	_	_
@@ -86717,10 +86717,10 @@
 24	趙	_	NOUN	NNP	_	25	nmod	_	_
 25	榮聲	_	NOUN	NNP	_	32	nsubj	_	_
 26	為	_	VERB	VC	_	29	cop	_	_
-27	「	_	PUNCT	->“ ‘	_	29	punct	_	_
+27	「	_	PUNCT	``	_	29	punct	_	_
 28	反黨	_	NOUN	NN	_	29	nmod	_	_
 29	分子	_	NOUN	NN	_	32	acl	_	_
-30	」	_	PUNCT	” ’<-	_	29	punct	_	_
+30	」	_	PUNCT	''	_	29	punct	_	_
 31	,	_	PUNCT	,	_	32	punct	_	_
 32	開除	_	VERB	VV	_	23	ccomp	_	_
 33	出	_	VERB	VV	_	32	mark	_	_
@@ -87063,11 +87063,11 @@
 8	被	_	VERB	BB	Voice=Pass	9	auxpass	_	_
 9	稱呼	_	VERB	VV	_	25	ccomp	_	_
 10	為	_	VERB	VC	_	9	mark	_	_
-11	「	_	PUNCT	->“ ‘	_	14	punct	_	_
+11	「	_	PUNCT	``	_	14	punct	_	_
 12	星光	_	NOUN	NN	_	14	nmod	_	_
 13	二	_	NUM	CD	_	14	nummod	_	_
 14	班	_	NOUN	NN	_	9	dobj	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	,	_	PUNCT	,	_	25	punct	_	_
 17	第一	_	NUM	CD	_	18	nummod	_	_
 18	屆	_	NOUN	NNB	_	22	det	_	_
@@ -87078,11 +87078,11 @@
 23	也	_	ADV	RB	_	25	mark	_	_
 24	相對	_	ADV	RB	_	25	advmod	_	_
 25	有	_	VERB	VV	_	0	root	_	_
-26	「	_	PUNCT	->“ ‘	_	29	punct	_	_
+26	「	_	PUNCT	``	_	29	punct	_	_
 27	星光	_	NOUN	NN	_	29	nmod	_	_
 28	一	_	NUM	CD	_	29	nummod	_	_
 29	班	_	NOUN	NN	_	32	det	_	_
-30	」	_	PUNCT	” ’<-	_	29	punct	_	_
+30	」	_	PUNCT	''	_	29	punct	_	_
 31	之	_	PART	DEC	Case=Gen	29	case:dec	_	_
 32	稱	_	NOUN	NN	_	40	nsubj	_	_
 33	,	_	PUNCT	,	_	40	punct	_	_
@@ -87235,9 +87235,9 @@
 4	不	_	ADV	RB	_	5	neg	_	_
 5	尋常	_	ADJ	JJ	_	8	amod	_	_
 6	的	_	PART	DEC	Case=Rel	5	acl:relcl	_	_
-7	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+7	「	_	PUNCT	``	_	8	punct	_	_
 8	毀滅	_	NOUN	NN	_	16	nsubj	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	和	_	CONJ	CC	_	8	cc	_	_
 11	難	_	ADJ	JJ	_	13	advmod	_	_
 12	以	_	ADV	RB	_	13	mark	_	_
@@ -87303,14 +87303,14 @@
 19	情報	_	NOUN	NN	_	20	case:suff	_	_
 20	誌	_	PART	SFN	_	28	det	_	_
 21	的	_	PART	DEC	Case=Gen	20	case:dec	_	_
-22	『	_	PUNCT	->“ ‘	_	28	punct	_	_
+22	『	_	PUNCT	``	_	28	punct	_	_
 23	超重	_	ADJ	JJ	_	24	case:suff	_	_
 24	神	_	PART	SFN	_	28	nmod	_	_
 25	Gravion	_	X	FW	_	28	nmod	_	_
 26	Gravion	_	X	FW	_	25	foreign	_	_
 27	設定	_	VERB	VV	_	28	case:suff	_	_
 28	書	_	PART	SFN	_	32	det	_	_
-29	』	_	PUNCT	” ’<-	_	28	punct	_	_
+29	』	_	PUNCT	''	_	28	punct	_	_
 30	的	_	PART	DEC	Case=Gen	28	case:dec	_	_
 31	設定	_	NOUN	NN	_	32	nmod	_	_
 32	資料	_	NOUN	NN	_	16	dobj	_	_
@@ -87695,11 +87695,11 @@
 14	的	_	PART	DEC	Case=Rel	10	acl:relcl	_	_
 15	文學	_	NOUN	NN	_	16	case:suff	_	_
 16	碑	_	PART	SFN	_	20	appos	_	_
-17	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+17	「	_	PUNCT	``	_	20	punct	_	_
 18	友情	_	NOUN	NN	_	20	det	_	_
 19	之	_	PART	DEC	Case=Gen	18	case:dec	_	_
 20	碑	_	NOUN	NN	_	7	dobj	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	.	_	PUNCT	.	_	7	punct	_	_
 
 1	但	_	ADV	RB	_	14	mark	_	_
@@ -88502,39 +88502,39 @@
 4	知	_	VERB	VV	_	0	root	_	_
 5	,	_	PUNCT	,	_	4	punct	_	_
 6	其	_	PRON	PRP	Person=3	10	nmod	_	_
-7	「	_	PUNCT	->“ ‘	_	10	punct	_	_
+7	「	_	PUNCT	``	_	10	punct	_	_
 8	相容	_	NOUN	NN	_	10	nmod	_	_
 9	邏輯	_	NOUN	NN	_	10	case:suff	_	_
 10	學	_	PART	SFN	_	14	nsubjpass	_	_
-11	」	_	PUNCT	” ’<-	_	10	punct	_	_
+11	」	_	PUNCT	''	_	10	punct	_	_
 12	可以	_	AUX	MD	_	14	aux	_	_
 13	被	_	VERB	BB	Voice=Pass	14	auxpass	_	_
 14	稱作	_	VERB	VV	_	31	dep	_	_
 15	為	_	VERB	VC	_	14	mark	_	_
-16	「	_	PUNCT	->“ ‘	_	20	punct	_	_
+16	「	_	PUNCT	``	_	20	punct	_	_
 17	重言	_	VERB	VV	_	18	case:suff	_	_
 18	式	_	PART	SFN	_	20	nmod	_	_
 19	邏輯	_	NOUN	NN	_	20	case:suff	_	_
 20	學	_	PART	SFN	_	14	dobj	_	_
-21	」	_	PUNCT	” ’<-	_	20	punct	_	_
+21	」	_	PUNCT	''	_	20	punct	_	_
 22	;	_	PUNCT	:	_	31	punct	_	_
 23	而	_	ADV	RB	_	31	mark	_	_
-24	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+24	「	_	PUNCT	``	_	27	punct	_	_
 25	辯證	_	NOUN	NN	_	27	nmod	_	_
 26	邏輯	_	NOUN	NN	_	27	case:suff	_	_
 27	學	_	PART	SFN	_	31	nsubjpass	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	可以	_	AUX	MD	_	31	aux	_	_
 30	被	_	VERB	BB	Voice=Pass	31	auxpass	_	_
 31	稱作	_	VERB	VV	_	4	ccomp	_	_
 32	為	_	VERB	VC	_	31	mark	_	_
-33	「	_	PUNCT	->“ ‘	_	38	punct	_	_
+33	「	_	PUNCT	``	_	38	punct	_	_
 34	非	_	VERB	VC	_	36	cop	_	_
 35	重言	_	VERB	VV	_	36	case:suff	_	_
 36	式	_	PART	SFN	_	38	amod	_	_
 37	邏輯	_	NOUN	NN	_	38	case:suff	_	_
 38	學	_	PART	SFN	_	31	dobj	_	_
-39	」	_	PUNCT	” ’<-	_	38	punct	_	_
+39	」	_	PUNCT	''	_	38	punct	_	_
 40	.	_	PUNCT	.	_	4	punct	_	_
 
 1	辰國	_	NOUN	NNP	_	3	nsubjpass	_	_
@@ -89135,12 +89135,12 @@
 
 1	這	_	PRON	PRD	_	13	nsubj	_	_
 2	是	_	VERB	VC	_	13	cop	_	_
-3	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+3	「	_	PUNCT	``	_	7	punct	_	_
 4	50	_	NUM	CD	_	5	nummod	_	_
 5	年	_	NOUN	NNB	_	6	case:suff	_	_
 6	節	_	PART	SFN	_	7	nmod	_	_
 7	行動	_	NOUN	NN	_	13	advmod	_	_
-8	」	_	PUNCT	” ’<-	_	7	punct	_	_
+8	」	_	PUNCT	''	_	7	punct	_	_
 9	中	_	ADP	IN	_	7	acl	_	_
 10	唯一	_	ADJ	JJ	_	13	amod	_	_
 11	成功	_	ADJ	JJ	_	13	amod	_	_
@@ -90009,7 +90009,7 @@
 2	小平	_	NOUN	NNP	_	3	nsubj	_	_
 3	說	_	VERB	VV	_	0	root	_	_
 4	:	_	PUNCT	:	_	3	punct	_	_
-5	「	_	PUNCT	->“ ‘	_	7	punct	_	_
+5	「	_	PUNCT	``	_	7	punct	_	_
 6	誰	_	PRON	WP	_	7	nsubj	_	_
 7	說	_	VERB	VV	_	3	ccomp	_	_
 8	我	_	PRON	PRP	Person=1	10	det	_	_
@@ -90486,9 +90486,9 @@
 18	著名	_	ADJ	JJ	_	20	amod	_	_
 19	鐘錶	_	NOUN	NN	_	20	case:suff	_	_
 20	行	_	PART	SFN	_	22	appos	_	_
-21	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+21	「	_	PUNCT	``	_	22	punct	_	_
 22	亨得利	_	NOUN	NNP	_	27	det	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	的	_	PART	DEC	Case=Gen	22	case:dec	_	_
 25	主要	_	ADJ	JJ	_	27	amod	_	_
 26	合資	_	VERB	VV	_	27	case:suff	_	_
@@ -90518,7 +90518,7 @@
 10	鄭	_	NOUN	NNP	_	11	nmod	_	_
 11	天翔	_	NOUN	NNP	_	19	nsubj	_	_
 12	為	_	VERB	VC	_	19	cop	_	_
-13	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+13	「	_	PUNCT	``	_	19	punct	_	_
 14	中國	_	NOUN	NNP	_	16	nmod	_	_
 15	共產	_	VERB	VV	_	16	case:suff	_	_
 16	黨	_	PART	SFN	_	19	det	_	_
@@ -90547,7 +90547,7 @@
 39	傑出	_	ADJ	JJ	_	41	amod	_	_
 40	領導	_	VERB	VV	_	41	case:suff	_	_
 41	人	_	PART	SFN	_	19	conj	_	_
-42	」	_	PUNCT	” ’<-	_	19	punct	_	_
+42	」	_	PUNCT	''	_	19	punct	_	_
 43	.	_	PUNCT	.	_	9	punct	_	_
 
 1	2003	_	NUM	CD	_	2	nummod	_	_
@@ -90564,7 +90564,7 @@
 12	人民	_	NOUN	NN	_	13	nmod	_	_
 13	法院	_	NOUN	NN	_	25	nsubj	_	_
 14	以	_	ADP	IN	_	22	case	_	_
-15	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+15	「	_	PUNCT	``	_	22	punct	_	_
 16	為	_	ADP	IN	_	17	case	_	_
 17	境外	_	NOUN	NN	_	19	nmod	_	_
 18	非法	_	ADV	RB	_	19	advmod	_	_
@@ -90572,7 +90572,7 @@
 20	國家	_	NOUN	NN	_	21	nmod	_	_
 21	秘密	_	NOUN	NN	_	19	dobj	_	_
 22	罪	_	PART	SFN	_	25	nmod	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	,	_	PUNCT	,	_	25	punct	_	_
 25	判處	_	VERB	VV	_	0	root	_	_
 26	鄭	_	NOUN	NNP	_	27	nmod	_	_
@@ -90809,10 +90809,10 @@
 17	指出	_	VERB	VV	_	40	acl	_	_
 18	郭	_	NOUN	NNP	_	22	nmod	_	_
 19	德綱	_	NOUN	NNP	_	22	nmod	_	_
-20	「	_	PUNCT	->“ ‘	_	22	punct	_	_
+20	「	_	PUNCT	``	_	22	punct	_	_
 21	偽造	_	VERB	VV	_	22	case:suff	_	_
 22	說	_	PART	SFN	_	29	nmod	_	_
-23	」	_	PUNCT	” ’<-	_	22	punct	_	_
+23	」	_	PUNCT	''	_	22	punct	_	_
 24	中	_	ADP	IN	_	22	acl	_	_
 25	涉及	_	VERB	VV	_	29	acl:relcl	_	_
 26	到	_	VERB	VV	_	25	mark	_	_
@@ -90825,17 +90825,17 @@
 33	身上	_	NOUN	NN	_	31	dobj	_	_
 34	潑	_	VERB	VV	_	30	xcomp	_	_
 35	了	_	PART	AS	Aspect=Perf	34	case:aspect	_	_
-36	「	_	PUNCT	->“ ‘	_	37	punct	_	_
+36	「	_	PUNCT	``	_	37	punct	_	_
 37	污水	_	NOUN	NN	_	34	dobj	_	_
-38	」	_	PUNCT	” ’<-	_	37	punct	_	_
+38	」	_	PUNCT	''	_	37	punct	_	_
 39	,	_	PUNCT	,	_	40	punct	_	_
 40	要求	_	VERB	VV	_	81	dep	_	_
 41	他	_	PRON	PRP	Person=3	43	nsubj	_	_
-42	「	_	PUNCT	->“ ‘	_	43	punct	_	_
+42	「	_	PUNCT	``	_	43	punct	_	_
 43	公開	_	VERB	VV	_	40	ccomp	_	_
 44	賠禮	_	VERB	VV	_	45	acl	_	_
 45	道歉	_	VERB	VV	_	43	xcomp	_	_
-46	」	_	PUNCT	” ’<-	_	43	punct	_	_
+46	」	_	PUNCT	''	_	43	punct	_	_
 47	,	_	PUNCT	,	_	81	punct	_	_
 48	3	_	NUM	CD	_	49	nummod	_	_
 49	月	_	NOUN	NNB	_	51	nmod	_	_
@@ -90917,9 +90917,9 @@
 39	,	_	PUNCT	,	_	43	punct	_	_
 40	謚	_	NOUN	NN	_	43	nsubj	_	_
 41	為	_	VERB	VC	_	43	cop	_	_
-42	「	_	PUNCT	->“ ‘	_	43	punct	_	_
+42	「	_	PUNCT	``	_	43	punct	_	_
 43	思侯	_	NOUN	NNP	_	0	root	_	_
-44	」	_	PUNCT	” ’<-	_	43	punct	_	_
+44	」	_	PUNCT	''	_	43	punct	_	_
 45	.	_	PUNCT	.	_	43	punct	_	_
 
 1	但是	_	ADV	RB	_	17	mark	_	_
@@ -91000,12 +91000,12 @@
 5	為	_	ADP	IN	_	6	case	_	_
 6	他	_	PRON	PRP	Person=3	7	nmod	_	_
 7	帶來	_	VERB	VV	_	0	root	_	_
-8	「	_	PUNCT	->“ ‘	_	12	punct	_	_
+8	「	_	PUNCT	``	_	12	punct	_	_
 9	簡約	_	ADJ	JJ	_	10	amod	_	_
 10	劇場	_	NOUN	NN	_	12	nmod	_	_
 11	煉金	_	NOUN	NN	_	12	nmod	_	_
 12	術士	_	NOUN	NN	_	15	det	_	_
-13	」	_	PUNCT	” ’<-	_	12	punct	_	_
+13	」	_	PUNCT	''	_	12	punct	_	_
 14	的	_	PART	DEC	Case=Gen	12	case:dec	_	_
 15	美譽	_	NOUN	NN	_	7	dobj	_	_
 16	.	_	PUNCT	.	_	7	punct	_	_
@@ -91486,12 +91486,12 @@
 19	世紀	_	NOUN	NNB	_	21	nmod	_	_
 20	才	_	ADV	RB	_	21	mark	_	_
 21	有	_	VERB	VV	_	51	acl	_	_
-22	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+22	「	_	PUNCT	``	_	26	punct	_	_
 23	賣	_	VERB	VV	_	26	acl:relcl	_	_
 24	飲料	_	NOUN	NN	_	23	dobj	_	_
 25	的	_	PART	DEC	Case=Rel	23	acl:relcl	_	_
 26	櫃檯	_	NOUN	NN	_	21	dobj	_	_
-27	」	_	PUNCT	” ’<-	_	26	punct	_	_
+27	」	_	PUNCT	''	_	26	punct	_	_
 28	這	_	DET	DT	_	29	det	_	_
 29	個	_	NOUN	NNB	_	30	nmod	_	_
 30	義項	_	NOUN	NN	_	26	appos	_	_
@@ -91533,10 +91533,10 @@
 4	反對	_	VERB	VV	_	2	ccomp	_	_
 5	竟然	_	ADV	RB	_	20	advmod	_	_
 6	挪用	_	VERB	VV	_	20	acl	_	_
-7	「	_	PUNCT	->“ ‘	_	9	punct	_	_
+7	「	_	PUNCT	``	_	9	punct	_	_
 8	皇廷	_	NOUN	NNP	_	9	nmod	_	_
 9	酒店	_	NOUN	NN	_	17	det	_	_
-10	」	_	PUNCT	” ’<-	_	9	punct	_	_
+10	」	_	PUNCT	''	_	9	punct	_	_
 11	中	_	ADP	IN	_	9	acl	_	_
 12	的	_	PART	DEC	Case=Gen	9	case:dec	_	_
 13	大嶼	_	NOUN	NNP	_	14	case:suff	_	_
@@ -91547,10 +91547,10 @@
 18	來	_	ADV	RB	_	20	mark	_	_
 19	搶先	_	VERB	VV	_	20	acl	_	_
 20	購入	_	VERB	VV	_	0	root	_	_
-21	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+21	「	_	PUNCT	``	_	23	punct	_	_
 22	陽光	_	NOUN	NNP	_	23	nmod	_	_
 23	海灣	_	NOUN	NNP	_	20	dobj	_	_
-24	」	_	PUNCT	” ’<-	_	23	punct	_	_
+24	」	_	PUNCT	''	_	23	punct	_	_
 25	.	_	PUNCT	.	_	20	punct	_	_
 
 1	朝廷	_	NOUN	NN	_	2	nmod	_	_
@@ -92567,9 +92567,9 @@
 9	初	_	NOUN	NN	_	13	nsubj	_	_
 10	七	_	NUM	CD	_	9	nummod	_	_
 11	為	_	VERB	VC	_	13	cop	_	_
-12	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+12	「	_	PUNCT	``	_	13	punct	_	_
 13	人日	_	NOUN	NN	_	7	ccomp	_	_
-14	」	_	PUNCT	” ’<-	_	13	punct	_	_
+14	」	_	PUNCT	''	_	13	punct	_	_
 15	,	_	PUNCT	,	_	38	punct	_	_
 16	春節	_	NOUN	NN	_	17	nmod	_	_
 17	假期	_	NOUN	NN	_	21	nsubj	_	_
@@ -92641,10 +92641,10 @@
 2	突變	_	NOUN	NN	_	3	nsubj	_	_
 3	早	_	ADJ	JJ	_	0	root	_	_
 4	於	_	VERB	VV	_	3	mark	_	_
-5	「	_	PUNCT	->“ ‘	_	6	punct	_	_
+5	「	_	PUNCT	``	_	6	punct	_	_
 6	走出	_	VERB	VV	_	10	acl:relcl	_	_
 7	非洲	_	NOUN	NNP	_	6	dobj	_	_
-8	」	_	PUNCT	” ’<-	_	6	punct	_	_
+8	」	_	PUNCT	''	_	6	punct	_	_
 9	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
 10	遷移	_	NOUN	NN	_	3	dobj	_	_
 11	.	_	PUNCT	.	_	3	punct	_	_
@@ -93253,7 +93253,7 @@
 4	聲明	_	NOUN	NN	_	3	dobj	_	_
 5	說	_	VERB	VV	_	0	root	_	_
 6	:	_	PUNCT	:	_	5	punct	_	_
-7	「	_	PUNCT	->“ ‘	_	41	punct	_	_
+7	「	_	PUNCT	``	_	41	punct	_	_
 8	失去	_	VERB	VV	_	12	csubj	_	_
 9	了	_	PART	AS	Aspect=Perf	8	case:aspect	_	_
 10	她	_	PRON	PRP	Person=3	8	dobj	_	_
@@ -93298,7 +93298,7 @@
 49	好	_	PART	PFA	_	50	case:pref	_	_
 50	地方	_	NOUN	NN	_	41	ccomp	_	_
 51	.	_	PUNCT	.	_	41	punct	_	_
-52	」	_	PUNCT	” ’<-	_	41	punct	_	_
+52	」	_	PUNCT	''	_	41	punct	_	_
 53	.	_	PUNCT	.	_	5	punct	_	_
 
 1	事實	_	NOUN	NN	_	35	advmod	_	_
@@ -93325,13 +93325,13 @@
 22	綽號	_	NOUN	NN	_	24	nsubj	_	_
 23	,	_	PUNCT	,	_	24	punct	_	_
 24	叫	_	VERB	VV	_	18	ccomp	_	_
-25	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+25	「	_	PUNCT	``	_	30	punct	_	_
 26	大	_	PART	PFA	_	27	case:pref	_	_
 27	規模	_	NOUN	NN	_	30	nmod	_	_
 28	殺傷	_	VERB	VV	_	29	case:suff	_	_
 29	性	_	PART	SFN	_	30	nmod	_	_
 30	武器	_	NOUN	NN	_	24	dobj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	,	_	PUNCT	,	_	35	punct	_	_
 33	用	_	VERB	VV	_	35	acl	_	_
 34	以	_	ADV	RB	_	35	mark	_	_
@@ -93360,7 +93360,7 @@
 9	抗議	_	NOUN	NN	_	7	dobj	_	_
 10	,	_	PUNCT	,	_	11	punct	_	_
 11	指出	_	VERB	VV	_	0	root	_	_
-12	「	_	PUNCT	->“ ‘	_	29	punct	_	_
+12	「	_	PUNCT	``	_	29	punct	_	_
 13	我們	_	PRON	PRP	Number=Plur|Person=1	29	nsubj	_	_
 14	對	_	ADP	IN	_	27	case	_	_
 15	這些	_	DET	DT	_	27	det	_	_
@@ -93378,7 +93378,7 @@
 27	言論	_	NOUN	NN	_	29	nmod	_	_
 28	感到	_	VERB	VV	_	29	cop	_	_
 29	震驚	_	ADJ	JJ	_	11	ccomp	_	_
-30	」	_	PUNCT	” ’<-	_	29	punct	_	_
+30	」	_	PUNCT	''	_	29	punct	_	_
 31	.	_	PUNCT	.	_	11	punct	_	_
 
 1	在	_	ADP	IN	_	3	case	_	_
@@ -93879,11 +93879,11 @@
 11	為	_	VERB	VC	_	10	mark	_	_
 12	民兵	_	NOUN	NN	_	13	nmod	_	_
 13	組織	_	NOUN	NN	_	17	appos	_	_
-14	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+14	「	_	PUNCT	``	_	17	punct	_	_
 15	聯合	_	NOUN	NN	_	17	nmod	_	_
 16	伊斯蘭	_	NOUN	NNP	_	17	nmod	_	_
 17	法庭	_	NOUN	NN	_	10	dobj	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	.	_	PUNCT	.	_	1	punct	_	_
 
 1	為了	_	ADP	IN	_	2	case	_	_
@@ -93935,11 +93935,11 @@
 11	驥	_	NOUN	NNP	_	12	nsubj	_	_
 12	擔任	_	VERB	VV	_	0	root	_	_
 13	了	_	PART	AS	Aspect=Perf	12	case:aspect	_	_
-14	「	_	PUNCT	->“ ‘	_	17	punct	_	_
+14	「	_	PUNCT	``	_	17	punct	_	_
 15	二	_	NUM	CD	_	17	nummod	_	_
 16	·	_	PUNCT	/	_	17	punct	_	_
 17	一八	_	NUM	CD	_	23	nmod	_	_
-18	」	_	PUNCT	” ’<-	_	17	punct	_	_
+18	」	_	PUNCT	''	_	17	punct	_	_
 19	火災	_	NOUN	NN	_	23	nmod	_	_
 20	善後	_	NOUN	NN	_	23	nmod	_	_
 21	處理	_	NOUN	NN	_	23	nmod	_	_
@@ -94150,7 +94150,7 @@
 20	辦公	_	VERB	VV	_	21	case:suff	_	_
 21	樓	_	PART	SFN	_	18	iobj	_	_
 22	.	_	PUNCT	.	_	18	punct	_	_
-23	」	_	PUNCT	” ’<-	_	18	punct	_	_
+23	」	_	PUNCT	''	_	18	punct	_	_
 
 1	在	_	ADP	IN	_	3	case	_	_
 2	治學	_	NOUN	NN	_	3	nmod	_	_
@@ -94626,7 +94626,7 @@
 16	》	_	PUNCT	)	_	15	punct	_	_
 17	,	_	PUNCT	,	_	18	punct	_	_
 18	表示	_	VERB	VV	_	0	root	_	_
-19	「	_	PUNCT	->“ ‘	_	21	punct	_	_
+19	「	_	PUNCT	``	_	21	punct	_	_
 20	此	_	DET	DT	_	21	det	_	_
 21	東西	_	NOUN	NN	_	18	ccomp	_	_
 22	都是	_	VERB	VC	_	21	dislocated	_	_
@@ -94635,7 +94635,7 @@
 25	所	_	ADV	RB	_	26	mark	_	_
 26	寫	_	VERB	VV	_	23	ccomp	_	_
 27	的	_	X	UH	_	23	discourse	_	_
-28	」	_	PUNCT	” ’<-	_	21	punct	_	_
+28	」	_	PUNCT	''	_	21	punct	_	_
 29	.	_	PUNCT	.	_	18	punct	_	_
 
 1	教育	_	NOUN	NN	_	2	nmod	_	_
@@ -94732,12 +94732,12 @@
 4	教育	_	NOUN	NN	_	5	case:suff	_	_
 5	局	_	PART	SFN	_	11	det	_	_
 6	的	_	PART	DEC	Case=Gen	5	case:dec	_	_
-7	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+7	「	_	PUNCT	``	_	11	punct	_	_
 8	中學	_	NOUN	NN	_	9	nmod	_	_
 9	學位	_	NOUN	NN	_	10	nsubj	_	_
 10	分配	_	VERB	VV	_	11	amod	_	_
 11	辦法	_	NOUN	NN	_	3	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	,	_	16	punct	_	_
 14	所以	_	ADV	RB	_	16	mark	_	_
 15	學校	_	NOUN	NN	_	16	nsubj	_	_
@@ -94921,9 +94921,9 @@
 12	上	_	ADP	IN	_	11	acl	_	_
 13	,	_	PUNCT	,	_	14	punct	_	_
 14	如	_	VERB	VV	_	6	ccomp	_	_
-15	「	_	PUNCT	->“ ‘	_	16	punct	_	_
+15	「	_	PUNCT	``	_	16	punct	_	_
 16	L	_	X	FW	_	18	case:suff	_	_
-17	」	_	PUNCT	” ’<-	_	16	punct	_	_
+17	」	_	PUNCT	''	_	16	punct	_	_
 18	級	_	PART	SFN	_	19	nmod	_	_
 19	鏡頭	_	NOUN	NN	_	14	dobj	_	_
 20	與	_	ADP	IN	_	19	cc	_	_
@@ -95648,9 +95648,9 @@
 21	她	_	PRON	PRP	Person=3	22	nmod	_	_
 22	命名	_	VERB	VV	_	19	xcomp	_	_
 23	為	_	VERB	VC	_	22	mark	_	_
-24	「	_	PUNCT	->“ ‘	_	25	punct	_	_
+24	「	_	PUNCT	``	_	25	punct	_	_
 25	妮綺	_	NOUN	NNP	_	22	dobj	_	_
-26	」	_	PUNCT	” ’<-	_	25	punct	_	_
+26	」	_	PUNCT	''	_	25	punct	_	_
 27	,	_	PUNCT	,	_	33	punct	_	_
 28	有	_	VERB	VV	_	33	acl:relcl	_	_
 29	間隙	_	NOUN	NN	_	28	dobj	_	_
@@ -95904,10 +95904,10 @@
 19	盛妝	_	NOUN	NN	_	18	dobj	_	_
 20	,	_	PUNCT	,	_	21	punct	_	_
 21	時稱	_	VERB	VV	_	0	root	_	_
-22	「	_	PUNCT	->“ ‘	_	24	punct	_	_
+22	「	_	PUNCT	``	_	24	punct	_	_
 23	緩鬢	_	NOUN	NN	_	24	nmod	_	_
 24	輕髻	_	NOUN	NN	_	31	nsubj	_	_
-25	」	_	PUNCT	” ’<-	_	24	punct	_	_
+25	」	_	PUNCT	''	_	24	punct	_	_
 26	,	_	PUNCT	,	_	31	punct	_	_
 27	也	_	ADV	RB	_	29	mark	_	_
 28	就是	_	VERB	VC	_	29	cop	_	_
@@ -96172,12 +96172,12 @@
 4	傑志	_	NOUN	NNP	_	21	nsubjpass	_	_
 5	繼續	_	VERB	VV	_	21	acl	_	_
 6	以	_	ADP	IN	_	14	case	_	_
-7	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+7	「	_	PUNCT	``	_	8	punct	_	_
 8	保持	_	VERB	VV	_	14	acl:relcl	_	_
 9	控球	_	VERB	VV	_	8	xcomp	_	_
 10	在	_	VERB	VV	_	9	mark	_	_
 11	腳	_	NOUN	NN	_	9	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	8	punct	_	_
+12	」	_	PUNCT	''	_	8	punct	_	_
 13	的	_	PART	DEC	Case=Rel	8	acl:relcl	_	_
 14	風格	_	NOUN	NN	_	15	nmod	_	_
 15	作戰	_	VERB	VV	_	5	xcomp	_	_
@@ -96229,7 +96229,7 @@
 15	製作	_	VERB	VV	_	0	root	_	_
 16	一	_	NUM	CD	_	17	nummod	_	_
 17	部	_	NOUN	NNB	_	26	nmod	_	_
-18	「	_	PUNCT	->“ ‘	_	26	punct	_	_
+18	「	_	PUNCT	``	_	26	punct	_	_
 19	關於	_	ADP	IN	_	26	det	_	_
 20	真實	_	ADJ	JJ	_	21	amod	_	_
 21	人物	_	NOUN	NN	_	19	nmod	_	_
@@ -96238,11 +96238,11 @@
 24	生動	_	ADJ	JJ	_	26	amod	_	_
 25	的	_	PART	DEC	Case=Rel	24	acl:relcl	_	_
 26	故事	_	NOUN	NN	_	41	nsubj	_	_
-27	」	_	PUNCT	” ’<-	_	26	punct	_	_
+27	」	_	PUNCT	''	_	26	punct	_	_
 28	,	_	PUNCT	,	_	41	punct	_	_
 29	而	_	ADV	RB	_	41	mark	_	_
 30	不是	_	VERB	VC	_	41	cop	_	_
-31	「	_	PUNCT	->“ ‘	_	41	punct	_	_
+31	「	_	PUNCT	``	_	41	punct	_	_
 32	周日	_	NOUN	NN	_	35	nmod	_	_
 33	下午	_	NOUN	NN	_	34	case:suff	_	_
 34	茶	_	PART	SFN	_	35	nmod	_	_
@@ -96253,7 +96253,7 @@
 39	BBC	_	X	FW	_	41	nmod	_	_
 40	劇情	_	NOUN	NN	_	41	case:suff	_	_
 41	片	_	PART	SFN	_	15	ccomp	_	_
-42	」	_	PUNCT	” ’<-	_	41	punct	_	_
+42	」	_	PUNCT	''	_	41	punct	_	_
 43	.	_	PUNCT	.	_	15	punct	_	_
 
 1	而	_	ADV	RB	_	30	mark	_	_
@@ -96416,10 +96416,10 @@
 22	教導	_	VERB	VV	_	17	ccomp	_	_
 23	年輕	_	ADJ	JJ	_	24	case:suff	_	_
 24	人	_	PART	SFN	_	22	iobj	_	_
-25	「	_	PUNCT	->“ ‘	_	27	punct	_	_
+25	「	_	PUNCT	``	_	27	punct	_	_
 26	七	_	NUM	CD	_	27	nummod	_	_
 27	藝	_	NOUN	NN	_	22	dobj	_	_
-28	」	_	PUNCT	” ’<-	_	27	punct	_	_
+28	」	_	PUNCT	''	_	27	punct	_	_
 29	,	_	PUNCT	,	_	27	punct	_	_
 30	並	_	CONJ	CC	_	27	cc	_	_
 31	閱讀	_	VERB	VV	_	27	conj	_	_
@@ -96462,9 +96462,9 @@
 14	先師	_	NOUN	NN	_	11	ccomp	_	_
 15	、	_	PUNCT	EC	_	11	punct	_	_
 16	以	_	VERB	VV	Voice=Cau	11	conj	_	_
-17	「	_	PUNCT	->“ ‘	_	18	punct	_	_
+17	「	_	PUNCT	``	_	18	punct	_	_
 18	儒	_	NOUN	NNP	_	38	nsubj	_	_
-19	」	_	PUNCT	” ’<-	_	18	punct	_	_
+19	」	_	PUNCT	''	_	18	punct	_	_
 20	為	_	VERB	VC	_	38	cop	_	_
 21	共同	_	ADV	RB	_	22	advmod	_	_
 22	認可	_	VERB	VV	_	23	amod	_	_
@@ -96515,9 +96515,9 @@
 27	的	_	PART	DEC	Case=Rel	26	acl:relcl	_	_
 28	記載	_	NOUN	NN	_	25	dobj	_	_
 29	,	_	PUNCT	,	_	38	punct	_	_
-30	「	_	PUNCT	->“ ‘	_	31	punct	_	_
+30	「	_	PUNCT	``	_	31	punct	_	_
 31	儒	_	NOUN	NNP	_	35	det	_	_
-32	」	_	PUNCT	” ’<-	_	31	punct	_	_
+32	」	_	PUNCT	''	_	31	punct	_	_
 33	字	_	NOUN	NN	_	31	appos	_	_
 34	的	_	PART	DEC	Case=Gen	31	case:dec	_	_
 35	圖像	_	NOUN	NN	_	38	nsubj	_	_
@@ -96858,10 +96858,10 @@
 3	6	_	NUM	CD	_	4	nummod	_	_
 4	月	_	NOUN	NNB	_	18	nmod:tmod	_	_
 5	,	_	PUNCT	,	_	18	punct	_	_
-6	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+6	「	_	PUNCT	``	_	8	punct	_	_
 7	先鋒	_	NOUN	NN	_	8	case:suff	_	_
 8	號	_	PART	SFN	_	18	nsubj	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	累計	_	VERB	VV	_	18	acl	_	_
 11	運行	_	VERB	VV	_	10	xcomp	_	_
 12	14.5萬	_	NUM	CD	_	13	nummod	_	_
@@ -96885,7 +96885,7 @@
 5	提醒	_	VERB	VV	_	6	acl	_	_
 6	說	_	VERB	VV	_	0	root	_	_
 7	:	_	PUNCT	:	_	6	punct	_	_
-8	「	_	PUNCT	->“ ‘	_	23	punct	_	_
+8	「	_	PUNCT	``	_	23	punct	_	_
 9	建立	_	VERB	VV	_	17	csubj	_	_
 10	新	_	ADJ	JJ	_	13	amod	_	_
 11	的	_	PART	DEC	Case=Rel	10	acl:relcl	_	_
@@ -96916,7 +96916,7 @@
 36	的	_	PART	DEC	Case=Rel	35	acl:relcl	_	_
 37	方式	_	NOUN	NN	_	23	ccomp	_	_
 38	.	_	PUNCT	.	_	23	punct	_	_
-39	」	_	PUNCT	” ’<-	_	23	punct	_	_
+39	」	_	PUNCT	''	_	23	punct	_	_
 
 1	從此	_	ADV	RB	_	11	advmod	_	_
 2	,	_	PUNCT	,	_	11	punct	_	_
@@ -96976,9 +96976,9 @@
 5	天	_	NOUN	NNB	_	3	appos	_	_
 6	,	_	PUNCT	,	_	12	punct	_	_
 7	部分	_	NOUN	NN	_	9	nmod	_	_
-8	「	_	PUNCT	->“ ‘	_	9	punct	_	_
+8	「	_	PUNCT	``	_	9	punct	_	_
 9	光棍	_	NOUN	NN	_	12	nsubj	_	_
-10	」	_	PUNCT	” ’<-	_	9	punct	_	_
+10	」	_	PUNCT	''	_	9	punct	_	_
 11	會	_	AUX	MD	_	12	aux	_	_
 12	選擇	_	VERB	VV	_	0	root	_	_
 13	各式各樣	_	NOUN	NN	_	16	det	_	_
@@ -96997,11 +96997,11 @@
 8	日	_	NOUN	NNB	_	9	nsubj	_	_
 9	稱	_	VERB	VV	_	54	dep	_	_
 10	為	_	VERB	VC	_	9	mark	_	_
-11	「	_	PUNCT	” ’<-	_	14	punct	_	_
+11	「	_	PUNCT	''	_	14	punct	_	_
 12	小	_	PART	PFA	_	13	case:pref	_	_
 13	光棍	_	NOUN	NN	_	14	case:suff	_	_
 14	節	_	PART	SFN	_	9	dobj	_	_
-15	」	_	PUNCT	” ’<-	_	14	punct	_	_
+15	」	_	PUNCT	''	_	14	punct	_	_
 16	,	_	PUNCT	,	_	54	punct	_	_
 17	1	_	NUM	CD	_	18	nummod	_	_
 18	月	_	NOUN	NNB	_	20	nmod	_	_
@@ -97014,11 +97014,11 @@
 25	日	_	NOUN	NNB	_	20	conj	_	_
 26	稱	_	VERB	VV	_	54	dep	_	_
 27	為	_	VERB	VC	_	26	mark	_	_
-28	「	_	PUNCT	” ’<-	_	31	punct	_	_
+28	「	_	PUNCT	''	_	31	punct	_	_
 29	中	_	PART	PFA	_	30	case:pref	_	_
 30	光棍	_	NOUN	NN	_	31	case:suff	_	_
 31	節	_	PART	SFN	_	26	dobj	_	_
-32	」	_	PUNCT	” ’<-	_	31	punct	_	_
+32	」	_	PUNCT	''	_	31	punct	_	_
 33	,	_	PUNCT	,	_	54	punct	_	_
 34	而	_	ADV	RB	_	47	mark	_	_
 35	11	_	NUM	CD	_	36	nummod	_	_
@@ -97046,11 +97046,11 @@
 57	11	_	NUM	CD	_	58	nummod	_	_
 58	日	_	NOUN	NNB	_	63	det	_	_
 59	的	_	PART	DEC	Case=Gen	58	case:dec	_	_
-60	「	_	PUNCT	->“ ‘	_	63	punct	_	_
+60	「	_	PUNCT	``	_	63	punct	_	_
 61	大	_	PART	PFA	_	62	case:pref	_	_
 62	光棍	_	NOUN	NN	_	63	case:suff	_	_
 63	節	_	PART	SFN	_	71	nsubj	_	_
-64	」	_	PUNCT	” ’<-	_	63	punct	_	_
+64	」	_	PUNCT	''	_	63	punct	_	_
 65	為	_	VERB	VC	_	71	cop	_	_
 66	一般	_	ADJ	JJ	_	68	advmod	_	_
 67	所	_	ADV	RB	_	68	mark	_	_
@@ -97806,7 +97806,7 @@
 24	因為	_	ADP	IN	_	26	case	_	_
 25	他	_	PRON	PRP	Person=3	26	nsubj	_	_
 26	聲稱	_	VERB	VV	_	17	ccomp	_	_
-27	「	_	PUNCT	->“ ‘	_	29	punct	_	_
+27	「	_	PUNCT	``	_	29	punct	_	_
 28	他	_	PRON	PRP	Person=3	29	nsubj	_	_
 29	感到	_	VERB	VV	_	26	ccomp	_	_
 30	了	_	PART	AS	Aspect=Perf	29	case:aspect	_	_
@@ -97819,7 +97819,7 @@
 37	另	_	DET	DT	_	39	det	_	_
 38	一些	_	ADJ	JJ	_	39	amod	_	_
 39	事	_	NOUN	NN	_	36	dobj	_	_
-40	」	_	PUNCT	” ’<-	_	29	punct	_	_
+40	」	_	PUNCT	''	_	29	punct	_	_
 41	.	_	PUNCT	.	_	17	punct	_	_
 
 1	哥倫布	_	NOUN	NNP	_	16	nsubj	_	_
@@ -97828,12 +97828,12 @@
 4	將	_	ADV	RB	_	5	advmod	_	_
 5	封	_	VERB	VV	_	3	xcomp	_	_
 6	為	_	VERB	VC	_	5	mark	_	_
-7	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+7	「	_	PUNCT	``	_	11	punct	_	_
 8	世界	_	NOUN	NN	_	9	case:suff	_	_
 9	洋	_	PART	SFN	_	11	nmod	_	_
 10	海軍	_	NOUN	NN	_	11	nmod	_	_
 11	上將	_	NOUN	NN	_	5	dobj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	,	_	PUNCT	.	_	16	punct	_	_
 14	將	_	ADV	RB	_	16	advmod	_	_
 15	可以	_	AUX	MD	_	16	aux	_	_
@@ -98010,9 +98010,9 @@
 26	先攻	_	NOUN	NN	_	27	nmod	_	_
 27	球隊	_	NOUN	NN	_	28	nmod	_	_
 28	說	_	VERB	VV	_	7	ccomp	_	_
-29	「	_	PUNCT	->“ ‘	_	30	punct	_	_
+29	「	_	PUNCT	``	_	30	punct	_	_
 30	再見	_	NOUN	NN	_	28	dobj	_	_
-31	」	_	PUNCT	” ’<-	_	30	punct	_	_
+31	」	_	PUNCT	''	_	30	punct	_	_
 32	.	_	PUNCT	.	_	7	punct	_	_
 
 1	全	_	DET	DT	_	2	det	_	_
@@ -98100,7 +98100,7 @@
 8	聖經	_	NOUN	NNP	_	5	dobj	_	_
 9	的	_	X	UH	_	5	discourse	_	_
 10	,	_	PUNCT	,	_	44	punct	_	_
-11	「	_	PUNCT	->“ ‘	_	13	punct	_	_
+11	「	_	PUNCT	``	_	13	punct	_	_
 12	耶穌	_	NOUN	NNP	_	13	nsubj	_	_
 13	說	_	VERB	VV	_	44	dep	_	_
 14	、	_	PUNCT	EC	_	13	punct	_	_
@@ -98125,7 +98125,7 @@
 33	那裡	_	PRON	PRD	_	31	dobj	_	_
 34	去	_	VERB	VV	_	28	ccomp	_	_
 35	.	_	PUNCT	.	_	13	punct	_	_
-36	」	_	PUNCT	” ’<-	_	13	punct	_	_
+36	」	_	PUNCT	''	_	13	punct	_	_
 37	,	_	PUNCT	,	_	44	punct	_	_
 38	書名	_	NOUN	NN	_	39	nsubj	_	_
 39	暗諭	_	VERB	VV	_	44	csubj	_	_
@@ -98515,7 +98515,7 @@
 15	公共	_	ADJ	JJ	_	17	nmod	_	_
 16	衛生	_	NOUN	NN	_	17	nmod	_	_
 17	期刊	_	NOUN	NN	_	19	nsubj	_	_
-18	「	_	PUNCT	->“ ‘	_	19	punct	_	_
+18	「	_	PUNCT	``	_	19	punct	_	_
 19	充斥	_	VERB	VV	_	30	dep	_	_
 20	著	_	PART	AS	Aspect=Prog	19	case:aspect	_	_
 21	越來越	_	ADV	RB	_	22	advmod	_	_
@@ -98523,7 +98523,7 @@
 23	的	_	PART	DEC	Case=Rel	22	acl:relcl	_	_
 24	科學	_	NOUN	NN	_	25	nmod	_	_
 25	內容	_	NOUN	NN	_	19	dobj	_	_
-26	」	_	PUNCT	” ’<-	_	19	punct	_	_
+26	」	_	PUNCT	''	_	19	punct	_	_
 27	,	_	PUNCT	,	_	30	punct	_	_
 28	這	_	PRON	PRD	_	30	nsubj	_	_
 29	將	_	ADV	RB	_	30	advmod	_	_
@@ -98735,9 +98735,9 @@
 28	.	_	PUNCT	.	_	4	punct	_	_
 
 1	雖然	_	ADP	IN	_	40	case	_	_
-2	「	_	PUNCT	->“ ‘	_	3	punct	_	_
+2	「	_	PUNCT	``	_	3	punct	_	_
 3	六四	_	NUM	CD	_	6	nsubj	_	_
-4	」	_	PUNCT	” ’<-	_	3	punct	_	_
+4	」	_	PUNCT	''	_	3	punct	_	_
 5	所	_	ADV	RB	_	6	mark	_	_
 6	指	_	VERB	VV	_	8	acl:relcl	_	_
 7	的	_	PART	DEC	Case=Rel	6	acl:relcl	_	_
@@ -98785,10 +98785,10 @@
 49	是	_	VERB	VC	_	0	root	_	_
 50	直接	_	ADV	RB	_	57	advmod	_	_
 51	以	_	ADP	IN	_	54	case	_	_
-52	「	_	PUNCT	->“ ‘	_	54	punct	_	_
+52	「	_	PUNCT	``	_	54	punct	_	_
 53	六四	_	NUM	CD	_	54	nmod	_	_
 54	事件	_	NOUN	NN	_	57	nmod	_	_
-55	」	_	PUNCT	” ’<-	_	54	punct	_	_
+55	」	_	PUNCT	''	_	54	punct	_	_
 56	來	_	ADV	RB	_	57	mark	_	_
 57	稱呼	_	VERB	VV	_	49	xcomp	_	_
 58	.	_	PUNCT	.	_	49	punct	_	_
@@ -99288,9 +99288,9 @@
 22	.	_	PUNCT	.	_	10	punct	_	_
 
 1	關羽	_	NOUN	NNP	_	3	nsubj	_	_
-2	『	_	PUNCT	->“ ‘	_	3	punct	_	_
+2	『	_	PUNCT	``	_	3	punct	_	_
 3	義重如山	_	VERB	VV	_	13	dep	_	_
-4	』	_	PUNCT	” ’<-	_	3	punct	_	_
+4	』	_	PUNCT	''	_	3	punct	_	_
 5	,	_	PUNCT	.	_	13	punct	_	_
 6	至	_	ADP	IN	_	7	case	_	_
 7	今	_	NOUN	NN	_	13	nmod	_	_
@@ -99785,10 +99785,10 @@
 3	屬名	_	NOUN	NN	_	0	root	_	_
 4	意	_	NOUN	NN	_	8	nsubj	_	_
 5	為	_	VERB	VC	_	8	cop	_	_
-6	「	_	PUNCT	->“ ‘	_	8	punct	_	_
+6	「	_	PUNCT	``	_	8	punct	_	_
 7	冰河	_	NOUN	NN	_	8	nmod	_	_
 8	蜥蜴	_	NOUN	NN	_	3	dislocated	_	_
-9	」	_	PUNCT	” ’<-	_	8	punct	_	_
+9	」	_	PUNCT	''	_	8	punct	_	_
 10	,	_	PUNCT	,	_	8	punct	_	_
 11	因	_	ADP	IN	_	14	case	_	_
 12	其	_	PRON	PRP	Person=3	13	nmod	_	_
@@ -100475,11 +100475,11 @@
 28	時	_	ADP	IN	_	27	acl	_	_
 29	看	_	VERB	VV	_	45	dep	_	_
 30	起來	_	VERB	VV	_	29	mark	_	_
-31	「	_	PUNCT	->“ ‘	_	34	punct	_	_
+31	「	_	PUNCT	``	_	34	punct	_	_
 32	像是	_	ADV	RB	_	34	advmod	_	_
 33	在	_	ADV	RB	_	34	advmod	_	_
 34	流浪	_	VERB	VV	_	29	xcomp	_	_
-35	」	_	PUNCT	” ’<-	_	34	punct	_	_
+35	」	_	PUNCT	''	_	34	punct	_	_
 36	,	_	PUNCT	,	_	45	punct	_	_
 37	她	_	PRON	PRP	Person=3	41	det	_	_
 38	的	_	PART	DEC	Case=Gen	37	case:dec	_	_
@@ -100492,13 +100492,13 @@
 45	稱	_	VERB	VV	_	25	ccomp	_	_
 46	她	_	PRON	PRP	Person=3	53	nsubj	_	_
 47	是	_	VERB	VC	_	53	cop	_	_
-48	「	_	PUNCT	->“ ‘	_	53	punct	_	_
+48	「	_	PUNCT	``	_	53	punct	_	_
 49	羅馬尼亞	_	NOUN	NNP	_	53	det	_	_
 50	的	_	PART	DEC	Case=Gen	49	case:dec	_	_
 51	窗戶	_	NOUN	NN	_	53	nmod	_	_
 52	清潔	_	VERB	VV	_	53	case:suff	_	_
 53	工	_	PART	SFN	_	45	ccomp	_	_
-54	」	_	PUNCT	” ’<-	_	53	punct	_	_
+54	」	_	PUNCT	''	_	53	punct	_	_
 55	.	_	PUNCT	.	_	25	punct	_	_
 
 1	她	_	PRON	PRP	Person=3	23	nsubj	_	_
@@ -101625,11 +101625,11 @@
 5	統一	_	NOUN	NN	_	7	nsubj	_	_
 6	,	_	PUNCT	,	_	7	punct	_	_
 7	使	_	VERB	VV	Voice=Cau	0	root	_	_
-8	「	_	PUNCT	->“ ‘	_	11	punct	_	_
+8	「	_	PUNCT	``	_	11	punct	_	_
 9	較大	_	ADJ	JJ	_	11	amod	_	_
 10	的	_	PART	DEC	Case=Rel	9	acl:relcl	_	_
 11	市	_	NOUN	NN	_	13	nsubj	_	_
-12	」	_	PUNCT	” ’<-	_	11	punct	_	_
+12	」	_	PUNCT	''	_	11	punct	_	_
 13	成	_	VERB	VV	_	7	ccomp	_	_
 14	為	_	VERB	VC	_	13	mark	_	_
 15	擁有	_	VERB	VV	_	18	amod	_	_
@@ -101935,7 +101935,7 @@
 
 1	Google	_	X	FW	_	2	nmod	_	_
 2	公司	_	NOUN	NN	_	15	nsubj	_	_
-3	「	_	PUNCT	->“ ‘	_	15	punct	_	_
+3	「	_	PUNCT	``	_	15	punct	_	_
 4	因為	_	ADP	IN	_	3	case	_	_
 5	這	_	PRON	PRD	_	10	nsubj	_	_
 6	是	_	VERB	VC	_	10	cop	_	_
@@ -101943,7 +101943,7 @@
 8	個	_	NOUN	NNB	_	10	nmod	_	_
 9	公平	_	ADJ	JJ	_	10	amod	_	_
 10	問題	_	NOUN	NN	_	3	ccomp	_	_
-11	」	_	PUNCT	” ’<-	_	3	punct	_	_
+11	」	_	PUNCT	''	_	3	punct	_	_
 12	而	_	ADV	RB	_	15	mark	_	_
 13	正式	_	ADV	RB	_	15	advmod	_	_
 14	表態	_	VERB	VV	_	15	acl	_	_
