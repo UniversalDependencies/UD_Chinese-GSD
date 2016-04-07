@@ -1,4 +1,5 @@
-Chinese Universal Dependencies Treebank annotated and converted by Google.
+Simplified Chinese Universal Dependencies Treebank annotated and converted by
+Google.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
