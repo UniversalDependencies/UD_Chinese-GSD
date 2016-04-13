@@ -5,7 +5,7 @@ Google.
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.3
-License: CC BY-SA-NC 4.0
+License: CC NC-BY-SA 4.0
 Genre: wiki
 Contributors: Various at Google
 ===============================================================================
