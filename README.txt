@@ -7,5 +7,5 @@ Data source: semi-automatic
 Data available since: UD v1.3
 License: CC NC-BY-SA 4.0
 Genre: wiki
-Contributors: Various at Google
+Contributors: Shen, Mo; McDonald, Ryan
 ===============================================================================
