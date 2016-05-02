@@ -14,7 +14,7 @@ Category=value feature pairs: 13
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.3
-License: CC NC-BY-SA 4.0
+License: CC BY-NC-SA 4.0
 Genre: wiki
 Contributors: Shen, Mo; McDonald, Ryan
 ===============================================================================
