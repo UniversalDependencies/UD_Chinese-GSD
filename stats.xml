@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>4997</sentences><tokens>123283</tokens><words>123283</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="0" /><!--  -->
+  <forms unique="20246" /><!-- ,, 的, ., 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <tags unique="15">
+    <tag name="ADJ">3032</tag><!-- _ -->
+    <tag name="ADP">5424</tag><!-- _ -->
+    <tag name="ADV">5749</tag><!-- _ -->
+    <tag name="AUX">889</tag><!-- _ -->
+    <tag name="CONJ">1740</tag><!-- _ -->
+    <tag name="DET">1297</tag><!-- _ -->
+    <tag name="NOUN">34043</tag><!-- _ -->
+    <tag name="NUM">6659</tag><!-- _ -->
+    <tag name="PART">13172</tag><!-- _ -->
+    <tag name="PRON">1776</tag><!-- _ -->
+    <tag name="PROPN">10741</tag><!-- _ -->
+    <tag name="PUNCT">17047</tag><!-- _ -->
+    <tag name="SYM">37</tag><!-- _ -->
+    <tag name="VERB">20468</tag><!-- _ -->
+    <tag name="X">1209</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <feats unique="13">
+    <feat name="Aspect" value="Perf" upos="PART,X">826</feat><!-- 了, 過 -->
+    <feat name="Aspect" value="Prog" upos="PART">131</feat><!-- 著 -->
+    <feat name="Case" value="Advb" upos="PART">103</feat><!-- 地, 的, 之 -->
+    <feat name="Case" value="Comp" upos="PART">25</feat><!-- 得, 的 -->
+    <feat name="Case" value="Gen" upos="ADP,PART">3284</feat><!-- 的, 之, 之外, 地 -->
+    <feat name="Case" value="Rel" upos="NOUN,PART">2429</feat><!-- 的, 之, 身體 -->
+    <feat name="Mood" value="Inter" upos="X">8</feat><!-- 呢, 嗎, 啊 -->
+    <feat name="Number" value="Plur" upos="NOUN,PART,PRON">267</feat><!-- 他們, 它們, 們, 我們, 人們, 牠們, 她們 -->
+    <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
+    <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
+    <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
+    <feat name="Voice" value="Cau" upos="ADP,VERB">689</feat><!-- 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派 -->
+    <feat name="Voice" value="Pass" upos="VERB">424</feat><!-- 被, 為 -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="39">
+    <dep name="acl">5436</dep>
+    <dep name="acl:relcl">4212</dep>
+    <dep name="advcl">160</dep>
+    <dep name="advmod">3694</dep>
+    <dep name="amod">2000</dep>
+    <dep name="appos">1358</dep>
+    <dep name="aux">879</dep>
+    <dep name="aux:caus">198</dep>
+    <dep name="auxpass">424</dep>
+    <dep name="case">3546</dep>
+    <dep name="case:aspect">955</dep>
+    <dep name="case:dec">3283</dep>
+    <dep name="case:pref">745</dep>
+    <dep name="case:suff">5563</dep>
+    <dep name="cc">1744</dep>
+    <dep name="ccomp">2176</dep>
+    <dep name="conj">3196</dep>
+    <dep name="cop">1803</dep>
+    <dep name="csubj">377</dep>
+    <dep name="csubjpass">6</dep>
+    <dep name="dep">2657</dep>
+    <dep name="det">4471</dep>
+    <dep name="discourse">195</dep>
+    <dep name="dislocated">63</dep>
+    <dep name="dobj">7943</dep>
+    <dep name="foreign">325</dep>
+    <dep name="iobj">78</dep>
+    <dep name="mark">4682</dep>
+    <dep name="neg">244</dep>
+    <dep name="nmod">19495</dep>
+    <dep name="nmod:tmod">1609</dep>
+    <dep name="nsubj">9429</dep>
+    <dep name="nsubjpass">274</dep>
+    <dep name="nummod">6221</dep>
+    <dep name="punct">17079</dep>
+    <dep name="remnant">4</dep>
+    <dep name="root">4997</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">1761</dep>
+  </deps>
+</treebank>
