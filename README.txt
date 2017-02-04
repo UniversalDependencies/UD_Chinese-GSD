@@ -19,6 +19,7 @@ Changelog
   * Added SpaceAfter=No.
   * Added lemmas.
   * Case=Advb,Comp,Rel changed to deprel mark:advb/comp/relcl.
+  * Detected classifiers, changed their deprel to clf.
 
 2016-11-15 v1.4
   * No changes since UD release 1.3.
