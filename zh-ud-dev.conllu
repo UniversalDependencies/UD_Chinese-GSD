@@ -124,7 +124,7 @@
 20	提供	提供	VERB	VV	_	0	root	_	SpaceAfter=No
 21	了	了	PART	AS	Aspect=Perf	20	case:aspect	_	SpaceAfter=No
 22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	個	個	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+23	個	個	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 24	理論	理論	NOUN	NN	_	25	case:suff	_	SpaceAfter=No
 25	性	性	PART	SFN	_	28	det	_	SpaceAfter=No
 26	的	的	PART	DEC	Case=Gen	25	case:dec	_	SpaceAfter=No
@@ -204,7 +204,7 @@
 # sent_id = dev-s9
 # text = 五月二十一日,努爾哈赤出城迎接前來瀋陽的科爾沁部奧巴貝勒.
 1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	二十一	二十一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
@@ -273,7 +273,7 @@
 9	侷限	侷限	VERB	VV	_	0	root	_	SpaceAfter=No
 10	於	於	VERB	VV	_	9	mark	_	SpaceAfter=No
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-12	個	個	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	之內	之內	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	了	了	X	UH	_	9	discourse	_	SpaceAfter=No
@@ -287,7 +287,7 @@
 3	首次	首次	NUM	CD	NumType=Card	4	advmod	_	SpaceAfter=No
 4	邀請	邀請	VERB	VV	Voice=Cau	23	acl	_	SpaceAfter=No
 5	數	數	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	名	名	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
+6	名	名	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 7	香港	香港	PROPN	NNP	_	9	nmod	_	SpaceAfter=No
 8	人氣	人氣	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	博客	博客	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -321,7 +321,7 @@
 # sent_id = dev-s14
 # text = 1594年秋,在與特蘭西瓦尼亞和摩爾達維亞簽訂盟約之後,米哈伊起兵反抗奧斯曼帝國,參加神聖羅馬帝國發起的十三年戰爭.
 1	1594	1594	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	秋	秋	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
 5	在	在	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -346,7 +346,7 @@
 24	發起	發起	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No
 25	的	的	PART	DEC	_	24	mark:relcl	_	SpaceAfter=No
 26	十三	十三	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No
-27	年	年	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+27	年	年	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 28	戰爭	戰爭	NOUN	NN	_	20	obj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
@@ -468,7 +468,7 @@
 16	未	未	ADV	RB	Polarity=Neg	17	advmod	_	SpaceAfter=No
 17	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 18	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-19	個	個	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+19	個	個	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 20	具體	具體	ADJ	JJ	_	26	amod	_	SpaceAfter=No
 21	及	及	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 22	統一	統一	ADJ	JJ	_	20	conj	_	SpaceAfter=No
@@ -518,7 +518,7 @@
 # sent_id = dev-s21
 # text = 一個家庭收入的中間數為$16,250,家庭收入的中間數為$16,250,國民平均收入為$5,467.
 1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	個	個	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	家庭	家庭	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	收入	收入	NOUN	NN	_	7	det	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
@@ -857,9 +857,9 @@
 2	日期	日期	NOUN	NN	_	63	dep	_	SpaceAfter=No
 3	:	:	PUNCT	:	_	2	punct	_	SpaceAfter=No
 4	2013	2013	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
-5	年	年	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
+5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 6	8	8	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	月	月	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
+7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 8	26	26	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	日	日	NOUN	NNB	_	2	appos	_	SpaceAfter=No
 10	本	本	DET	DT	_	11	det	_	SpaceAfter=No
@@ -882,7 +882,7 @@
 27	聯賽	聯賽	NOUN	NN	_	28	nsubj	_	SpaceAfter=No
 28	獲得	獲得	VERB	VV	_	25	ccomp	_	SpaceAfter=No
 29	3.5	3.5	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No
-30	個	個	NOUN	NNB	_	38	nmod	_	SpaceAfter=No
+30	個	個	NOUN	NNB	_	38	clf	_	SpaceAfter=No
 31	亞冠	亞冠	PROPN	NNP	_	34	nmod	_	SpaceAfter=No
 32	聯賽	聯賽	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 33	小組	小組	NOUN	NN	_	34	case:suff	_	SpaceAfter=No
@@ -958,7 +958,7 @@
 18	還	還	ADV	RB	_	19	mark	_	SpaceAfter=No
 19	有	有	VERB	VV	_	4	conj	_	SpaceAfter=No
 20	兩	兩	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
-21	座	座	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
+21	座	座	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 22	便門	便門	NOUN	NN	_	19	obj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -1023,9 +1023,9 @@
 # sent_id = dev-s37
 # text = 2010年1月7日,北京市教育委員會正式作出批複,要求該校停止體制改革試點,加入公立校行列.
 1	2010	2010	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	7	7	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	17	punct	_	SpaceAfter=No
@@ -1271,7 +1271,7 @@
 18	設計	設計	VERB	VV	_	0	root	_	SpaceAfter=No
 19	成	成	VERB	VV	_	18	mark	_	SpaceAfter=No
 20	一	一	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
-21	個	個	NOUN	NNB	_	31	nmod	_	SpaceAfter=No
+21	個	個	NOUN	NNB	_	31	clf	_	SpaceAfter=No
 22	寬	寬	ADJ	JJ	_	31	acl:relcl	_	SpaceAfter=No
 23	45	45	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 24	米	米	NOUN	NNB	_	22	advmod	_	SpaceAfter=No
@@ -1710,7 +1710,7 @@
 22	看台	看台	NOUN	NN	_	34	nsubj	_	SpaceAfter=No
 23	設有	設有	VERB	VV	_	34	acl	_	SpaceAfter=No
 24	18	18	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
-25	級	級	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+25	級	級	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 26	台階	台階	NOUN	NN	_	23	obj	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	34	punct	_	SpaceAfter=No
 28	為	為	AUX	VC	_	34	cop	_	SpaceAfter=No
@@ -1741,7 +1741,7 @@
 15	政府	政府	NOUN	NN	_	19	det	_	SpaceAfter=No
 16	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
 17	26萬	26萬	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
-18	元	元	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+18	元	元	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 19	撥款	撥款	NOUN	NN	_	12	obj	_	SpaceAfter=No
 20	和	和	CCONJ	CC	_	27	cc	_	SpaceAfter=No
 21	河北	河北	PROPN	NNP	_	22	case:suff	_	SpaceAfter=No
@@ -1749,7 +1749,7 @@
 23	政府	政府	NOUN	NN	_	27	det	_	SpaceAfter=No
 24	的	的	PART	DEC	Case=Gen	23	case:dec	_	SpaceAfter=No
 25	20萬	20萬	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
-26	元	元	NOUN	NNB	_	27	nmod	_	SpaceAfter=No
+26	元	元	NOUN	NNB	_	27	clf	_	SpaceAfter=No
 27	撥款	撥款	NOUN	NN	_	19	conj	_	SpaceAfter=No
 28	興建	興建	VERB	VV	_	35	dep	_	SpaceAfter=No
 29	北站	北站	PROPN	NNP	_	31	nmod	_	SpaceAfter=No
@@ -1776,7 +1776,7 @@
 # text = 直至2002年8月,將軍澳綫全綫通車,本站變為港島綫及將軍澳綫的轉車站.
 1	直至	直至	ADP	IN	_	5	case	_	SpaceAfter=No
 2	2002	2002	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	年	年	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+3	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 4	8	8	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	月	月	NOUN	NNB	_	14	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -1844,7 +1844,7 @@
 4	站	站	PART	SFN	_	39	nsubj	_	SpaceAfter=No
 5	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
 6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	個	個	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+7	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 8	大準	大準	PROPN	NNP	_	9	case:suff	_	SpaceAfter=No
 9	線	線	PART	SFN	_	13	det	_	SpaceAfter=No
 10	上	上	ADP	IN	_	9	acl	_	SpaceAfter=No
@@ -1907,7 +1907,7 @@
 19	商業	商業	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 20	中心	中心	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 21	五	五	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
-22	層	層	NOUN	NNB	_	23	nmod	_	SpaceAfter=No
+22	層	層	NOUN	NNB	_	23	clf	_	SpaceAfter=No
 23	空間	空間	NOUN	NN	_	17	obj	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	33	punct	_	SpaceAfter=No
 25	集團	集團	NOUN	NN	_	29	nmod	_	SpaceAfter=No
@@ -1932,7 +1932,7 @@
 7	就	就	ADV	RB	_	8	mark	_	SpaceAfter=No
 8	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 9	500多	500多	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	所	所	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
+10	所	所	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 11	學校	學校	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 12	將	將	VERB	BB	Voice=Cau	15	aux:caus	_	SpaceAfter=No
 13	匹克	匹克	NOUN	NN	_	14	case:suff	_	SpaceAfter=No
@@ -2270,7 +2270,7 @@
 3	小調	小調	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 4	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	個	個	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+6	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 7	於	於	ADP	IN	_	10	case	_	SpaceAfter=No
 8	升	升	VERB	VV	_	10	amod	_	SpaceAfter=No
 9	A	A	X	FW	_	8	obj	_	SpaceAfter=No
@@ -2335,7 +2335,7 @@
 19	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
 20	是	是	AUX	VC	_	29	cop	_	SpaceAfter=No
 21	一	一	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
-22	座	座	NOUN	NNB	_	29	nmod	_	SpaceAfter=No
+22	座	座	NOUN	NNB	_	29	clf	_	SpaceAfter=No
 23	在	在	VERB	VV	_	27	acl	_	SpaceAfter=No
 24	山崖	山崖	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 25	石壁	石壁	NOUN	NN	_	23	obj	_	SpaceAfter=No
@@ -2401,7 +2401,7 @@
 9	街	街	PART	SFN	_	33	nsubj	_	SpaceAfter=No
 10	是	是	AUX	VC	_	33	cop	_	SpaceAfter=No
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-12	個	個	NOUN	NNB	_	33	nmod	_	SpaceAfter=No
+12	個	個	NOUN	NNB	_	33	clf	_	SpaceAfter=No
 13	依靠	依靠	VERB	VV	_	26	acl	_	SpaceAfter=No
 14	貿易	貿易	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
@@ -2451,7 +2451,7 @@
 8	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
 9	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
-11	種	種	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+11	種	種	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 12	松科	松科	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	植物	植物	NOUN	NN	_	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	SpaceAfter=No
@@ -2459,7 +2459,7 @@
 # sent_id = dev-s81
 # text = 8月14日,Radzymin失守,波蘭第五軍團的戰線被突破.
 1	8	8	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	14	14	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -2498,7 +2498,7 @@
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
 20	「	「	PUNCT	``	_	23	punct	_	SpaceAfter=No
 21	十一	十一	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
-22	月	月	NOUN	NNB	_	23	nmod	_	SpaceAfter=No
+22	月	月	NOUN	NNB	_	23	clf	_	SpaceAfter=No
 23	起義	起義	NOUN	NN	_	26	obl	_	SpaceAfter=No
 24	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No
 25	中	中	ADP	IN	_	23	acl	_	SpaceAfter=No
@@ -2607,7 +2607,7 @@
 16	,	,	PUNCT	,	_	26	punct	_	SpaceAfter=No
 17	通過	通過	VERB	VV	_	26	acl	_	SpaceAfter=No
 18	1923	1923	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-19	年	年	NOUN	NNB	_	23	nmod	_	SpaceAfter=No
+19	年	年	NOUN	NNB	_	23	clf	_	SpaceAfter=No
 20	華	華	PROPN	NNP	_	21	case:suff	_	SpaceAfter=No
 21	人	人	PART	SFN	_	23	nmod	_	SpaceAfter=No
 22	移民	移民	NOUN	NN	_	23	nmod	_	SpaceAfter=No
@@ -2668,9 +2668,9 @@
 # sent_id = dev-s89
 # text = 2003年11月15日,法航協和飛機的一批剩餘零部件和紀念品在巴黎佳士得拍賣行公開拍賣,有約13,000人到場競投,共拍賣得320萬歐元,部分拍賣品的成交價遠超預期.
 1	2003	2003	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	15	15	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	47	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	47	punct	_	SpaceAfter=No
@@ -2679,7 +2679,7 @@
 10	飛機	飛機	NOUN	NN	_	15	det	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
-13	批	批	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+13	批	批	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 14	剩餘	剩餘	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	零部件	零部件	NOUN	NN	_	35	nsubj	_	SpaceAfter=No
 16	和	和	CCONJ	CC	_	18	cc	_	SpaceAfter=No
@@ -2904,7 +2904,7 @@
 6	的	的	X	UH	_	5	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	12	punct	_	SpaceAfter=No
 8	兩	兩	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
-9	個	個	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
+9	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No
 10	學科	學科	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 11	已經	已經	ADV	RB	_	12	advmod	_	SpaceAfter=No
 12	發展	發展	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2968,9 +2968,9 @@
 # sent_id = dev-s98
 # text = 2009年7月1日,南京大學2007、2008級學生由浦口校區搬遷至新建成的仙林校區.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	1	1	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	18	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	18	punct	_	SpaceAfter=No
@@ -3129,7 +3129,7 @@
 3	最終	最終	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
 4	於	於	ADP	IN	_	8	case	_	SpaceAfter=No
 5	2006	2006	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	年	年	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
+6	年	年	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 7	11	11	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
 8	月	月	NOUN	NNB	_	10	obl	_	SpaceAfter=No
 9	投票	投票	VERB	VV	_	10	acl	_	SpaceAfter=No
@@ -3155,7 +3155,7 @@
 15	時代	時代	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No
 17	這	這	DET	DT	_	18	det	_	SpaceAfter=No
-18	個	個	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+18	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 19	詞匯	詞匯	NOUN	NN	_	15	appos	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -3231,9 +3231,9 @@
 # sent_id = dev-s110
 # text = 2007年5月3日,中石油高調宣稱冀東南堡油田油氣總儲量為10.2億噸,探明儲量4.05億噸,約為30億桶,媒體稱之為「40多年來中國石油勘探最激動人心的發現」.
 1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	3	3	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	33	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	33	punct	_	SpaceAfter=No
@@ -3583,7 +3583,7 @@
 48	它	它	PRON	PRP	Person=3	56	nsubj	_	SpaceAfter=No
 49	是	是	AUX	VC	_	56	cop	_	SpaceAfter=No
 50	一	一	NUM	CD	NumType=Card	51	nummod	_	SpaceAfter=No
-51	支	支	NOUN	NNB	_	56	nmod	_	SpaceAfter=No
+51	支	支	NOUN	NNB	_	56	clf	_	SpaceAfter=No
 52	「	「	PUNCT	``	_	56	punct	_	SpaceAfter=No
 53	社會	社會	NOUN	NN	_	54	nmod	_	SpaceAfter=No
 54	主義	主義	NOUN	NN	_	56	det	_	SpaceAfter=No
@@ -3600,24 +3600,24 @@
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No
 5	於	於	ADP	IN	_	11	case	_	SpaceAfter=No
 6	1959	1959	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	年	年	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
+7	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 8	12	12	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
-9	月	月	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
+9	月	月	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 10	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 11	日	日	NOUN	NNB	_	13	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
 13	由	由	VERB	VV	_	28	acl	_	SpaceAfter=No
 14	12	12	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
-15	個	個	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 16	國家	國家	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 17	簽訂	簽訂	VERB	VV	_	13	ccomp	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	28	punct	_	SpaceAfter=No
 19	並	並	ADV	RB	_	28	mark	_	SpaceAfter=No
 20	在	在	ADP	IN	_	26	case	_	SpaceAfter=No
 21	1961	1961	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
-22	年	年	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+22	年	年	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 23	6	6	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
-24	月	月	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+24	月	月	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 25	23	23	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
 26	日	日	NOUN	NNB	_	28	obl	_	SpaceAfter=No
 27	正式	正式	ADV	RB	_	28	advmod	_	SpaceAfter=No
@@ -3662,7 +3662,7 @@
 # sent_id = dev-s121
 # text = 2009年5月,國務院批複同意,撤銷南匯區,將其行政區域整體併入浦東新區.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	_	SpaceAfter=No
@@ -3739,9 +3739,9 @@
 # sent_id = dev-s123
 # text = 2009年8月1日接收原中銀香港於中國內地業務,使分行及支行達11家及7家.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	1	1	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	16	nmod:tmod	_	SpaceAfter=No
 7	接收	接收	VERB	VV	_	16	acl	_	SpaceAfter=No
@@ -3776,7 +3776,7 @@
 7	上海	上海	PROPN	NNP	_	5	obj	_	SpaceAfter=No
 8	的	的	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	所	所	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
+10	所	所	NOUN	NNB	_	11	clf	_	SpaceAfter=No
 11	大學	大學	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -3819,7 +3819,7 @@
 14	同時	同時	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
 15	由	由	ADP	IN	_	21	det	_	SpaceAfter=No
 16	數	數	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
-17	個	個	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+17	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 18	不同	不同	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 19	地點	地點	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 20	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
@@ -3872,7 +3872,7 @@
 1	山上	山上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	18	dep	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	座	座	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	座	座	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	小	小	PART	PFA	_	6	case:pref	_	SpaceAfter=No
 6	亭	亭	NOUN	NN	_	2	obj	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	18	punct	_	SpaceAfter=No
@@ -3908,15 +3908,15 @@
 15	場	場	PART	SFN	_	21	acl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	21	punct	_	SpaceAfter=No
 17	1974	1974	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
-18	年	年	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+18	年	年	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 19	10	10	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
 20	月	月	NOUN	NNB	_	21	nmod:tmod	_	SpaceAfter=No
 21	動工	動工	VERB	VV	_	0	root	_	SpaceAfter=No
 22	、	、	PUNCT	EC	_	29	punct	_	SpaceAfter=No
 23	1977	1977	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
-24	年	年	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+24	年	年	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 25	12	12	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
-26	月	月	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+26	月	月	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 27	17	17	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
 28	日	日	NOUN	NNB	_	29	nmod:tmod	_	SpaceAfter=No
 29	啟用	啟用	VERB	VV	_	21	conj	_	SpaceAfter=No
@@ -4059,7 +4059,7 @@
 10	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
 11	是	是	AUX	VC	_	20	cop	_	SpaceAfter=No
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
-13	種	種	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+13	種	種	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 14	生長	生長	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 15	在	在	ADP	IN	_	17	case	_	SpaceAfter=No
 16	印度	印度	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
@@ -4072,7 +4072,7 @@
 # sent_id = dev-s137
 # text = 2008年11月,南車四方機車車輛股份獲國家發改委批准,設立「高速列車系統集成國家工程實驗室」,主力建設包含高速列車系統集成、轉向架綜合、電磁兼容綜合、車體綜合和環境綜合等研發試驗設施的高速列車研發實驗基地..
 1	2008	2008	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	30	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	30	punct	_	SpaceAfter=No
@@ -4187,7 +4187,7 @@
 # sent_id = dev-s140
 # text = 2011年10月,公司決定退出出口市場,為減少50%的產能,工廠關閉了位於肯布蘭兩個高爐之一的第6號高爐.
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	10	10	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	19	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	19	punct	_	SpaceAfter=No
@@ -4210,7 +4210,7 @@
 22	於	於	VERB	VV	_	21	mark	_	SpaceAfter=No
 23	肯布蘭	肯布蘭	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 24	兩	兩	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
-25	個	個	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+25	個	個	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 26	高爐	高爐	NOUN	NN	_	28	det	_	SpaceAfter=No
 27	之	之	PART	DEC	Case=Gen	26	case:dec	_	SpaceAfter=No
 28	一	一	NUM	CD	NumType=Card	21	obj	_	SpaceAfter=No
@@ -4282,7 +4282,7 @@
 20	在	在	VERB	VV	_	26	acl	_	SpaceAfter=No
 21	世界	世界	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 22	多	多	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	個	個	NOUN	NNB	_	24	nmod	_	SpaceAfter=No
+23	個	個	NOUN	NNB	_	24	clf	_	SpaceAfter=No
 24	州份	州份	NOUN	NN	_	20	obj	_	SpaceAfter=No
 25	均	均	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	有	有	VERB	VV	_	19	ccomp	_	SpaceAfter=No
@@ -4365,7 +4365,7 @@
 8	普勒騰貝格	普勒騰貝格	PROPN	NNP	_	14	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
-11	個	個	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
+11	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 12	天主	天主	PROPN	NNP	_	13	case:suff	_	SpaceAfter=No
 13	教	教	PART	SFN	_	14	nmod	_	SpaceAfter=No
 14	家庭	家庭	NOUN	NN	_	5	obj	_	SpaceAfter=No
@@ -4493,7 +4493,7 @@
 2	生	生	VERB	VV	_	14	acl	_	SpaceAfter=No
 3	於	於	VERB	VV	_	2	mark	_	SpaceAfter=No
 4	第三	第三	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
-5	紀元	紀元	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
+5	紀元	紀元	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 6	1259	1259	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	年	年	NOUN	NNB	_	2	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -4522,7 +4522,7 @@
 11	南部	南部	NOUN	NN	_	15	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
-14	條	條	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+14	條	條	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 15	河流	河流	NOUN	NN	_	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
@@ -4553,7 +4553,7 @@
 9	帶	帶	VERB	VV	_	14	acl	_	SpaceAfter=No
 10	著	著	PART	AS	Aspect=Prog	9	case:aspect	_	SpaceAfter=No
 11	三	三	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-12	個	個	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	孩子	孩子	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	來到	來到	VERB	VV	_	0	root	_	SpaceAfter=No
 15	了	了	PART	AS	Aspect=Perf	14	case:aspect	_	SpaceAfter=No
@@ -4565,7 +4565,7 @@
 1	她	她	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No
 3	三	三	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	個	個	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+4	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 5	孩子	孩子	NOUN	NN	_	7	advmod	_	SpaceAfter=No
 6	中	中	ADP	IN	_	5	acl	_	SpaceAfter=No
 7	最小	最小	ADJ	JJ	_	11	acl	_	SpaceAfter=No
@@ -4602,7 +4602,7 @@
 20	伯爵	伯爵	NOUN	NN	_	4	conj	_	SpaceAfter=No
 21	(	(	PUNCT	(	_	26	punct	_	SpaceAfter=No
 22	1665	1665	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	年	年	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+23	年	年	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 24	-	-	PUNCT	HYPH	_	26	punct	_	SpaceAfter=No
 25	1678	1678	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
 26	年	年	NOUN	NNB	_	4	dep	_	SpaceAfter=No
@@ -4612,7 +4612,7 @@
 30	伯爵	伯爵	NOUN	NN	_	4	conj	_	SpaceAfter=No
 31	(	(	PUNCT	(	_	36	punct	_	SpaceAfter=No
 32	1665	1665	NUM	CD	NumType=Card	33	nummod	_	SpaceAfter=No
-33	年	年	NOUN	NNB	_	36	nmod	_	SpaceAfter=No
+33	年	年	NOUN	NNB	_	36	clf	_	SpaceAfter=No
 34	-	-	PUNCT	HYPH	_	36	punct	_	SpaceAfter=No
 35	1684	1684	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No
 36	年	年	NOUN	NNB	_	4	dep	_	SpaceAfter=No
@@ -4628,7 +4628,7 @@
 5	只	只	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	有	有	VERB	VV	_	24	dep	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	個	個	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
+8	個	個	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 9	女兒	女兒	NOUN	NN	_	6	obj	_	SpaceAfter=No
 10	:	:	PUNCT	:	_	9	punct	_	SpaceAfter=No
 11	瑪利亞	瑪利亞	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
@@ -4729,7 +4729,7 @@
 12	該地	該地	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 13	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
-15	座	座	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+15	座	座	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 16	城堡	城堡	NOUN	NN	_	13	obj	_	SpaceAfter=No
 17	、	、	PUNCT	EC	_	19	punct	_	SpaceAfter=No
 18	博物	博物	NOUN	NN	_	19	case:suff	_	SpaceAfter=No
@@ -4769,7 +4769,7 @@
 # sent_id = dev-s164
 # text = 這類動畫較多以手繪的平面圖片進行拍攝,通常具有連續或單元劇情,且大部份是以孩童為主要受眾的動畫作品.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	類	類	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	類	類	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	動畫	動畫	NOUN	NN	_	32	nsubj	_	SpaceAfter=No
 4	較多	較多	ADV	RB	_	11	advmod	_	SpaceAfter=No
 5	以	以	ADP	IN	_	10	case	_	SpaceAfter=No
@@ -4870,7 +4870,7 @@
 # sent_id = dev-s167
 # text = 10月18日,孫中山改任黃復生、盧師諦為四川靖國聯軍總司令、副司令,石青陽為川北招討使,並電囑他們同唐繼堯合作.
 1	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	18	18	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	32	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	32	punct	_	SpaceAfter=No
@@ -4911,7 +4911,7 @@
 # sent_id = dev-s168
 # text = 1917年8月,孫中山成立護法軍政府,任大元帥.
 1	1917	1917	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
@@ -5087,7 +5087,7 @@
 1	隨後	隨後	ADV	RB	_	16	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	16	punct	_	SpaceAfter=No
 3	數	數	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	個	個	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	鐵路	鐵路	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	公司	公司	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 7	將	將	VERB	BB	Voice=Cau	10	aux:caus	_	SpaceAfter=No
@@ -5102,7 +5102,7 @@
 16	修築	修築	VERB	VV	_	0	root	_	SpaceAfter=No
 17	了	了	PART	AS	Aspect=Perf	16	case:aspect	_	SpaceAfter=No
 18	多	多	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-19	個	個	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+19	個	個	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 20	車站	車站	NOUN	NN	_	16	obj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
@@ -5146,12 +5146,12 @@
 5	本	本	DET	DT	_	6	det	_	SpaceAfter=No
 6	優惠	優惠	NOUN	NN	_	4	obj	_	SpaceAfter=No
 7	4	4	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	個	個	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
+8	個	個	NOUN	NNB	_	9	clf	_	SpaceAfter=No
 9	月	月	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No
 11	另加	另加	VERB	VV	_	27	csubj	_	SpaceAfter=No
 12	2012	2012	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
-13	年	年	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+13	年	年	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 14	優惠	優惠	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	餘額	餘額	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 16	可	可	AUX	MD	_	17	aux	_	SpaceAfter=No
@@ -5160,7 +5160,7 @@
 19	再	再	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	多	多	ADJ	JJ	_	23	amod	_	SpaceAfter=No
 21	5	5	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
-22	個	個	NOUN	NNB	_	23	nmod	_	SpaceAfter=No
+22	個	個	NOUN	NNB	_	23	clf	_	SpaceAfter=No
 23	月	月	NOUN	NN	_	17	nmod:tmod	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	27	punct	_	SpaceAfter=No
 25	共	共	ADV	RB	_	27	advmod	_	SpaceAfter=No
@@ -5168,14 +5168,14 @@
 27	維持	維持	VERB	VV	_	0	root	_	SpaceAfter=No
 28	優惠	優惠	NOUN	NN	_	27	obj	_	SpaceAfter=No
 29	9	9	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No
-30	個	個	NOUN	NNB	_	31	nmod	_	SpaceAfter=No
+30	個	個	NOUN	NNB	_	31	clf	_	SpaceAfter=No
 31	月	月	NOUN	NN	_	27	nmod:tmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	27	punct	_	SpaceAfter=No
 33	至	至	ADP	IN	_	39	case	_	SpaceAfter=No
 34	2014	2014	NUM	CD	NumType=Card	35	nummod	_	SpaceAfter=No
-35	年	年	NOUN	NNB	_	39	nmod	_	SpaceAfter=No
+35	年	年	NOUN	NNB	_	39	clf	_	SpaceAfter=No
 36	3	3	NUM	CD	NumType=Card	37	nummod	_	SpaceAfter=No
-37	月	月	NOUN	NNB	_	39	nmod	_	SpaceAfter=No
+37	月	月	NOUN	NNB	_	39	clf	_	SpaceAfter=No
 38	31	31	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No
 39	日	日	NOUN	NNB	_	27	obl	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	27	punct	_	SpaceAfter=No
@@ -5272,7 +5272,7 @@
 11	下	下	ADP	IN	_	10	acl	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
-14	個	個	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+14	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 15	屬	屬	NOUN	NN	_	21	acl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	21	punct	_	SpaceAfter=No
 17	為	為	AUX	VC	_	21	cop	_	SpaceAfter=No
@@ -5487,9 +5487,9 @@
 # sent_id = dev-s191
 # text = 1994年3月13日,612與722線合併成720線(友愛至天瑞),自此720及506線同時以本站為終點站.
 1	1994	1994	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	13	13	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	29	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -5574,7 +5574,7 @@
 21	線	線	PART	SFN	_	15	conj	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
 23	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
-24	個	個	NOUN	NNB	_	26	nmod	_	SpaceAfter=No
+24	個	個	NOUN	NNB	_	26	clf	_	SpaceAfter=No
 25	換乘	換乘	NOUN	NN	_	26	nmod	_	SpaceAfter=No
 26	車站	車站	NOUN	NN	_	0	root	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	26	punct	_	SpaceAfter=No
@@ -5638,7 +5638,7 @@
 13	尾部	尾部	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 14	具有	具有	VERB	VV	_	24	dep	_	SpaceAfter=No
 15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
-16	對	對	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
+16	對	對	NOUN	NNB	_	17	clf	_	SpaceAfter=No
 17	尾須	尾須	NOUN	NN	_	14	obj	_	SpaceAfter=No
 18	或	或	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 19	尾鋏	尾鋏	NOUN	NN	_	17	conj	_	SpaceAfter=No
@@ -5790,7 +5790,7 @@
 30	知道	知道	NOUN	NN	_	28	obj	_	SpaceAfter=No
 31	」	」	PUNCT	''	_	30	punct	_	SpaceAfter=No
 32	這	這	DET	DT	_	33	det	_	SpaceAfter=No
-33	個	個	NOUN	NNB	_	34	nmod	_	SpaceAfter=No
+33	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No
 34	概念	概念	NOUN	NN	_	30	appos	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
@@ -5813,13 +5813,13 @@
 15	於	於	VERB	VV	_	14	mark	_	SpaceAfter=No
 16	尋找	尋找	VERB	VV	_	14	xcomp	_	SpaceAfter=No
 17	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
-18	個	個	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+18	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 19	反例	反例	NOUN	NN	_	16	obj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	22	punct	_	SpaceAfter=No
 21	以	以	ADV	RB	_	22	mark	_	SpaceAfter=No
 22	說明	說明	VERB	VV	_	0	root	_	SpaceAfter=No
 23	這	這	DET	DT	_	24	det	_	SpaceAfter=No
-24	個	個	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
+24	個	個	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 25	猜想	猜想	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
 26	是	是	AUX	VC	_	27	cop	_	SpaceAfter=No
 27	錯誤	錯誤	ADJ	JJ	_	22	ccomp	_	SpaceAfter=No
@@ -5876,7 +5876,7 @@
 # text = 但這個聯盟在1797年因聯軍被拿破崙所率領的法國義大利方面軍打敗,最後兩方議和,聯盟瓦解.
 1	但	但	ADV	RB	_	27	mark	_	SpaceAfter=No
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No
-3	個	個	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+3	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 4	聯盟	聯盟	NOUN	NN	_	27	dep	_	SpaceAfter=No
 5	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 6	1797	1797	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
@@ -6068,7 +6068,7 @@
 # sent_id = dev-s213
 # text = 5月26日,敘利亞自由軍在107處作戰.
 1	5	5	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	26	26	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	12	punct	_	SpaceAfter=No
@@ -6103,7 +6103,7 @@
 5	口吃	口吃	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 6	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	種	種	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
+8	種	種	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 9	發育	發育	VERB	VV	_	10	case:suff	_	SpaceAfter=No
 10	性	性	PART	SFN	_	12	det	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
@@ -6113,7 +6113,7 @@
 # sent_id = dev-s216
 # text = 10月15日,解放軍渡海發動廈門戰役,先佯攻鼓浪嶼,成功吸引國軍注意力,造成國軍判斷失誤.
 1	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	15	15	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	24	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	24	punct	_	SpaceAfter=No
@@ -6144,7 +6144,7 @@
 # sent_id = dev-s217
 # text = 1949年6月以前,國軍根本未在金門島上設防.
 1	1949	1949	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	6	6	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No
 5	以前	以前	ADP	IN	_	4	acl	_	SpaceAfter=No
@@ -6163,7 +6163,7 @@
 # text = 到6月中旬,國軍廈門要塞司令部才成立金門要塞總台,這才開始構築島上工事,鋪設通信線路.
 1	到	到	ADP	IN	_	4	case	_	SpaceAfter=No
 2	6	6	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+3	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 4	中旬	中旬	NOUN	NN	_	12	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	12	punct	_	SpaceAfter=No
 6	國軍	國軍	NOUN	NN	_	10	nmod	_	SpaceAfter=No
@@ -6297,7 +6297,7 @@
 24	丈夫	丈夫	NOUN	NN	_	30	det	_	SpaceAfter=No
 25	與	與	CCONJ	CC	_	28	cc	_	SpaceAfter=No
 26	10幾	10幾	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No
-27	歲	歲	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+27	歲	歲	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 28	妻子	妻子	NOUN	NN	_	24	conj	_	SpaceAfter=No
 29	的	的	PART	DEC	Case=Gen	24	case:dec	_	SpaceAfter=No
 30	組合	組合	NOUN	NN	_	13	ccomp	_	SpaceAfter=No
@@ -6317,7 +6317,7 @@
 10	貴族	貴族	NOUN	NN	_	15	det	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
 12	那	那	DET	DT	_	13	det	_	SpaceAfter=No
-13	套	套	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+13	套	套	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 14	追求	追求	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	方法	方法	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 16	太	太	ADV	RB	_	17	advmod	_	SpaceAfter=No
@@ -6493,19 +6493,19 @@
 11	人	人	NOUN	NN	_	19	dep	_	SpaceAfter=No
 12	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No
 13	2000	2000	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
-14	年	年	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+14	年	年	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 15	人口	人口	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 16	普查	普查	NOUN	NN	_	19	dep	_	SpaceAfter=No
 17	)	)	PUNCT	)	_	16	punct	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	SpaceAfter=No
 19	下轄	下轄	VERB	VV	_	0	root	_	SpaceAfter=No
 20	10	10	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
-21	個	個	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
+21	個	個	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 22	行政	行政	NOUN	NN	_	23	case:suff	_	SpaceAfter=No
 23	村	村	PART	SFN	_	19	obj	_	SpaceAfter=No
 24	、	、	PUNCT	EC	_	27	punct	_	SpaceAfter=No
 25	3	3	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
-26	個	個	NOUN	NNB	_	27	nmod	_	SpaceAfter=No
+26	個	個	NOUN	NNB	_	27	clf	_	SpaceAfter=No
 27	社區	社區	NOUN	NN	_	23	conj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
@@ -6747,7 +6747,7 @@
 6	系統	系統	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 8	幾	幾	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
-9	個	個	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
+9	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No
 10	顯著	顯著	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 11	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
 12	社會	社會	NOUN	NN	_	17	det	_	SpaceAfter=No
@@ -6825,7 +6825,7 @@
 7	)	)	PUNCT	)	_	6	punct	_	SpaceAfter=No
 8	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	個	個	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+10	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 11	在	在	ADP	IN	_	15	det	_	SpaceAfter=No
 12	2011	2011	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	年	年	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
@@ -6951,9 +6951,9 @@
 # sent_id = dev-s245
 # text = 1973年7月10日,為了要推展體育用品的外銷市場,以貿易商、體育用品批發商、體育用品製造商為基礎的台北市體育用品商業同業公會應運而生,胡益蘭成為第一任理事長,李榮淮成為常務理事長,並且開始針對各國體育用品發展之情況進行調查.
 1	1973	1973	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	10	10	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	60	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	60	punct	_	SpaceAfter=No
@@ -7053,7 +7053,7 @@
 15	站	站	PART	SFN	_	33	dep	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	33	punct	_	SpaceAfter=No
 17	2001	2001	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
-18	年	年	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+18	年	年	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 19	1	1	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
 20	月	月	NOUN	NNB	_	33	nmod:tmod	_	SpaceAfter=No
 21	起	起	ADP	IN	_	20	acl	_	SpaceAfter=No
@@ -7105,7 +7105,7 @@
 25	只有	只有	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 26	防守	防守	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
 27	兩	兩	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
-28	個	個	NOUN	NNB	_	29	nmod	_	SpaceAfter=No
+28	個	個	NOUN	NNB	_	29	clf	_	SpaceAfter=No
 29	星期	星期	NOUN	NN	_	26	nmod:tmod	_	SpaceAfter=No
 30	的	的	PART	DEC	_	26	mark:relcl	_	SpaceAfter=No
 31	能力	能力	NOUN	NN	_	25	obj	_	SpaceAfter=No
@@ -7291,7 +7291,7 @@
 # sent_id = dev-s255
 # text = 這個轉變,可能和義勇軍開赴內地推翻清朝,以及原本領導游擊戰的前台灣民主國軍務大臣李秉瑞殉職有關.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	個	個	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	轉變	轉變	NOUN	NN	_	29	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
 5	可能	可能	AUX	MD	_	29	aux	_	SpaceAfter=No
@@ -7360,7 +7360,7 @@
 # sent_id = dev-s257
 # text = 10月25日陳儀代表同盟國的中華民國政府接管臺灣,接受日本帝國台灣總督兼台灣軍司令官安藤利吉的投降.
 1	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	月	月	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	25	25	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 5	陳	陳	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
@@ -7394,9 +7394,9 @@
 # sent_id = dev-s258
 # text = 1945年8月14日,日本天皇發表終戰詔書,二戰結束.
 1	1945	1945	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	14	14	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -7454,7 +7454,7 @@
 # sent_id = dev-s261
 # text = 二次大戰剛結束時,臺灣糖業鐵路年久失修,且有鋼軌輕重不一、蒸汽機車大多逾齡等問題.
 1	二	二	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	次	次	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	大戰	大戰	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 4	剛	剛	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	結束	結束	VERB	VV	_	14	dep	_	SpaceAfter=No
@@ -7530,9 +7530,9 @@
 # sent_id = dev-s264
 # text = 1956年2月28日在日本東京成立的海外台獨組織「台灣共和國臨時政府」,其領導人稱為「大統領」,但未獲承認.
 1	1956	1956	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	2	2	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	28	28	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 7	在	在	VERB	VV	_	10	acl	_	SpaceAfter=No
@@ -7648,7 +7648,7 @@
 29	鄉	鄉	PART	SFN	_	19	conj	_	SpaceAfter=No
 30	等	等	NOUN	NN	_	19	acl	_	SpaceAfter=No
 31	四	四	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No
-32	個	個	NOUN	NNB	_	34	nmod	_	SpaceAfter=No
+32	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No
 33	山區	山區	NOUN	NN	_	34	nmod	_	SpaceAfter=No
 34	鄉鎮	鄉鎮	NOUN	NN	_	19	appos	_	SpaceAfter=No
 35	為	為	AUX	VC	_	36	cop	_	SpaceAfter=No
@@ -7725,7 +7725,7 @@
 7	揭示	揭示	VERB	VV	_	0	root	_	SpaceAfter=No
 8	出	出	VERB	VV	_	7	mark	_	SpaceAfter=No
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	個	個	NOUN	NNB	_	15	nmod	_	SpaceAfter=No
+10	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 11	沒有	沒有	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 12	頭	頭	NOUN	NN	_	11	obj	_	SpaceAfter=No
 13	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
@@ -7740,7 +7740,7 @@
 3	利物浦	利物浦	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 4	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 5	這	這	DET	DT	_	6	det	_	SpaceAfter=No
-6	個	個	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
+6	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	賽季	賽季	NOUN	NN	_	13	obl	_	SpaceAfter=No
 8	取得	取得	VERB	VV	_	13	acl	_	SpaceAfter=No
 9	英超	英超	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
@@ -7847,7 +7847,7 @@
 7	人	人	NOUN	NN	_	5	appos	_	SpaceAfter=No
 8	鑒定	鑒定	VERB	VV	_	3	ccomp	_	SpaceAfter=No
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	件	件	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
+10	件	件	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 11	偽造	偽造	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
 13	金縷	金縷	NOUN	NN	_	14	nmod	_	SpaceAfter=No
@@ -7963,7 +7963,7 @@
 28	國王	國王	NOUN	NN	_	32	nsubj	_	SpaceAfter=No
 29	是	是	AUX	VC	_	32	cop	_	SpaceAfter=No
 30	一	一	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No
-31	隻	隻	NOUN	NNB	_	32	nmod	_	SpaceAfter=No
+31	隻	隻	NOUN	NNB	_	32	clf	_	SpaceAfter=No
 32	青蛙	青蛙	NOUN	NN	_	23	ccomp	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
@@ -8087,7 +8087,7 @@
 12	相當	相當	ADV	RB	_	13	advmod	_	SpaceAfter=No
 13	喜愛	喜愛	VERB	VV	_	33	dep	_	SpaceAfter=No
 14	這	這	DET	DT	_	15	det	_	SpaceAfter=No
-15	個	個	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 16	地方	地方	NOUN	NN	_	13	obj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	33	punct	_	SpaceAfter=No
 18	在	在	ADP	IN	_	25	case	_	SpaceAfter=No
@@ -8149,9 +8149,9 @@
 # sent_id = dev-s287
 # text = 1977年1月10日,葉企孫侄子葉銘漢交工資給叔父,發覺他病情惡化.
 1	1977	1977	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	10	10	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	18	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	18	punct	_	SpaceAfter=No
@@ -8206,7 +8206,7 @@
 # sent_id = dev-s290
 # text = 1995年5月,葉小文出掌國務院宗教事務局;同年12月,作為國務院特派專員,赴西藏參與主持第十一世班禪的金瓶掣籤和坐床大典.
 1	1995	1995	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
@@ -8248,7 +8248,7 @@
 # sent_id = dev-s291
 # text = 一個月後,在漳州執行偵察任務時,因遭遇暴雨,飛機失事,葉少毅不幸犧牲.
 1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	個	個	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	月	月	NOUN	NN	_	23	nmod:tmod	_	SpaceAfter=No
 4	後	後	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	23	punct	_	SpaceAfter=No
@@ -8292,7 +8292,7 @@
 16	僅	僅	ADV	RB	_	17	advmod	_	SpaceAfter=No
 17	有	有	VERB	VV	_	40	dep	_	SpaceAfter=No
 18	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
-19	張	張	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+19	張	張	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 20	桌	桌	NOUN	NN	_	17	obj	_	SpaceAfter=No
 21	與	與	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 22	椅子	椅子	NOUN	NN	_	20	conj	_	SpaceAfter=No
@@ -8363,9 +8363,9 @@
 # sent_id = dev-s294
 # text = 1812年7月23日,他隨軍前往俄國,9月14日到達莫斯科,之後,他取道柯尼斯堡撤回巴黎.
 1	1812	1812	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	23	23	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
@@ -8375,7 +8375,7 @@
 11	俄國	俄國	PROPN	NNP	_	10	obj	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	17	punct	_	SpaceAfter=No
 13	9	9	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
-14	月	月	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+14	月	月	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 15	14	14	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
 16	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 17	到達	到達	VERB	VV	_	25	dep	_	SpaceAfter=No
@@ -8522,7 +8522,7 @@
 11	興建	興建	VERB	VV	_	0	root	_	SpaceAfter=No
 12	了	了	PART	AS	Aspect=Perf	11	case:aspect	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
-14	座	座	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
+14	座	座	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 15	名	名	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 16	叫	叫	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 17	「	「	PUNCT	``	_	18	punct	_	SpaceAfter=No
@@ -8546,7 +8546,7 @@
 9	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 10	區分	區分	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 11	兩	兩	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-12	種	種	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+12	種	種	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	語言	語言	NOUN	NN	_	10	obj	_	SpaceAfter=No
 14	的	的	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No
 15	標誌	標誌	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -8595,7 +8595,7 @@
 20	也	也	ADV	RB	_	21	mark	_	SpaceAfter=No
 21	入選	入選	VERB	VV	_	47	acl	_	SpaceAfter=No
 22	2009	2009	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	年	年	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
+23	年	年	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 24	美洲	美洲	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
 25	金盃	金盃	NOUN	NN	_	29	det	_	SpaceAfter=No
 26	的	的	PART	DEC	Case=Gen	25	case:dec	_	SpaceAfter=No
@@ -8613,7 +8613,7 @@
 38	及	及	CCONJ	CC	_	39	cc	_	SpaceAfter=No
 39	交出	交出	VERB	VV	_	35	conj	_	SpaceAfter=No
 40	多	多	NUM	CD	NumType=Card	41	nummod	_	SpaceAfter=No
-41	次	次	NOUN	NNB	_	42	nmod	_	SpaceAfter=No
+41	次	次	NOUN	NNB	_	42	clf	_	SpaceAfter=No
 42	助攻	助攻	NOUN	NN	_	39	obj	_	SpaceAfter=No
 43	,	,	PUNCT	,	_	47	punct	_	SpaceAfter=No
 44	表現	表現	AUX	VV	_	45	cop	_	SpaceAfter=No
@@ -8623,7 +8623,7 @@
 48	墨西哥	墨西哥	PROPN	NNP	_	49	nsubj	_	SpaceAfter=No
 49	羸得	羸得	VERB	VV	_	47	ccomp	_	SpaceAfter=No
 50	第五	第五	NUM	CD	NumType=Card	51	nummod	_	SpaceAfter=No
-51	次	次	NOUN	NNB	_	54	nmod	_	SpaceAfter=No
+51	次	次	NOUN	NNB	_	54	clf	_	SpaceAfter=No
 52	美洲	美洲	PROPN	NNP	_	54	nmod	_	SpaceAfter=No
 53	金盃	金盃	NOUN	NN	_	54	nmod	_	SpaceAfter=No
 54	冠軍	冠軍	NOUN	NN	_	49	obj	_	SpaceAfter=No
@@ -8632,9 +8632,9 @@
 # sent_id = dev-s304
 # text = 2004年5月6日,吉田美和選在生日這天,透過網站向世人宣布與末田健閃電結婚的消息.
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	6	6	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	20	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
@@ -8705,7 +8705,7 @@
 12	下轄	下轄	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
 13	的	的	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
-15	個	個	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 16	鎮	鎮	NOUN	NN	_	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
@@ -8794,7 +8794,7 @@
 37	,	,	PUNCT	,	_	38	punct	_	SpaceAfter=No
 38	蟬聯	蟬聯	VERB	VV	_	0	root	_	SpaceAfter=No
 39	四	四	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
-40	周	周	NOUN	NNB	_	41	nmod	_	SpaceAfter=No
+40	周	周	NOUN	NNB	_	41	clf	_	SpaceAfter=No
 41	冠軍	冠軍	NOUN	NN	_	38	obj	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	38	punct	_	SpaceAfter=No
 
@@ -8863,7 +8863,7 @@
 2	中	中	NOUN	NN	_	1	acl	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
-5	條	條	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
+5	條	條	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 6	南北向	南北向	NOUN	NN	_	8	det	_	SpaceAfter=No
 7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
 8	大道	大道	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -8902,7 +8902,7 @@
 23	同時	同時	NOUN	NN	_	24	nmod:tmod	_	SpaceAfter=No
 24	容納	容納	VERB	VV	_	51	dep	_	SpaceAfter=No
 25	3,400	3,400	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
-26	名	名	NOUN	NNB	_	27	nmod	_	SpaceAfter=No
+26	名	名	NOUN	NNB	_	27	clf	_	SpaceAfter=No
 27	觀眾	觀眾	NOUN	NN	_	24	obj	_	SpaceAfter=No
 28	,	,	PUNCT	,	_	51	punct	_	SpaceAfter=No
 29	球場	球場	NOUN	NN	_	34	nsubj	_	SpaceAfter=No
@@ -8969,13 +8969,13 @@
 # sent_id = dev-s315
 # text = 這種行為本身造成了一種對後現代理解的偏激和錯位.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	種	種	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	種	種	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	行為	行為	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 4	本身	本身	PRON	PRD	_	3	appos	_	SpaceAfter=No
 5	造成	造成	VERB	VV	_	0	root	_	SpaceAfter=No
 6	了	了	PART	AS	Aspect=Perf	5	case:aspect	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	種	種	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
+8	種	種	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 9	對	對	ADP	IN	_	11	case	_	SpaceAfter=No
 10	後	後	PART	PFA	_	11	case:pref	_	SpaceAfter=No
 11	現代	現代	NOUN	NN	_	12	obl	_	SpaceAfter=No
@@ -9072,7 +9072,7 @@
 1	向則錯	向則錯	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	個	個	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
+4	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 5	位	位	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No
 6	於	於	VERB	VV	_	5	mark	_	SpaceAfter=No
 7	中國	中國	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
@@ -9265,7 +9265,7 @@
 # sent_id = dev-s326
 # text = 這次叛亂大大削弱了帝國在巴爾幹地區的防禦力量,導致1048年佩切涅格人入侵該地區,並在此後5年多次進行劫掠,造成很大破壞.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	次	次	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	叛亂	叛亂	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 4	大大	大大	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	削弱	削弱	VERB	VV	_	15	acl	_	SpaceAfter=No
@@ -9545,7 +9545,7 @@
 72	末	末	ADP	IN	_	71	acl	_	SpaceAfter=No
 73	最後	最後	NOUN	NN	_	80	nmod	_	SpaceAfter=No
 74	一	一	NUM	CD	NumType=Card	75	nummod	_	SpaceAfter=No
-75	支	支	NOUN	NNB	_	80	nmod	_	SpaceAfter=No
+75	支	支	NOUN	NNB	_	80	clf	_	SpaceAfter=No
 76	有	有	VERB	VV	_	80	acl:relcl	_	SpaceAfter=No
 77	戰力	戰力	NOUN	NN	_	76	obj	_	SpaceAfter=No
 78	的	的	PART	DEC	_	76	mark:relcl	_	SpaceAfter=No
@@ -9639,9 +9639,9 @@
 # sent_id = dev-s339
 # text = 2008年6月28日,成立中國首個以同性戀者及其親友為主體的民間組織----同性戀親友會並任會長3年半.
 1	2008	2008	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	6	6	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	28	28	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	29	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -9808,7 +9808,7 @@
 10	中	中	ADP	IN	_	9	acl	_	SpaceAfter=No
 11	羅森博格	羅森博格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
 12	這	這	DET	DT	_	13	det	_	SpaceAfter=No
-13	個	個	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
+13	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 14	角色	角色	NOUN	NN	_	11	appos	_	SpaceAfter=No
 15	是	是	VERB	VC	_	33	dep	_	SpaceAfter=No
 16	讓	讓	VERB	VV	Voice=Cau	15	xcomp	_	SpaceAfter=No
@@ -9832,7 +9832,7 @@
 34	了	了	PART	AS	Aspect=Perf	33	case:aspect	_	SpaceAfter=No
 35	羅森博格	羅森博格	PROPN	NNP	_	40	det	_	SpaceAfter=No
 36	這	這	DET	DT	_	37	det	_	SpaceAfter=No
-37	個	個	NOUN	NNB	_	38	nmod	_	SpaceAfter=No
+37	個	個	NOUN	NNB	_	38	clf	_	SpaceAfter=No
 38	角色	角色	NOUN	NN	_	35	appos	_	SpaceAfter=No
 39	的	的	PART	DEC	Case=Gen	35	case:dec	_	SpaceAfter=No
 40	徵選	徵選	NOUN	NN	_	33	obj	_	SpaceAfter=No
@@ -9866,7 +9866,7 @@
 3	克林姆	克林姆	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 4	創作	創作	VERB	VV	_	11	acl	_	SpaceAfter=No
 5	這	這	DET	DT	_	6	det	_	SpaceAfter=No
-6	幅	幅	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
+6	幅	幅	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	畫	畫	NOUN	NN	_	4	obj	_	SpaceAfter=No
 8	時	時	ADP	IN	_	4	mark	_	SpaceAfter=No
 9	為	為	AUX	VC	_	11	cop	_	SpaceAfter=No
@@ -9880,7 +9880,7 @@
 17	母親	母親	NOUN	NN	_	26	obl	_	SpaceAfter=No
 18	及	及	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 19	兩	兩	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
-20	個	個	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
+20	個	個	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 21	尚	尚	ADV	RB	_	22	advmod	_	SpaceAfter=No
 22	未	未	ADV	RB	Polarity=Neg	23	advmod	_	SpaceAfter=No
 23	結婚	結婚	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No
@@ -9894,9 +9894,9 @@
 # sent_id = dev-s349
 # text = 1988年11月15日,他於倫敦病逝,終年73歲.
 1	1988	1988	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	15	15	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
@@ -10086,7 +10086,7 @@
 9	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
 10	停賽	停賽	VERB	VV	_	0	root	_	SpaceAfter=No
 11	四	四	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
-12	個	個	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	月	月	NOUN	NN	_	10	obj	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -10128,7 +10128,7 @@
 3	北京	北京	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 4	大學	大學	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 5	第一	第一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	個	個	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
+6	個	個	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 7	講	講	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 8	歐洲	歐洲	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 9	文學	文學	NOUN	NN	_	10	case:suff	_	SpaceAfter=No
@@ -10255,9 +10255,9 @@
 # sent_id = dev-s362
 # text = 1946年10月19日他被首都高等法院判處死刑,1947年(民國36年)5月上訴仍被維持原判,但遲遲未執行槍決.
 1	1946	1946	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	10	10	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	19	19	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 7	他	他	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No
@@ -10777,7 +10777,7 @@
 13	,	,	PUNCT	,	_	31	punct	_	SpaceAfter=No
 14	比起	比起	VERB	VV	_	31	advcl	_	SpaceAfter=No
 15	這	這	DET	DT	_	16	det	_	SpaceAfter=No
-16	個	個	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+16	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 17	同母	同母	NOUN	NN	_	19	det	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	17	case:dec	_	SpaceAfter=No
 19	妹妹	妹妹	NOUN	NN	_	14	obj	_	SpaceAfter=No
@@ -10816,7 +10816,7 @@
 17	包括	包括	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 18	全球	全球	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 19	多	多	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
-20	個	個	NOUN	NNB	_	21	nmod	_	SpaceAfter=No
+20	個	個	NOUN	NNB	_	21	clf	_	SpaceAfter=No
 21	市場	市場	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 22	最大	最大	ADJ	JJ	_	27	amod	_	SpaceAfter=No
 23	的	的	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No
@@ -10950,7 +10950,7 @@
 14	初期	初期	NOUN	NN	_	10	conj	_	SpaceAfter=No
 15	的	的	PART	DEC	Case=Gen	7	case:dec	_	SpaceAfter=No
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
-17	個	個	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
+17	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 18	行政	行政	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 19	區劃	區劃	NOUN	NN	_	30	dep	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	30	punct	_	SpaceAfter=No
@@ -11294,7 +11294,7 @@
 23	鎖定	鎖定	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No
 24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
 25	一	一	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No
-26	塊	塊	NOUN	NNB	_	28	nmod	_	SpaceAfter=No
+26	塊	塊	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 27	肥碩	肥碩	ADJ	JJ	_	28	amod	_	SpaceAfter=No
 28	蛋糕	蛋糕	NOUN	NN	_	18	obj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	18	punct	_	SpaceAfter=No
@@ -11315,7 +11315,7 @@
 12	縣	縣	PART	SFN	_	16	det	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	12	case:dec	_	SpaceAfter=No
 14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No
-15	個	個	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 16	城市	城市	NOUN	NN	_	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
@@ -11354,7 +11354,7 @@
 # sent_id = dev-s400
 # text = 2001年5月,經組織批准,哈旺羅布享受正廳級職務工資和醫療待遇,提前退休.
 1	2001	2001	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	21	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -11500,7 +11500,7 @@
 2	至少	至少	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	1000	1000	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
-5	名	名	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+5	名	名	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 6	哈瑞迪	哈瑞迪	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 7	自願	自願	ADV	RB	_	8	advmod	_	SpaceAfter=No
 8	入伍	入伍	VERB	VV	_	3	ccomp	_	SpaceAfter=No
@@ -11547,7 +11547,7 @@
 1	該處	該處	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 2	為	為	AUX	VC	_	6	cop	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	個	個	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	小型	小型	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	遺址	遺址	NOUN	NN	_	15	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -11577,7 +11577,7 @@
 7	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No
 8	了	了	PART	AS	Aspect=Perf	7	case:aspect	_	SpaceAfter=No
 9	數	數	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	宗	宗	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+10	宗	宗	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 11	殘暴	殘暴	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
 13	私刑	私刑	NOUN	NN	_	38	nsubj	_	SpaceAfter=No
@@ -11585,12 +11585,12 @@
 15	其中	其中	NOUN	NN	_	16	advmod	_	SpaceAfter=No
 16	有	有	VERB	VV	_	38	acl	_	SpaceAfter=No
 17	兩	兩	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
-18	名	名	NOUN	NNB	_	20	nmod	_	SpaceAfter=No
+18	名	名	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 19	黑人	黑人	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	男子	男子	NOUN	NN	_	34	nsubj:pass	_	SpaceAfter=No
 21	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 22	兩	兩	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	名	名	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
+23	名	名	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 24	黑人	黑人	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 25	婦女	婦女	NOUN	NN	_	20	conj	_	SpaceAfter=No
 26	在	在	VERB	VV	_	34	acl	_	SpaceAfter=No
@@ -11607,7 +11607,7 @@
 37	亦	亦	ADV	RB	_	38	mark	_	SpaceAfter=No
 38	有	有	VERB	VV	_	7	ccomp	_	SpaceAfter=No
 39	一	一	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
-40	名	名	NOUN	NNB	_	49	nmod	_	SpaceAfter=No
+40	名	名	NOUN	NNB	_	49	clf	_	SpaceAfter=No
 41	剛	剛	ADV	RB	_	45	advmod	_	SpaceAfter=No
 42	從	從	ADP	IN	_	44	case	_	SpaceAfter=No
 43	二戰	二戰	NOUN	NN	_	44	nmod	_	SpaceAfter=No
@@ -11692,7 +11692,7 @@
 20	前	前	ADP	IN	_	16	mark	_	SpaceAfter=No
 21	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
 22	數	數	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
-23	個	個	NOUN	NNB	_	24	nmod	_	SpaceAfter=No
+23	個	個	NOUN	NNB	_	24	clf	_	SpaceAfter=No
 24	月	月	NOUN	NN	_	28	dep	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	28	punct	_	SpaceAfter=No
 26	他	他	PRON	PRP	Person=3	28	nsubj	_	SpaceAfter=No
@@ -11786,7 +11786,7 @@
 # sent_id = dev-s414
 # text = 這個結果來自於次文化成員多樣化的喜好.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	個	個	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	結果	結果	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 4	來	來	VERB	VV	_	0	root	_	SpaceAfter=No
 5	自	自	VERB	VV	_	4	mark	_	SpaceAfter=No
@@ -11968,7 +11968,7 @@
 4	為	為	VERB	VC	_	3	mark	_	SpaceAfter=No
 5	歐洲	歐洲	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 6	第二	第二	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	個	個	NOUN	NNB	_	13	nmod	_	SpaceAfter=No
+7	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 8	擁有	擁有	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No
 9	住房	住房	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 10	抗告	抗告	VERB	VV	_	11	case:suff	_	SpaceAfter=No
@@ -12072,7 +12072,7 @@
 # sent_id = dev-s425
 # text = 90年代後期他的財務狀況和名聲出現了通貨膨脹.
 1	90	90	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年代	年代	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	年代	年代	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	後期	後期	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
 4	他	他	PRON	PRP	Person=3	7	det	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
@@ -12187,7 +12187,7 @@
 31	視作	視作	VERB	VV	_	24	xcomp	_	SpaceAfter=No
 32	為	為	VERB	VC	_	31	mark	_	SpaceAfter=No
 33	一	一	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No
-34	種	種	NOUN	NNB	_	36	nmod	_	SpaceAfter=No
+34	種	種	NOUN	NNB	_	36	clf	_	SpaceAfter=No
 35	物質	物質	NOUN	NN	_	36	nmod	_	SpaceAfter=No
 36	形式	形式	NOUN	NN	_	32	obj	_	SpaceAfter=No
 37	與	與	CCONJ	CC	_	38	cc	_	SpaceAfter=No
@@ -12364,9 +12364,9 @@
 # sent_id = dev-s436
 # text = 1825年1月28日皮克特生於維吉尼亞州的里奇蒙,1846年於西點軍校畢業.
 1	1825	1825	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	28	28	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 7	皮克特	皮克特	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
@@ -12426,7 +12426,7 @@
 10	王室	王室	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 11	最後	最後	NOUN	NN	_	16	nmod	_	SpaceAfter=No
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
-13	樁	樁	NOUN	NNB	_	16	nmod	_	SpaceAfter=No
+13	樁	樁	NOUN	NNB	_	16	clf	_	SpaceAfter=No
 14	門當戶對	門當戶對	ADJ	JJ	_	16	amod	_	SpaceAfter=No
 15	的	的	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
 16	婚姻	婚姻	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -12453,7 +12453,7 @@
 # text = 直到1934年8月,應瑪麗娜公主的姐姐奧爾加公主和姐夫保羅王子的邀請,喬治王子來到南斯拉夫才和瑪麗娜公主訂婚.
 1	直到	直到	ADP	IN	_	5	case	_	SpaceAfter=No
 2	1934	1934	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	年	年	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+3	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 4	8	8	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	月	月	NOUN	NNB	_	29	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	29	punct	_	SpaceAfter=No
@@ -12492,7 +12492,7 @@
 6	接拍	接拍	VERB	VV	_	37	dep	_	SpaceAfter=No
 7	了	了	PART	AS	Aspect=Perf	6	case:aspect	_	SpaceAfter=No
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
-9	部	部	NOUN	NNB	_	18	nmod	_	SpaceAfter=No
+9	部	部	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 10	名	名	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 11	為	為	AUX	VC	_	15	cop	_	SpaceAfter=No
 12	《	《	PUNCT	(	_	15	punct	_	SpaceAfter=No
@@ -12504,7 +12504,7 @@
 18	電影	電影	NOUN	NN	_	6	obj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	37	punct	_	SpaceAfter=No
 20	這	這	DET	DT	_	21	det	_	SpaceAfter=No
-21	部	部	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
+21	部	部	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 22	電影	電影	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
 23	講述	講述	VERB	VV	_	33	csubj	_	SpaceAfter=No
 24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
@@ -12541,7 +12541,7 @@
 8	界	界	PART	SFN	_	12	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
-11	顆	顆	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
+11	顆	顆	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 12	新星	新星	NOUN	NN	_	5	obj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -12557,7 +12557,7 @@
 8	光纖	光纖	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
 9	是	是	AUX	VC	_	22	cop	_	SpaceAfter=No
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
-11	種	種	NOUN	NNB	_	22	nmod	_	SpaceAfter=No
+11	種	種	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 12	設計	設計	VERB	VV	_	13	acl	_	SpaceAfter=No
 13	用	用	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 14	來	來	ADV	RB	_	15	mark	_	SpaceAfter=No
@@ -12579,7 +12579,7 @@
 4	內	內	NOUN	NN	_	3	acl	_	SpaceAfter=No
 5	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 6	多	多	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
-7	種	種	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
+7	種	種	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 8	波長	波長	NOUN	NN	_	10	det	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
 10	光	光	NOUN	NN	_	5	obj	_	SpaceAfter=No
@@ -12613,7 +12613,7 @@
 3	機	機	PART	SFN	_	10	nsubj:pass	_	SpaceAfter=No
 4	直到	直到	ADP	IN	_	7	case	_	SpaceAfter=No
 5	1940	1940	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	年代	年代	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
+6	年代	年代	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	中期	中期	NOUN	NN	_	10	obl	_	SpaceAfter=No
 8	經常	經常	ADV	RB	_	10	advmod	_	SpaceAfter=No
 9	被	被	VERB	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
@@ -12705,7 +12705,7 @@
 5	,	,	PUNCT	,	_	6	punct	_	SpaceAfter=No
 6	設	設	VERB	VV	_	0	root	_	SpaceAfter=No
 7	4	4	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	個	個	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
+8	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No
 9	複式	複式	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	單位	單位	NOUN	NN	_	6	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
@@ -12791,7 +12791,7 @@
 33	香港	香港	PROPN	NNP	_	42	nmod	_	SpaceAfter=No
 34	其中	其中	NOUN	NN	_	42	nmod	_	SpaceAfter=No
 35	一	一	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No
-36	個	個	NOUN	NNB	_	42	nmod	_	SpaceAfter=No
+36	個	個	NOUN	NNB	_	42	clf	_	SpaceAfter=No
 37	最	最	ADV	RB	_	38	advmod	_	SpaceAfter=No
 38	具	具	VERB	VV	_	42	acl:relcl	_	SpaceAfter=No
 39	規模	規模	NOUN	NN	_	38	obj	_	SpaceAfter=No
@@ -12834,9 +12834,9 @@
 # sent_id = dev-s456
 # text = 2011年1月8日,她在亞利桑那州圖森市的Safeway超級市場外舉辦「國會就在你的街角」(Congress on Your Corner)活動時遭槍手擊中頭部受重傷,當時被槍手擊中的另外還有18人.
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	8	8	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	51	nmod:tmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	51	punct	_	SpaceAfter=No
@@ -13298,7 +13298,7 @@
 13	,	,	PUNCT	,	_	25	punct	_	SpaceAfter=No
 14	組織	組織	VERB	VV	_	25	acl	_	SpaceAfter=No
 15	四	四	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
-16	年	年	NOUN	NNB	_	18	nmod	_	SpaceAfter=No
+16	年	年	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 17	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
 18	度	度	NOUN	NNB	_	23	det	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
@@ -13459,13 +13459,13 @@
 # sent_id = dev-s478
 # text = 這場戰役於1553年12月25日發生在智利圖卡佩爾.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
-2	場	場	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
+2	場	場	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	戰役	戰役	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 4	於	於	ADP	IN	_	10	case	_	SpaceAfter=No
 5	1553	1553	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	年	年	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
+6	年	年	NOUN	NNB	_	10	clf	_	SpaceAfter=No
 7	12	12	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	月	月	NOUN	NNB	_	10	nmod	_	SpaceAfter=No
+8	月	月	NOUN	NNB	_	10	clf	_	SpaceAfter=No
 9	25	25	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	日	日	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 11	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -13481,7 +13481,7 @@
 3	環礁	環礁	NOUN	NN	_	8	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case:dec	_	SpaceAfter=No
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	個	個	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
+6	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 7	燈塔	燈塔	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	小島	小島	NOUN	NN	_	1	obj	_	SpaceAfter=No
 9	上	上	NOUN	NN	_	8	acl	_	SpaceAfter=No
@@ -13578,9 +13578,9 @@
 # sent_id = dev-s483
 # text = 2010年1月12日海地地震中三層中較高的兩層倒塌.
 1	2010	2010	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	月	月	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
+4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 5	12	12	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No
 7	海地	海地	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
@@ -13600,7 +13600,7 @@
 # text = 於2004年12月,國家應變計劃正式生效.
 1	於	於	ADP	IN	_	5	case	_	SpaceAfter=No
 2	2004	2004	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	年	年	NOUN	NNB	_	5	nmod	_	SpaceAfter=No
+3	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No
 4	12	12	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	月	月	NOUN	NNB	_	11	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -13641,9 +13641,9 @@
 5	隨即	隨即	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	參與	參與	VERB	VV	_	43	dep	_	SpaceAfter=No
 7	1937	1937	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
-8	年	年	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
+8	年	年	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 9	8	8	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
-10	月	月	NOUN	NNB	_	12	nmod	_	SpaceAfter=No
+10	月	月	NOUN	NNB	_	12	clf	_	SpaceAfter=No
 11	13	13	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	日	日	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No
 13	爆發	爆發	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
@@ -13669,7 +13669,7 @@
 33	過重	過重	ADJ	JJ	_	43	xcomp	_	SpaceAfter=No
 34	於	於	ADP	IN	_	38	case	_	SpaceAfter=No
 35	11	11	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No
-36	月	月	NOUN	NNB	_	38	nmod	_	SpaceAfter=No
+36	月	月	NOUN	NNB	_	38	clf	_	SpaceAfter=No
 37	9	9	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No
 38	日	日	NOUN	NNB	_	43	obl	_	SpaceAfter=No
 39	撤出	撤出	VERB	VV	_	43	acl	_	SpaceAfter=No
@@ -13682,7 +13682,7 @@
 # sent_id = dev-s487
 # text = 1941年12月日軍偷襲珍珠港,隨後進攻緬甸,企圖切斷中國唯一對外之陸上補給線.
 1	1941	1941	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No
 5	日	日	PROPN	NNP	_	6	case:suff	_	SpaceAfter=No
@@ -13803,7 +13803,7 @@
 # sent_id = dev-s491
 # text = 1946年11月,國立中央大學遷回南京.
 1	1946	1946	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
@@ -13818,7 +13818,7 @@
 # sent_id = dev-s492
 # text = 1949年1月,南京政府的失敗已經成為定局,政府機關開始南遷,中大校長周鴻經也奉命遷校.
 1	1949	1949	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
-2	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	月	月	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	25	punct	_	SpaceAfter=No
@@ -13966,7 +13966,7 @@
 # text = 在這段期間內,有許多球員獲選加入國家青年代表隊,畢業後也陸續加入各甲組足球隊,成為國家代表隊的重要來源.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No
-3	段	段	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
+3	段	段	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 4	期間	期間	NOUN	NN	_	7	obl	_	SpaceAfter=No
 5	內	內	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	SpaceAfter=No
@@ -14070,7 +14070,7 @@
 18	,	,	PUNCT	,	_	34	punct	_	SpaceAfter=No
 19	有	有	VERB	VV	_	34	acl	_	SpaceAfter=No
 20	數	數	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
-21	部	部	NOUN	NNB	_	25	nmod	_	SpaceAfter=No
+21	部	部	NOUN	NNB	_	25	clf	_	SpaceAfter=No
 22	可	可	AUX	MD	_	23	aux	_	SpaceAfter=No
 23	上網	上網	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No
 24	的	的	PART	DEC	_	23	mark:relcl	_	SpaceAfter=No
