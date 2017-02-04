@@ -378,10 +378,10 @@
 24	.	.	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = dev-s16
-# text = 當《GameInformer》提到遊戲在日本的知名度時甚至說「四百萬日本人可能錯了」.
+# text = 當《Game Informer》提到遊戲在日本的知名度時甚至說「四百萬日本人可能錯了」.
 1	當	當	ADP	IN	_	6	case	_	SpaceAfter=No
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
-3	Game	Game	X	FW	_	6	nsubj	_	SpaceAfter=No
+3	Game	Game	X	FW	_	6	nsubj	_	_
 4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No
 5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No
 6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No
@@ -1566,7 +1566,7 @@
 60	.	.	PUNCT	.	_	57	punct	_	SpaceAfter=No
 
 # sent_id = dev-s54
-# text = 五歲後,雌性約2.5米長,300公斤,成長速度減慢很多,但雄性可能到五到八歲性發育完全之後才停止成長,到那時長到3.33m左右,而且胸,頸和上身寬大,重量達到600-1100公斤.
+# text = 五歲後,雌性約2.5米長,300公斤,成長速度減慢很多,但雄性可能到五到八歲性發育完全之後才停止成長,到那時長到3.33 m左右,而且胸,頸和上身寬大,重量達到600-1100公斤.
 1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	歲	歲	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
 3	後	後	ADP	IN	_	9	advmod	_	SpaceAfter=No
@@ -1605,7 +1605,7 @@
 36	那	那	DET	DT	_	37	det	_	SpaceAfter=No
 37	時	時	NOUN	NN	_	38	obl	_	SpaceAfter=No
 38	長到	長到	VERB	VV	_	52	dep	_	SpaceAfter=No
-39	3.33	3.33	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
+39	3.33	3.33	NUM	CD	NumType=Card	40	nummod	_	_
 40	m	m	NOUN	NNB	_	38	obj	_	SpaceAfter=No
 41	左右	左右	ADP	IN	_	40	acl	_	SpaceAfter=No
 42	,	,	PUNCT	,	_	52	punct	_	SpaceAfter=No
@@ -2191,7 +2191,7 @@
 20	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = dev-s72
-# text = 截至2009年,千禧公園是全芝加哥人氣第二高的旅遊景點,僅次於海軍碼頭(Navy'sPier).
+# text = 截至2009年,千禧公園是全芝加哥人氣第二高的旅遊景點,僅次於海軍碼頭(Navy's Pier).
 1	截	截	VERB	VV	_	19	acl	_	SpaceAfter=No
 2	至	至	VERB	VV	_	1	mark	_	SpaceAfter=No
 3	2009	2009	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -2215,7 +2215,7 @@
 21	海軍	海軍	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
 22	碼頭	碼頭	NOUN	NN	_	19	obl	_	SpaceAfter=No
 23	(	(	PUNCT	(	_	24	punct	_	SpaceAfter=No
-24	Navy's	Navy's	X	FW	_	22	appos	_	SpaceAfter=No
+24	Navy's	Navy's	X	FW	_	22	appos	_	_
 25	Pier	Pier	X	FW	_	24	flat:foreign	_	SpaceAfter=No
 26	)	)	PUNCT	)	_	24	punct	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -2440,12 +2440,12 @@
 11	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = dev-s80
-# text = 華山松(學名:Pinusarmandii),是一種松科植物.
+# text = 華山松(學名:Pinus armandii),是一種松科植物.
 1	華山松	華山松	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 2	(	(	PUNCT	(	_	3	punct	_	SpaceAfter=No
 3	學名	學名	NOUN	NN	_	1	appos	_	SpaceAfter=No
 4	:	:	PUNCT	:	_	3	punct	_	SpaceAfter=No
-5	Pinus	Pinus	X	FW	_	3	appos	_	SpaceAfter=No
+5	Pinus	Pinus	X	FW	_	3	appos	_	_
 6	armandii	armandii	X	FW	_	5	flat:foreign	_	SpaceAfter=No
 7	)	)	PUNCT	)	_	3	punct	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
@@ -2476,7 +2476,7 @@
 16	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = dev-s82
-# text = 他手上有24師的兵力,意圖仿效俄軍將領IvanPaskievich在1831年的「十一月起義」中採用的方法去佔領華沙.
+# text = 他手上有24師的兵力,意圖仿效俄軍將領Ivan Paskievich在1831年的「十一月起義」中採用的方法去佔領華沙.
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	手上	手上	NOUN	NN	_	3	advmod	_	SpaceAfter=No
 3	有	有	VERB	VV	_	9	acl	_	SpaceAfter=No
@@ -2490,7 +2490,7 @@
 11	俄	俄	PROPN	NNP	_	12	case:suff	_	SpaceAfter=No
 12	軍	軍	PART	SFN	_	13	nmod	_	SpaceAfter=No
 13	將領	將領	NOUN	NN	_	14	appos	_	SpaceAfter=No
-14	Ivan	Ivan	X	FW	_	26	nsubj	_	SpaceAfter=No
+14	Ivan	Ivan	X	FW	_	26	nsubj	_	_
 15	Paskievich	Paskievich	X	FW	_	14	flat:foreign	_	SpaceAfter=No
 16	在	在	ADP	IN	_	23	case	_	SpaceAfter=No
 17	1831	1831	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -3179,14 +3179,14 @@
 16	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = dev-s108
-# text = 中校威廉‧陸斯佛得(WilliamDraytonRutherford)是此步兵團的英勇將領之一,死於斯特拉斯堡.
+# text = 中校威廉‧陸斯佛得(William Drayton Rutherford)是此步兵團的英勇將領之一,死於斯特拉斯堡.
 1	中校	中校	NOUN	NN	_	4	appos	_	SpaceAfter=No
 2	威廉	威廉	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 3	‧	‧	PUNCT	/	_	4	punct	_	SpaceAfter=No
 4	陸斯佛得	陸斯佛得	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	William	William	X	FW	_	4	appos	_	SpaceAfter=No
-7	Drayton	Drayton	X	FW	_	6	flat:foreign	_	SpaceAfter=No
+6	William	William	X	FW	_	4	appos	_	_
+7	Drayton	Drayton	X	FW	_	6	flat:foreign	_	_
 8	Rutherford	Rutherford	X	FW	_	6	flat:foreign	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	6	punct	_	SpaceAfter=No
 10	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
@@ -4508,11 +4508,11 @@
 17	.	.	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = dev-s153
-# text = 卡斯科奎姆河(KuskokwimRiver)是美國阿拉斯加州南部的一條河流.
+# text = 卡斯科奎姆河(Kuskokwim River)是美國阿拉斯加州南部的一條河流.
 1	卡斯科奎姆	卡斯科奎姆	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	河	河	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 3	(	(	PUNCT	(	_	4	punct	_	SpaceAfter=No
-4	Kuskokwim	Kuskokwim	X	FW	_	2	appos	_	SpaceAfter=No
+4	Kuskokwim	Kuskokwim	X	FW	_	2	appos	_	_
 5	River	River	X	FW	_	4	flat:foreign	_	SpaceAfter=No
 6	)	)	PUNCT	)	_	4	punct	_	SpaceAfter=No
 7	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
@@ -8011,14 +8011,14 @@
 18	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = dev-s281
-# text = 《西城故事》(WestSideStory)是桑坦事業的突破.
+# text = 《西城故事》(West Side Story)是桑坦事業的突破.
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
 2	西城	西城	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	故事	故事	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	West	West	X	FW	_	3	appos	_	SpaceAfter=No
-7	Side	Side	X	FW	_	6	flat:foreign	_	SpaceAfter=No
+6	West	West	X	FW	_	3	appos	_	_
+7	Side	Side	X	FW	_	6	flat:foreign	_	_
 8	Story	Story	X	FW	_	6	flat:foreign	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	6	punct	_	SpaceAfter=No
 10	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -8754,7 +8754,7 @@
 13	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = dev-s309
-# text = 上映第四周為日本黃金周過後的第一周,柯南歷屆劇場版票房通常從這時期開始增幅放緩,但M17卻依然成為周票房榜冠軍,蟬聯四周冠軍.
+# text = 上映第四周為日本黃金周過後的第一周,柯南歷屆劇場版票房通常從這時期開始增幅放緩,但M 17卻依然成為周票房榜冠軍,蟬聯四周冠軍.
 1	上映	上映	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	第四	第四	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	周	周	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No
@@ -8781,7 +8781,7 @@
 24	放緩	放緩	VERB	VV	_	22	xcomp	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	38	punct	_	SpaceAfter=No
 26	但	但	ADV	RB	_	38	mark	_	SpaceAfter=No
-27	M	M	X	FW	_	38	nsubj	_	SpaceAfter=No
+27	M	M	X	FW	_	38	nsubj	_	_
 28	17	17	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No
 29	卻	卻	ADV	RB	_	31	mark	_	SpaceAfter=No
 30	依然	依然	ADV	RB	_	31	advmod	_	SpaceAfter=No
@@ -9795,7 +9795,7 @@
 10	.	.	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = dev-s346
-# text = 最初在1996年未上映的試播節目中羅森博格這個角色是讓RiffRegan飾演,但在確定會上映並重新徵選角色後,Hannigan參加了羅森博格這個角色的徵選.
+# text = 最初在1996年未上映的試播節目中羅森博格這個角色是讓Riff Regan飾演,但在確定會上映並重新徵選角色後,Hannigan參加了羅森博格這個角色的徵選.
 1	最初	最初	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 3	1996	1996	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -9812,7 +9812,7 @@
 14	角色	角色	NOUN	NN	_	11	appos	_	SpaceAfter=No
 15	是	是	VERB	VC	_	33	dep	_	SpaceAfter=No
 16	讓	讓	VERB	VV	Voice=Cau	15	xcomp	_	SpaceAfter=No
-17	Riff	Riff	X	FW	_	19	nsubj	_	SpaceAfter=No
+17	Riff	Riff	X	FW	_	19	nsubj	_	_
 18	Regan	Regan	X	FW	_	17	flat:foreign	_	SpaceAfter=No
 19	飾演	飾演	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	33	punct	_	SpaceAfter=No
@@ -11103,7 +11103,7 @@
 72	.	.	PUNCT	.	_	28	punct	_	SpaceAfter=No
 
 # sent_id = dev-s391
-# text = 後來卡通造型的桑德斯上校(由演員RandyQuaid配音),出現在越來越多的肯德基廣告中.
+# text = 後來卡通造型的桑德斯上校(由演員Randy Quaid配音),出現在越來越多的肯德基廣告中.
 1	後來	後來	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
 2	卡通	卡通	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	造型	造型	NOUN	NN	_	6	det	_	SpaceAfter=No
@@ -11113,7 +11113,7 @@
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
 8	由	由	VERB	VV	_	15	acl	_	SpaceAfter=No
 9	演員	演員	NOUN	NN	_	10	appos	_	SpaceAfter=No
-10	Randy	Randy	X	FW	_	12	nsubj	_	SpaceAfter=No
+10	Randy	Randy	X	FW	_	12	nsubj	_	_
 11	Quaid	Quaid	X	FW	_	10	flat:foreign	_	SpaceAfter=No
 12	配音	配音	VERB	VV	_	8	ccomp	_	SpaceAfter=No
 13	)	)	PUNCT	)	_	8	punct	_	SpaceAfter=No
@@ -11377,7 +11377,7 @@
 22	.	.	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = dev-s401
-# text = 他是瑞士著名穆斯林學者塔里克·拉馬丹的外祖父,也是著名埃及美術類兄弟會成員賈麥勒·班納(Gamalal-Banna)的哥哥.
+# text = 他是瑞士著名穆斯林學者塔里克·拉馬丹的外祖父,也是著名埃及美術類兄弟會成員賈麥勒·班納(Gamal al-Banna)的哥哥.
 1	他	他	PRON	PRP	Person=3	29	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
 3	瑞士	瑞士	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
@@ -11402,7 +11402,7 @@
 22	·	·	PUNCT	/	_	23	punct	_	SpaceAfter=No
 23	班納	班納	PROPN	NNP	_	29	det	_	SpaceAfter=No
 24	(	(	PUNCT	(	_	25	punct	_	SpaceAfter=No
-25	Gamal	Gamal	X	FW	_	23	appos	_	SpaceAfter=No
+25	Gamal	Gamal	X	FW	_	23	appos	_	_
 26	al-Banna	al-Banna	X	FW	_	25	flat:foreign	_	SpaceAfter=No
 27	)	)	PUNCT	)	_	25	punct	_	SpaceAfter=No
 28	的	的	PART	DEC	Case=Gen	23	case:dec	_	SpaceAfter=No
@@ -12755,7 +12755,7 @@
 16	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = dev-s454
-# text = 學校亦於1956年成立了香港的第一隊香港紅十字會青年團(YouthUnitOne),其後逐漸普及於其他中學,成為香港其中一個最具規模的制服團體.
+# text = 學校亦於1956年成立了香港的第一隊香港紅十字會青年團(Youth Unit One),其後逐漸普及於其他中學,成為香港其中一個最具規模的制服團體.
 1	學校	學校	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	亦	亦	ADV	RB	_	6	mark	_	SpaceAfter=No
 3	於	於	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -12774,8 +12774,8 @@
 16	青年	青年	NOUN	NN	_	17	case:suff	_	SpaceAfter=No
 17	團	團	PART	SFN	_	6	obj	_	SpaceAfter=No
 18	(	(	PUNCT	(	_	19	punct	_	SpaceAfter=No
-19	Youth	Youth	X	FW	_	17	appos	_	SpaceAfter=No
-20	Unit	Unit	X	FW	_	19	flat:foreign	_	SpaceAfter=No
+19	Youth	Youth	X	FW	_	17	appos	_	_
+20	Unit	Unit	X	FW	_	19	flat:foreign	_	_
 21	One	One	X	FW	_	19	flat:foreign	_	SpaceAfter=No
 22	)	)	PUNCT	)	_	19	punct	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	31	punct	_	SpaceAfter=No
@@ -12832,7 +12832,7 @@
 28	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = dev-s456
-# text = 2011年1月8日,她在亞利桑那州圖森市的Safeway超級市場外舉辦「國會就在你的街角」(CongressonYourCorner)活動時遭槍手擊中頭部受重傷,當時被槍手擊中的另外還有18人.
+# text = 2011年1月8日,她在亞利桑那州圖森市的Safeway超級市場外舉辦「國會就在你的街角」(Congress on Your Corner)活動時遭槍手擊中頭部受重傷,當時被槍手擊中的另外還有18人.
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -12861,9 +12861,9 @@
 26	街角	街角	NOUN	NN	_	23	obj	_	SpaceAfter=No
 27	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No
 28	(	(	PUNCT	(	_	29	punct	_	SpaceAfter=No
-29	Congress	Congress	X	FW	_	23	appos	_	SpaceAfter=No
-30	on	on	X	FW	_	29	flat:foreign	_	SpaceAfter=No
-31	Your	Your	X	FW	_	29	flat:foreign	_	SpaceAfter=No
+29	Congress	Congress	X	FW	_	23	appos	_	_
+30	on	on	X	FW	_	29	flat:foreign	_	_
+31	Your	Your	X	FW	_	29	flat:foreign	_	_
 32	Corner	Corner	X	FW	_	29	flat:foreign	_	SpaceAfter=No
 33	)	)	PUNCT	)	_	29	punct	_	SpaceAfter=No
 34	活動	活動	NOUN	NN	_	23	appos	_	SpaceAfter=No
@@ -13612,15 +13612,15 @@
 12	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = dev-s485
-# text = 國家足球博物館(TheNationalFootballMuseum)是英國的一座博物館.
+# text = 國家足球博物館(The National Football Museum)是英國的一座博物館.
 1	國家	國家	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 2	足球	足球	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	博物	博物	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
 4	館	館	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	The	The	X	FW	_	4	appos	_	SpaceAfter=No
-7	National	National	X	FW	_	6	flat:foreign	_	SpaceAfter=No
-8	Football	Football	X	FW	_	6	flat:foreign	_	SpaceAfter=No
+6	The	The	X	FW	_	4	appos	_	_
+7	National	National	X	FW	_	6	flat:foreign	_	_
+8	Football	Football	X	FW	_	6	flat:foreign	_	_
 9	Museum	Museum	X	FW	_	6	flat:foreign	_	SpaceAfter=No
 10	)	)	PUNCT	)	_	6	punct	_	SpaceAfter=No
 11	是	是	AUX	VC	_	17	cop	_	SpaceAfter=No
