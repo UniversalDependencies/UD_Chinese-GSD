@@ -1,4 +1,4 @@
-Simplified Chinese Universal Dependencies Treebank annotated and converted by
+Traditional Chinese Universal Dependencies Treebank annotated and converted by
 Google.
 
 === Data Stats ================================================================
