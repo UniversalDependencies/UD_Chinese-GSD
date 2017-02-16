@@ -1,6 +1,3 @@
-Simplified Chinese Universal Dependencies Treebank annotated and converted by
-Google.
-
 === Machine-readable metadata =================================================
 Documentation status: partial
 Data source: semi-automatic
@@ -10,6 +7,10 @@ Genre: wiki
 Contributors: Shen, Mo; McDonald, Ryan; Zeman, Daniel
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
+
+
+Traditional Chinese Universal Dependencies Treebank annotated and converted by
+Google.
 
 
 Changelog
