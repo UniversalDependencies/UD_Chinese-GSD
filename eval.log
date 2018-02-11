@@ -1,0 +1,41 @@
+Sun Feb 11 20:32:22 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Chinese-GSD
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Chinese-GSD:
+commit 5c74c23ca5538218a455180f6382f45572bbda36
+Merge: cae3592 13d48ce
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Size: counted 123283 of 123283 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.62896505112655.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 13648 out of 123283 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 30 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Udapi: found 28871 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 123283 words.
+Genres: found 1 out of 14 known.
+(weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
+(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.696967731357254) = 0.178709674706988
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
+(TOTAL score=0.382757846990455) * (availability=1) * (validity=1) = 0.382757846990455
+STARS = 2
+UD_Chinese-GSD	0.382757846990455	2
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
