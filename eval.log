@@ -1,11 +1,11 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 95f84696ecc537764b7772395d073132bd715b77
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 08:54:01 2018 +0200
+Date:   Wed Apr 11 09:21:53 2018 +0200
 Evaluating the following revision of UD_Chinese-GSD:
-commit 6506780c84214dc649149ab983257982dc26ab6e
-Merge: 1eacc4b dd6e01a
+commit 08703e5c91326c05b2ebec727645c8237c8ea446
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Apr 11 09:15:23 2018 +0200
 Size: counted 123283 of 123283 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62896505112655.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 13648 out of 123283 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 0 bugs.
+Udapi: found 28871 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 123283 words.
 Genres: found 1 out of 14 known.
 validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
@@ -35,8 +35,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.696967731357254) = 0.178709674706988
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.687373231605839) * (availability=1) * (validity=1) = 0.687373231605839
-STARS = 3.5
-UD_Chinese-GSD	0.687373231605839	3.5
+(TOTAL score=0.382757846990455) * (availability=1) * (validity=1) = 0.382757846990455
+STARS = 2
+UD_Chinese-GSD	0.382757846990455	2
