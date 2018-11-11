@@ -1,11 +1,11 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 87d374bbd458d29331d76014d05c52eaac32518d
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:21:53 2018 +0200
+Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-GSD:
-commit 08703e5c91326c05b2ebec727645c8237c8ea446
+commit 55702b7a48443d7290936c8eff59527954175400
+Merge: 03cbbdf 8e42100
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:15:23 2018 +0200
 Size: counted 123283 of 123283 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62896505112655.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -21,7 +21,7 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi: found 28871 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 123283 words.
-Genres: found 1 out of 14 known.
+Genres: found 1 out of 17 known.
 validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
 *** PASSED ***
 validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
@@ -30,13 +30,13 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
-(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
 (weight=0.256410256410256) * (score{size}=0.696967731357254) = 0.178709674706988
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.382757846990455) * (availability=1) * (validity=1) = 0.382757846990455
+(TOTAL score=0.381788228373777) * (availability=1) * (validity=1) = 0.381788228373777
 STARS = 2
-UD_Chinese-GSD	0.382757846990455	2
+UD_Chinese-GSD	0.381788228373777	2
