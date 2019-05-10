@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-GSD:
-commit 55702b7a48443d7290936c8eff59527954175400
-Merge: 03cbbdf 8e42100
+commit f16bc7394d4643ae4b051437d30de89ab38eec98
+Merge: 57d456c 0155b43
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 123283 of 123283 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62896505112655.
