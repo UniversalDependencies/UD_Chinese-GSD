@@ -29,7 +29,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: automatic
 Relations: converted from manual
-Contributors: Shen, Mo; McDonald, Ryan; Zeman, Daniel
-Contributing: to be adopted
-Contact: zeman@ufal.mff.cuni.cz
+Contributors: Shen, Mo; McDonald, Ryan; Zeman, Daniel; Qi, Peng
+Contributing: here
+Contact: pengqi@cs.stanford.edu
 ===============================================================================
