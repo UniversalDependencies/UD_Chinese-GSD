@@ -6,6 +6,10 @@ Google.
 
 # Changelog
 
+* 2019-11-15 v2.5
+  * Google gave permission to drop the "NC" restriction from the license.
+    This applies to the UD annotations (not the underlying content, of which Google claims no ownership or copyright).
+
 2017-03-01 v2.0
   * Conversion to UD v2 by Dan Zeman.
   * Added SpaceAfter=No.
@@ -21,7 +25,7 @@ Google.
 
 === Machine-readable metadata =================================================
 Data available since: UD v1.3
-License: CC BY-NC-SA 4.0
+License: CC BY-SA 4.0
 Includes text: yes
 Genre: wiki
 Lemmas: automatic
