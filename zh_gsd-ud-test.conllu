@@ -1,5 +1,5 @@
 # sent_id = test-s1
-# text = 然而,這樣的處理也衍生了一些問題.
+# text = 然而，這樣的處理也衍生了一些問題。
 1	然而	然而	ADV	RB	_	7	mark	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
 3	這樣	這樣	PRON	PRD	_	5	det	_	SpaceAfter=No
@@ -13,7 +13,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s2
-# text = 自從2004年提出了興建人文大樓的構想,企業界陸續有人提供捐款.
+# text = 自從2004年提出了興建人文大樓的構想，企業界陸續有人提供捐款。
 1	自從	自從	ADP	IN	_	4	case	_	SpaceAfter=No
 2	2004	2004	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	4	nmod:tmod	_	SpaceAfter=No
@@ -35,7 +35,7 @@
 19	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s3
-# text = 杜鵑花為溫帶植物,台北雖然在亞熱帶,但冬季的東北季風卻使得杜鵑花在臺大宜然自得.
+# text = 杜鵑花為溫帶植物，台北雖然在亞熱帶，但冬季的東北季風卻使得杜鵑花在臺大宜然自得。
 1	杜鵑花	杜鵑花	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	為	為	AUX	VC	_	4	cop	_	SpaceAfter=No
 3	溫帶	溫帶	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -61,7 +61,7 @@
 23	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s4
-# text = 臺大醫學人文博物館是一棟兩層樓的建築,沿中山南路與仁愛路成L型.
+# text = 臺大醫學人文博物館是一棟兩層樓的建築，沿中山南路與仁愛路成L型。
 1	臺大	臺大	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	醫學	醫學	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 3	人文	人文	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -89,7 +89,7 @@
 25	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s5
-# text = 樓頂有天文台,現為天文社使用.
+# text = 樓頂有天文台，現為天文社使用。
 1	樓頂	樓頂	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 3	天文	天文	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -103,7 +103,7 @@
 11	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s6
-# text = 國際北極研究中心的主要夥伴是日本和美國,參與會務的還有來自加拿大、中國、丹麥、德國、日本、挪威、俄羅斯、英國和美國的代表.
+# text = 國際北極研究中心的主要夥伴是日本和美國，參與會務的還有來自加拿大、中國、丹麥、德國、日本、挪威、俄羅斯、英國和美國的代表。
 1	國際	國際	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 2	北極	北極	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	研究	研究	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -145,7 +145,7 @@
 39	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s7
-# text = 其中參賽者年齡不可超過18歲(以當年7月1日為準),且必須就讀於中學校(Secondary School).
+# text = 其中參賽者年齡不可超過18歲（以當年7月1日為準），且必須就讀於中學校（SecondarySchool）。
 1	其中	其中	NOUN	NN	_	6	advmod	_	SpaceAfter=No
 2	參賽	參賽	VERB	VV	_	3	case:suff	_	SpaceAfter=No
 3	者	者	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -178,7 +178,7 @@
 30	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s8
-# text = 同年9月7日,亞奧理事會主席薩巴赫親王為國際射擊中心主持銅像揭幕儀式.
+# text = 同年9月7日，亞奧理事會主席薩巴赫親王為國際射擊中心主持銅像揭幕儀式。
 1	同年	同年	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 2	9	9	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No
@@ -202,7 +202,7 @@
 21	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s9
-# text = 這些電話經交換機處理,使用的媒介包括海底電纜、人造衛星、無線電、光纖及IP電話(VOIP).
+# text = 這些電話經交換機處理，使用的媒介包括海底電纜、人造衛星、無線電、光纖及IP電話（VOIP）。
 1	這些	這些	DET	DT	_	2	det	_	SpaceAfter=No
 2	電話	電話	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 3	經	經	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -234,7 +234,7 @@
 29	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s10
-# text = 《圓月彎刀》為古龍晚期作品,1976年6月至1978年5月,香港〈武俠春秋〉282至348期斷續連載,原名《刀神》,1978年漢麟出版改名《圓月彎刀》.
+# text = 《圓月彎刀》為古龍晚期作品，1976年6月至1978年5月，香港〈武俠春秋〉282至348期斷續連載，原名《刀神》，1978年漢麟出版改名《圓月彎刀》。
 1	《	《	PUNCT	(	_	5	punct	_	SpaceAfter=No
 2	圓	圓	PART	PFA	_	3	case:pref	_	SpaceAfter=No
 3	月	月	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -287,7 +287,7 @@
 50	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No
 
 # sent_id = test-s11
-# text = 圓齒龍(Globidens)意為「球狀牙齒」,是滄龍科的一個屬.
+# text = 圓齒龍（Globidens）意為「球狀牙齒」，是滄龍科的一個屬。
 1	圓齒龍	圓齒龍	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 2	（	（	PUNCT	(	_	3	punct	_	SpaceAfter=No
 3	Globidens	Globidens	X	FW	_	1	appos	_	SpaceAfter=No
@@ -309,7 +309,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s12
-# text = 圖波列夫設計局在1960年代末期推出圖-154客機後,圖波列夫便成為社會主義國家民航飛機的主要供應商.
+# text = 圖波列夫設計局在1960年代末期推出圖-154客機後，圖波列夫便成為社會主義國家民航飛機的主要供應商。
 1	圖波列夫	圖波列夫	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	設計	設計	VERB	VV	_	3	case:suff	_	SpaceAfter=No
 3	局	局	PART	SFN	_	8	nsubj	_	SpaceAfter=No
@@ -339,7 +339,7 @@
 27	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s13
-# text = 事實上,團購網站的產品原價和購買數量經常被「注水」,而產品和服務的品質則經常「縮水」.
+# text = 事實上，團購網站的產品原價和購買數量經常被「注水」，而產品和服務的品質則經常「縮水」。
 1	事實	事實	NOUN	NN	_	15	advmod	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -371,7 +371,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s14
-# text = 團購網站的主要產品分為家居類、日用品類、旅遊優惠、機票、酒店及郵輪等.
+# text = 團購網站的主要產品分為家居類、日用品類、旅遊優惠、機票、酒店及郵輪等。
 1	團購	團購	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	網站	網站	NOUN	NN	_	5	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -398,7 +398,7 @@
 24	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s15
-# text = 可是,魔牛肝菌的菌肉在被切割或撞傷後會變成藍色的,而這種菌的菌肉無論如何都是白色的,因此透過切割菌肉便能分辨二者.
+# text = 可是，魔牛肝菌的菌肉在被切割或撞傷後會變成藍色的，而這種菌的菌肉無論如何都是白色的，因此透過切割菌肉便能分辨二者。
 1	可是	可是	ADV	RB	_	13	mark	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 3	魔牛肝菌	魔牛肝菌	NOUN	NN	_	5	det	_	SpaceAfter=No
@@ -439,7 +439,7 @@
 38	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s16
-# text = 站牌上標示著「浪漫和傳奇的入野松原」.
+# text = 站牌上標示著「浪漫和傳奇的入野松原」。
 1	站牌	站牌	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	上	上	NOUN	NN	_	1	acl	_	SpaceAfter=No
 3	標示	標示	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -454,7 +454,7 @@
 12	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s17
-# text = 自然界的土是由岩石經風化、搬運、堆積而形成的.
+# text = 自然界的土是由岩石經風化、搬運、堆積而形成的。
 1	自然	自然	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	界	界	PART	SFN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -474,7 +474,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s18
-# text = 毛澤東早在1949年3月中共七屆二中全會的報告中就明確地說:「占國民經濟總產值90%的分散的個體的農業經濟和手工業經濟,是可能和必須謹慎地、逐步地而又積極地引導它們向著現代化和集體化的方向發展的,任其自流的觀點是錯誤的.」
+# text = 毛澤東早在1949年3月中共七屆二中全會的報告中就明確地說：「占國民經濟總產值90%的分散的個體的農業經濟和手工業經濟，是可能和必須謹慎地、逐步地而又積極地引導它們向著現代化和集體化的方向發展的，任其自流的觀點是錯誤的。」
 1	毛	毛	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No
 2	澤東	澤東	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	早	早	ADV	RB	_	19	advmod	_	SpaceAfter=No
@@ -551,7 +551,7 @@
 74	」	」	PUNCT	''	_	71	punct	_	SpaceAfter=No
 
 # sent_id = test-s19
-# text = 它主要分布在表土層或耕層中,深受耕作施肥等人為因素的影響而極不穩定.
+# text = 它主要分布在表土層或耕層中，深受耕作施肥等人為因素的影響而極不穩定。
 1	它	它	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No
 2	主要	主要	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	分布	分布	VERB	VV	_	22	advcl	_	SpaceAfter=No
@@ -577,7 +577,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s20
-# text = 土壤是重要的自然資源和生產資料,土壤的植物生產能力是衡量土壤資源質量的標誌.
+# text = 土壤是重要的自然資源和生產資料，土壤的植物生產能力是衡量土壤資源質量的標誌。
 1	土壤	土壤	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 3	重要	重要	ADJ	JJ	_	6	amod	_	SpaceAfter=No
@@ -603,7 +603,7 @@
 23	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s21
-# text = 一些土星1號儀錶組中的部分也被用在土星1B中了.
+# text = 一些土星1號儀錶組中的部分也被用在土星1B中了。
 1	一些	一些	ADJ	JJ	_	9	amod	_	SpaceAfter=No
 2	土星	土星	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -624,7 +624,7 @@
 18	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s22
-# text = 它在位於亨茨維爾的空間系統中心建造.
+# text = 它在位於亨茨維爾的空間系統中心建造。
 1	它	它	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No
 2	在	在	VERB	VV	_	10	advcl	_	SpaceAfter=No
 3	位	位	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
@@ -638,7 +638,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s23
-# text = 這個計算機控制了火箭從起飛前一直到拋棄S-IVB推進器的操作過程.
+# text = 這個計算機控制了火箭從起飛前一直到拋棄S-IVB推進器的操作過程。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	個	個	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
 3	計算	計算	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -661,7 +661,7 @@
 20	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s24
-# text = 2007年7月6日,聖喬治教堂被馬來西亞政府列為50個馬來西亞國家寶藏之一.
+# text = 2007年7月6日，聖喬治教堂被馬來西亞政府列為50個馬來西亞國家寶藏之一。
 1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -686,7 +686,7 @@
 22	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s25
-# text = 聖伯多祿堂(Iglesia de San Pedro)是西班牙南部城市科爾多瓦的一座羅馬天主教教堂,供奉聖伯多祿,位於同名的廣場上.
+# text = 聖伯多祿堂（IglesiadeSanPedro）是西班牙南部城市科爾多瓦的一座羅馬天主教教堂，供奉聖伯多祿，位於同名的廣場上。
 1	聖伯多祿	聖伯多祿	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	25	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -720,7 +720,7 @@
 31	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
 # sent_id = test-s26
-# text = 該市鎮總面積11.61平方公里,2009年時的人口為323人.
+# text = 該市鎮總面積11.61平方公里，2009年時的人口為323人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -739,7 +739,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s27
-# text = 該市鎮總面積38.28平方公里,2009年時的人口為696人.
+# text = 該市鎮總面積38.28平方公里，2009年時的人口為696人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -758,7 +758,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s28
-# text = 總面積14平方公里,人口268人,人口密度19.1人/平方公里(2009年).
+# text = 總面積14平方公里，人口268人，人口密度19.1人/平方公里（2009年）。
 1	總	總	PART	PFA	_	2	case:pref	_	SpaceAfter=No
 2	面積	面積	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 3	14	14	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -781,7 +781,7 @@
 20	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s29
-# text = 該市鎮總面積28.59平方公里,2009年時的人口為617人.
+# text = 該市鎮總面積28.59平方公里，2009年時的人口為617人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -800,7 +800,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s30
-# text = 除了在1900年到1950年間人口上升了大約25%,在此後人口一直下降,現在聖奧斯瓦爾德鄉的居民總數比2005年還要少大約35%.
+# text = 除了在1900年到1950年間人口上升了大約25%，在此後人口一直下降，現在聖奧斯瓦爾德鄉的居民總數比2005年還要少大約35%。
 1	除	除	VERB	VV	_	0	root	_	SpaceAfter=No
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -839,7 +839,7 @@
 36	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = test-s31
-# text = 2007年,教堂完成了主體大修工程,工程包括內部結構的調整.
+# text = 2007年，教堂完成了主體大修工程，工程包括內部結構的調整。
 1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	5	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -859,7 +859,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s32
-# text = 1907年到1911年,教堂立面改建為目前的巴伐利亞巴洛克式.
+# text = 1907年到1911年，教堂立面改建為目前的巴伐利亞巴洛克式。
 1	1907	1907	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No
 3	到	到	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -878,7 +878,7 @@
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s33
-# text = 該市鎮總面積16.71平方公里,2009年時的人口為2070人.
+# text = 該市鎮總面積16.71平方公里，2009年時的人口為2070人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -897,7 +897,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s34
-# text = 島嶼長度約為11公里,寬度6公里.
+# text = 島嶼長度約為11公里，寬度6公里。
 1	島嶼	島嶼	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	長度	長度	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 3	約	約	ADV	RB	_	6	advmod	_	SpaceAfter=No
@@ -911,7 +911,7 @@
 11	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s35
-# text = 該島還設有8個網球場和1個環繞安娜費雷拉峰的馬術中心.
+# text = 該島還設有8個網球場和1個環繞安娜費雷拉峰的馬術中心。
 1	該島	該島	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	還	還	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	設有	設有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -931,7 +931,7 @@
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s36
-# text = 翻譯時,除使用原文外,參考的考古文獻則多以法、德兩文記載和教會用的拉丁文.
+# text = 翻譯時，除使用原文外，參考的考古文獻則多以法、德兩文記載和教會用的拉丁文。
 1	翻譯	翻譯	VERB	VV	_	21	advcl	_	SpaceAfter=No
 2	時	時	ADP	IN	_	1	mark	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
@@ -962,7 +962,7 @@
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s37
-# text = 後來他重回橋樑道路學院教學,並繼續他的研究工作.
+# text = 後來他重回橋樑道路學院教學，並繼續他的研究工作。
 1	後來	後來	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
 2	他	他	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No
 3	重回	重回	VERB	VV	_	7	advcl	_	SpaceAfter=No
@@ -980,7 +980,7 @@
 15	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s38
-# text = 最古老的是安德里亞·皮薩諾的作品,作於1330年到1336年.
+# text = 最古老的是安德里亞·皮薩諾的作品，作於1330年到1336年。
 1	最	最	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	古老	古老	ADJ	JJ	_	4	csubj	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -1001,7 +1001,7 @@
 18	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s39
-# text = 該市鎮總面積2.92平方公里,2009年時的人口為1097人.
+# text = 該市鎮總面積2.92平方公里，2009年時的人口為1097人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -1020,7 +1020,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s40
-# text = 1914年,政府允諾減少在南非對印度人的歧視.
+# text = 1914年，政府允諾減少在南非對印度人的歧視。
 1	1914	1914	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	5	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -1037,7 +1037,7 @@
 14	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s41
-# text = 但是甘地更相信尼赫魯能建立保障印度人民自由的政府.
+# text = 但是甘地更相信尼赫魯能建立保障印度人民自由的政府。
 1	但是	但是	ADV	RB	_	4	mark	_	SpaceAfter=No
 2	甘地	甘地	PROPN	NNP	_	4	nsubj	_	SpaceAfter=No
 3	更	更	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -1054,7 +1054,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s42
-# text = 在艾哈邁達巴德建立了Sabarmati Ashram(高僧修行所),還有報紙「年輕的印度」(Young India).
+# text = 在艾哈邁達巴德建立了SabarmatiAshram（高僧修行所），還有報紙「年輕的印度」（YoungIndia）。
 1	在	在	VERB	VV	_	3	advcl	_	SpaceAfter=No
 2	艾哈邁達巴德	艾哈邁達巴德	PROPN	NNP	_	1	obj	_	SpaceAfter=No
 3	建立	建立	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -1082,7 +1082,7 @@
 25	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s43
-# text = 除了抵制英國產品外,甘地還極力鼓勵人們抵制英國學校,法律機構,辭退政府工作,拒絕繳稅,拋棄英國給的稱號和榮譽.
+# text = 除了抵制英國產品外，甘地還極力鼓勵人們抵制英國學校，法律機構，辭退政府工作，拒絕繳稅，拋棄英國給的稱號和榮譽。
 1	除	除	VERB	VV	_	11	advcl	_	SpaceAfter=No
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
 3	抵制	抵制	VERB	VV	_	1	xcomp	_	SpaceAfter=No
@@ -1119,7 +1119,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s44
-# text = 1941年,一些反法西斯的社會黨和民主黨成員再度進入聖馬利諾大議會,他們秘密組建了一個反法西斯的政治運動,這個運動越來越嚴密、壯大,到1943年時已經成為一支可觀的政治力量.
+# text = 1941年，一些反法西斯的社會黨和民主黨成員再度進入聖馬利諾大議會，他們秘密組建了一個反法西斯的政治運動，這個運動越來越嚴密、壯大，到1943年時已經成為一支可觀的政治力量。
 1	1941	1941	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
@@ -1175,7 +1175,7 @@
 53	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s45
-# text = 國家博物館和圖書館收藏的文物和書籍轉移到山洞裡,以為難民騰出住宿空間.
+# text = 國家博物館和圖書館收藏的文物和書籍轉移到山洞裡，以為難民騰出住宿空間。
 1	國家	國家	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	博物	博物	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	館	館	PART	SFN	_	7	nsubj	_	SpaceAfter=No
@@ -1201,7 +1201,7 @@
 23	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s46
-# text = 面對南下的德國大軍,聖馬利諾共和國再度陷入驚慌之中.
+# text = 面對南下的德國大軍，聖馬利諾共和國再度陷入驚慌之中。
 1	面對	面對	VERB	VV	_	11	advcl	_	SpaceAfter=No
 2	南下	南下	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -1218,7 +1218,7 @@
 14	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s47
-# text = 聖馬洛區轄有9個縣,共有63個市鎮.
+# text = 聖馬洛區轄有9個縣，共有63個市鎮。
 1	聖馬洛	聖馬洛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	區	區	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 3	轄有	轄有	VERB	VV	_	9	advcl	_	SpaceAfter=No
@@ -1234,7 +1234,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s48
-# text = 20世紀後,飛機被發明,航空測繪地圖興起.
+# text = 20世紀後，飛機被發明，航空測繪地圖興起。
 1	20	20	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -1250,7 +1250,7 @@
 13	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s49
-# text = 但在2006年由於公眾反對,這一計劃受到擱淺.
+# text = 但在2006年由於公眾反對，這一計劃受到擱淺。
 1	但	但	ADV	RB	_	12	mark	_	SpaceAfter=No
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 3	2006	2006	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -1267,7 +1267,7 @@
 14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s50
-# text = 在此之後,地形圖集也成為了現代化國家在規劃基礎設施和礦產探測中的基礎國家資源.
+# text = 在此之後，地形圖集也成為了現代化國家在規劃基礎設施和礦產探測中的基礎國家資源。
 1	在此	在此	VERB	VV	_	7	advcl	_	SpaceAfter=No
 2	之後	之後	ADP	IN	_	1	mark	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
@@ -1295,7 +1295,7 @@
 25	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s51
-# text = 換句話說,如果每個標註的點都在100米的高度,這條線代表的就是100米海拔.
+# text = 換句話說，如果每個標註的點都在100米的高度，這條線代表的就是100米海拔。
 1	換	換	VERB	VV	_	4	advcl	_	SpaceAfter=No
 2	句	句	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
 3	話	話	NOUN	NN	_	1	obj	_	SpaceAfter=No
@@ -1325,7 +1325,7 @@
 27	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s52
-# text = 滾球的球主要分為兩類,一種由金屬制,另一種則塑質所造,前者稱金屬滾球,後者名為塑質滾球,在這兩大類中,再有小金屬滾球、草滾球、桌擲球(又稱沙狐球).
+# text = 滾球的球主要分為兩類，一種由金屬制，另一種則塑質所造，前者稱金屬滾球，後者名為塑質滾球，在這兩大類中，再有小金屬滾球、草滾球、桌擲球（又稱沙狐球）。
 1	滾球	滾球	NOUN	NN	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	球	球	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -1386,7 +1386,7 @@
 58	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s53
-# text = 地灣城遺址,位於中國甘肅省金塔縣,為一個省級文物保護單位,類型為古遺址.
+# text = 地灣城遺址，位於中國甘肅省金塔縣，為一個省級文物保護單位，類型為古遺址。
 1	地灣	地灣	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	城	城	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	遺址	遺址	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
@@ -1414,7 +1414,7 @@
 25	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s54
-# text = 與其他胰島素相比較,本品引起夜間低血糖的風險較低,因而可以進行更為積極的劑量調整以實現血糖達標.
+# text = 與其他胰島素相比較，本品引起夜間低血糖的風險較低，因而可以進行更為積極的劑量調整以實現血糖達標。
 1	與	與	ADP	IN	_	4	case	_	SpaceAfter=No
 2	其他	其他	DET	DT	_	4	det	_	SpaceAfter=No
 3	胰島	胰島	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -1446,7 +1446,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s55
-# text = 長期血糖水平控制良好可以降低糖尿病視網膜病變的風險.
+# text = 長期血糖水平控制良好可以降低糖尿病視網膜病變的風險。
 1	長期	長期	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	血糖	血糖	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	水平	水平	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -1464,7 +1464,7 @@
 15	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s56
-# text = 《進化特區》(英文:Evolution)是2001年首映的一部美國科幻喜劇電影.
+# text = 《進化特區》（英文：Evolution）是2001年首映的一部美國科幻喜劇電影。
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
 2	進化	進化	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	特區	特區	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
@@ -1489,7 +1489,7 @@
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s57
-# text = 遊戲的任務重心就是「自由」.
+# text = 遊戲的任務重心就是「自由」。
 1	遊戲	遊戲	NOUN	NN	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	任務	任務	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -1501,7 +1501,7 @@
 9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s58
-# text = NX-01最初的武器裝備只有等離子炮與氚核魚雷,並由電磁極化船甲保護.
+# text = NX-01最初的武器裝備只有等離子炮與氚核魚雷，並由電磁極化船甲保護。
 1	NX-01	NX-01	X	FW	_	5	nmod	_	SpaceAfter=No
 2	最初	最初	NOUN	NN	_	5	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -1524,7 +1524,7 @@
 20	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s59
-# text = 但在另一方面,少數變化使得分子的複製變得更快或更佳;這些「品系」的數量較多也較「成功」.
+# text = 但在另一方面，少數變化使得分子的複製變得更快或更佳；這些「品系」的數量較多也較「成功」。
 1	但	但	ADV	RB	_	9	mark	_	SpaceAfter=No
 2	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 3	另	另	DET	DT	_	5	det	_	SpaceAfter=No
@@ -1558,7 +1558,7 @@
 31	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s60
-# text = 1788年,他來到了所羅門聖克魯斯群島的,之後便杳無蹤跡.
+# text = 1788年，他來到了所羅門聖克魯斯群島的，之後便杳無蹤跡。
 1	1788	1788	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	5	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -1576,7 +1576,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s61
-# text = 18世紀到19世紀是現代地質學和地理學的創立時期,兩者的交叉領域則為地貌學提供了空間.
+# text = 18世紀到19世紀是現代地質學和地理學的創立時期，兩者的交叉領域則為地貌學提供了空間。
 1	18	18	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NNB	_	15	nsubj	_	SpaceAfter=No
 3	到	到	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -1608,7 +1608,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s62
-# text = 20世紀50年代也是地貌學出現分支學科的時期,形成了河流地貌學、冰川地貌學、海岸地貌學和構造地貌學.
+# text = 20世紀50年代也是地貌學出現分支學科的時期，形成了河流地貌學、冰川地貌學、海岸地貌學和構造地貌學。
 1	20	20	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	50	50	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -1642,7 +1642,7 @@
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s63
-# text = 化學中的場效應(Field effect,記作F)是指通過空間的分子內靜電作用,即某取代基在空間產生一個電場,它對另一處的反應中心發生影響.
+# text = 化學中的場效應（Fieldeffect，記作F）是指通過空間的分子內靜電作用，即某取代基在空間產生一個電場，它對另一處的反應中心發生影響。
 1	化學	化學	NOUN	NN	_	5	det	_	SpaceAfter=No
 2	中	中	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
@@ -1689,7 +1689,7 @@
 44	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s64
-# text = 她並不十分擅長為唱片封面拍攝,每當攝影師把鏡頭對準她,說道:「好,開始拍」時,或者是在確定拍攝場景後,需要根據攝影師的想法去調整姿勢時,她總是顯得不自在.
+# text = 她並不十分擅長為唱片封面拍攝，每當攝影師把鏡頭對準她，說道：「好，開始拍」時，或者是在確定拍攝場景後，需要根據攝影師的想法去調整姿勢時，她總是顯得不自在。
 1	她	她	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No
 2	並	並	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	不	不	ADV	RB	Polarity=Neg	5	advmod	_	SpaceAfter=No
@@ -1747,7 +1747,7 @@
 55	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s65
-# text = 總之她對顏色的要求非常嚴格.
+# text = 總之她對顏色的要求非常嚴格。
 1	總之	總之	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	她	她	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No
 3	對	對	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -1759,7 +1759,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s66
-# text = 此法既能解決運費高昂的問題,又可調節物價.
+# text = 此法既能解決運費高昂的問題，又可調節物價。
 1	此法	此法	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	既	既	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 3	能	能	AUX	MD	_	4	aux	_	SpaceAfter=No
@@ -1776,7 +1776,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s67
-# text = 波利比奧斯記述道:「當其被不斷切割,生還者被逼站在原地引頸就戮.」
+# text = 波利比奧斯記述道：「當其被不斷切割，生還者被逼站在原地引頸就戮。」
 1	波利比奧斯	波利比奧斯	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	記述	記述	VERB	VV	_	0	root	_	SpaceAfter=No
 3	道	道	VERB	VV	_	2	xcomp	_	SpaceAfter=No
@@ -1800,7 +1800,7 @@
 21	」	」	PUNCT	''	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s68
-# text = 總括而言,整場戰役的總傷亡人數大約為八萬人.
+# text = 總括而言，整場戰役的總傷亡人數大約為八萬人。
 1	總括	總括	VERB	VV	_	3	advcl	_	SpaceAfter=No
 2	而	而	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	言	言	VERB	VV	_	14	acl	_	SpaceAfter=No
@@ -1818,7 +1818,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s69
-# text = 總面積11.37平方公里,總人口1579人,其中男性741人,女性838人(2011年12月31日),人口密度139人/平方公里.
+# text = 總面積11.37平方公里，總人口1579人，其中男性741人，女性838人（2011年12月31日），人口密度139人/平方公里。
 1	總	總	PART	PFA	_	2	case:pref	_	SpaceAfter=No
 2	面積	面積	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 3	11.37	11.37	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -1855,7 +1855,7 @@
 34	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s70
-# text = 有些現代神話學家認為,坎珀實際是厄客德娜的一個別名,兩者之間有很多相似之處.
+# text = 有些現代神話學家認為，坎珀實際是厄客德娜的一個別名，兩者之間有很多相似之處。
 1	有些	有些	VERB	VV	_	0	root	_	SpaceAfter=No
 2	現代	現代	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	神話	神話	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -1883,7 +1883,7 @@
 25	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s71
-# text = 他是一個典型的戰士:高大,結實,強壯有力.
+# text = 他是一個典型的戰士：高大，結實，強壯有力。
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -1901,7 +1901,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s72
-# text = 統治期內,梅葛處死了三位大學士;他還擁有為數眾多的妻子,每個時期通常都不止一個,因此臭名遠揚.
+# text = 統治期內，梅葛處死了三位大學士；他還擁有為數眾多的妻子，每個時期通常都不止一個，因此臭名遠揚。
 1	統治	統治	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	期	期	PART	SFN	_	6	nmod:tmod	_	SpaceAfter=No
 3	內	內	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -1936,7 +1936,7 @@
 32	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s73
-# text = 雷妮拉的母親沒有生下男性繼承人就死了,所以韋賽里斯一世準備讓雷妮拉繼承王位,成為坦格利安家系中的第一位女王.
+# text = 雷妮拉的母親沒有生下男性繼承人就死了，所以韋賽里斯一世準備讓雷妮拉繼承王位，成為坦格利安家系中的第一位女王。
 1	雷妮拉	雷妮拉	PROPN	NNP	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	母親	母親	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
@@ -1988,7 +1988,7 @@
 15	比賽	比賽	VERB	VV	_	0	root	_	SpaceAfter=No
 
 # sent_id = test-s75
-# text = 他亦曾代表過阿根廷國家隊出賽,但並未參與任何世界盃賽事.
+# text = 他亦曾代表過阿根廷國家隊出賽，但並未參與任何世界盃賽事。
 1	他	他	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No
 2	亦	亦	ADV	RB	_	4	mark	_	SpaceAfter=No
 3	曾	曾	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -2010,7 +2010,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s76
-# text = 而埃姆登號的殘骸在1950年被一家日本公司打撈上來作廢鐵處理,但仍有部分殘骸未被打撈上來.
+# text = 而埃姆登號的殘骸在1950年被一家日本公司打撈上來作廢鐵處理，但仍有部分殘骸未被打撈上來。
 1	而	而	ADV	RB	_	18	mark	_	SpaceAfter=No
 2	埃姆登	埃姆登	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	號	號	PART	SFN	_	5	det	_	SpaceAfter=No
@@ -2042,7 +2042,7 @@
 29	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s77
-# text = 根據美國輿論調查指出,當時隆美爾是美國僅次於希特勒的知名度最高的德國人.
+# text = 根據美國輿論調查指出，當時隆美爾是美國僅次於希特勒的知名度最高的德國人。
 1	根據	根據	ADP	IN	_	5	case	_	SpaceAfter=No
 2	美國	美國	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 3	輿論	輿論	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -2067,7 +2067,7 @@
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s78
-# text = 此處不需要保護補給線的安全而持續控制.
+# text = 此處不需要保護補給線的安全而持續控制。
 1	此處	此處	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 2	不	不	ADV	RB	Polarity=Neg	3	advmod	_	SpaceAfter=No
 3	需要	需要	AUX	MD	_	4	aux	_	SpaceAfter=No
@@ -2082,7 +2082,7 @@
 12	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s79
-# text = 由於認為德義軍隊戰力已就緒,隆美爾決定再發動攻勢.
+# text = 由於認為德義軍隊戰力已就緒，隆美爾決定再發動攻勢。
 1	由於	由於	ADP	IN	_	11	mark	_	SpaceAfter=No
 2	認為	認為	VERB	VV	_	1	xcomp	_	SpaceAfter=No
 3	德	德	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
@@ -2100,7 +2100,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s80
-# text = 起初隆美爾對此決定甚為惱怒,但回到司令部後重新考慮過後,隆美爾認為魏斯法爾的判斷是正確的,中止了攻勢.
+# text = 起初隆美爾對此決定甚為惱怒，但回到司令部後重新考慮過後，隆美爾認為魏斯法爾的判斷是正確的，中止了攻勢。
 1	起初	起初	NOUN	NN	_	7	nmod:tmod	_	SpaceAfter=No
 2	隆美爾	隆美爾	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
 3	對	對	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -2134,7 +2134,7 @@
 31	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s81
-# text = 該市鎮總面積10.94平方公里,2009年時的人口為600人.
+# text = 該市鎮總面積10.94平方公里，2009年時的人口為600人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -2153,7 +2153,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s82
-# text = 幾個月後的一次採訪,艾米說到:「如果我們沒有變化的話,是沒法做出第二張專輯的.」
+# text = 幾個月後的一次採訪，艾米說到：「如果我們沒有變化的話，是沒法做出第二張專輯的。」
 1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	月	月	NOUN	NN	_	8	det	_	SpaceAfter=No
@@ -2184,7 +2184,7 @@
 28	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s83
-# text = 埃薩河是白俄羅斯的河流,由明斯克州和維捷布斯克州負責管轄,屬於道加瓦河的一部分,該湖長84公里,面積1,040平方公里,最終注入列佩利湖.
+# text = 埃薩河是白俄羅斯的河流，由明斯克州和維捷布斯克州負責管轄，屬於道加瓦河的一部分，該湖長84公里，面積1,040平方公里，最終注入列佩利湖。
 1	埃薩	埃薩	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	河	河	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
@@ -2225,7 +2225,7 @@
 38	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s84
-# text = 警方前往工作坊逮捕席勒的同時,也扣押了一百多張被認為是色情物品的畫作.
+# text = 警方前往工作坊逮捕席勒的同時，也扣押了一百多張被認為是色情物品的畫作。
 1	警方	警方	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 2	前往	前往	VERB	VV	_	5	advcl	_	SpaceAfter=No
 3	工作	工作	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -2250,7 +2250,7 @@
 22	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s85
-# text = 卡斯特羅出現在了埃連與同學在一起的生日派對視頻中.
+# text = 卡斯特羅出現在了埃連與同學在一起的生日派對視頻中。
 1	卡斯特羅	卡斯特羅	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	出現	出現	VERB	VV	_	0	root	_	SpaceAfter=No
 3	在	在	VERB	VV	_	2	mark	_	SpaceAfter=No
@@ -2268,7 +2268,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s86
-# text = 1916年至1917年,他在美國巡迴演講,之後的1920年,他被派任蘇門答臘瑞典領事,1921年至1925年,他又來到美國學習.
+# text = 1916年至1917年，他在美國巡迴演講，之後的1920年，他被派任蘇門答臘瑞典領事，1921年至1925年，他又來到美國學習。
 1	1916	1916	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 3	至	至	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -2307,7 +2307,7 @@
 36	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s87
-# text = 曼施坦因戰後繼續留在軍隊,在1920年代,他參與了創建德國國防軍的進程,1919年5月的《凡爾賽條約》限定魏瑪共和國只能擁有最多10萬人的軍隊.
+# text = 曼施坦因戰後繼續留在軍隊，在1920年代，他參與了創建德國國防軍的進程，1919年5月的《凡爾賽條約》限定魏瑪共和國只能擁有最多10萬人的軍隊。
 1	曼施坦因	曼施坦因	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 2	戰後	戰後	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No
 3	繼續	繼續	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2353,7 +2353,7 @@
 43	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s88
-# text = 1918年,他被派去指揮佔領白俄羅斯的第十軍,在那裡他一直待到戰爭結束.
+# text = 1918年，他被派去指揮佔領白俄羅斯的第十軍，在那裡他一直待到戰爭結束。
 1	1918	1918	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -2377,7 +2377,7 @@
 21	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s89
-# text = 雖然她從來沒有再婚,她又找了幾任情人,並於1882年去世.
+# text = 雖然她從來沒有再婚，她又找了幾任情人，並於1882年去世。
 1	雖然	雖然	ADP	IN	_	4	case	_	SpaceAfter=No
 2	她	她	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No
 3	從來	從來	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -2400,7 +2400,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s90
-# text = 這個長廊頂部覆蓋著拱形的玻璃和鑄鐵屋頂,這是19世紀流行的商場設計.
+# text = 這個長廊頂部覆蓋著拱形的玻璃和鑄鐵屋頂，這是19世紀流行的商場設計。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	長廊	長廊	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -2425,7 +2425,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s91
-# text = 城東湖是一個位於中國安徽省霍丘縣的湖泊,面積約為115平方千米.
+# text = 城東湖是一個位於中國安徽省霍丘縣的湖泊，面積約為115平方千米。
 1	城東	城東	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	湖	湖	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -2449,7 +2449,7 @@
 21	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s92
-# text = 評論家們特別讚賞了阿弗萊克對於搶劫場景的導演手法.
+# text = 評論家們特別讚賞了阿弗萊克對於搶劫場景的導演手法。
 1	評論	評論	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	家	家	PART	SFN	_	3	case:suff	_	SpaceAfter=No
 3	們	們	PART	SFN	Number=Plur	5	nsubj	_	SpaceAfter=No
@@ -2466,7 +2466,7 @@
 14	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s93
-# text = 隨著年代的變遷,城堡設計的美學因素越來越重要,城堡的外觀和規模開始體現它的居住者的威望和權力.
+# text = 隨著年代的變遷，城堡設計的美學因素越來越重要，城堡的外觀和規模開始體現它的居住者的威望和權力。
 1	隨	隨	VERB	VV	_	13	advcl	_	SpaceAfter=No
 2	著	著	PART	AS	Aspect=Prog	1	case:aspect	_	SpaceAfter=No
 3	年代	年代	NOUN	NNB	_	5	det	_	SpaceAfter=No
@@ -2499,7 +2499,7 @@
 30	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s94
-# text = 以下資料以2008年清明節為準.
+# text = 以下資料以2008年清明節為準。
 1	以下	以下	DET	DT	_	2	det	_	SpaceAfter=No
 2	資料	資料	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
@@ -2512,7 +2512,7 @@
 10	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s95
-# text = 每日0515-0545班次到達石排灣道後,繞經華富道及華富(南)巴士總站,再返回石排灣道原有路線.
+# text = 每日0515-0545班次到達石排灣道後，繞經華富道及華富（南）巴士總站，再返回石排灣道原有路線。
 1	每日	每日	DET	DT	_	5	det	_	SpaceAfter=No
 2	0515	0515	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 3	-	-	PUNCT	HYPH	_	4	punct	_	SpaceAfter=No
@@ -2545,7 +2545,7 @@
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s96
-# text = 教會每週有許多不同的聚會,分別有英文、中文、福建話、廣東話、與印尼文聚會.
+# text = 教會每週有許多不同的聚會，分別有英文、中文、福建話、廣東話、與印尼文聚會。
 1	教會	教會	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 2	每週	每週	DET	DT	_	10	nmod:tmod	_	SpaceAfter=No
 3	有	有	VERB	VV	_	10	advcl	_	SpaceAfter=No
@@ -2575,7 +2575,7 @@
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s97
-# text = 河姆渡遺址和仰韶遺址出土被認為最原始的陶塤均只有吹孔,而無音孔.
+# text = 河姆渡遺址和仰韶遺址出土被認為最原始的陶塤均只有吹孔，而無音孔。
 1	河姆	河姆	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	渡	渡	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	遺址	遺址	NOUN	NN	_	7	advmod	_	SpaceAfter=No
@@ -2599,7 +2599,7 @@
 21	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s98
-# text = 我們已經提及了連續偏序集合和代數偏序集合.
+# text = 我們已經提及了連續偏序集合和代數偏序集合。
 1	我們	我	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	SpaceAfter=No
 2	已經	已經	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	提及	提及	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2614,7 +2614,7 @@
 12	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s99
-# text = 另一種觀點認為,兩種複製的基因同樣都會累積退化的突變,基因重複的缺陷也能相輔相成.
+# text = 另一種觀點認為，兩種複製的基因同樣都會累積退化的突變，基因重複的缺陷也能相輔相成。
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	種	種	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
@@ -2644,7 +2644,7 @@
 27	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s100
-# text = 他感到自責,認為這樣的復仇超過了應有的界限.
+# text = 他感到自責，認為這樣的復仇超過了應有的界限。
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No
 2	感到	感到	AUX	VV	_	3	cop	_	SpaceAfter=No
 3	自責	自責	ADJ	JJ	_	5	advcl	_	SpaceAfter=No
@@ -2662,7 +2662,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s101
-# text = 在格連推動之下,大陸軍在12日決議即時撤出紐約,優先把傷兵及補給送到哈林高地,並由以色列·普特南的4,000人殿後.
+# text = 在格連推動之下，大陸軍在12日決議即時撤出紐約，優先把傷兵及補給送到哈林高地，並由以色列·普特南的4,000人殿後。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	格連	格連	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 3	推動	推動	VERB	VV	_	11	ccomp	_	SpaceAfter=No
@@ -2699,7 +2699,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s102
-# text = 翌日(9月16日)一支英軍向北偵察時與美軍交火,引發哈林高地戰役.
+# text = 翌日（9月16日）一支英軍向北偵察時與美軍交火，引發哈林高地戰役。
 1	翌日	翌日	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No
 2	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
 3	9	9	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -2727,7 +2727,7 @@
 25	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s103
-# text = 英軍軍艦向基普灣狂轟濫炸近一小時,使灘頭濃煙密佈.
+# text = 英軍軍艦向基普灣狂轟濫炸近一小時，使灘頭濃煙密佈。
 1	英	英	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	軍	軍	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	軍艦	軍艦	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
@@ -2746,7 +2746,7 @@
 16	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s104
-# text = 華盛頓希望先獲得大陸議會准許撤退,然後把紐約市徹底焚毀;部分將軍則主張死守紐約,等待英軍正面進攻,以重演邦克山戰役的戰果.
+# text = 華盛頓希望先獲得大陸議會准許撤退，然後把紐約市徹底焚毀；部分將軍則主張死守紐約，等待英軍正面進攻，以重演邦克山戰役的戰果。
 1	華盛頓	華盛頓	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	希望	希望	VERB	VV	_	0	root	_	SpaceAfter=No
 3	先	先	ADV	RB	_	4	mark	_	SpaceAfter=No
@@ -2786,7 +2786,7 @@
 37	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s105
-# text = 長島會戰後,大陸軍撤回曼哈頓島,但在撤離紐約市一事上仍然猶豫不決.
+# text = 長島會戰後，大陸軍撤回曼哈頓島，但在撤離紐約市一事上仍然猶豫不決。
 1	長島	長島	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	會戰	會戰	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -2810,7 +2810,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s106
-# text = 程序性給付是在要求國家必須提供一套制度,例如考試制度和選舉制度等,其也與正當法律程序條款的要求有關.
+# text = 程序性給付是在要求國家必須提供一套制度，例如考試制度和選舉制度等，其也與正當法律程序條款的要求有關。
 1	程序	程序	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	性	性	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	給付	給付	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -2845,7 +2845,7 @@
 32	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s107
-# text = 主武器是20枚P-700花崗岩(廠號3M45)反艦飛彈(分裝在20座垂直發射器裡),可以擊沉大型水面艦.
+# text = 主武器是20枚P-700花崗岩（廠號3M45）反艦飛彈（分裝在20座垂直發射器裡），可以擊沉大型水面艦。
 1	主	主	PART	PFA	_	2	case:pref	_	SpaceAfter=No
 2	武器	武器	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -2879,7 +2879,7 @@
 31	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s108
-# text = 根據分析它和德國209型艇的靜音性能在伯仲之間.
+# text = 根據分析它和德國209型艇的靜音性能在伯仲之間。
 1	根據	根據	ADP	IN	_	2	case	_	SpaceAfter=No
 2	分析	分析	VERB	VV	_	12	xcomp	_	SpaceAfter=No
 3	它	它	PRON	PRP	Person=3	11	det	_	SpaceAfter=No
@@ -2896,7 +2896,7 @@
 14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s109
-# text = 基督堂草坪(Christ Church Meadow)是英國牛津一個著名的洪水草甸,和著名的步行和野餐地點.
+# text = 基督堂草坪（ChristChurchMeadow）是英國牛津一個著名的洪水草甸，和著名的步行和野餐地點。
 1	基督	基督	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	草坪	草坪	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
@@ -2925,7 +2925,7 @@
 26	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s110
-# text = 在報復的過程中,報復者會產生一種罪惡的快感.
+# text = 在報復的過程中，報復者會產生一種罪惡的快感。
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	報復	報復	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -2944,7 +2944,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s111
-# text = 該事件被稱為睿問魔謀殺案.
+# text = 該事件被稱為睿問魔謀殺案。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	事件	事件	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 3	被	被	VERB	BB	Voice=Pass	4	aux:pass	_	SpaceAfter=No
@@ -2956,7 +2956,7 @@
 9	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s112
-# text = 塔爾卡受地中海氣候影響,有乾燥的夏天和潮濕的冬天,每年平均降雨量749毫米,平均溫度攝氏13度.
+# text = 塔爾卡受地中海氣候影響，有乾燥的夏天和潮濕的冬天，每年平均降雨量749毫米，平均溫度攝氏13度。
 1	塔爾卡	塔爾卡	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 2	受	受	VERB	VV	_	8	advcl	_	SpaceAfter=No
 3	地中	地中	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -2988,7 +2988,7 @@
 29	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s113
-# text = 她出生的日期已無法確定,因為她的出生記錄已在處決時被銷毀.
+# text = 她出生的日期已無法確定，因為她的出生記錄已在處決時被銷毀。
 1	她	她	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -3011,7 +3011,7 @@
 20	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s114
-# text = 她是伊朗的巴比教有影響力的詩人和神學家.
+# text = 她是伊朗的巴比教有影響力的詩人和神學家。
 1	她	她	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
 3	伊朗	伊朗	PROPN	NNP	_	6	det	_	SpaceAfter=No
@@ -3029,7 +3029,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s115
-# text = 很快,她就因為熱情地傳播信仰和「無畏的忠信」同時贏得了聲望和惡名.
+# text = 很快，她就因為熱情地傳播信仰和「無畏的忠信」同時贏得了聲望和惡名。
 1	很快	很快	ADV	RB	_	17	advmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 3	她	她	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No
@@ -3054,7 +3054,7 @@
 22	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s116
-# text = 查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕這一觀點.
+# text = 查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕這一觀點。
 1	查爾斯	查爾斯	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 2	·	·	PUNCT	/	_	1	punct	_	SpaceAfter=No
 3	克拉克	克拉克	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
@@ -3081,7 +3081,7 @@
 24	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s117
-# text = 他先在印度西姆拉上學,後來畢業於加州帕薩迪納的藝術設計中心學院.
+# text = 他先在印度西姆拉上學，後來畢業於加州帕薩迪納的藝術設計中心學院。
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	先	先	ADV	RB	_	9	mark	_	SpaceAfter=No
 3	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No
@@ -3102,7 +3102,7 @@
 18	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s118
-# text = 1553年,太美斯普一世抵禦了奧斯曼帝國蘇丹蘇里曼一世的進攻.
+# text = 1553年，太美斯普一世抵禦了奧斯曼帝國蘇丹蘇里曼一世的進攻。
 1	1553	1553	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -3120,7 +3120,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s119
-# text = 2003年,阿齊茲向美軍投降.
+# text = 2003年，阿齊茲向美軍投降。
 1	2003	2003	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
@@ -3132,7 +3132,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s120
-# text = 這是阿齊茲的第一項死刑,他因1992年處死42名商人而被判15年有期徒刑.
+# text = 這是阿齊茲的第一項死刑，他因1992年處死42名商人而被判15年有期徒刑。
 1	這	這	PRON	PRD	_	7	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No
 3	阿齊茲	阿齊茲	PROPN	NNP	_	7	det	_	SpaceAfter=No
@@ -3159,7 +3159,7 @@
 24	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s121
-# text = 塔里木盆地的塔克拉瑪干沙漠流沙嚴重,從谷歌衛星圖片可以清晰看到,沙漠腹地有些已建成的公路由於固沙措施不力,導致公路抵禦流沙的力度不夠,許多連接油田基地的瀝青路面被強大的流動沙丘所淹沒,阻斷交通.
+# text = 塔里木盆地的塔克拉瑪干沙漠流沙嚴重，從谷歌衛星圖片可以清晰看到，沙漠腹地有些已建成的公路由於固沙措施不力，導致公路抵禦流沙的力度不夠，許多連接油田基地的瀝青路面被強大的流動沙丘所淹沒，阻斷交通。
 1	塔里木	塔里木	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	盆地	盆地	NOUN	NN	_	5	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -3216,7 +3216,7 @@
 54	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s122
-# text = 其中一處甚至塗有「小心惡犬」的標語.
+# text = 其中一處甚至塗有「小心惡犬」的標語。
 1	其中	其中	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	處	處	NOUN	NNB	_	5	nsubj	_	SpaceAfter=No
@@ -3231,7 +3231,7 @@
 12	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s123
-# text = 任何人類的法則倘若與此法則相矛盾,便喪失其效力;而具有效力的法律,其全部法力、效力和權威則都是間接地或直接地從這一根源産生的.
+# text = 任何人類的法則倘若與此法則相矛盾，便喪失其效力；而具有效力的法律，其全部法力、效力和權威則都是間接地或直接地從這一根源産生的。
 1	任何	任何	DET	DT	_	4	det	_	SpaceAfter=No
 2	人類	人類	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -3277,7 +3277,7 @@
 43	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s124
-# text = 男人宣稱,根據使徒教義,婦女不得任牧師,除了個別例外的,婦女還不得在公共場合參與宗教事務.
+# text = 男人宣稱，根據使徒教義，婦女不得任牧師，除了個別例外的，婦女還不得在公共場合參與宗教事務。
 1	男人	男人	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	宣稱	宣稱	VERB	VV	_	0	root	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
@@ -3308,7 +3308,7 @@
 28	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s125
-# text = 男人強迫婦女服從那些她無權參與制定的法律.
+# text = 男人強迫婦女服從那些她無權參與制定的法律。
 1	男人	男人	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	強迫	強迫	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 3	婦女	婦女	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -3323,7 +3323,7 @@
 12	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s126
-# text = 詹姆斯和莫特對這項權益持相反的態度.
+# text = 詹姆斯和莫特對這項權益持相反的態度。
 1	詹姆斯	詹姆斯	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 2	和	和	CCONJ	CC	_	3	cc	_	SpaceAfter=No
 3	莫特	莫特	PROPN	NNP	_	1	conj	_	SpaceAfter=No
@@ -3338,7 +3338,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s127
-# text = 1896年至1973年間,該站為地上車站.
+# text = 1896年至1973年間，該站為地上車站。
 1	1896	1896	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No
 3	至	至	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -3353,7 +3353,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s128
-# text = 人們建造了一個紀念公園,並且為受害者放置了紀念石凳.
+# text = 人們建造了一個紀念公園，並且為受害者放置了紀念石凳。
 1	人們	人	NOUN	NN	Number=Plur	13	nsubj	_	SpaceAfter=No
 2	建造	建造	VERB	VV	_	13	advcl	_	SpaceAfter=No
 3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
@@ -3373,7 +3373,7 @@
 17	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s129
-# text = 古羅馬人利用拱結構來支撐橋身石材與水流的重量.
+# text = 古羅馬人利用拱結構來支撐橋身石材與水流的重量。
 1	古	古	PART	PFA	_	2	case:pref	_	SpaceAfter=No
 2	羅馬	羅馬	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	人	人	PART	SFN	_	4	nsubj	_	SpaceAfter=No
@@ -3391,7 +3391,7 @@
 15	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s130
-# text = 不過有些會影響到玩家的遊戲體驗的老版程序錯誤,我們不得不修復了它們,所以有些原版《時之笛》存在的bug將不復存在.
+# text = 不過有些會影響到玩家的遊戲體驗的老版程序錯誤，我們不得不修復了它們，所以有些原版《時之笛》存在的bug將不復存在。
 1	不過	不過	ADV	RB	_	2	mark	_	SpaceAfter=No
 2	有些	有些	VERB	VV	_	0	root	_	SpaceAfter=No
 3	會	會	AUX	MD	_	4	aux	_	SpaceAfter=No
@@ -3430,7 +3430,7 @@
 36	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s131
-# text = 該市鎮總面積9.58平方公里,2009年時的人口為81人.
+# text = 該市鎮總面積9.58平方公里，2009年時的人口為81人。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	市鎮	市鎮	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	總	總	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -3449,7 +3449,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s132
-# text = 塞普勒斯眾議院共有59個議席,每5年改選一屆.
+# text = 塞普勒斯眾議院共有59個議席，每5年改選一屆。
 1	塞普勒斯	塞普勒斯	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	眾	眾	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	議院	議院	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -3468,7 +3468,7 @@
 16	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s133
-# text = 自1960年代以後塞維亞實力每況愈下,只能在低組別聯賽打滾,至1990年代末才升上甲組.
+# text = 自1960年代以後塞維亞實力每況愈下，只能在低組別聯賽打滾，至1990年代末才升上甲組。
 1	自	自	ADP	IN	_	3	case	_	SpaceAfter=No
 2	1960	1960	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年代	年代	NOUN	NNB	_	22	obl	_	SpaceAfter=No
@@ -3495,7 +3495,7 @@
 24	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s134
-# text = 2000年代九廣鐵路計劃興建落馬洲支線經過該地,引起了對該處生態影響的關注.
+# text = 2000年代九廣鐵路計劃興建落馬洲支線經過該地，引起了對該處生態影響的關注。
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年代	年代	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No
 3	九	九	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
@@ -3520,7 +3520,7 @@
 22	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s135
-# text = 墨爾本在服飾、藝術、音樂、電視製作、電影及舞蹈等潮流文化領域引領澳洲,甚至於全球該領域範圍都具備一定的影響力.
+# text = 墨爾本在服飾、藝術、音樂、電視製作、電影及舞蹈等潮流文化領域引領澳洲，甚至於全球該領域範圍都具備一定的影響力。
 1	墨爾本	墨爾本	PROPN	NNP	_	29	nsubj	_	SpaceAfter=No
 2	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 3	服飾	服飾	NOUN	NN	_	19	obl	_	SpaceAfter=No
@@ -3557,7 +3557,7 @@
 34	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s136
-# text = 2013年,歷史悠久的墨爾本大學即將迎來自己的160週年校慶.
+# text = 2013年，歷史悠久的墨爾本大學即將迎來自己的160週年校慶。
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
@@ -3576,7 +3576,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s137
-# text = 1932年(昭和7年)北部成立向島區.
+# text = 1932年（昭和7年）北部成立向島區。
 1	1932	1932	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
@@ -3591,7 +3591,7 @@
 12	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s138
-# text = 雖然這些小吃一般不被視作正餐,但即使作為前菜,有時它的豐膩也令人吃得很飽肚.
+# text = 雖然這些小吃一般不被視作正餐，但即使作為前菜，有時它的豐膩也令人吃得很飽肚。
 1	雖然	雖然	ADP	IN	_	7	case	_	SpaceAfter=No
 2	這些	這些	DET	DT	_	3	det	_	SpaceAfter=No
 3	小吃	小吃	NOUN	NN	_	7	nsubj:pass	_	SpaceAfter=No
@@ -3621,7 +3621,7 @@
 27	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s139
-# text = 國際壁球聯盟(IRF)於1979年由十三個國家共同成立,在努力推廣發展下,80年代早期在五大洲就超過80個國家參與壁球的活動.
+# text = 國際壁球聯盟（IRF）於1979年由十三個國家共同成立，在努力推廣發展下，80年代早期在五大洲就超過80個國家參與壁球的活動。
 1	國際	國際	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	壁球	壁球	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	聯盟	聯盟	NOUN	NN	_	30	nsubj	_	SpaceAfter=No
@@ -3662,7 +3662,7 @@
 38	。	。	PUNCT	.	_	30	punct	_	SpaceAfter=No
 
 # sent_id = test-s140
-# text = 潤滑劑中加入其它物質可以控制乳液粘度以及熱學性能.
+# text = 潤滑劑中加入其它物質可以控制乳液粘度以及熱學性能。
 1	潤滑	潤滑	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	劑	劑	PART	SFN	_	8	nsubj	_	SpaceAfter=No
 3	中	中	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -3679,7 +3679,7 @@
 14	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s141
-# text = 然後推桿就會推出所有的鑄件,由於一個模具內可能會有多個模腔,所以每次鑄造過程中可能會產生多個鑄件.
+# text = 然後推桿就會推出所有的鑄件，由於一個模具內可能會有多個模腔，所以每次鑄造過程中可能會產生多個鑄件。
 1	然後	然後	ADV	RB	_	5	advmod	_	SpaceAfter=No
 2	推桿	推桿	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	就	就	ADV	RB	_	5	mark	_	SpaceAfter=No
@@ -3715,7 +3715,7 @@
 33	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s142
-# text = 熔融金屬可以從這裡進入模具,這個部位的形狀同熱室壓鑄中的注射嘴或是冷室壓鑄中的注射室相匹配.
+# text = 熔融金屬可以從這裡進入模具，這個部位的形狀同熱室壓鑄中的注射嘴或是冷室壓鑄中的注射室相匹配。
 1	熔融	熔融	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	金屬	金屬	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 3	可以	可以	AUX	MD	_	6	aux	_	SpaceAfter=No
@@ -3748,7 +3748,7 @@
 30	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s143
-# text = 因為這裡是兩條河川(士別川、劍淵川)匯合至天鹽川的地方.
+# text = 因為這裡是兩條河川（士別川、劍淵川）匯合至天鹽川的地方。
 1	因為	因為	ADP	IN	_	0	root	_	SpaceAfter=No
 2	這裡	這裡	PRON	PRD	_	19	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No
@@ -3771,7 +3771,7 @@
 20	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = test-s144
-# text = 在僱用一位法語嚮導後,旅行者及其隨從就前往巴黎.
+# text = 在僱用一位法語嚮導後，旅行者及其隨從就前往巴黎。
 1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No
 2	僱用	僱用	VERB	VV	_	16	xcomp	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -3792,7 +3792,7 @@
 18	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s145
-# text = 歐洲旅行是一件微不足道的事,景色乏味、清一色、缺少變化」.
+# text = 歐洲旅行是一件微不足道的事，景色乏味、清一色、缺少變化」。
 1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	旅行	旅行	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No
@@ -3815,7 +3815,7 @@
 20	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s146
-# text = 此理論既避免了濁送氣音的不對稱,也可以在一定程度上解釋同源詞在各派生語中的詞形差異.
+# text = 此理論既避免了濁送氣音的不對稱，也可以在一定程度上解釋同源詞在各派生語中的詞形差異。
 1	此	此	DET	DT	_	2	det	_	SpaceAfter=No
 2	理論	理論	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 3	既	既	CCONJ	CC	_	4	cc	_	SpaceAfter=No
@@ -3848,7 +3848,7 @@
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s147
-# text = 這個原理有時叫做弗雷格原理,因為普遍認為弗雷格首先公式化了它.
+# text = 這個原理有時叫做弗雷格原理，因為普遍認為弗雷格首先公式化了它。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	原理	原理	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -3869,7 +3869,7 @@
 18	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s148
-# text = 1915年,時任校長李登輝改革課程體系,課程分成八大部類,其中哲學部為首,並親自講授哲學類課程;復旦大學逐漸建立起由邏輯、倫理、性理(包括心理學與形而上學)組成的哲學教學體系.
+# text = 1915年，時任校長李登輝改革課程體系，課程分成八大部類，其中哲學部為首，並親自講授哲學類課程；復旦大學逐漸建立起由邏輯、倫理、性理（包括心理學與形而上學）組成的哲學教學體系。
 1	1915	1915	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	26	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
@@ -3927,7 +3927,7 @@
 55	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s149
-# text = 2000年,成立復旦大學科學技術與社會發展研究中心.
+# text = 2000年，成立復旦大學科學技術與社會發展研究中心。
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
@@ -3944,7 +3944,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s150
-# text = 2009年,貝拉克·奧巴馬正式地邀請同性配偶及其子女出席復活節滾彩蛋活動.
+# text = 2009年，貝拉克·奧巴馬正式地邀請同性配偶及其子女出席復活節滾彩蛋活動。
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
@@ -3968,7 +3968,7 @@
 21	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s151
-# text = 後來,夏志明被伯明翰邀請接受測試,他參與了一場預備組賽事後,得知不會獲得合約後決定於英國停學,於同年12月返回香港跟隨傑志參與操練.
+# text = 後來，夏志明被伯明翰邀請接受測試，他參與了一場預備組賽事後，得知不會獲得合約後決定於英國停學，於同年12月返回香港跟隨傑志參與操練。
 1	後來	後來	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 3	夏	夏	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
@@ -4012,7 +4012,7 @@
 41	。	。	PUNCT	.	_	39	punct	_	SpaceAfter=No
 
 # sent_id = test-s152
-# text = 影片也從田納西·威廉斯的《熱鐵皮屋頂上的貓》中汲取了靈感.
+# text = 影片也從田納西·威廉斯的《熱鐵皮屋頂上的貓》中汲取了靈感。
 1	影片	影片	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	17	mark	_	SpaceAfter=No
 3	從	從	ADP	IN	_	14	case	_	SpaceAfter=No
@@ -4035,7 +4035,7 @@
 20	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s153
-# text = 太康只顧遊玩,不理政事,在位期間,夏部族權威削弱,東夷族太昊與少昊部落趁機西進.
+# text = 太康只顧遊玩，不理政事，在位期間，夏部族權威削弱，東夷族太昊與少昊部落趁機西進。
 1	太康	太康	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 2	只	只	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	顧	顧	VERB	VV	_	6	advcl	_	SpaceAfter=No
@@ -4063,7 +4063,7 @@
 25	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s154
-# text = 夏綠蒂從1839年開始在約克郡擔任許多家庭的女教師,直到1841年為止.
+# text = 夏綠蒂從1839年開始在約克郡擔任許多家庭的女教師，直到1841年為止。
 1	夏綠蒂	夏綠蒂	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
 2	從	從	ADP	IN	_	4	case	_	SpaceAfter=No
 3	1839	1839	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -4087,7 +4087,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s155
-# text = 1965年12月14日,夏繼泉在北京病逝.
+# text = 1965年12月14日，夏繼泉在北京病逝。
 1	1965	1965	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -4103,7 +4103,7 @@
 13	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s156
-# text = 日本人提出請夏繼泉出任山東省省長,後來又提出請他任教育督辦等職務,均被夏繼泉拒絕.
+# text = 日本人提出請夏繼泉出任山東省省長，後來又提出請他任教育督辦等職務，均被夏繼泉拒絕。
 1	日本	日本	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	人	人	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	提出	提出	VERB	VV	_	14	advcl	_	SpaceAfter=No
@@ -4134,7 +4134,7 @@
 28	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No
 
 # sent_id = test-s157
-# text = 夏道鎮是中國福建省南平市延平區下轄的一個鎮.
+# text = 夏道鎮是中國福建省南平市延平區下轄的一個鎮。
 1	夏道	夏道	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	鎮	鎮	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
@@ -4153,7 +4153,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s158
-# text = 夏須草屬(學名:Theropogon)是百合科下的一個屬,為多年生草本植物.
+# text = 夏須草屬（學名：Theropogon）是百合科下的一個屬，為多年生草本植物。
 1	夏須草	夏須草	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	屬	屬	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -4179,7 +4179,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s159
-# text = 一般來說,制定外交政策是由政府首腦及外長負責.
+# text = 一般來說，制定外交政策是由政府首腦及外長負責。
 1	一般	一般	ADJ	JJ	_	3	advmod	_	SpaceAfter=No
 2	來	來	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -4197,7 +4197,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s160
-# text = 這項設計主要是當人體或是金屬物體碰觸到觸控式外出開關面板時,觸控式外出開關會啟動內部設計的NC接點切換到NC接點,門就會自動開啟.
+# text = 這項設計主要是當人體或是金屬物體碰觸到觸控式外出開關面板時，觸控式外出開關會啟動內部設計的NC接點切換到NC接點，門就會自動開啟。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	項	項	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	設計	設計	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -4241,7 +4241,7 @@
 41	。	。	PUNCT	.	_	40	punct	_	SpaceAfter=No
 
 # sent_id = test-s161
-# text = 科學家認為生命可能曾經存在過或者依然存在的地方包括金星、火星、木星的衛星(如木衛二、木衛六)、土星的衛星(如土衛六和土衛二).
+# text = 科學家認為生命可能曾經存在過或者依然存在的地方包括金星、火星、木星的衛星（如木衛二、木衛六）、土星的衛星（如土衛六和土衛二）。
 1	科學	科學	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	家	家	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -4286,7 +4286,7 @@
 42	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s162
-# text = 你可以應用這種邏輯系統作為模糊集合論的理論基礎.
+# text = 你可以應用這種邏輯系統作為模糊集合論的理論基礎。
 1	你	你	PRON	PRP	Person=2	3	nsubj	_	SpaceAfter=No
 2	可以	可以	AUX	MD	_	3	aux	_	SpaceAfter=No
 3	應用	應用	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
@@ -4305,7 +4305,7 @@
 16	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s163
-# text = 多利納是烏克蘭的城市,位於該國西南部,距離伊萬諾-弗蘭科夫斯克州58公里,由伊萬諾-弗蘭科夫斯克州負責管轄,始建於979年,面積27平方公里,2011年人口20,453.
+# text = 多利納是烏克蘭的城市，位於該國西南部，距離伊萬諾-弗蘭科夫斯克州58公里，由伊萬諾-弗蘭科夫斯克州負責管轄，始建於979年，面積27平方公里，2011年人口20,453。
 1	多利納	多利納	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	5	cop	_	SpaceAfter=No
 3	烏克蘭	烏克蘭	PROPN	NNP	_	5	det	_	SpaceAfter=No
@@ -4350,7 +4350,7 @@
 42	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s164
-# text = MS也常見於歐洲北部族群分佈區域,但是在這些MS常見的區域,某些種族群體發病風險較低.
+# text = MS也常見於歐洲北部族群分佈區域，但是在這些MS常見的區域，某些種族群體發病風險較低。
 1	MS	MS	X	FW	_	3	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	常見	常見	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -4378,7 +4378,7 @@
 25	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s165
-# text = 神經元傳遞信息,形成思維和感覺,以使大腦控制身體.
+# text = 神經元傳遞信息，形成思維和感覺，以使大腦控制身體。
 1	神經	神經	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	元	元	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	傳遞	傳遞	VERB	VV	_	6	csubj	_	SpaceAfter=No
@@ -4397,7 +4397,7 @@
 16	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s166
-# text = 杜篤瑪屬半乾旱氣候,全年氣候相對溫暖,全年平均降雨量約570毫米,降雨主要集中於12月至翌年3月的雨季,其他月份屬相對乾燥的旱季.
+# text = 杜篤瑪屬半乾旱氣候，全年氣候相對溫暖，全年平均降雨量約570毫米，降雨主要集中於12月至翌年3月的雨季，其他月份屬相對乾燥的旱季。
 1	杜篤瑪	杜篤瑪	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	屬	屬	VERB	VV	_	0	root	_	SpaceAfter=No
 3	半	半	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -4440,7 +4440,7 @@
 40	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s167
-# text = 次日,近衛首相宣言「不以蔣中正為談判對手」.
+# text = 次日，近衛首相宣言「不以蔣中正為談判對手」。
 1	次日	次日	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 3	近衛	近衛	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -4458,7 +4458,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s168
-# text = 結合起來的火箭稱為運載火箭.
+# text = 結合起來的火箭稱為運載火箭。
 1	結合	結合	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 2	起來	起來	VERB	VV	_	1	mark	_	SpaceAfter=No
 3	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
@@ -4470,7 +4470,7 @@
 9	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s169
-# text = 此套電影引起了一位名叫馬徐維邦的中國人興趣,他把此電影拍成華語版,不單引起更大的轟動,而且更為中國電影史上第一部恐怖片.
+# text = 此套電影引起了一位名叫馬徐維邦的中國人興趣，他把此電影拍成華語版，不單引起更大的轟動，而且更為中國電影史上第一部恐怖片。
 1	此套	此套	DET	DT	_	2	det	_	SpaceAfter=No
 2	電影	電影	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	引起	引起	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -4515,7 +4515,7 @@
 42	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s170
-# text = 達哉的表姊,由於親生父母夫妻不合且家庭亂七八糟的關係,於是在達哉父母的考量下被收養為養女.
+# text = 達哉的表姊，由於親生父母夫妻不合且家庭亂七八糟的關係，於是在達哉父母的考量下被收養為養女。
 1	達哉	達哉	PROPN	NNP	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	表姊	表姊	NOUN	NN	_	24	nsubj:pass	_	SpaceAfter=No
@@ -4545,7 +4545,7 @@
 27	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s171
-# text = 2008年10月起,本作改編的動畫開始在TBS系電視台放映.
+# text = 2008年10月起，本作改編的動畫開始在TBS系電視台放映。
 1	2008	2008	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	10	10	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -4566,7 +4566,7 @@
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s172
-# text = 《夜行神龍》(Gargoyles)是美國迪士尼公司推出的動畫影集,從1994年到1997年播出,共78集,每集30分鐘(含廣告的時間).
+# text = 《夜行神龍》（Gargoyles）是美國迪士尼公司推出的動畫影集，從1994年到1997年播出，共78集，每集30分鐘（含廣告的時間）。
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
 2	夜行	夜行	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	神龍	神龍	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
@@ -4607,7 +4607,7 @@
 38	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s173
-# text = 他們也需保守有關他們關係的秘密,相較美朱在第一集跟鬼宿表白,這種關係顯得比較成熟.
+# text = 他們也需保守有關他們關係的秘密，相較美朱在第一集跟鬼宿表白，這種關係顯得比較成熟。
 1	他們	他	PRON	PRP	Number=Plur|Person=3	4	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No
 3	需	需	AUX	MD	_	4	aux	_	SpaceAfter=No
@@ -4636,7 +4636,7 @@
 26	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s174
-# text = 頭上髮飾的皇冠就是宮廷蛋糕師的印記.
+# text = 頭上髮飾的皇冠就是宮廷蛋糕師的印記。
 1	頭上	頭上	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	髮飾	髮飾	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -4650,7 +4650,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s175
-# text = 秦月香為保護女兒采青誤殺桑老三,被知縣蕭汝章利用,將月香的舊主子、采青生父青城富商沈淵捲入是非漩渦.
+# text = 秦月香為保護女兒采青誤殺桑老三，被知縣蕭汝章利用，將月香的舊主子、采青生父青城富商沈淵捲入是非漩渦。
 1	秦	秦	PROPN	NNP	_	15	nsubj:pass	_	SpaceAfter=No
 2	月香	月香	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	為	為	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -4685,7 +4685,7 @@
 32	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s176
-# text = 大義(1360年五月-十二月)是元朝時期陳友諒的年號,共計8個月.
+# text = 大義（1360年五月-十二月）是元朝時期陳友諒的年號，共計8個月。
 1	大義	大義	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 2	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No
 3	1360	1360	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -4712,7 +4712,7 @@
 24	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s177
-# text = 中國的塔什庫爾干塔吉克自治縣有波斯人聚居,流行波斯文化.
+# text = 中國的塔什庫爾干塔吉克自治縣有波斯人聚居，流行波斯文化。
 1	中國	中國	PROPN	NNP	_	5	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	塔什庫爾干塔吉克	塔什庫爾干塔吉克	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
@@ -4729,7 +4729,7 @@
 14	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s178
-# text = 在前伊斯蘭時期,伊朗人將他們的土地劃分為兩個主要部分,分別是伊朗及安勒尼蘭(Aniran).
+# text = 在前伊斯蘭時期，伊朗人將他們的土地劃分為兩個主要部分，分別是伊朗及安勒尼蘭（Aniran）。
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	前	前	PART	PFA	_	4	case:pref	_	SpaceAfter=No
 3	伊斯蘭	伊斯蘭	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -4759,7 +4759,7 @@
 27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s179
-# text = 六年後的1956年3月8日,位於德國漢諾威新建成的福斯商用車工廠正式啟用,原狼堡工廠停止生產福斯廂型車.
+# text = 六年後的1956年3月8日，位於德國漢諾威新建成的福斯商用車工廠正式啟用，原狼堡工廠停止生產福斯廂型車。
 1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	10	det	_	SpaceAfter=No
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -4797,7 +4797,7 @@
 35	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
 # sent_id = test-s180
-# text = 通過將原型的不斷完善,其具有了更低的風阻係數、更佳的操控性和耐用度.
+# text = 通過將原型的不斷完善，其具有了更低的風阻係數、更佳的操控性和耐用度。
 1	通過	通過	ADP	IN	_	6	case	_	SpaceAfter=No
 2	將	將	ADP	BB	_	3	case	_	SpaceAfter=No
 3	原型	原型	NOUN	NN	_	6	obl:patient	_	SpaceAfter=No
@@ -4823,7 +4823,7 @@
 23	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s181
-# text = 大佛口亦為灣仔區議會其中一個選區,現任議員為親建制的民建聯成員李勻頤.
+# text = 大佛口亦為灣仔區議會其中一個選區，現任議員為親建制的民建聯成員李勻頤。
 1	大佛	大佛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	口	口	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 3	亦為	亦為	AUX	VC	_	10	cop	_	SpaceAfter=No
@@ -4848,7 +4848,7 @@
 22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s182
-# text = 大興邨位於今天和平區桂林路與衡陽路之間的重慶道上,總建築面積為5900平方米,其中佔地面積為6100平方米.
+# text = 大興邨位於今天和平區桂林路與衡陽路之間的重慶道上，總建築面積為5900平方米，其中佔地面積為6100平方米。
 1	大興	大興	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	邨	邨	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -4883,7 +4883,7 @@
 32	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s183
-# text = 大同寶寶是台灣的大同公司於1969年推出的吉祥物.
+# text = 大同寶寶是台灣的大同公司於1969年推出的吉祥物。
 1	大同	大同	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	寶寶	寶寶	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No
@@ -4901,7 +4901,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s184
-# text = 也就是說,該航程主要吸引美海軍戰鬥機向大和攻擊隊迎戰,緩和對日本特攻機的攻擊.
+# text = 也就是說，該航程主要吸引美海軍戰鬥機向大和攻擊隊迎戰，緩和對日本特攻機的攻擊。
 1	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No
 2	就是	就是	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	說	說	VERB	VV	_	19	advcl	_	SpaceAfter=No
@@ -4930,7 +4930,7 @@
 26	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s185
-# text = 在3月30日,美軍軍機在呉軍港及廣島灣佈置了1,034個水雷,由於需要時間清除水雷,所以令返回呉軍港相當困難.
+# text = 在3月30日，美軍軍機在呉軍港及廣島灣佈置了1,034個水雷，由於需要時間清除水雷，所以令返回呉軍港相當困難。
 1	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
 2	3	3	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No
@@ -4968,7 +4968,7 @@
 35	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No
 
 # sent_id = test-s186
-# text = 往返的航程中,第一砲塔因美軍的轟炸而中了4枚炸彈,但對後續戰鬥沒有影響.
+# text = 往返的航程中，第一砲塔因美軍的轟炸而中了4枚炸彈，但對後續戰鬥沒有影響。
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
@@ -4997,7 +4997,7 @@
 26	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s187
-# text = 唯一出現的人類角色,也是養育大嘴鳥的人,角色原型是凡爾納的小說環遊世界八十天中名為「萬事通」的助手.
+# text = 唯一出現的人類角色，也是養育大嘴鳥的人，角色原型是凡爾納的小說環遊世界八十天中名為「萬事通」的助手。
 1	唯一	唯一	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 2	出現	出現	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -5033,7 +5033,7 @@
 33	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s188
-# text = 龍頭由藤條屈曲為骨架;龍牙以鋸齒的鐵片造成;雙眼是手電筒;舌頭是漆紅的木片.
+# text = 龍頭由藤條屈曲為骨架；龍牙以鋸齒的鐵片造成；雙眼是手電筒；舌頭是漆紅的木片。
 1	龍頭	龍頭	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	由	由	VERB	VV	_	0	root	_	SpaceAfter=No
 3	藤條	藤條	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -5062,7 +5062,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s189
-# text = 在活動期間,該縣被廣東省文化廳授予廣東省「漢樂之鄉」稱號.
+# text = 在活動期間，該縣被廣東省文化廳授予廣東省「漢樂之鄉」稱號。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	活動	活動	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	期間	期間	NOUN	NN	_	11	obl	_	SpaceAfter=No
@@ -5086,7 +5086,7 @@
 21	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s190
-# text = 此作也被改編成真人電影、小說、動畫等.
+# text = 此作也被改編成真人電影、小說、動畫等。
 1	此作	此作	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No
 2	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No
 3	被	被	VERB	BB	Voice=Pass	4	aux:pass	_	SpaceAfter=No
@@ -5102,7 +5102,7 @@
 13	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s191
-# text = 大孔多孔菌,屬多孔菌科一種,是木棲腐生的中小型菇類.
+# text = 大孔多孔菌，屬多孔菌科一種，是木棲腐生的中小型菇類。
 1	大孔多孔菌	大孔多孔菌	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 3	屬	屬	VERB	VV	_	14	acl	_	SpaceAfter=No
@@ -5120,7 +5120,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s192
-# text = 大安國際大樓是位於臺灣臺中市南區忠明南路上的一幢摩天大樓,樓高151.2米,共地上42層,地下4層.
+# text = 大安國際大樓是位於臺灣臺中市南區忠明南路上的一幢摩天大樓，樓高151.2米，共地上42層，地下4層。
 1	大安	大安	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	國際	國際	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	大樓	大樓	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
@@ -5157,7 +5157,7 @@
 34	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s193
-# text = 2005年12月,該劇在橫店開機,除保留了原製作班底,主要演員全部更換.
+# text = 2005年12月，該劇在橫店開機，除保留了原製作班底，主要演員全部更換。
 1	2005	2005	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -5182,7 +5182,7 @@
 22	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s194
-# text = 據媒體引述,共約1500名國立大學教員涉案,檢調單位陸續約談了其中約700人.
+# text = 據媒體引述，共約1500名國立大學教員涉案，檢調單位陸續約談了其中約700人。
 1	據	據	ADP	IN	_	3	case	_	SpaceAfter=No
 2	媒體	媒體	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	引述	引述	VERB	VV	_	13	ccomp	_	SpaceAfter=No
@@ -5209,7 +5209,7 @@
 24	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s195
-# text = 黃昏時,夕陽照在山脈上,石頭反射著通紅色,像著了火一樣,蔚為奇觀.
+# text = 黃昏時，夕陽照在山脈上，石頭反射著通紅色，像著了火一樣，蔚為奇觀。
 1	黃昏	黃昏	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	時	時	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -5237,7 +5237,7 @@
 25	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s196
-# text = 最大振幅的大氣潮產生於日間太陽輻射對對流層的水蒸氣和平流層的臭氧周期性加熱.
+# text = 最大振幅的大氣潮產生於日間太陽輻射對對流層的水蒸氣和平流層的臭氧周期性加熱。
 1	最大	最大	ADJ	JJ	_	2	amod	_	SpaceAfter=No
 2	振幅	振幅	NOUN	NN	_	5	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -5265,7 +5265,7 @@
 25	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s197
-# text = 1949年之後,廣州地區鐵路運量逐年增大,廣州鐵路分局也對鐵路及站場進行整體改造.
+# text = 1949年之後，廣州地區鐵路運量逐年增大，廣州鐵路分局也對鐵路及站場進行整體改造。
 1	1949	1949	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No
 3	之後	之後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -5291,7 +5291,7 @@
 23	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s198
-# text = 2011年7月21日,大津祐樹和德國足球甲級聯賽球隊門興格拉德巴赫簽約三年.
+# text = 2011年7月21日，大津祐樹和德國足球甲級聯賽球隊門興格拉德巴赫簽約三年。
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -5314,7 +5314,7 @@
 20	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s199
-# text = 這些人大量捕殺大海牛,吃牠們的肉、用牠們的皮來製造與修補船隻.
+# text = 這些人大量捕殺大海牛，吃牠們的肉、用牠們的皮來製造與修補船隻。
 1	這些	這些	DET	DT	_	2	det	_	SpaceAfter=No
 2	人	人	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 3	大量	大量	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -5338,7 +5338,7 @@
 21	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s200
-# text = 2006年,桃園縣政府結合蔣公行館、角板山行館、慈湖陵寢、大溪陵寢、慈湖雕塑紀念公園為「兩蔣文化園區」.
+# text = 2006年，桃園縣政府結合蔣公行館、角板山行館、慈湖陵寢、大溪陵寢、慈湖雕塑紀念公園為「兩蔣文化園區」。
 1	2006	2006	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
@@ -5374,7 +5374,7 @@
 33	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s201
-# text = 海域東北處有一島嶼名為塔門,形成連接大赤門的海域及連接大鵬灣的塔門口.
+# text = 海域東北處有一島嶼名為塔門，形成連接大赤門的海域及連接大鵬灣的塔門口。
 1	海域	海域	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	東北	東北	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	處	處	PART	SFN	_	4	nsubj	_	SpaceAfter=No
@@ -5401,7 +5401,7 @@
 24	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s202
-# text = 車站建於1928年,有蒙寶鐵路經過該站,現僅辦理貨運,不辦理客運業務,車站及其上下行區間均未電氣化.
+# text = 車站建於1928年，有蒙寶鐵路經過該站，現僅辦理貨運，不辦理客運業務，車站及其上下行區間均未電氣化。
 1	車站	車站	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 2	建	建	VERB	VV	_	20	advcl	_	SpaceAfter=No
 3	於	於	VERB	VV	_	2	mark	_	SpaceAfter=No
@@ -5437,7 +5437,7 @@
 33	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s203
-# text = 大石橋鄉,是下轄的一個鄉鎮級行政單位.
+# text = 大石橋鄉，是下轄的一個鄉鎮級行政單位。
 1	大石	大石	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	橋	橋	PART	SFN	_	3	case:suff	_	SpaceAfter=No
 3	鄉	鄉	PART	SFN	_	13	nsubj	_	SpaceAfter=No
@@ -5454,7 +5454,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s204
-# text = 大統華擁有四處物流中心,其中3處在大溫哥華地區,1處在多倫多.
+# text = 大統華擁有四處物流中心，其中3處在大溫哥華地區，1處在多倫多。
 1	大統華	大統華	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	擁有	擁有	VERB	VV	_	0	root	_	SpaceAfter=No
 3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -5477,7 +5477,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s205
-# text = 從此大統華便完全成為一間由加拿大資金經營的本地公司.
+# text = 從此大統華便完全成為一間由加拿大資金經營的本地公司。
 1	從此	從此	ADV	RB	_	5	advmod	_	SpaceAfter=No
 2	大統華	大統華	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No
 3	便	便	ADV	RB	_	5	mark	_	SpaceAfter=No
@@ -5496,7 +5496,7 @@
 16	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s206
-# text = 1933年,李吟秋主持修建新橋,工程技術人員在加固護岸的同時還加大孔徑使橋長增加約20餘米.
+# text = 1933年，李吟秋主持修建新橋，工程技術人員在加固護岸的同時還加大孔徑使橋長增加約20餘米。
 1	1933	1933	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -5526,7 +5526,7 @@
 27	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s207
-# text = 這裡的競爭不斷,四位妻子不斷去爭奪丈夫對自己的注意和感情,雖然大太太的競爭沒有這麼多.
+# text = 這裡的競爭不斷，四位妻子不斷去爭奪丈夫對自己的注意和感情，雖然大太太的競爭沒有這麼多。
 1	這裡	這裡	PRON	PRD	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	競爭	競爭	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -5557,7 +5557,7 @@
 28	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s208
-# text = 幾天以後,總經理李俊英在四川路上也被槍殺.
+# text = 幾天以後，總經理李俊英在四川路上也被槍殺。
 1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	天	天	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No
 3	以後	以後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -5575,7 +5575,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s209
-# text = 該報以旅滬美國僑民為主要讀者對象,著重報道美國和其他西方僑民在中國的活動.
+# text = 該報以旅滬美國僑民為主要讀者對象，著重報道美國和其他西方僑民在中國的活動。
 1	該報	該報	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
 2	以	以	VERB	VV	Voice=Cau	12	advcl	_	SpaceAfter=No
 3	旅	旅	VERB	VV	_	6	amod	_	SpaceAfter=No
@@ -5601,7 +5601,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s210
-# text = 在2007年,耶茨將大腳類歸類於板龍類.
+# text = 在2007年，耶茨將大腳類歸類於板龍類。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	2007	2007	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	9	obl	_	SpaceAfter=No
@@ -5617,7 +5617,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s211
-# text = 大腳類包含大椎龍科與里奧哈龍科等科.
+# text = 大腳類包含大椎龍科與里奧哈龍科等科。
 1	大腳	大腳	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	類	類	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	包含	包含	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -5631,7 +5631,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s212
-# text = 可自創主角或者選擇遊戲提供的兩個虛擬的主角(一為葡萄牙籍,另一為西班牙籍).
+# text = 可自創主角或者選擇遊戲提供的兩個虛擬的主角（一為葡萄牙籍，另一為西班牙籍）。
 1	可	可	AUX	MD	_	2	aux	_	SpaceAfter=No
 2	自創	自創	VERB	VV	_	0	root	_	SpaceAfter=No
 3	主角	主角	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -5660,7 +5660,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s213
-# text = 大花蕙蘭的生產地主要是日本,韓國和中國,澳洲及美國等.
+# text = 大花蕙蘭的生產地主要是日本，韓國和中國，澳洲及美國等。
 1	大花蕙蘭	大花蕙蘭	NOUN	NN	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	生產	生產	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -5680,7 +5680,7 @@
 17	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s214
-# text = 她受到野生動物保護官的父親的影響,使她也有很強的正義感.
+# text = 她受到野生動物保護官的父親的影響，使她也有很強的正義感。
 1	她	她	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	受到	受到	VERB	VV	_	12	csubj	_	SpaceAfter=No
 3	野生	野生	NOUN	NN	_	6	nmod	_	SpaceAfter=No
@@ -5703,7 +5703,7 @@
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s215
-# text = 另一種解釋來自奧地利經濟學派.
+# text = 另一種解釋來自奧地利經濟學派。
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	種	種	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
@@ -5716,7 +5716,7 @@
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s216
-# text = 這項分析否定了存貸的作用,提出了股本衰退的假設.
+# text = 這項分析否定了存貸的作用，提出了股本衰退的假設。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	項	項	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	分析	分析	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
@@ -5735,7 +5735,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s217
-# text = 大葆台站投入使用時是房山線市區一端的終點站,在本站設有臨1路公交車前往大興線新宮站並設置虛擬換乘,以解決房山線無法與其他線路換乘問題.
+# text = 大葆台站投入使用時是房山線市區一端的終點站，在本站設有臨1路公交車前往大興線新宮站並設置虛擬換乘，以解決房山線無法與其他線路換乘問題。
 1	大葆台	大葆台	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	站	站	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	投入	投入	VERB	VV	_	14	acl	_	SpaceAfter=No
@@ -5782,7 +5782,7 @@
 44	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s218
-# text = Rize在當年的聖丹斯電影節首映.
+# text = Rize在當年的聖丹斯電影節首映。
 1	Rize	Rize	X	FW	_	8	nsubj	_	SpaceAfter=No
 2	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 3	當年	當年	NOUN	NN	_	7	det	_	SpaceAfter=No
@@ -5794,7 +5794,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s219
-# text = 他也參與了Courtney Love新專輯的製作.
+# text = 他也參與了CourtneyLove新專輯的製作。
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	參與	參與	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -5808,7 +5808,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s220
-# text = 這場秀大量使用了各種影片技術,舞台佈景中還包括了一面巨形LED螢幕牆.
+# text = 這場秀大量使用了各種影片技術，舞台佈景中還包括了一面巨形LED螢幕牆。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	場	場	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	秀	秀	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -5834,7 +5834,7 @@
 23	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s221
-# text = 《紐約時報》認為本劇「深刻地揭示了現實生活中,野心與自省之間的無休止爭鬥」.
+# text = 《紐約時報》認為本劇「深刻地揭示了現實生活中，野心與自省之間的無休止爭鬥」。
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
 2	紐約	紐約	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 3	時報	時報	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -5862,7 +5862,7 @@
 25	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s222
-# text = 儘管本劇在收視率上並不理想(第一季全年收視排行第27名,第二季為第46名),但是並不妨礙本劇成為「艾美獎寵兒」.
+# text = 儘管本劇在收視率上並不理想（第一季全年收視排行第27名，第二季為第46名），但是並不妨礙本劇成為「艾美獎寵兒」。
 1	儘管	儘管	ADP	IN	_	9	case	_	SpaceAfter=No
 2	本劇	本劇	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -5903,7 +5903,7 @@
 38	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s223
-# text = 迦陵舍利塔為松柏環繞,南面一棵松樹,北面一棵柏樹,松樹和柏樹的枝條向白塔生長,似乎是要伸手將白塔抱住,因此得名松柏抱塔.
+# text = 迦陵舍利塔為松柏環繞，南面一棵松樹，北面一棵柏樹，松樹和柏樹的枝條向白塔生長，似乎是要伸手將白塔抱住，因此得名松柏抱塔。
 1	迦陵	迦陵	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	舍利	舍利	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	塔	塔	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
@@ -5946,7 +5946,7 @@
 40	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s224
-# text = 1920年(大正九年)8月,澤田俊郎歸國到仙台結婚,後偕新婚妻子再度回到滿洲.
+# text = 1920年（大正九年）8月，澤田俊郎歸國到仙台結婚，後偕新婚妻子再度回到滿洲。
 1	1920	1920	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
@@ -5974,7 +5974,7 @@
 25	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s225
-# text = 1921年(大正十年)6月,澤田俊郎的長男在滿洲出生.
+# text = 1921年（大正十年）6月，澤田俊郎的長男在滿洲出生。
 1	1921	1921	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	9	nmod	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No
@@ -5995,7 +5995,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s226
-# text = 哥特式建築,位於中山路和玉光街之間.
+# text = 哥特式建築，位於中山路和玉光街之間。
 1	哥特	哥特	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	式	式	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	建築	建築	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -6011,7 +6011,7 @@
 13	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s227
-# text = 最終沙俄戰敗,規劃未能實現.
+# text = 最終沙俄戰敗，規劃未能實現。
 1	最終	最終	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No
 2	沙俄	沙俄	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 3	戰敗	戰敗	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6022,7 +6022,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s228
-# text = 同年,該公司宣布,自2006年1月1日起大幅削減對全國的退休人員的衛生保健開銷.
+# text = 同年，該公司宣布，自2006年1月1日起大幅削減對全國的退休人員的衛生保健開銷。
 1	同年	同年	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 3	該	該	DET	DT	_	4	det	_	SpaceAfter=No
@@ -6051,7 +6051,7 @@
 26	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s229
-# text = 該公司總部設在德國漢諾威.
+# text = 該公司總部設在德國漢諾威。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	公司	公司	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	總部	總部	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -6062,7 +6062,7 @@
 8	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s230
-# text = 《大雄的宇宙開拓史》,是藤子·F·不二雄執筆,於1980年9月號到1981年2月連載於《快樂快樂月刊》月刊,是《哆啦A夢》大長篇的一部分.
+# text = 《大雄的宇宙開拓史》，是藤子·F·不二雄執筆，於1980年9月號到1981年2月連載於《快樂快樂月刊》月刊，是《哆啦A夢》大長篇的一部分。
 1	《	《	PUNCT	(	_	6	punct	_	SpaceAfter=No
 2	大雄	大雄	PROPN	NNP	_	6	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -6111,7 +6111,7 @@
 46	。	。	PUNCT	.	_	45	punct	_	SpaceAfter=No
 
 # sent_id = test-s231
-# text = 3月1日在為高宗舉行國葬時,韓國民眾藉機在各地遊行,韓國獨立運動者在京城塔洞公園發表了獨立宣言,要求韓國獨立,是為「三一運動」.
+# text = 3月1日在為高宗舉行國葬時，韓國民眾藉機在各地遊行，韓國獨立運動者在京城塔洞公園發表了獨立宣言，要求韓國獨立，是為「三一運動」。
 1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6156,7 +6156,7 @@
 42	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s232
-# text = 朝韓分治後,大韓民國經歷了民主與獨裁統治的反覆交替.
+# text = 朝韓分治後，大韓民國經歷了民主與獨裁統治的反覆交替。
 1	朝	朝	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 2	韓	韓	PROPN	NNP	_	1	conj	_	SpaceAfter=No
 3	分治	分治	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6176,7 +6176,7 @@
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s233
-# text = 韓國氣候受東韓暖流影響,氣候相對溫暖濕潤,與日本氣候相似.
+# text = 韓國氣候受東韓暖流影響，氣候相對溫暖濕潤，與日本氣候相似。
 1	韓國	韓國	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	氣候	氣候	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	受	受	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
@@ -6197,7 +6197,7 @@
 18	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s234
-# text = 大額蛇鰻,為輻鰭魚綱鰻鱺目糯鰻亞目蛇鰻科的其中一種,分布於中東太平洋區,從加利福尼亞灣中部至巴拿馬海域,棲息深度35-760公尺,體長可達86公分,棲息在沙泥底質海域,為底棲性魚類,屬肉食性,生活習性不明.
+# text = 大額蛇鰻，為輻鰭魚綱鰻鱺目糯鰻亞目蛇鰻科的其中一種，分布於中東太平洋區，從加利福尼亞灣中部至巴拿馬海域，棲息深度35-760公尺，體長可達86公分，棲息在沙泥底質海域，為底棲性魚類，屬肉食性，生活習性不明。
 1	大額蛇鰻	大額蛇鰻	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 3	為	為	AUX	VC	_	15	cop	_	SpaceAfter=No
@@ -6263,7 +6263,7 @@
 63	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s235
-# text = 2010年有教友54,942人、廿一個堂區、廿九名司鐸.
+# text = 2010年有教友54,942人、廿一個堂區、廿九名司鐸。
 1	2010	2010	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6281,7 +6281,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s236
-# text = 教區成立於1956年12月17日,包括蘭巴耶克大區和卡哈馬卡大區的聖克魯斯省.
+# text = 教區成立於1956年12月17日，包括蘭巴耶克大區和卡哈馬卡大區的聖克魯斯省。
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -6304,7 +6304,7 @@
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s237
-# text = 天主教安國教區是中國第一批6個國籍教區中教友人數較多的一個.
+# text = 天主教安國教區是中國第一批6個國籍教區中教友人數較多的一個。
 1	天主	天主	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	教	教	PART	SFN	_	4	nmod	_	SpaceAfter=No
 3	安國	安國	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -6327,7 +6327,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s238
-# text = 教長區成立於1951年11月14日,1997年有教友10,000人、四個堂區、五名司鐸.
+# text = 教長區成立於1951年11月14日，1997年有教友10,000人、四個堂區、五名司鐸。
 1	教長	教長	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	區	區	PART	SFN	_	14	nsubj	_	SpaceAfter=No
 3	成立	成立	VERB	VV	_	14	advcl	_	SpaceAfter=No
@@ -6356,7 +6356,7 @@
 26	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s239
-# text = 教區下轄七十四個堂區,有八十七名司鐸.
+# text = 教區下轄七十四個堂區，有八十七名司鐸。
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	下轄	下轄	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	七十四	七十四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6370,7 +6370,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s240
-# text = 現任主教為朱斯廷·蘇敏德.
+# text = 現任主教為朱斯廷·蘇敏德。
 1	現任	現任	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	主教	主教	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 3	為	為	AUX	VC	_	4	cop	_	SpaceAfter=No
@@ -6380,7 +6380,7 @@
 7	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s241
-# text = 1815年,嘉慶皇帝強化禁教,將法國籍主教徐德新等11名傳教士,斬首於成都,並懸頭於城門三日.
+# text = 1815年，嘉慶皇帝強化禁教，將法國籍主教徐德新等11名傳教士，斬首於成都，並懸頭於城門三日。
 1	1815	1815	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No
@@ -6413,7 +6413,7 @@
 30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
 # sent_id = test-s242
-# text = 教區下轄218個堂區,有327名司鐸.
+# text = 教區下轄218個堂區，有327名司鐸。
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	下轄	下轄	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	218	218	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6427,7 +6427,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s243
-# text = 教區成立於2013年2月22日,範圍包括高原省.
+# text = 教區成立於2013年2月22日，範圍包括高原省。
 1	教區	教區	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	成立	成立	VERB	VV	_	0	root	_	SpaceAfter=No
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -6445,7 +6445,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s244
-# text = 教區成立於1969年7月18日,位於布宜諾斯艾利斯省馬坦薩縣.
+# text = 教區成立於1969年7月18日，位於布宜諾斯艾利斯省馬坦薩縣。
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -6465,7 +6465,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s245
-# text = 中國有35屬約206種,主要分佈在南方各地.
+# text = 中國有35屬約206種，主要分佈在南方各地。
 1	中國	中國	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	10	csubj	_	SpaceAfter=No
 3	35	35	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6482,7 +6482,7 @@
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s246
-# text = 那座天后廟位於天后廟道,建於1747年.
+# text = 那座天后廟位於天后廟道，建於1747年。
 1	那	那	DET	DT	_	2	det	_	SpaceAfter=No
 2	座	座	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
 3	天后	天后	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
@@ -6500,7 +6500,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s247
-# text = 和其他動作作品中敵人的破壞不同,《天地創造》引入了創造主題,這也激發玩家想像他們行動可能帶來的效果.
+# text = 和其他動作作品中敵人的破壞不同，《天地創造》引入了創造主題，這也激發玩家想像他們行動可能帶來的效果。
 1	和	和	ADP	IN	_	8	case	_	SpaceAfter=No
 2	其他	其他	DET	DT	_	4	det	_	SpaceAfter=No
 3	動作	動作	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -6534,7 +6534,7 @@
 31	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s248
-# text = 在植物的幫助下,阿空穿過了基亞那山.
+# text = 在植物的幫助下，阿空穿過了基亞那山。
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	植物	植物	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -6549,7 +6549,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s249
-# text = 遊戲世界以俯視視角顯示,並使用動作制即時戰鬥系統,通過跑動、跳躍、攻擊,或將這些動作結合,玩家可使用不同的技能.
+# text = 遊戲世界以俯視視角顯示，並使用動作制即時戰鬥系統，通過跑動、跳躍、攻擊，或將這些動作結合，玩家可使用不同的技能。
 1	遊戲	遊戲	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	世界	世界	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	以	以	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -6587,7 +6587,7 @@
 35	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s250
-# text = 因為非常有威嚴,往往一般認為她是園長.
+# text = 因為非常有威嚴，往往一般認為她是園長。
 1	因為	因為	ADP	IN	_	3	case	_	SpaceAfter=No
 2	非常	非常	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	有	有	VERB	VV	_	8	xcomp	_	SpaceAfter=No
@@ -6602,7 +6602,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s251
-# text = 添和李護士懷疑鄭明有寶物私藏著,乃引誘他吐露寶物所在.
+# text = 添和李護士懷疑鄭明有寶物私藏著，乃引誘他吐露寶物所在。
 1	添	添	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 2	和	和	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 3	李	李	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -6625,7 +6625,7 @@
 20	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s252
-# text = 界人曾說過很喜歡她出的謎題.
+# text = 界人曾說過很喜歡她出的謎題。
 1	界人	界人	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 2	曾	曾	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -6639,7 +6639,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s253
-# text = 每出一題,探長會指定任一參賽者回答該題,答對者加50分.
+# text = 每出一題，探長會指定任一參賽者回答該題，答對者加50分。
 1	每	每	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	出	出	VERB	VV	_	8	advcl	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6663,7 +6663,7 @@
 21	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s254
-# text = 每集統計兩隊總分,總分最高者即是該集的優勝隊,優勝隊隊員各獲得同一個獎品.
+# text = 每集統計兩隊總分，總分最高者即是該集的優勝隊，優勝隊隊員各獲得同一個獎品。
 1	每集	每集	DET	DT	_	2	advmod	_	SpaceAfter=No
 2	統計	統計	VERB	VV	_	0	root	_	SpaceAfter=No
 3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6692,7 +6692,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s255
-# text = 這和世界上其他的編號系統有所差異.
+# text = 這和世界上其他的編號系統有所差異。
 1	這	這	PRON	PRD	_	9	nsubj	_	SpaceAfter=No
 2	和	和	ADP	IN	_	8	case	_	SpaceAfter=No
 3	世界	世界	NOUN	NN	_	8	nmod	_	SpaceAfter=No
@@ -6707,7 +6707,7 @@
 12	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s256
-# text = 河長176千米,流域面積3700平方千米,年均流量11立方米每秒.
+# text = 河長176千米，流域面積3700平方千米，年均流量11立方米每秒。
 1	河	河	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	長	長	ADJ	JJ	_	0	root	_	SpaceAfter=No
 3	176	176	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6725,7 +6725,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s257
-# text = 到了2004年5月,天水圍北唯一私人屋苑慧景軒正式入伙.
+# text = 到了2004年5月，天水圍北唯一私人屋苑慧景軒正式入伙。
 1	到	到	VERB	VV	_	17	advcl	_	SpaceAfter=No
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
 3	2004	2004	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -6746,7 +6746,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s258
-# text = 為營造新一代新市鎮形象,當年所規劃屋邨均設有大量休憩用地,並且設有少量預留空間作日後發展.
+# text = 為營造新一代新市鎮形象，當年所規劃屋邨均設有大量休憩用地，並且設有少量預留空間作日後發展。
 1	為	為	ADP	IN	_	2	case	_	SpaceAfter=No
 2	營造	營造	VERB	VV	_	21	xcomp	_	SpaceAfter=No
 3	新	新	ADJ	JJ	_	5	amod	_	SpaceAfter=No
@@ -6777,7 +6777,7 @@
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s259
-# text = 天津利順德大飯店是天津市歷史上第一家外資大飯店,在近代史上曾是重要的外交活動場所,英國、美國、加拿大、日本等國家曾先後將領事館設於酒店內.
+# text = 天津利順德大飯店是天津市歷史上第一家外資大飯店，在近代史上曾是重要的外交活動場所，英國、美國、加拿大、日本等國家曾先後將領事館設於酒店內。
 1	天津	天津	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 2	利順德	利順德	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 3	大	大	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -6826,7 +6826,7 @@
 46	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s260
-# text = 根據天津市地域內的地貌、氣候、土壤、植被等的自然條件的差異,以滿足城市需求為目標天津市的農業可分為都市型、濱海型和城郊型,據此天津市域的農業區劃可以劃分為都市型環城農業區、都市型濱海農業區、城郊型平原綜合農業區和城郊型山區生態農業區四個農業區劃.
+# text = 根據天津市地域內的地貌、氣候、土壤、植被等的自然條件的差異，以滿足城市需求為目標天津市的農業可分為都市型、濱海型和城郊型，據此天津市域的農業區劃可以劃分為都市型環城農業區、都市型濱海農業區、城郊型平原綜合農業區和城郊型山區生態農業區四個農業區劃。
 1	根據	根據	ADP	IN	_	19	case	_	SpaceAfter=No
 2	天津	天津	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	市	市	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -6910,7 +6910,7 @@
 81	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No
 
 # sent_id = test-s261
-# text = 除此之外,天津市河東區還管轄位於河北省涉縣的一塊飛地,即天津鐵廠街道.
+# text = 除此之外，天津市河東區還管轄位於河北省涉縣的一塊飛地，即天津鐵廠街道。
 1	除此	除此	VERB	VV	_	9	advcl	_	SpaceAfter=No
 2	之外	之外	ADP	IN	_	1	mark	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
@@ -6937,7 +6937,7 @@
 24	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s262
-# text = 天津市人民政府駐烏魯木齊辦事處,是中華人民共和國天津市人民政府駐烏魯木齊市的辦事處,該辦事處負責領導聯絡協調、招商引資、信息調研、對外宣傳、接待服務以及服務駐烏魯木齊市天津企業等相關事項.
+# text = 天津市人民政府駐烏魯木齊辦事處，是中華人民共和國天津市人民政府駐烏魯木齊市的辦事處，該辦事處負責領導聯絡協調、招商引資、信息調研、對外宣傳、接待服務以及服務駐烏魯木齊市天津企業等相關事項。
 1	天津	天津	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	市	市	PART	SFN	_	4	nmod	_	SpaceAfter=No
 3	人民	人民	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -6995,7 +6995,7 @@
 55	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s263
-# text = 歷史上,1982年11月至1994年10月期間,天津市人民政府建立了駐福州和駐廈門辦事處.
+# text = 歷史上，1982年11月至1994年10月期間，天津市人民政府建立了駐福州和駐廈門辦事處。
 1	歷史	歷史	NOUN	NN	_	19	advmod	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	，	，	PUNCT	.	_	19	punct	_	SpaceAfter=No
@@ -7026,7 +7026,7 @@
 28	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s264
-# text = 1919年擴建東廠後,年產量可達6萬2千多噸.
+# text = 1919年擴建東廠後，年產量可達6萬2千多噸。
 1	1919	1919	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No
 3	擴建	擴建	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7042,7 +7042,7 @@
 13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s265
-# text = 1959年3月13日,永久沽廠改為隸屬於河北省化學石油工業廳.
+# text = 1959年3月13日，永久沽廠改為隸屬於河北省化學石油工業廳。
 1	1959	1959	NUM	CD	NumType=Card	2	nmod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -7065,7 +7065,7 @@
 20	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s266
-# text = 參賽者於前三個提示可以允許失誤.
+# text = 參賽者於前三個提示可以允許失誤。
 1	參賽	參賽	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	者	者	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 3	於	於	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -7079,7 +7079,7 @@
 11	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s267
-# text = 偉是一名國軍空軍飛行少尉,是來自於一個顯赫家族的二少爺.
+# text = 偉是一名國軍空軍飛行少尉，是來自於一個顯赫家族的二少爺。
 1	偉	偉	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -7103,7 +7103,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s268
-# text = 牠們身體的顏色非常顯目,雄性為藍色,雌性則為綠色.
+# text = 牠們身體的顏色非常顯目，雄性為藍色，雌性則為綠色。
 1	牠們	牠	PRON	PRP	Number=Plur|Person=3	2	nmod	_	SpaceAfter=No
 2	身體	身體	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -7122,7 +7122,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s269
-# text = 因發展迅速,眾多支派經幾番整合於西元1988年正式成立社會團體「中華民國一貫道總會」,同時向台灣政府登記為「一貫道」.
+# text = 因發展迅速，眾多支派經幾番整合於西元1988年正式成立社會團體「中華民國一貫道總會」，同時向台灣政府登記為「一貫道」。
 1	因	因	ADP	IN	_	3	case	_	SpaceAfter=No
 2	發展	發展	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	迅速	迅速	ADJ	JJ	_	16	ccomp	_	SpaceAfter=No
@@ -7162,7 +7162,7 @@
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s270
-# text = 他也寫了許多給管樂團的曲目,其作品有被東京佼成管樂團選作錄音.
+# text = 他也寫了許多給管樂團的曲目，其作品有被東京佼成管樂團選作錄音。
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	寫	寫	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7185,7 +7185,7 @@
 20	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s271
-# text = 觀景台於2011年4月17日起試業,開放時間為早上10時至晚上8時半.
+# text = 觀景台於2011年4月17日起試業，開放時間為早上10時至晚上8時半。
 1	觀景	觀景	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	台	台	PART	SFN	_	11	nsubj	_	SpaceAfter=No
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -7212,7 +7212,7 @@
 24	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s272
-# text = 這個時代的天皇是近衛天皇.
+# text = 這個時代的天皇是近衛天皇。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	時代	時代	NOUN	NN	_	5	det	_	SpaceAfter=No
@@ -7224,7 +7224,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s273
-# text = 此時,真正的中情局要員林奇把叛變的林奇帶走了.
+# text = 此時，真正的中情局要員林奇把叛變的林奇帶走了。
 1	此時	此時	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 3	真正	真正	ADJ	JJ	_	7	amod	_	SpaceAfter=No
@@ -7244,7 +7244,7 @@
 17	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s274
-# text = 太平公主號的理賠問題等將交由保險公司、船公司與香港方面處理.
+# text = 太平公主號的理賠問題等將交由保險公司、船公司與香港方面處理。
 1	太平	太平	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 2	公主	公主	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	號	號	PART	SFN	_	6	det	_	SpaceAfter=No
@@ -7267,7 +7267,7 @@
 20	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s275
-# text = 1939年4月,日軍攻佔太平島,並將其更名為長島,納入高雄州管理.
+# text = 1939年4月，日軍攻佔太平島，並將其更名為長島，納入高雄州管理。
 1	1939	1939	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -7293,7 +7293,7 @@
 23	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s276
-# text = 在島西南方的防波堤末端豎立起「太平島」石碑,並在島之東端,另立「南沙群島太平島」石碑.
+# text = 在島西南方的防波堤末端豎立起「太平島」石碑，並在島之東端，另立「南沙群島太平島」石碑。
 1	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No
 2	島	島	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	西南	西南	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -7327,7 +7327,7 @@
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s277
-# text = 本島東部有一片熱帶海岸林,其樹高可達20公尺,主要以檄樹、欖仁樹、蓮葉桐、葛塔德木、草海桐、白水木、海檸檬、藤蟛蜞菊、長柄菊、長鞍藤、葛蕾草等喬木為主,林間雜有林投、可可椰子.
+# text = 本島東部有一片熱帶海岸林，其樹高可達20公尺，主要以檄樹、欖仁樹、蓮葉桐、葛塔德木、草海桐、白水木、海檸檬、藤蟛蜞菊、長柄菊、長鞍藤、葛蕾草等喬木為主，林間雜有林投、可可椰子。
 1	本島	本島	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	東部	東部	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7380,7 +7380,7 @@
 50	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s278
-# text = 他對澳大利亞報紙談到:「與其在無核議題這種遺物上試圖說服對方,不如把精力集中於我們能夠合作的事情上.」
+# text = 他對澳大利亞報紙談到：「與其在無核議題這種遺物上試圖說服對方，不如把精力集中於我們能夠合作的事情上。」
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No
 2	對	對	ADP	IN	_	4	case	_	SpaceAfter=No
 3	澳大利亞	澳大利亞	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -7415,7 +7415,7 @@
 32	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s279
-# text = 在此條約之下的美澳同盟仍然完全有效,兩國的國防部長經常列席年度部長級會議,美國太平洋地區總司令和澳洲參謀總長也常進行咨商,美國國務卿和澳洲外交部長每年會就條約相關事務進行會議,第17屆部長級會議在2005年11月澳洲阿德萊德召開.
+# text = 在此條約之下的美澳同盟仍然完全有效，兩國的國防部長經常列席年度部長級會議，美國太平洋地區總司令和澳洲參謀總長也常進行咨商，美國國務卿和澳洲外交部長每年會就條約相關事務進行會議，第17屆部長級會議在2005年11月澳洲阿德萊德召開。
 1	在	在	ADP	IN	_	8	det	_	SpaceAfter=No
 2	此	此	DET	DT	_	3	det	_	SpaceAfter=No
 3	條約	條約	NOUN	NN	_	1	nmod	_	SpaceAfter=No
@@ -7486,7 +7486,7 @@
 68	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s280
-# text = 根據1984年大選前的民意調查,百分之五十八的民眾明確反對美國軍艦的訪問.
+# text = 根據1984年大選前的民意調查，百分之五十八的民眾明確反對美國軍艦的訪問。
 1	根據	根據	ADP	IN	_	8	case	_	SpaceAfter=No
 2	1984	1984	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
@@ -7508,7 +7508,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s281
-# text = 許多美國報紙因此在幾周內都以頭條批評美國內閣成員出賣盟友.
+# text = 許多美國報紙因此在幾周內都以頭條批評美國內閣成員出賣盟友。
 1	許多	許多	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 2	美國	美國	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 3	報紙	報紙	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
@@ -7530,7 +7530,7 @@
 19	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s282
-# text = 但是在本劇後半有關觀應之亂等故事,則是吉川原作沒有的創作.
+# text = 但是在本劇後半有關觀應之亂等故事，則是吉川原作沒有的創作。
 1	但是	但是	ADV	RB	_	17	mark	_	SpaceAfter=No
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 3	本劇	本劇	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -7551,7 +7551,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s283
-# text = 太平里鄉原屬湖南省宜章縣下轄鄉,2012年4月撤銷,與沙坪鄉一起成建制合併至新設的五嶺鄉.
+# text = 太平里鄉原屬湖南省宜章縣下轄鄉，2012年4月撤銷，與沙坪鄉一起成建制合併至新設的五嶺鄉。
 1	太平	太平	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	里	里	PART	SFN	_	3	case:suff	_	SpaceAfter=No
 3	鄉	鄉	PART	SFN	_	24	nsubj	_	SpaceAfter=No
@@ -7584,7 +7584,7 @@
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s284
-# text = 太極劍的歷史雖不長,但很受太極愛好者歡迎,其流行程度實超過太極刀、槍、棍、桿等器械.
+# text = 太極劍的歷史雖不長，但很受太極愛好者歡迎，其流行程度實超過太極刀、槍、棍、桿等器械。
 1	太極	太極	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	劍	劍	PART	SFN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -7618,7 +7618,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s285
-# text = 太極分別於2012年5月4日及2012年8月11日在紅磡體育館舉行入行27周年演唱會.
+# text = 太極分別於2012年5月4日及2012年8月11日在紅磡體育館舉行入行27周年演唱會。
 1	太極	太極	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No
 2	分別	分別	ADV	RB	_	9	advmod	_	SpaceAfter=No
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No
@@ -7648,7 +7648,7 @@
 27	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s286
-# text = 但是由於豐臣秀吉在日本人心中的影響,人們把平民出身的政要與豐太閤相比,稱為「今太閤」.
+# text = 但是由於豐臣秀吉在日本人心中的影響，人們把平民出身的政要與豐太閤相比，稱為「今太閤」。
 1	但是	但是	ADV	RB	_	23	mark	_	SpaceAfter=No
 2	由於	由於	ADP	IN	_	10	case	_	SpaceAfter=No
 3	豐臣	豐臣	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
@@ -7680,7 +7680,7 @@
 29	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s287
-# text = 豐臣秀吉將關白之職讓給了外甥豐臣秀次後,自稱太閤.
+# text = 豐臣秀吉將關白之職讓給了外甥豐臣秀次後，自稱太閤。
 1	豐臣	豐臣	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 2	秀吉	秀吉	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	將	將	ADP	BB	_	6	case	_	SpaceAfter=No
@@ -7699,7 +7699,7 @@
 16	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s288
-# text = 太陽能發電把陽光轉換成電能,可直接使用太陽能光伏(PV),或間接使用聚光太陽能熱發電(CSP).
+# text = 太陽能發電把陽光轉換成電能，可直接使用太陽能光伏（PV），或間接使用聚光太陽能熱發電（CSP）。
 1	太陽	太陽	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	能	能	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	發電	發電	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
@@ -7733,7 +7733,7 @@
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s289
-# text = 而宮內的每個房間門口,又各有幾名看門婦把守.
+# text = 而宮內的每個房間門口，又各有幾名看門婦把守。
 1	而	而	ADV	RB	_	10	mark	_	SpaceAfter=No
 2	宮內	宮內	NOUN	NN	_	6	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -7752,7 +7752,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s290
-# text = 赫伯特的一些日記被送回英國,到了丹尼爾手裡.
+# text = 赫伯特的一些日記被送回英國，到了丹尼爾手裡。
 1	赫伯特	赫伯特	PROPN	NNP	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	一些	一些	ADJ	JJ	_	4	amod	_	SpaceAfter=No
@@ -7768,7 +7768,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s291
-# text = 同時,凌統騙曹仁誤信周瑜大營仍有大軍留守,未予以全力襲擊.
+# text = 同時，凌統騙曹仁誤信周瑜大營仍有大軍留守，未予以全力襲擊。
 1	同時	同時	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 3	凌	凌	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No
@@ -7793,7 +7793,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s292
-# text = 夸克有著多種不同的內在特性,包括電荷、色荷、自旋及質量等.
+# text = 夸克有著多種不同的內在特性，包括電荷、色荷、自旋及質量等。
 1	夸克	夸克	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 3	著	著	PART	AS	Aspect=Prog	2	case:aspect	_	SpaceAfter=No
@@ -7816,7 +7816,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s293
-# text = 夸克新星是一種假設的超新星,當中子星發生自發性的塌縮變可能成為夸克星.
+# text = 夸克新星是一種假設的超新星，當中子星發生自發性的塌縮變可能成為夸克星。
 1	夸克	夸克	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	新星	新星	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
@@ -7844,7 +7844,7 @@
 25	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s294
-# text = 12月4日奇爾沙治號離開艦隊,在6日抵達橫須賀休假.
+# text = 12月4日奇爾沙治號離開艦隊，在6日抵達橫須賀休假。
 1	12	12	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -7863,7 +7863,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s295
-# text = 1961年3月3日,奇爾沙治號再次前往西太平洋巡航.
+# text = 1961年3月3日，奇爾沙治號再次前往西太平洋巡航。
 1	1961	1961	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	PART	SFN	_	6	nmod	_	SpaceAfter=No
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -7882,7 +7882,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s296
-# text = 轄區北部屬於中國山地,多為山林地,南部為日本原高原.
+# text = 轄區北部屬於中國山地，多為山林地，南部為日本原高原。
 1	轄區	轄區	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	北部	北部	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 3	屬	屬	VERB	VV	_	11	acl	_	SpaceAfter=No
@@ -7903,7 +7903,7 @@
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s297
-# text = 隨著香港社會的資訊逐漸流通,節目的需求也大為降低,因此於1996年停播.
+# text = 隨著香港社會的資訊逐漸流通，節目的需求也大為降低，因此於1996年停播。
 1	隨	隨	VERB	VV	_	15	advcl	_	SpaceAfter=No
 2	著	著	PART	AS	Aspect=Prog	1	case:aspect	_	SpaceAfter=No
 3	香港	香港	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -7930,7 +7930,7 @@
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s298
-# text = 奮鬥中學,是內蒙古自治區巴彥淖爾市杭錦後旗設立的一個高級中學,位於杭錦後旗陝壩鎮,學校成立於1942年,為愛國將領傅作義創建,也是內蒙古第一所中學.
+# text = 奮鬥中學，是內蒙古自治區巴彥淖爾市杭錦後旗設立的一個高級中學，位於杭錦後旗陝壩鎮，學校成立於1942年，為愛國將領傅作義創建，也是內蒙古第一所中學。
 1	奮鬥	奮鬥	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	中學	中學	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
@@ -7977,7 +7977,7 @@
 44	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s299
-# text = 近代意義上的「契約自由原則」,可以追溯到1804年頒布的《法國民法典》.
+# text = 近代意義上的「契約自由原則」，可以追溯到1804年頒布的《法國民法典》。
 1	近代	近代	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	意義	意義	NOUN	NN	_	8	det	_	SpaceAfter=No
 3	上	上	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -8003,7 +8003,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s300
-# text = 園內擁有19萬平方呎天然樹林,當中大小樹木多達千餘棵.
+# text = 園內擁有19萬平方呎天然樹林，當中大小樹木多達千餘棵。
 1	園內	園內	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	擁有	擁有	VERB	VV	_	0	root	_	SpaceAfter=No
 3	19萬	19萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8020,7 +8020,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s301
-# text = 中世紀的印度大哲學家商羯羅選出一些重要的奧義書作注,稱它們為「主要奧義書」(Mukhya Upanishad).
+# text = 中世紀的印度大哲學家商羯羅選出一些重要的奧義書作注，稱它們為「主要奧義書」（MukhyaUpanishad）。
 1	中	中	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NN	_	7	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -8052,7 +8052,7 @@
 29	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s302
-# text = 不過,吸引遊客的不只是這些主題公園.
+# text = 不過，吸引遊客的不只是這些主題公園。
 1	不過	不過	ADV	RB	_	11	mark	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 3	吸引	吸引	VERB	VV	_	11	csubj	_	SpaceAfter=No
@@ -8067,7 +8067,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s303
-# text = 城市地標為伊歐拉湖(Lake Eola),而奧蘭多市長為巴迪·戴爾(Buddy Dyer).
+# text = 城市地標為伊歐拉湖（LakeEola），而奧蘭多市長為巴迪·戴爾（BuddyDyer）。
 1	城市	城市	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	地標	地標	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	為	為	AUX	VC	_	5	cop	_	SpaceAfter=No
@@ -8092,7 +8092,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s304
-# text = 他的一個兒子Luna後來成了著名水文學家和加州大學伯克利分校的地質學教授.
+# text = 他的一個兒子Luna後來成了著名水文學家和加州大學伯克利分校的地質學教授。
 1	他	他	PRON	PRP	Person=3	5	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8118,7 +8118,7 @@
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s305
-# text = 他的自然寫作以其樸素直接而聞名.
+# text = 他的自然寫作以其樸素直接而聞名。
 1	他	他	PRON	PRP	Person=3	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	自然	自然	ADJ	JJ	_	4	amod	_	SpaceAfter=No
@@ -8132,7 +8132,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s306
-# text = 離開本國很久的阿凱亞首領們紛紛回國,奧德修斯也帶著他的夥伴,乘船向他的故鄉伊塔克出發.
+# text = 離開本國很久的阿凱亞首領們紛紛回國，奧德修斯也帶著他的夥伴，乘船向他的故鄉伊塔克出發。
 1	離開	離開	AUX	VV	_	3	cop	_	SpaceAfter=No
 2	本國	本國	NOUN	NN	_	3	obj	_	SpaceAfter=No
 3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No
@@ -8161,7 +8161,7 @@
 26	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s307
-# text = 1945年3月,蘇軍攻打柯尼斯堡.
+# text = 1945年3月，蘇軍攻打柯尼斯堡。
 1	1945	1945	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8174,7 +8174,7 @@
 10	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s308
-# text = 絕大多數最佳影片是在美國以外拍攝的,這說明了電影製作國際化水平的提高,也模糊了所謂好萊塢電影的定義.
+# text = 絕大多數最佳影片是在美國以外拍攝的，這說明了電影製作國際化水平的提高，也模糊了所謂好萊塢電影的定義。
 1	絕	絕	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	大	大	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	多數	多數	ADJ	JJ	_	5	amod	_	SpaceAfter=No
@@ -8210,7 +8210,7 @@
 33	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s309
-# text = 奧斯曼旗幟是指奧斯曼王朝蘇丹使用的任何一面旗幟,包括奧斯曼帝國的各種旗幟,以及蘇丹在不同場合使用的旗幟.
+# text = 奧斯曼旗幟是指奧斯曼王朝蘇丹使用的任何一面旗幟，包括奧斯曼帝國的各種旗幟，以及蘇丹在不同場合使用的旗幟。
 1	奧斯曼	奧斯曼	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	旗幟	旗幟	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
@@ -8243,7 +8243,7 @@
 30	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s310
-# text = 鎮上有3630人口(2010年1月1日),一個火車站(由丹麥國有鐵路運營)和到歐登塞和斯文堡的公交車(由菲英公交公司運營).
+# text = 鎮上有3630人口（2010年1月1日），一個火車站（由丹麥國有鐵路運營）和到歐登塞和斯文堡的公交車（由菲英公交公司運營）。
 1	鎮上	鎮上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 3	3630	3630	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8287,7 +8287,7 @@
 41	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s311
-# text = 2000年,挪威國會憲法委員會為此事件,召開一項公聽會,以聽取機場規劃時期所有可疑的不正當事件,並於2001年發表正式報告.
+# text = 2000年，挪威國會憲法委員會為此事件，召開一項公聽會，以聽取機場規劃時期所有可疑的不正當事件，並於2001年發表正式報告。
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	20	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
@@ -8328,7 +8328,7 @@
 38	。	。	PUNCT	.	_	35	punct	_	SpaceAfter=No
 
 # sent_id = test-s312
-# text = 機場所在區域,有一大型地下水地層,機場運作受質疑會污染水源.
+# text = 機場所在區域，有一大型地下水地層，機場運作受質疑會污染水源。
 1	機場	機場	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	所	所	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	在	在	VERB	VV	_	4	amod	_	SpaceAfter=No
@@ -8351,7 +8351,7 @@
 20	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s313
-# text = 勒維耶推測是因為存在一顆未知行星的引力作用,使天王星的軌道運動受到干擾,也就是天文學上所謂的「攝動」影響.
+# text = 勒維耶推測是因為存在一顆未知行星的引力作用，使天王星的軌道運動受到干擾，也就是天文學上所謂的「攝動」影響。
 1	勒維耶	勒維耶	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	推測	推測	VERB	VV	_	0	root	_	SpaceAfter=No
 3	是	是	VERB	VC	_	34	csubj	_	SpaceAfter=No
@@ -8389,7 +8389,7 @@
 35	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s314
-# text = 1980年代中期起奧林匹亞公司的經濟狀況開始變壞.
+# text = 1980年代中期起奧林匹亞公司的經濟狀況開始變壞。
 1	1980	1980	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年代	年代	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	中期	中期	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
@@ -8405,7 +8405,7 @@
 13	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s315
-# text = 工廠在德國西北部到處購置車床.
+# text = 工廠在德國西北部到處購置車床。
 1	工廠	工廠	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	在	在	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	德國	德國	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
@@ -8417,7 +8417,7 @@
 9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s316
-# text = 2009年,希臘政府面對負債纍纍的奧林匹克航空公司,決定實行私有化計劃.
+# text = 2009年，希臘政府面對負債纍纍的奧林匹克航空公司，決定實行私有化計劃。
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
@@ -8439,7 +8439,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s317
-# text = 1689年英國在光榮革命後加入同盟,奧格斯堡同盟改稱「大同盟」,此時與法國發生激烈的大同盟戰爭(1688-1697年,又稱「九年戰爭」),雖未能戰勝法國陸軍,但一定程度上維持住歐洲的勢力均衡.
+# text = 1689年英國在光榮革命後加入同盟，奧格斯堡同盟改稱「大同盟」，此時與法國發生激烈的大同盟戰爭（1688-1697年，又稱「九年戰爭」），雖未能戰勝法國陸軍，但一定程度上維持住歐洲的勢力均衡。
 1	1689	1689	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 3	英國	英國	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
@@ -8501,7 +8501,7 @@
 59	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s318
-# text = 然而,他最終在2001年轉會的球隊卻是英超的阿斯頓維拉,轉會費為500萬英鎊.
+# text = 然而，他最終在2001年轉會的球隊卻是英超的阿斯頓維拉，轉會費為500萬英鎊。
 1	然而	然而	ADV	RB	_	14	mark	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No
 3	他	他	PRON	PRP	Person=3	8	nsubj	_	SpaceAfter=No
@@ -8526,7 +8526,7 @@
 22	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s319
-# text = 該小鎮位於布萊克伍德河流入弗林德斯灣的河口旁.
+# text = 該小鎮位於布萊克伍德河流入弗林德斯灣的河口旁。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	小鎮	小鎮	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8542,7 +8542,7 @@
 13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s320
-# text = 古代,奧塞提亞語曾採用希臘字母拼寫,現代則使用一套改良過的西里爾字母.
+# text = 古代，奧塞提亞語曾採用希臘字母拼寫，現代則使用一套改良過的西里爾字母。
 1	古代	古代	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 3	奧塞提亞	奧塞提亞	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
@@ -8566,7 +8566,7 @@
 21	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s321
-# text = 希拉蕊的得票率只有37%.
+# text = 希拉蕊的得票率只有37%。
 1	希拉蕊	希拉蕊	PROPN	NNP	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	得票	得票	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -8576,7 +8576,7 @@
 7	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s322
-# text = 他目前效力於法甲球隊波爾多.
+# text = 他目前效力於法甲球隊波爾多。
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 2	目前	目前	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No
 3	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8587,7 +8587,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s323
-# text = 儘管博伊西縣、內茲佩爾塞縣和肖肖尼縣與奧懷希縣同時成立,但是因它們是由華盛頓領地成立的,因此直至1864年2月都不被愛達荷領地承認.
+# text = 儘管博伊西縣、內茲佩爾塞縣和肖肖尼縣與奧懷希縣同時成立，但是因它們是由華盛頓領地成立的，因此直至1864年2月都不被愛達荷領地承認。
 1	儘管	儘管	ADP	IN	_	14	case	_	SpaceAfter=No
 2	博伊西	博伊西	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	縣	縣	PART	SFN	_	14	nsubj	_	SpaceAfter=No
@@ -8629,7 +8629,7 @@
 39	。	。	PUNCT	.	_	38	punct	_	SpaceAfter=No
 
 # sent_id = test-s324
-# text = 平均每戶有2.85人,而平均每個家庭則有3.35人.
+# text = 平均每戶有2.85人，而平均每個家庭則有3.35人。
 1	平均	平均	ADV	RB	_	3	advmod	_	SpaceAfter=No
 2	每戶	每戶	DET	DT	_	3	nsubj	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8647,7 +8647,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s325
-# text = 他父親的農用機械廠也在這一時期倒閉,辛德勒為此失業了一年.
+# text = 他父親的農用機械廠也在這一時期倒閉，辛德勒為此失業了一年。
 1	他	他	PRON	PRP	Person=3	2	nmod	_	SpaceAfter=No
 2	父親	父親	NOUN	NN	_	7	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -8672,7 +8672,7 @@
 22	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s326
-# text = 奧斯卡從少年時代就喜歡摩托車,他買下了一輛競速摩托車並在之後幾年裡參加山區的賽車比賽.
+# text = 奧斯卡從少年時代就喜歡摩托車，他買下了一輛競速摩托車並在之後幾年裡參加山區的賽車比賽。
 1	奧斯卡	奧斯卡	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 2	從	從	ADP	IN	_	4	case	_	SpaceAfter=No
 3	少年	少年	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -8704,7 +8704,7 @@
 29	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s327
-# text = 念完小學和初中後,辛德勒進入一所技校學習,但於1924年因偽造成績被開除.
+# text = 念完小學和初中後，辛德勒進入一所技校學習，但於1924年因偽造成績被開除。
 1	念	念	VERB	VV	_	23	advcl	_	SpaceAfter=No
 2	完	完	VERB	VV	_	1	mark	_	SpaceAfter=No
 3	小學	小學	NOUN	NN	_	1	obj	_	SpaceAfter=No
@@ -8731,7 +8731,7 @@
 24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s328
-# text = 莫里遜組過去是個多樣化的動物群.
+# text = 莫里遜組過去是個多樣化的動物群。
 1	莫里遜	莫里遜	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	組	組	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 3	過去	過去	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
@@ -8745,7 +8745,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s329
-# text = 南非之前的國旗(1927-1994)中也有一支直掛的奧蘭治自由邦國旗,就在它中間的白色條紋裡.
+# text = 南非之前的國旗（1927-1994）中也有一支直掛的奧蘭治自由邦國旗，就在它中間的白色條紋裡。
 1	南非	南非	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 2	之前	之前	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -8778,7 +8778,7 @@
 30	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s330
-# text = 他出生於雷昂,是弗魯埃拉(父親為坎塔布里亞的佩德羅)的兒子;阿斯圖里亞斯的阿方索一世的姪子;並且是阿方索繼承人殘酷的弗魯埃拉的一個堂弟.
+# text = 他出生於雷昂，是弗魯埃拉（父親為坎塔布里亞的佩德羅）的兒子；阿斯圖里亞斯的阿方索一世的姪子；並且是阿方索繼承人殘酷的弗魯埃拉的一個堂弟。
 1	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	16	acl	_	SpaceAfter=No
 3	於	於	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -8818,7 +8818,7 @@
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s331
-# text = 史書上唯一有記載的他的事蹟是鎮壓一起農奴的動亂.
+# text = 史書上唯一有記載的他的事蹟是鎮壓一起農奴的動亂。
 1	史書	史書	NOUN	NN	_	4	advmod	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	唯一	唯一	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -8838,7 +8838,7 @@
 17	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s332
-# text = 結黨後,該黨即展開了「公認候選人公開募集」活動,但直至選舉公示之日,該黨也沒有公認任何一位通過這一方法的候選人.
+# text = 結黨後，該黨即展開了「公認候選人公開募集」活動，但直至選舉公示之日，該黨也沒有公認任何一位通過這一方法的候選人。
 1	結黨	結黨	VERB	VV	_	6	advcl	_	SpaceAfter=No
 2	後	後	ADP	IN	_	1	mark	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -8879,7 +8879,7 @@
 38	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s333
-# text = 老街以紅檜建成,早年沒有街名,當地人僅以「街仔」稱之.
+# text = 老街以紅檜建成，早年沒有街名，當地人僅以「街仔」稱之。
 1	老街	老街	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 2	以	以	ADP	IN	_	3	case	_	SpaceAfter=No
 3	紅檜	紅檜	NOUN	NN	_	4	obl	_	SpaceAfter=No
@@ -8901,7 +8901,7 @@
 19	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s334
-# text = 每段介紹兩個無厘頭的新聞後,方芳芳與巴戈就感謝觀眾收看〈新聞砲〉,新聞攝影棚燈光調暗,巴戈仍然與方芳芳進行一小段對話;跟第一段短劇一樣,有時候巴戈又會被方芳芳打一巴掌.
+# text = 每段介紹兩個無厘頭的新聞後，方芳芳與巴戈就感謝觀眾收看〈新聞砲〉，新聞攝影棚燈光調暗，巴戈仍然與方芳芳進行一小段對話；跟第一段短劇一樣，有時候巴戈又會被方芳芳打一巴掌。
 1	每段	每段	DET	DT	_	2	advmod	_	SpaceAfter=No
 2	介紹	介紹	VERB	VV	_	16	advcl	_	SpaceAfter=No
 3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -8963,7 +8963,7 @@
 59	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s335
-# text = 李妍采從小跟母親相依為命,多年來努力存錢,願望是找個好男人結婚,然後買房子給母親.
+# text = 李妍采從小跟母親相依為命，多年來努力存錢，願望是找個好男人結婚，然後買房子給母親。
 1	李	李	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 2	妍采	妍采	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	從	從	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -8994,7 +8994,7 @@
 28	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s336
-# text = 由於客廳女僕主要負責接客,因此穿著比較注重外表而不重實用性.
+# text = 由於客廳女僕主要負責接客，因此穿著比較注重外表而不重實用性。
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No
 2	客廳	客廳	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	女僕	女僕	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
@@ -9016,7 +9016,7 @@
 19	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s337
-# text = 除了女管家和貼身女僕的高級女僕外,多數大宅第中女僕都必須穿著制服.
+# text = 除了女管家和貼身女僕的高級女僕外，多數大宅第中女僕都必須穿著制服。
 1	除	除	VERB	VV	_	20	advcl	_	SpaceAfter=No
 2	了	了	PART	AS	Aspect=Perf	1	case:aspect	_	SpaceAfter=No
 3	女	女	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -9041,7 +9041,7 @@
 22	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s338
-# text = 雖然康守時在戰爭中途帶來了三萬人來援助地下軍,但對於敵方擁有五十五萬大軍的情況來說仍是杯水車薪.
+# text = 雖然康守時在戰爭中途帶來了三萬人來援助地下軍，但對於敵方擁有五十五萬大軍的情況來說仍是杯水車薪。
 1	雖然	雖然	ADP	IN	_	7	case	_	SpaceAfter=No
 2	康	康	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
 3	守時	守時	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No
@@ -9073,7 +9073,7 @@
 29	。	。	PUNCT	.	_	28	punct	_	SpaceAfter=No
 
 # sent_id = test-s339
-# text = 因為用女性的角度來描寫戰國時代,不只吸引原本男性視角觀點出發的日本戰國迷,也廣泛受到家庭主婦的支持,創下平均收視率31.8%的紀錄.
+# text = 因為用女性的角度來描寫戰國時代，不只吸引原本男性視角觀點出發的日本戰國迷，也廣泛受到家庭主婦的支持，創下平均收視率31.8%的紀錄。
 1	因為	因為	ADP	IN	_	26	case	_	SpaceAfter=No
 2	用	用	VERB	VV	_	7	advcl	_	SpaceAfter=No
 3	女性	女性	NOUN	NN	_	5	det	_	SpaceAfter=No
@@ -9115,7 +9115,7 @@
 39	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s340
-# text = 女真語最初使用女真文,後來這種文字漸漸消亡.
+# text = 女真語最初使用女真文，後來這種文字漸漸消亡。
 1	女真	女真	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	語	語	PART	SFN	_	4	nsubj	_	SpaceAfter=No
 3	最初	最初	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No
@@ -9132,7 +9132,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s341
-# text = 由於隆也的壽命差不多已到盡頭,所以他希望看到將世界連同他自己的壽命一起結束.
+# text = 由於隆也的壽命差不多已到盡頭，所以他希望看到將世界連同他自己的壽命一起結束。
 1	由於	由於	ADP	IN	_	7	case	_	SpaceAfter=No
 2	隆也	隆也	PROPN	NNP	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -9158,7 +9158,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s342
-# text = 雖然這種分期沒有嚴格的規則,但是解釋某些變化時很有用.
+# text = 雖然這種分期沒有嚴格的規則，但是解釋某些變化時很有用。
 1	雖然	雖然	ADP	IN	_	5	case	_	SpaceAfter=No
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No
 3	種	種	NOUN	NNB	_	4	clf	_	SpaceAfter=No
@@ -9178,7 +9178,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s343
-# text = 香會的歷史最早可溯至明朝.
+# text = 香會的歷史最早可溯至明朝。
 1	香會	香會	NOUN	NN	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	歷史	歷史	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -9190,7 +9190,7 @@
 9	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s344
-# text = 由於喜歡花的緣故,羅賓還會用花來表達對別人與自己的評斷印象,千陽號也特別為她設置了花圃.
+# text = 由於喜歡花的緣故，羅賓還會用花來表達對別人與自己的評斷印象，千陽號也特別為她設置了花圃。
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No
 2	喜歡	喜歡	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
 3	花	花	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -9224,7 +9224,7 @@
 31	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s345
-# text = 在1963年,他們找到一個鄉村小酒館並在加泰隆尼亞期間作為他們的家和工作室.
+# text = 在1963年，他們找到一個鄉村小酒館並在加泰隆尼亞期間作為他們的家和工作室。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	1963	1963	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	6	obl	_	SpaceAfter=No
@@ -9251,7 +9251,7 @@
 24	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s346
-# text = 至今為止他在國家隊最出名的舉動是在溫布利球場遠射破門3-2擊敗英格蘭,並將後者拒於2008年歐錦賽決賽圈之外.
+# text = 至今為止他在國家隊最出名的舉動是在溫布利球場遠射破門3-2擊敗英格蘭，並將後者拒於2008年歐錦賽決賽圈之外。
 1	至	至	ADP	IN	_	2	case	_	SpaceAfter=No
 2	今	今	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	為	為	AUX	VC	_	4	cop	_	SpaceAfter=No
@@ -9289,7 +9289,7 @@
 35	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s347
-# text = 她亦曾在芬蘭、瑞典及法國學習油畫,並於1939年開始寫作.
+# text = 她亦曾在芬蘭、瑞典及法國學習油畫，並於1939年開始寫作。
 1	她	她	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No
 2	亦	亦	ADV	RB	_	10	mark	_	SpaceAfter=No
 3	曾	曾	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -9311,7 +9311,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s348
-# text = 姆明小說系列英語版本及出版時間如下:
+# text = 姆明小說系列英語版本及出版時間如下：
 1	姆明	姆明	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 2	小說	小說	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 3	系列	系列	NOUN	NN	_	6	nmod	_	SpaceAfter=No
@@ -9325,7 +9325,7 @@
 11	：	：	PUNCT	:	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s349
-# text = 始創中心前身為始創行、凱聲戲院及麗聲戲院,當中始創行的圓拱形頂為其建築特色,後來重建為商場及辦公室大廈,並設停車場,於1995年落成,由九龍建業有限公司發展.
+# text = 始創中心前身為始創行、凱聲戲院及麗聲戲院，當中始創行的圓拱形頂為其建築特色，後來重建為商場及辦公室大廈，並設停車場，於1995年落成，由九龍建業有限公司發展。
 1	始創	始創	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	中心	中心	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	前身	前身	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -9379,7 +9379,7 @@
 51	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s350
-# text = 牠能夠快速的短跑,當捕捉獵物後,會用指爪及牙齒撕開獵物.
+# text = 牠能夠快速的短跑，當捕捉獵物後，會用指爪及牙齒撕開獵物。
 1	牠	牠	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No
 2	能夠	能夠	AUX	MD	_	5	aux	_	SpaceAfter=No
 3	快速	快速	ADJ	JJ	_	5	advmod	_	SpaceAfter=No
@@ -9401,7 +9401,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s351
-# text = 在2006年時,古生物學家根據在阿爾及利亞發現的始新世晚期的化石,命名了一個最新的種:Moeritherium chehbeurameuri.
+# text = 在2006年時，古生物學家根據在阿爾及利亞發現的始新世晚期的化石，命名了一個最新的種：Moeritheriumchehbeurameuri。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	2006	2006	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	21	obl	_	SpaceAfter=No
@@ -9435,7 +9435,7 @@
 31	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s352
-# text = 於1984年,查吉特(Sankar Chatterjee)發現了化石,他於1991年指這些化石屬於一種比始祖鳥更為古老的鳥類.
+# text = 於1984年，查吉特（SankarChatterjee）發現了化石，他於1991年指這些化石屬於一種比始祖鳥更為古老的鳥類。
 1	於	於	ADP	IN	_	3	case	_	SpaceAfter=No
 2	1984	1984	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	10	obl	_	SpaceAfter=No
@@ -9469,7 +9469,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s353
-# text = 這一建議在國際動物命名法委員會經過多年辯論後,2011年10月3日倫敦標本被指定為新模式標本.
+# text = 這一建議在國際動物命名法委員會經過多年辯論後，2011年10月3日倫敦標本被指定為新模式標本。
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	建議	建議	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
@@ -9503,7 +9503,7 @@
 31	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s354
-# text = 始鏡猴科有可以抓住東西的手及腳,手指及腳趾有指甲而沒有爪.
+# text = 始鏡猴科有可以抓住東西的手及腳，手指及腳趾有指甲而沒有爪。
 1	始鏡猴	始鏡猴	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	科	科	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -9526,7 +9526,7 @@
 20	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s355
-# text = 熟料聯賽開打前申花與聯城合併,姚立君又回到了熟悉的康橋基地,成為當年最富戲劇性的「轉會案例」.
+# text = 熟料聯賽開打前申花與聯城合併，姚立君又回到了熟悉的康橋基地，成為當年最富戲劇性的「轉會案例」。
 1	熟	熟	PRON	PRD	_	2	nsubj	_	SpaceAfter=No
 2	料	料	VERB	VV	_	0	root	_	SpaceAfter=No
 3	聯賽	聯賽	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -9562,7 +9562,7 @@
 33	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s356
-# text = 1991年,姚夏就入選四川隊.
+# text = 1991年，姚夏就入選四川隊。
 1	1991	1991	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
@@ -9575,7 +9575,7 @@
 10	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s357
-# text = 2002年姚福信在遼陽市看守所拘留期間,受到了當地公安機關的嚴重虐待,導致姚福信的腿落下了抽搐的毛病.
+# text = 2002年姚福信在遼陽市看守所拘留期間，受到了當地公安機關的嚴重虐待，導致姚福信的腿落下了抽搐的毛病。
 1	2002	2002	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No
 3	姚	姚	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
@@ -9610,7 +9610,7 @@
 32	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s358
-# text = 他擔任多媒體音樂劇《琥珀》以及兒童狂歡劇《魔山》的音樂總監.
+# text = 他擔任多媒體音樂劇《琥珀》以及兒童狂歡劇《魔山》的音樂總監。
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	擔任	擔任	VERB	VV	_	0	root	_	SpaceAfter=No
 3	多	多	PART	PFA	_	4	case:pref	_	SpaceAfter=No
@@ -9633,7 +9633,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s359
-# text = 但這次風波並未將其打倒,在年底《Grazia》雜志評選的「十大最佳著裝人士」的評選中Kate Moss又一次獲得第一名,證明了其的人氣與在時尚界的地位.
+# text = 但這次風波並未將其打倒，在年底《Grazia》雜志評選的「十大最佳著裝人士」的評選中KateMoss又一次獲得第一名，證明了其的人氣與在時尚界的地位。
 1	但	但	ADV	RB	_	9	mark	_	SpaceAfter=No
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No
 3	次	次	NOUN	NNB	_	4	clf	_	SpaceAfter=No
@@ -9685,7 +9685,7 @@
 49	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s360
-# text = 例如,獵戶座大星雲有單純的發射譜線,是典型的氣體特徵;仙女座星系的譜線特徵如同恆星.
+# text = 例如，獵戶座大星雲有單純的發射譜線，是典型的氣體特徵；仙女座星系的譜線特徵如同恆星。
 1	例如	例如	VERB	VV	_	0	root	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	獵戶	獵戶	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -9715,7 +9715,7 @@
 27	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = test-s361
-# text = 1882年8月13日,傑文斯在黑斯廷斯城附近洗海水澡時溺水身亡.
+# text = 1882年8月13日，傑文斯在黑斯廷斯城附近洗海水澡時溺水身亡。
 1	1882	1882	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -9737,7 +9737,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s362
-# text = 威廉·普拉格,是在德國出生的美國應用數學家.
+# text = 威廉·普拉格，是在德國出生的美國應用數學家。
 1	威廉	威廉	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 2	·	·	PUNCT	/	_	1	punct	_	SpaceAfter=No
 3	普拉格	普拉格	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
@@ -9754,7 +9754,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s363
-# text = 柏洛茲於青春期早期著手開始寫文章與報導.
+# text = 柏洛茲於青春期早期著手開始寫文章與報導。
 1	柏洛茲	柏洛茲	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 2	於	於	ADP	IN	_	5	case	_	SpaceAfter=No
 3	青春	青春	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -9769,7 +9769,7 @@
 12	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s364
-# text = 身為頹廢的一代的主要成員,他是影響流行文化以及文學的前衛作家.
+# text = 身為頹廢的一代的主要成員，他是影響流行文化以及文學的前衛作家。
 1	身為	身為	VERB	VV	_	19	acl	_	SpaceAfter=No
 2	頹廢	頹廢	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -9792,7 +9792,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s365
-# text = 他宣布自己為共和國總統,同伴瓦特金斯為副總統.
+# text = 他宣布自己為共和國總統，同伴瓦特金斯為副總統。
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	宣布	宣布	VERB	VV	_	0	root	_	SpaceAfter=No
 3	自己	自己	PRON	PRD	_	7	nsubj	_	SpaceAfter=No
@@ -9809,7 +9809,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s366
-# text = 回到加利福尼亞州後,他由於支持了一場違反中立法的戰爭而遭到法庭審判.
+# text = 回到加利福尼亞州後，他由於支持了一場違反中立法的戰爭而遭到法庭審判。
 1	回到	回到	VERB	VV	_	18	advcl	_	SpaceAfter=No
 2	加利福尼亞	加利福尼亞	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	州	州	PART	SFN	_	1	obj	_	SpaceAfter=No
@@ -9833,7 +9833,7 @@
 21	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s367
-# text = 在他留學期間,歐洲發生了1848年革命.
+# text = 在他留學期間，歐洲發生了1848年革命。
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 2	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 3	留學	留學	VERB	VV	_	4	amod	_	SpaceAfter=No
@@ -9848,7 +9848,7 @@
 12	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s368
-# text = 在民主黨領袖卡斯特倫的同意下,沃克襲擊了位於里瓦斯的保守黨勢力.
+# text = 在民主黨領袖卡斯特倫的同意下，沃克襲擊了位於里瓦斯的保守黨勢力。
 1	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 2	民主	民主	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	黨	黨	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -9871,7 +9871,7 @@
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s369
-# text = 阿姆斯特朗結婚時買下了位於新堡西傑斯蒙丹尼的傑斯蒙丹尼樓,並開始裝修這個莊園.
+# text = 阿姆斯特朗結婚時買下了位於新堡西傑斯蒙丹尼的傑斯蒙丹尼樓，並開始裝修這個莊園。
 1	阿姆斯特朗	阿姆斯特朗	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
 2	結婚	結婚	VERB	VV	_	15	advcl	_	SpaceAfter=No
 3	時	時	ADP	IN	_	2	mark	_	SpaceAfter=No
@@ -9894,7 +9894,7 @@
 20	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s370
-# text = 兩國在1897年開始就這一問題進行談判,但沒有取得任何共識,因為西班牙不願賦予古巴獨立,而古巴也不願作出任何讓步.
+# text = 兩國在1897年開始就這一問題進行談判，但沒有取得任何共識，因為西班牙不願賦予古巴獨立，而古巴也不願作出任何讓步。
 1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	國	國	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -9931,7 +9931,7 @@
 34	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s371
-# text = 科特柳的任期幾乎和麥金萊的任期一樣長,他在這段時間內,逐漸變成了麥金萊的重要助手,相當於出版秘書(Press secretary)和今日的幕僚長.
+# text = 科特柳的任期幾乎和麥金萊的任期一樣長，他在這段時間內，逐漸變成了麥金萊的重要助手，相當於出版秘書（Presssecretary）和今日的幕僚長。
 1	科特柳	科特柳	PROPN	NNP	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	任期	任期	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
@@ -9974,7 +9974,7 @@
 40	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s372
-# text = 基於大量工人階級行動的壓力,法例於1890年10月1日被廢除.
+# text = 基於大量工人階級行動的壓力，法例於1890年10月1日被廢除。
 1	基	基	VERB	VV	_	19	advcl	_	SpaceAfter=No
 2	於	於	VERB	VV	_	1	mark	_	SpaceAfter=No
 3	大量	大量	ADJ	JJ	_	4	amod	_	SpaceAfter=No
@@ -9997,7 +9997,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 # sent_id = test-s373
-# text = 雖然俾斯麥說他和威廉的工作關係是一個臣子對他的長官盡忠,實際上俾斯麥拿著管理內政和外交的實權.
+# text = 雖然俾斯麥說他和威廉的工作關係是一個臣子對他的長官盡忠，實際上俾斯麥拿著管理內政和外交的實權。
 1	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No
 2	俾斯麥	俾斯麥	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 3	說	說	VERB	VV	_	23	ccomp	_	SpaceAfter=No
@@ -10031,7 +10031,7 @@
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s374
-# text = 2013年4月,威廉瑪麗校友瑪麗·喬·懷特(Mary Jo White)經美國參議院一致同意,擔任美國證監會主席.
+# text = 2013年4月，威廉瑪麗校友瑪麗·喬·懷特（MaryJoWhite）經美國參議院一致同意，擔任美國證監會主席。
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -10064,7 +10064,7 @@
 30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
 # sent_id = test-s375
-# text = 不少從威廉瑪麗學院畢業的學生,成為早期美國歷史中的重要政治任務的參與者,包括5位美國總統和12位獨立宣言簽署者(總共56位簽字人,威廉瑪麗學院的畢業生佔了將近四分之一,這些人創建了美國)和許許多多的美國國務卿(舉例來說,美國最初的10位國務卿,竟有6位畢業於威廉瑪麗學院,其餘的均畢業於哈佛大學和普林斯頓大學).
+# text = 不少從威廉瑪麗學院畢業的學生，成為早期美國歷史中的重要政治任務的參與者，包括5位美國總統和12位獨立宣言簽署者（總共56位簽字人，威廉瑪麗學院的畢業生佔了將近四分之一，這些人創建了美國）和許許多多的美國國務卿（舉例來說，美國最初的10位國務卿，竟有6位畢業於威廉瑪麗學院，其餘的均畢業於哈佛大學和普林斯頓大學）。
 1	不少	不少	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 2	從	從	ADP	IN	_	4	case	_	SpaceAfter=No
 3	威廉瑪麗	威廉瑪麗	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
@@ -10164,7 +10164,7 @@
 97	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s376
-# text = 威廉瑪麗學院是全美第二歷史悠久的高等學府.
+# text = 威廉瑪麗學院是全美第二歷史悠久的高等學府。
 1	威廉瑪麗	威廉瑪麗	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	學院	學院	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
@@ -10179,7 +10179,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s377
-# text = 學院於1776年與英國脫離關係,1906年成為公立大學,1918年男女合校,直到1967年才成為現代綜合性大學.
+# text = 學院於1776年與英國脫離關係，1906年成為公立大學，1918年男女合校，直到1967年才成為現代綜合性大學。
 1	學院	學院	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
 2	於	於	ADP	IN	_	4	case	_	SpaceAfter=No
 3	1776	1776	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -10215,7 +10215,7 @@
 33	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No
 
 # sent_id = test-s378
-# text = 為了紀念威廉三世和瑪麗二世,學院被命名為威廉與瑪麗學院,更因皇家憲章而必須「永遠地」保留這校名.
+# text = 為了紀念威廉三世和瑪麗二世，學院被命名為威廉與瑪麗學院，更因皇家憲章而必須「永遠地」保留這校名。
 1	為了	為了	ADP	IN	_	2	case	_	SpaceAfter=No
 2	紀念	紀念	VERB	VV	_	28	xcomp	_	SpaceAfter=No
 3	威廉	威廉	PROPN	NNP	_	2	obj	_	SpaceAfter=No
@@ -10249,7 +10249,7 @@
 31	。	。	PUNCT	.	_	28	punct	_	SpaceAfter=No
 
 # sent_id = test-s379
-# text = 威斯康辛號在1941年按照11%擴充法案,於費城造船廠開始建造,在1943年下水,於1944年服役.
+# text = 威斯康辛號在1941年按照11%擴充法案，於費城造船廠開始建造，在1943年下水，於1944年服役。
 1	威斯康辛	威斯康辛	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	號	號	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -10279,7 +10279,7 @@
 27	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s380
-# text = 在盾的四周是威斯特法倫的王冠和代表法國的大鷹.
+# text = 在盾的四周是威斯特法倫的王冠和代表法國的大鷹。
 1	在	在	VERB	VV	_	8	csubj	_	SpaceAfter=No
 2	盾	盾	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -10297,7 +10297,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s381
-# text = 較近期的說法是極權主義或君主專制更偏重於對於領袖的個人崇拜,前者是真正的獨裁政體,後者則是君權神授或政教合一的制度,常以世襲的方式固定下來.
+# text = 較近期的說法是極權主義或君主專制更偏重於對於領袖的個人崇拜，前者是真正的獨裁政體，後者則是君權神授或政教合一的制度，常以世襲的方式固定下來。
 1	較	較	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	近期	近期	ADJ	JJ	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -10346,7 +10346,7 @@
 46	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s382
-# text = 21世紀初,這些住房均為一位老阿媽家所有,其餘人家均為租住戶,租住戶大都在八廓附近有自己的生意.
+# text = 21世紀初，這些住房均為一位老阿媽家所有，其餘人家均為租住戶，租住戶大都在八廓附近有自己的生意。
 1	21	21	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 3	初	初	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -10384,7 +10384,7 @@
 35	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s383
-# text = 《婚前特急》,2011年4月1日上映的日本電影.
+# text = 《婚前特急》，2011年4月1日上映的日本電影。
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
 2	婚前	婚前	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	特急	特急	ADJ	JJ	_	15	nsubj	_	SpaceAfter=No
@@ -10403,7 +10403,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s384
-# text = 人類婚姻史的第二時期,婦女勞動範圍逐漸變小,財富及繼承問題日趨突出,於是關於個人至親骨肉的後代觀念便成了婚姻的主導動機.
+# text = 人類婚姻史的第二時期，婦女勞動範圍逐漸變小，財富及繼承問題日趨突出，於是關於個人至親骨肉的後代觀念便成了婚姻的主導動機。
 1	人類	人類	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 2	婚姻	婚姻	NOUN	NN	_	3	case:suff	_	SpaceAfter=No
 3	史	史	PART	SFN	_	6	det	_	SpaceAfter=No
@@ -10442,7 +10442,7 @@
 36	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s385
-# text = 通常,婚姻是組成家庭的基礎和根據,是家庭成立的標誌.
+# text = 通常，婚姻是組成家庭的基礎和根據，是家庭成立的標誌。
 1	通常	通常	ADV	RB	_	16	advmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 3	婚姻	婚姻	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
@@ -10462,7 +10462,7 @@
 17	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s386
-# text = 青島天后宮始建於明代成化三年,初稱「天妃宮」,是青島市區現存最古老的明清磚木結構建築群.
+# text = 青島天后宮始建於明代成化三年，初稱「天妃宮」，是青島市區現存最古老的明清磚木結構建築群。
 1	青島	青島	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	天后	天后	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	宮	宮	PART	SFN	_	4	nsubj	_	SpaceAfter=No
@@ -10495,7 +10495,7 @@
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s387
-# text = 唐國的末期國君叫做唐叔虞.
+# text = 唐國的末期國君叫做唐叔虞。
 1	唐國	唐國	PROPN	NNP	_	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	末期	末期	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -10506,7 +10506,7 @@
 8	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s388
-# text = 河南中部某些方言中的子變韻已經成為殘餘現象.
+# text = 河南中部某些方言中的子變韻已經成為殘餘現象。
 1	河南	河南	PROPN	NNP	_	4	nmod	_	SpaceAfter=No
 2	中部	中部	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	某些	某些	DET	DT	_	4	det	_	SpaceAfter=No
@@ -10523,7 +10523,7 @@
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s389
-# text = 孔恩瀑布由兩部分組成,西邊的是「桑法尼瀑布」,地勢較高,枯水時斷流,東邊的名為「發芬瀑布」(Phapheng Falls),是孔恩主瀑,孔恩瀑布總寬9.7公里,落差15~24米,年均流量1.2萬立方米/秒,號稱世界上最寬的瀑布.
+# text = 孔恩瀑布由兩部分組成，西邊的是「桑法尼瀑布」，地勢較高，枯水時斷流，東邊的名為「發芬瀑布」（PhaphengFalls），是孔恩主瀑，孔恩瀑布總寬9.7公里，落差15~24米，年均流量1.2萬立方米/秒，號稱世界上最寬的瀑布。
 1	孔恩	孔恩	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	瀑布	瀑布	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	由	由	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10591,7 +10591,7 @@
 65	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s390
-# text = 孔雀石和藍銅礦,來自美國亞利桑那州.
+# text = 孔雀石和藍銅礦，來自美國亞利桑那州。
 1	孔雀石	孔雀石	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 2	和	和	CCONJ	CC	_	3	cc	_	SpaceAfter=No
 3	藍銅礦	藍銅礦	NOUN	NN	_	1	conj	_	SpaceAfter=No
@@ -10604,7 +10604,7 @@
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s391
-# text = 它們在歐洲是較為普遍的蝴蝶.
+# text = 它們在歐洲是較為普遍的蝴蝶。
 1	它們	它	PRON	PRP	Number=Plur|Person=3	8	nsubj	_	SpaceAfter=No
 2	在	在	VERB	VV	_	8	acl	_	SpaceAfter=No
 3	歐洲	歐洲	PROPN	NNP	_	2	obj	_	SpaceAfter=No
@@ -10616,7 +10616,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s392
-# text = 翅膀底色是銹紅色,翅端上有黑色、藍色及黃色的眼狀斑點.
+# text = 翅膀底色是銹紅色，翅端上有黑色、藍色及黃色的眼狀斑點。
 1	翅膀	翅膀	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	底色	底色	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	5	cop	_	SpaceAfter=No
@@ -10637,7 +10637,7 @@
 18	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s393
-# text = 1929年,十三世達賴喇嘛和九世班禪額爾德尼發生鬥爭.
+# text = 1929年，十三世達賴喇嘛和九世班禪額爾德尼發生鬥爭。
 1	1929	1929	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
@@ -10655,7 +10655,7 @@
 15	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s394
-# text = 為便利使用,形碼輸入法大多設有容錯碼、萬用碼以增加輸入法對於異體字的處理能力,有些還設有簡碼以加快輸入速度.
+# text = 為便利使用，形碼輸入法大多設有容錯碼、萬用碼以增加輸入法對於異體字的處理能力，有些還設有簡碼以加快輸入速度。
 1	為	為	ADP	IN	_	2	case	_	SpaceAfter=No
 2	便利	便利	VERB	VV	_	16	xcomp	_	SpaceAfter=No
 3	使用	使用	VERB	VV	_	2	xcomp	_	SpaceAfter=No
@@ -10692,7 +10692,7 @@
 34	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s395
-# text = 孫中山故居紀念館坐落於中國廣東省中山市翠亨村.
+# text = 孫中山故居紀念館坐落於中國廣東省中山市翠亨村。
 1	孫	孫	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	中山	中山	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 3	故居	故居	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -10710,7 +10710,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s396
-# text = 1925年1月至5月,孫雲鵬擔任正太鐵路總工會會長(委員長).
+# text = 1925年1月至5月，孫雲鵬擔任正太鐵路總工會會長（委員長）。
 1	1925	1925	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -10734,7 +10734,7 @@
 21	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s397
-# text = 孫嘯南舊居建築面積為420平方米,是一座三層磚木結構英庭院式樓房.
+# text = 孫嘯南舊居建築面積為420平方米，是一座三層磚木結構英庭院式樓房。
 1	孫	孫	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	嘯南	嘯南	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 3	舊居	舊居	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -10758,7 +10758,7 @@
 21	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s398
-# text = 教育部在教育系統開展了「向孟二冬學習」的活動.
+# text = 教育部在教育系統開展了「向孟二冬學習」的活動。
 1	教育	教育	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	部	部	PART	SFN	_	6	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	5	case	_	SpaceAfter=No
@@ -10777,7 +10777,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s399
-# text = 2013年第十二屆全國運動會上,巴特爾已簽約遼寧出戰.
+# text = 2013年第十二屆全國運動會上，巴特爾已簽約遼寧出戰。
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
 3	第十二	第十二	NUM	CD	NumType=Ord	4	nummod	_	SpaceAfter=No
@@ -10795,7 +10795,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s400
-# text = 巴特爾作為第二位加盟NBA之中國籃球運動員,於2001年與丹佛掘金隊簽約,成為第一個在NBA首發的中國球員.
+# text = 巴特爾作為第二位加盟NBA之中國籃球運動員，於2001年與丹佛掘金隊簽約，成為第一個在NBA首發的中國球員。
 1	巴特爾	巴特爾	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
 2	作	作	VERB	VV	_	23	advcl	_	SpaceAfter=No
 3	為	為	VERB	VC	_	2	mark	_	SpaceAfter=No
@@ -10831,7 +10831,7 @@
 33	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s401
-# text = 孟加拉狐是較為細小的狐狸,吻較長,耳朵尖長,尾巴約是體長的50-60%.
+# text = 孟加拉狐是較為細小的狐狸，吻較長，耳朵尖長，尾巴約是體長的50-60%。
 1	孟加拉狐	孟加拉狐	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No
 3	較為	較為	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -10856,7 +10856,7 @@
 22	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s402
-# text = 884年秋,在李克用要求下,僖宗任李克脩為昭義節度使,使得昭義鎮出現了兩位節度使.
+# text = 884年秋，在李克用要求下，僖宗任李克脩為昭義節度使，使得昭義鎮出現了兩位節度使。
 1	884	884	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	秋	秋	NOUN	NN	_	12	nmod:tmod	_	SpaceAfter=No
@@ -10888,7 +10888,7 @@
 29	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s403
-# text = 孟道,五代十國邢州龍岡人,為邢州郡校.
+# text = 孟道，五代十國邢州龍岡人，為邢州郡校。
 1	孟	孟	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 2	道	道	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
@@ -10906,7 +10906,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s404
-# text = 3月底,法軍攻佔澎湖;6月11日,孤拔因病死於澎湖馬公.
+# text = 3月底，法軍攻佔澎湖；6月11日，孤拔因病死於澎湖馬公。
 1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	月	月	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	底	底	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -10931,7 +10931,7 @@
 22	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s405
-# text = 孤子波是一類由於非線性作用引起的橫波,它在運動過程中形狀保持不變.
+# text = 孤子波是一類由於非線性作用引起的橫波，它在運動過程中形狀保持不變。
 1	孤子	孤子	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	波	波	PART	SFN	_	12	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
@@ -10956,7 +10956,7 @@
 22	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s406
-# text = 孤海浮燈(The Likes of Us)是名作曲家安德魯·洛伊·韋伯的音樂劇,原書由萊斯利·湯瑪斯基於慈善家湯瑪斯·約翰成立貧困兒童院的真實故事創作.
+# text = 孤海浮燈（TheLikesofUs）是名作曲家安德魯·洛伊·韋伯的音樂劇，原書由萊斯利·湯瑪斯基於慈善家湯瑪斯·約翰成立貧困兒童院的真實故事創作。
 1	孤海	孤海	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	浮燈	浮燈	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -11000,7 +11000,7 @@
 41	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 # sent_id = test-s407
-# text = 有觀點認為,朝鮮語和日語也是孤立語言,它們跟目前世界上已知的語系可能都沒有關聯.
+# text = 有觀點認為，朝鮮語和日語也是孤立語言，它們跟目前世界上已知的語系可能都沒有關聯。
 1	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 2	觀點	觀點	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	認為	認為	VERB	VV	_	1	ccomp	_	SpaceAfter=No
@@ -11029,7 +11029,7 @@
 26	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = test-s408
-# text = 知名的孤立語言如蘇美爾語、巴斯克語、阿伊努語等.
+# text = 知名的孤立語言如蘇美爾語、巴斯克語、阿伊努語等。
 1	知名	知名	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	孤立	孤立	ADJ	JJ	_	4	amod	_	SpaceAfter=No
@@ -11047,7 +11047,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s409
-# text = 後來,孫楚先後升任第六旅旅長及第二軍第六師師長,任內曾經到日本參觀秋操.
+# text = 後來，孫楚先後升任第六旅旅長及第二軍第六師師長，任內曾經到日本參觀秋操。
 1	後來	後來	NOUN	NN	_	6	advmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 3	孫	孫	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
@@ -11073,7 +11073,7 @@
 23	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s410
-# text = 全國警察前五名的射擊能手,為人十分豪爽,恐怖事件開始之後,在機場擔任著警備工作,負責維持機場的運作暢通.
+# text = 全國警察前五名的射擊能手，為人十分豪爽，恐怖事件開始之後，在機場擔任著警備工作，負責維持機場的運作暢通。
 1	全國	全國	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 2	警察	警察	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 3	前	前	DET	DT	_	5	det	_	SpaceAfter=No
@@ -11108,7 +11108,7 @@
 32	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s411
-# text = 角色名字參考日本知名漫畫家永井豪.
+# text = 角色名字參考日本知名漫畫家永井豪。
 1	角色	角色	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	名字	名字	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	參考	參考	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11121,7 +11121,7 @@
 10	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s412
-# text = 1860年簽訂的中俄北京條約中規定清政府須將此地大部份割予沙俄,今歸俄羅斯濱海邊疆區所管.
+# text = 1860年簽訂的中俄北京條約中規定清政府須將此地大部份割予沙俄，今歸俄羅斯濱海邊疆區所管。
 1	1860	1860	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	nmod:tmod	_	SpaceAfter=No
 3	簽訂	簽訂	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No
@@ -11153,7 +11153,7 @@
 29	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s413
-# text = 寧武縣在中國山西省西北部、汾河和桑乾河上游,是忻州市所轄的一個縣.
+# text = 寧武縣在中國山西省西北部、汾河和桑乾河上游，是忻州市所轄的一個縣。
 1	寧武	寧武	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	縣	縣	PART	SFN	_	24	nsubj	_	SpaceAfter=No
 3	在	在	VERB	VV	_	24	acl	_	SpaceAfter=No
@@ -11181,7 +11181,7 @@
 25	。	。	PUNCT	:	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s414
-# text = 1840年以後,由於戰亂頻發,寧波人口增長緩慢,特別是抗日戰爭時期,寧波人口減少了近20%.
+# text = 1840年以後，由於戰亂頻發，寧波人口增長緩慢，特別是抗日戰爭時期，寧波人口減少了近20%。
 1	1840	1840	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 3	以後	以後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -11211,7 +11211,7 @@
 27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s415
-# text = 外來人口在為寧波帶來勞動力和經濟發展的同時,也帶來了社會治安狀況的下降和社會資源緊缺.
+# text = 外來人口在為寧波帶來勞動力和經濟發展的同時，也帶來了社會治安狀況的下降和社會資源緊缺。
 1	外來	外來	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	人口	人口	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 3	在	在	ADP	IN	_	13	case	_	SpaceAfter=No
@@ -11241,7 +11241,7 @@
 27	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s416
-# text = 寧波最早的廣播電台開辦於1932年,為愛好者開辦的業餘廣播電台.
+# text = 寧波最早的廣播電台開辦於1932年，為愛好者開辦的業餘廣播電台。
 1	寧波	寧波	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	最早	最早	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -11263,7 +11263,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s417
-# text = 至少從宋代開始,明州即供奉紀信為城隍.
+# text = 至少從宋代開始，明州即供奉紀信為城隍。
 1	至少	至少	ADV	RB	_	3	advmod	_	SpaceAfter=No
 2	從	從	ADP	IN	_	3	case	_	SpaceAfter=No
 3	宋代	宋代	PROPN	NNP	_	8	obl	_	SpaceAfter=No
@@ -11278,7 +11278,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s418
-# text = 2004年起,原效實中學高中所轄「國際部」取消,其編製劃入寧波外國語學校編製內,稱為「寧波外國語學校高中部」.
+# text = 2004年起，原效實中學高中所轄「國際部」取消，其編製劃入寧波外國語學校編製內，稱為「寧波外國語學校高中部」。
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No
 3	起	起	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -11318,7 +11318,7 @@
 37	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s419
-# text = 寧波效實中學是一所位於中國浙江省寧波市的高級中學,有100餘年歷史,原為私立中學.
+# text = 寧波效實中學是一所位於中國浙江省寧波市的高級中學，有100餘年歷史，原為私立中學。
 1	寧波	寧波	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	效實	效實	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 3	中學	中學	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
@@ -11349,7 +11349,7 @@
 28	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No
 
 # sent_id = test-s420
-# text = 但在動畫版中,由於得到JAXA的協助,得以使用真實姓名.
+# text = 但在動畫版中，由於得到JAXA的協助，得以使用真實姓名。
 1	但	但	ADV	RB	_	15	mark	_	SpaceAfter=No
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
 3	動畫	動畫	NOUN	NN	_	4	case:suff	_	SpaceAfter=No
@@ -11370,7 +11370,7 @@
 18	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s421
-# text = 天娛傳媒旗下「國民美女」楊洋,經過精心籌備即發行個人首張EP,歌曲頗具文藝氣質,配上楊洋乾淨聲線,為華語樂壇又帶來了多首獨特清新的民謠新作.
+# text = 天娛傳媒旗下「國民美女」楊洋，經過精心籌備即發行個人首張EP，歌曲頗具文藝氣質，配上楊洋乾淨聲線，為華語樂壇又帶來了多首獨特清新的民謠新作。
 1	天娛	天娛	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 2	傳媒	傳媒	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 3	旗下	旗下	NOUN	NN	_	6	nmod	_	SpaceAfter=No
@@ -11420,7 +11420,7 @@
 47	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s422
-# text = 他還掌握了雷系查克拉的「狀態變化」,可以不藉助任何媒介使查克拉刀任意變化.
+# text = 他還掌握了雷系查克拉的「狀態變化」，可以不藉助任何媒介使查克拉刀任意變化。
 1	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No
 2	還	還	ADV	RB	_	18	mark	_	SpaceAfter=No
 3	掌握	掌握	VERB	VV	_	18	advcl	_	SpaceAfter=No
@@ -11446,7 +11446,7 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s423
-# text = 唯一的財源為青光石,由附近的鄰國以穀物來購買.
+# text = 唯一的財源為青光石，由附近的鄰國以穀物來購買。
 1	唯一	唯一	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	財源	財源	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
@@ -11465,7 +11465,7 @@
 16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s424
-# text = 觀察空中星宿位置的模様,以占卜未來「天道」的學問,來作為學習基礎的制度(不過問身份、只要擁有廣泛才能的人就能被選上).
+# text = 觀察空中星宿位置的模様，以占卜未來「天道」的學問，來作為學習基礎的制度（不過問身份、只要擁有廣泛才能的人就能被選上）。
 1	觀察	觀察	VERB	VV	_	8	advcl	_	SpaceAfter=No
 2	空中	空中	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	星宿	星宿	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -11508,7 +11508,7 @@
 40	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s425
-# text = 他在1990年友好運動會和1991年世界游泳錦標賽上也都奪得了金牌.
+# text = 他在1990年友好運動會和1991年世界游泳錦標賽上也都奪得了金牌。
 1	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No
 2	在	在	ADP	IN	_	7	case	_	SpaceAfter=No
 3	1990	1990	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -11532,7 +11532,7 @@
 21	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s426
-# text = 他幾次搬家和轉學,同時尋找他可以充分發揮他才華的地方.
+# text = 他幾次搬家和轉學，同時尋找他可以充分發揮他才華的地方。
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	幾	幾	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	次	次	NOUN	NNB	_	4	advmod	_	SpaceAfter=No
@@ -11553,7 +11553,7 @@
 18	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s427
-# text = 他的繪畫作品已經開始被歐洲的不同私人收藏家收藏.
+# text = 他的繪畫作品已經開始被歐洲的不同私人收藏家收藏。
 1	他	他	PRON	PRP	Person=3	4	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	繪畫	繪畫	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -11571,7 +11571,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s428
-# text = 在一些城市中,每層的門窗都會安裝鐵柵欄,另有一些宅邸的每間房都會安裝安全門,為安全部隊的抵達爭取時間.
+# text = 在一些城市中，每層的門窗都會安裝鐵柵欄，另有一些宅邸的每間房都會安裝安全門，為安全部隊的抵達爭取時間。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	一些	一些	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 3	城市	城市	NOUN	NN	_	11	obl	_	SpaceAfter=No
@@ -11608,7 +11608,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s429
-# text = 越來越多的輪船也開始提供安全室作為反海盜的手段.
+# text = 越來越多的輪船也開始提供安全室作為反海盜的手段。
 1	越來越	越來越	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	多	多	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 3	的	的	PART	DEC	_	2	mark:relcl	_	SpaceAfter=No
@@ -11627,7 +11627,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s430
-# text = 據阿卡德史詩《埃努瑪·埃利什》的記載,安努是安莎爾與吉莎爾之子.
+# text = 據阿卡德史詩《埃努瑪·埃利什》的記載，安努是安莎爾與吉莎爾之子。
 1	據	據	ADP	IN	_	10	case	_	SpaceAfter=No
 2	阿卡德	阿卡德	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 3	史詩	史詩	NOUN	NN	_	7	appos	_	SpaceAfter=No
@@ -11649,7 +11649,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s431
-# text = 航空公司成立於1987年並完全由TAAG安哥拉航空擁有.
+# text = 航空公司成立於1987年並完全由TAAG安哥拉航空擁有。
 1	航空	航空	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	公司	公司	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	成立	成立	VERB	VV	_	9	advcl	_	SpaceAfter=No
@@ -11666,7 +11666,7 @@
 14	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s432
-# text = 此外,他還創辦了北京市伊斯蘭教經學院,並曾任中國伊斯蘭教經學院與北京市伊斯蘭教經學院院長.
+# text = 此外，他還創辦了北京市伊斯蘭教經學院，並曾任中國伊斯蘭教經學院與北京市伊斯蘭教經學院院長。
 1	此外	此外	NOUN	NN	_	16	advmod	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 3	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
@@ -11699,7 +11699,7 @@
 30	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s433
-# text = 1989年到1994年,她擔任芝加哥大學法學院的教授.
+# text = 1989年到1994年，她擔任芝加哥大學法學院的教授。
 1	1989	1989	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No
 3	到	到	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -11717,7 +11717,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s434
-# text = 1941年夏天,安妮姐妹倆因此不得不轉入猶太人學校就讀,在此期間安妮開始寫日記.
+# text = 1941年夏天，安妮姐妹倆因此不得不轉入猶太人學校就讀，在此期間安妮開始寫日記。
 1	1941	1941	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	夏天	夏天	NOUN	NN	_	16	nmod:tmod	_	SpaceAfter=No
@@ -11745,7 +11745,7 @@
 25	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s435
-# text = 同年接近年尾時,艾迪特帶著安妮與瑪戈到居於亞琛的外婆羅莎·霍德蘭的家中居住,而奧托則繼續留在法蘭克福,直至他收到在荷蘭阿姆斯特丹開設公司的邀請.
+# text = 同年接近年尾時，艾迪特帶著安妮與瑪戈到居於亞琛的外婆羅莎·霍德蘭的家中居住，而奧托則繼續留在法蘭克福，直至他收到在荷蘭阿姆斯特丹開設公司的邀請。
 1	同年	同年	NOUN	NN	_	2	nmod:tmod	_	SpaceAfter=No
 2	接近	接近	VERB	VV	_	23	advcl	_	SpaceAfter=No
 3	年尾	年尾	NOUN	NN	_	2	obj	_	SpaceAfter=No
@@ -11791,7 +11791,7 @@
 43	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s436
-# text = 洛姬諾娃也是俄羅斯最有名的女保鏢之一.
+# text = 洛姬諾娃也是俄羅斯最有名的女保鏢之一。
 1	洛姬諾娃	洛姬諾娃	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No
 2	也是	也是	AUX	VC	_	10	cop	_	SpaceAfter=No
 3	俄羅斯	俄羅斯	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
@@ -11805,7 +11805,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s437
-# text = 根據台灣烏克蘭籍藝人瑞莎的說法,瑞紗與貝索諾娃在德里烏矜斯學校同時接受韻律體操的訓練,住在同一間寢室.
+# text = 根據台灣烏克蘭籍藝人瑞莎的說法，瑞紗與貝索諾娃在德里烏矜斯學校同時接受韻律體操的訓練，住在同一間寢室。
 1	根據	根據	ADP	IN	_	8	case	_	SpaceAfter=No
 2	台灣	台灣	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 3	烏克蘭	烏克蘭	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
@@ -11837,7 +11837,7 @@
 29	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s438
-# text = 8月25日下午1時,國民黨成立大會在湖廣會館召開.
+# text = 8月25日下午1時，國民黨成立大會在湖廣會館召開。
 1	8	8	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	月	月	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 3	25	25	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -11857,7 +11857,7 @@
 17	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = test-s439
-# text = 在丹麥,一個人的姓名只用首字大寫字母表示是個被接受的慣例,正如美國人姓名的中間單詞用單詞的首字大寫字母代替.
+# text = 在丹麥，一個人的姓名只用首字大寫字母表示是個被接受的慣例，正如美國人姓名的中間單詞用單詞的首字大寫字母代替。
 1	在	在	VERB	VV	_	20	acl	_	SpaceAfter=No
 2	丹麥	丹麥	PROPN	NNP	_	1	obj	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
@@ -11897,7 +11897,7 @@
 37	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s440
-# text = 印度安得拉邦分為23個縣:
+# text = 印度安得拉邦分為23個縣：
 1	印度	印度	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	安得拉	安得拉	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	邦	邦	PART	SFN	_	4	nsubj	_	SpaceAfter=No
@@ -11909,7 +11909,7 @@
 9	：	：	PUNCT	:	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s441
-# text = 考南德出生在巴黎,1930年移居美國,1941年加入美國國籍.
+# text = 考南德出生在巴黎，1930年移居美國，1941年加入美國國籍。
 1	考南德	考南德	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 2	出生	出生	VERB	VV	_	13	advcl	_	SpaceAfter=No
 3	在	在	ADP	IN	_	4	case	_	SpaceAfter=No
@@ -11928,7 +11928,7 @@
 16	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s442
-# text = 1764年,馬塞納的父親去世,母親改嫁,他被送到親戚處寄養.
+# text = 1764年，馬塞納的父親去世，母親改嫁，他被送到親戚處寄養。
 1	1764	1764	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
@@ -11949,7 +11949,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s443
-# text = 該文化的地理分布範圍和界限很難精確確定.
+# text = 該文化的地理分布範圍和界限很難精確確定。
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No
 2	文化	文化	NOUN	NN	_	6	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -11964,7 +11964,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s444
-# text = 目前他效力於德甲球隊美因茨.
+# text = 目前他效力於德甲球隊美因茨。
 1	目前	目前	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No
 2	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 3	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -11975,7 +11975,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s445
-# text = 手提箱載有的就是他在西班牙內戰時間拍攝的3500張底片.
+# text = 手提箱載有的就是他在西班牙內戰時間拍攝的3500張底片。
 1	手提	手提	VERB	VV	_	2	case:suff	_	SpaceAfter=No
 2	箱	箱	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	載有	載有	VERB	VV	_	15	csubj	_	SpaceAfter=No
@@ -11994,7 +11994,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s446
-# text = 然而再回到倫敦的暗房沖洗時,工作人員的失誤毀掉了絕大多數底片,經過一番努力,搶救出了其中的11張.
+# text = 然而再回到倫敦的暗房沖洗時，工作人員的失誤毀掉了絕大多數底片，經過一番努力，搶救出了其中的11張。
 1	然而	然而	ADV	RB	_	14	mark	_	SpaceAfter=No
 2	再	再	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	回到	回到	VERB	VV	_	7	advcl	_	SpaceAfter=No
@@ -12030,7 +12030,7 @@
 33	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s447
-# text = 就我所知,他是最不適合擔當此職者之一.
+# text = 就我所知，他是最不適合擔當此職者之一。
 1	就	就	ADP	IN	_	4	case	_	SpaceAfter=No
 2	我	我	PRON	PRP	Person=1	4	nsubj	_	SpaceAfter=No
 3	所	所	ADV	RB	_	4	mark	_	SpaceAfter=No
@@ -12049,7 +12049,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s448
-# text = 1960年9月30日,安徽電視台開播,是中國最早建立的省級電視臺之一.
+# text = 1960年9月30日，安徽電視台開播，是中國最早建立的省級電視臺之一。
 1	1960	1960	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	9	9	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -12075,7 +12075,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No
 
 # sent_id = test-s449
-# text = 這是繼CCTV電視劇頻道、湖南電視台衛星頻道之後,中國大陸第三家引進泰國電視劇的電視機構.
+# text = 這是繼CCTV電視劇頻道、湖南電視台衛星頻道之後，中國大陸第三家引進泰國電視劇的電視機構。
 1	這	這	PRON	PRD	_	26	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	26	cop	_	SpaceAfter=No
 3	繼	繼	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -12105,7 +12105,7 @@
 27	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s450
-# text = 當年冬,安徽省高等法院遷回安慶原址辦公.
+# text = 當年冬，安徽省高等法院遷回安慶原址辦公。
 1	當年	當年	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	冬	冬	NOUN	NN	_	11	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -12120,7 +12120,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s451
-# text = 1917年,在巴埃薩,他認識了費德里克加西亞洛爾迦,他們建立了偉大的友誼.
+# text = 1917年，在巴埃薩，他認識了費德里克加西亞洛爾迦，他們建立了偉大的友誼。
 1	1917	1917	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	PART	SFN	_	8	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
@@ -12143,7 +12143,7 @@
 20	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s452
-# text = 依據《海巡勤務》所列,安檢所內一般勤務可分為幾種:值班、安檢、守望、監卸、巡邏、備勤.
+# text = 依據《海巡勤務》所列，安檢所內一般勤務可分為幾種：值班、安檢、守望、監卸、巡邏、備勤。
 1	依據	依據	ADP	IN	_	7	case	_	SpaceAfter=No
 2	《	《	PUNCT	(	_	4	punct	_	SpaceAfter=No
 3	海巡	海巡	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -12177,7 +12177,7 @@
 31	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s453
-# text = 進出港的船隻均需經過海巡人員的安檢,故安檢所均配合派員執行此一勤務.
+# text = 進出港的船隻均需經過海巡人員的安檢，故安檢所均配合派員執行此一勤務。
 1	進出港	進出港	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	船隻	船隻	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -12202,7 +12202,7 @@
 22	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s454
-# text = 現時該公司市場遍佈香港、澳門、中國大陸、台灣、日本、馬來西亞、泰國、汶萊、印度等地.
+# text = 現時該公司市場遍佈香港、澳門、中國大陸、台灣、日本、馬來西亞、泰國、汶萊、印度等地。
 1	現時	現時	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 2	該	該	DET	DT	_	3	det	_	SpaceAfter=No
 3	公司	公司	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -12231,7 +12231,7 @@
 26	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s455
-# text = 安班加縣(Ambanja District)位於馬達加斯加北部,是安齊拉納納省的一部分,面積6,328平方公里(2,443平方英哩),2001年人口125,056,人口密度為每平方公里19.8人(每平方英哩2,443.3人).
+# text = 安班加縣（AmbanjaDistrict）位於馬達加斯加北部，是安齊拉納納省的一部分，面積6,328平方公里（2,443平方英哩），2001年人口125,056，人口密度為每平方公里19.8人（每平方英哩2,443.3人）。
 1	安班加	安班加	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	縣	縣	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -12279,7 +12279,7 @@
 45	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s456
-# text = 現時首席執行官為Stuart Harrison.
+# text = 現時首席執行官為StuartHarrison。
 1	現時	現時	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 2	首席	首席	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	執行	執行	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -12290,7 +12290,7 @@
 8	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s457
-# text = Anggun是世界上最成功的亞裔歌手,在法國、美國、巴西、比利時、義大利、新加坡、印尼、馬來西亞、芬蘭、瑞士、西班牙、俄羅斯、德國、加拿大、荷蘭、希臘、菲律賓、汶萊、日本等40多個國家也有著高知名度.
+# text = Anggun是世界上最成功的亞裔歌手，在法國、美國、巴西、比利時、義大利、新加坡、印尼、馬來西亞、芬蘭、瑞士、西班牙、俄羅斯、德國、加拿大、荷蘭、希臘、菲律賓、汶萊、日本等40多個國家也有著高知名度。
 1	Anggun	Anggun	X	FW	_	55	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No
 3	世界	世界	NOUN	NN	_	6	advmod	_	SpaceAfter=No
@@ -12353,7 +12353,7 @@
 60	。	。	PUNCT	.	_	55	punct	_	SpaceAfter=No
 
 # sent_id = test-s458
-# text = 恆河和雅魯藏布江河口均流出至安達曼海.
+# text = 恆河和雅魯藏布江河口均流出至安達曼海。
 1	恆河	恆河	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 2	和	和	CCONJ	CC	_	4	cc	_	SpaceAfter=No
 3	雅魯藏布	雅魯藏布	PROPN	NNP	_	4	case:suff	_	SpaceAfter=No
@@ -12367,7 +12367,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s459
-# text = 他效力於瑞典球會佐加頓斯至2009年6月合約結束.
+# text = 他效力於瑞典球會佐加頓斯至2009年6月合約結束。
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No
 2	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No
 3	於	於	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -12384,7 +12384,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s460
-# text = 他還曾效力比摩治、奧林比查和馬利迪莫,他曾引起了多間球會注意,如士砵亭、紐卡素和多蒙特.
+# text = 他還曾效力比摩治、奧林比查和馬利迪莫，他曾引起了多間球會注意，如士砵亭、紐卡素和多蒙特。
 1	他	他	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No
 2	還	還	ADV	RB	_	4	mark	_	SpaceAfter=No
 3	曾	曾	ADV	RB	_	4	advmod	_	SpaceAfter=No
@@ -12413,7 +12413,7 @@
 26	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s461
-# text = 此外當局亦會研究興建垂直運輸系統,提供無障礙的便利連接,以及在岩洞提供商業設施,例如餐廳及咖啡廳.
+# text = 此外當局亦會研究興建垂直運輸系統，提供無障礙的便利連接，以及在岩洞提供商業設施，例如餐廳及咖啡廳。
 1	此外	此外	NOUN	NN	_	11	advmod	_	SpaceAfter=No
 2	當局	當局	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 3	亦	亦	ADV	RB	_	11	mark	_	SpaceAfter=No
@@ -12446,7 +12446,7 @@
 30	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s462
-# text = 相關基建工程在2015年中完成後,將提供道路連接安達臣道及安達臣道石礦場發展計劃用地.
+# text = 相關基建工程在2015年中完成後，將提供道路連接安達臣道及安達臣道石礦場發展計劃用地。
 1	相關	相關	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 2	基建	基建	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	工程	工程	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
@@ -12474,7 +12474,7 @@
 25	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s463
-# text = 而岩壁及石礦公園的設計及工程將會考慮採納早前在公眾參與活動中舉行概念設計比賽的參賽作品,由康樂及文化事務署所獲得的撥款進行.
+# text = 而岩壁及石礦公園的設計及工程將會考慮採納早前在公眾參與活動中舉行概念設計比賽的參賽作品，由康樂及文化事務署所獲得的撥款進行。
 1	而	而	ADV	RB	_	38	mark	_	SpaceAfter=No
 2	岩壁	岩壁	NOUN	NN	_	7	det	_	SpaceAfter=No
 3	及	及	CCONJ	CC	_	5	cc	_	SpaceAfter=No
@@ -12516,7 +12516,7 @@
 39	。	。	PUNCT	.	_	38	punct	_	SpaceAfter=No
 
 # sent_id = test-s464
-# text = 冬天的高原更是特別的嚴峻.
+# text = 冬天的高原更是特別的嚴峻。
 1	冬天	冬天	NOUN	NN	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	高原	高原	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
@@ -12527,7 +12527,7 @@
 8	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s465
-# text = 最熱的地區是科尼亞盆地和馬拉蒂亞盆地,年降雨量常常少於300毫米.
+# text = 最熱的地區是科尼亞盆地和馬拉蒂亞盆地，年降雨量常常少於300毫米。
 1	最熱	最熱	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No
 3	地區	地區	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -12549,7 +12549,7 @@
 19	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s466
-# text = 安陽縣是中國河南省安陽市下轄的一個縣,位於河南省北緣,安陽市北部.
+# text = 安陽縣是中國河南省安陽市下轄的一個縣，位於河南省北緣，安陽市北部。
 1	安陽	安陽	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	縣	縣	PART	SFN	_	15	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No
@@ -12576,7 +12576,7 @@
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s467
-# text = 她其後更與Elite簽約.
+# text = 她其後更與Elite簽約。
 1	她	她	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No
 2	其後	其後	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 3	更	更	ADV	RB	_	6	advmod	_	SpaceAfter=No
@@ -12586,7 +12586,7 @@
 7	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s468
-# text = 塔內每層都有一道寬6尺寬的走廊,遊客可到走廊欣賞安順市的景色.
+# text = 塔內每層都有一道寬6尺寬的走廊，遊客可到走廊欣賞安順市的景色。
 1	塔內	塔內	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	每層	每層	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 3	都	都	ADV	RB	_	4	mark	_	SpaceAfter=No
@@ -12612,7 +12612,7 @@
 23	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s469
-# text = 由於宋軍人數太少,劉平、石元孫被俘.
+# text = 由於宋軍人數太少，劉平、石元孫被俘。
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No
 2	宋	宋	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	軍	軍	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -12629,7 +12629,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s470
-# text = 1952年12月美國總統艾森豪威爾訪問韓國,他擔任檢閱主管.
+# text = 1952年12月美國總統艾森豪威爾訪問韓國，他擔任檢閱主管。
 1	1952	1952	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -12647,7 +12647,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s471
-# text = 1960年3·15選舉舞弊引發群眾抗議示威,學生示威擴大為4·19學運,他任戒嚴司令官,1960年5月辭去陸軍參謀長職務,並在美國留學1年,1961年5月在華盛頓DC訪問時得知5.16軍事政變的消息.
+# text = 1960年3·15選舉舞弊引發群眾抗議示威，學生示威擴大為4·19學運，他任戒嚴司令官，1960年5月辭去陸軍參謀長職務，並在美國留學1年，1961年5月在華盛頓DC訪問時得知5.16軍事政變的消息。
 1	1960	1960	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	3·15	3·15	NUM	CD	NumType=Card	4	nmod	_	SpaceAfter=No
@@ -12706,7 +12706,7 @@
 56	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s472
-# text = 抗戰勝利後,兼辦《天行報》、《原子能》雜誌.
+# text = 抗戰勝利後，兼辦《天行報》、《原子能》雜誌。
 1	抗戰	抗戰	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	勝利	勝利	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -12726,7 +12726,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s473
-# text = 神學是自覺宗教與自發宗教的最大分別,因為神學有其理論化及系統化,而自發宗教是不具神學體系的.
+# text = 神學是自覺宗教與自發宗教的最大分別，因為神學有其理論化及系統化，而自發宗教是不具神學體系的。
 1	神學	神學	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No
 3	自覺	自覺	NOUN	NN	_	4	nmod	_	SpaceAfter=No
@@ -12760,7 +12760,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s474
-# text = 這種信仰被視為萬物的起源和歸宿,一切存在的根基及依據.
+# text = 這種信仰被視為萬物的起源和歸宿，一切存在的根基及依據。
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	種	種	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	信仰	信仰	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No
@@ -12782,7 +12782,7 @@
 19	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s475
-# text = 不料明軍艦隊挺進江面後,以大斧斫斷大鐵索,逆流而上.
+# text = 不料明軍艦隊挺進江面後，以大斧斫斷大鐵索，逆流而上。
 1	不料	不料	VERB	VV	_	0	root	_	SpaceAfter=No
 2	明	明	PROPN	NNP	_	3	case:suff	_	SpaceAfter=No
 3	軍	軍	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -12803,7 +12803,7 @@
 18	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No
 
 # sent_id = test-s476
-# text = 英語中定語從句中甚至還可能包含定語從句,即多重定語從句.
+# text = 英語中定語從句中甚至還可能包含定語從句，即多重定語從句。
 1	英	英	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	語	語	PART	SFN	_	5	nmod	_	SpaceAfter=No
 3	中	中	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -12825,7 +12825,7 @@
 19	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s477
-# text = 就像所有的大賣場一樣,宜家家居吸引的消費者來自於範圍非常廣大的地區.
+# text = 就像所有的大賣場一樣，宜家家居吸引的消費者來自於範圍非常廣大的地區。
 1	就	就	ADV	RB	_	7	mark	_	SpaceAfter=No
 2	像	像	ADP	IN	_	6	case	_	SpaceAfter=No
 3	所有	所有	DET	DT	_	6	det	_	SpaceAfter=No
@@ -12851,7 +12851,7 @@
 23	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s478
-# text = 這樣的結果是可以生產出具有高度適應力的傢具,無論是大型房屋還是為數越來越眾多卻受到忽略的小型寓所,這些傢具都能夠改變大小來容納.
+# text = 這樣的結果是可以生產出具有高度適應力的傢具，無論是大型房屋還是為數越來越眾多卻受到忽略的小型寓所，這些傢具都能夠改變大小來容納。
 1	這樣	這樣	PRON	PRD	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	結果	結果	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
@@ -12892,7 +12892,7 @@
 38	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s479
-# text = 宜都市是地處中華人民共和國湖北省西南部的一個縣級市,隸屬地級宜昌市管轄,位於長江南岸,長江與其支流清江交匯處.
+# text = 宜都市是地處中華人民共和國湖北省西南部的一個縣級市，隸屬地級宜昌市管轄，位於長江南岸，長江與其支流清江交匯處。
 1	宜都	宜都	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	市	市	PART	SFN	_	26	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
@@ -12933,7 +12933,7 @@
 38	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s480
-# text = 宜都市處於鄂西山地和江漢平原過渡地帶,地勢西南高、東北低,由西南向東北傾斜,是一個丘陵起伏的半山區.
+# text = 宜都市處於鄂西山地和江漢平原過渡地帶，地勢西南高、東北低，由西南向東北傾斜，是一個丘陵起伏的半山區。
 1	宜都	宜都	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	市	市	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	處	處	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -12971,7 +12971,7 @@
 35	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s481
-# text = 2012年3月15日,徐明遭到了中紀委調查,大連實德集團表示徐明已失去聯絡半個月.
+# text = 2012年3月15日，徐明遭到了中紀委調查，大連實德集團表示徐明已失去聯絡半個月。
 1	2012	2012	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -13001,7 +13001,7 @@
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s482
-# text = 實德集團是大連市的一家民營企業,成立於1992年.
+# text = 實德集團是大連市的一家民營企業，成立於1992年。
 1	實德	實德	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	集團	集團	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
@@ -13021,7 +13021,7 @@
 17	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s483
-# text = 總部位於大連市西崗區高爾基路38號.
+# text = 總部位於大連市西崗區高爾基路38號。
 1	總部	總部	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	位	位	VERB	VV	_	0	root	_	SpaceAfter=No
 3	於	於	VERB	VV	_	2	mark	_	SpaceAfter=No
@@ -13036,7 +13036,7 @@
 12	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s484
-# text = 在戲劇上,審美距離指觀眾不應混淆舞台表演與現實世界的距離.
+# text = 在戲劇上，審美距離指觀眾不應混淆舞台表演與現實世界的距離。
 1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No
 2	戲劇	戲劇	NOUN	NN	_	7	obl	_	SpaceAfter=No
 3	上	上	ADP	IN	_	2	acl	_	SpaceAfter=No
@@ -13057,7 +13057,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s485
-# text = 審美距離的存在並不排除觀眾方面出現某種「對號入座」的現象.
+# text = 審美距離的存在並不排除觀眾方面出現某種「對號入座」的現象。
 1	審美	審美	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	距離	距離	NOUN	NN	_	4	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -13078,7 +13078,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
 # sent_id = test-s486
-# text = 主要職責是管理宮廷的修繕、食事、掃除、醫療等事庶務,以及天皇財産的管理.
+# text = 主要職責是管理宮廷的修繕、食事、掃除、醫療等事庶務，以及天皇財産的管理。
 1	主要	主要	ADJ	JJ	_	2	amod	_	SpaceAfter=No
 2	職責	職責	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
@@ -13104,7 +13104,7 @@
 23	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s487
-# text = 10日上午在陸軍省的會議中,青年軍官們要求阿南惟幾辭職,從而逼迫內閣總辭職,以達到阻止無條件投降的目的.
+# text = 10日上午在陸軍省的會議中，青年軍官們要求阿南惟幾辭職，從而逼迫內閣總辭職，以達到阻止無條件投降的目的。
 1	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	日	日	NOUN	NNB	_	3	clf	_	SpaceAfter=No
 3	上午	上午	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
@@ -13140,7 +13140,7 @@
 33	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No
 
 # sent_id = test-s488
-# text = 另一方面,畑中等人也試圖做近衛師團的工作.
+# text = 另一方面，畑中等人也試圖做近衛師團的工作。
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	方面	方面	NOUN	NN	_	9	advmod	_	SpaceAfter=No
@@ -13158,7 +13158,7 @@
 15	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s489
-# text = 天皇隨即表示贊同外相東鄉的主張,會議遂做出了接受波茨坦宣言的決定.
+# text = 天皇隨即表示贊同外相東鄉的主張，會議遂做出了接受波茨坦宣言的決定。
 1	天皇	天皇	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 2	隨即	隨即	ADV	RB	_	3	advmod	_	SpaceAfter=No
 3	表示	表示	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -13180,7 +13180,7 @@
 19	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s490
-# text = 宮城因為自負的性格,曾經與三井壽有過一段私人恩怨.
+# text = 宮城因為自負的性格，曾經與三井壽有過一段私人恩怨。
 1	宮城	宮城	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 2	因為	因為	ADP	IN	_	5	case	_	SpaceAfter=No
 3	自負	自負	ADJ	JJ	_	5	amod	_	SpaceAfter=No
@@ -13200,7 +13200,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s491
-# text = 1912年,宮崎滔天參加了孫文就任臨時大總統的儀式.
+# text = 1912年，宮崎滔天參加了孫文就任臨時大總統的儀式。
 1	1912	1912	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	6	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
@@ -13219,7 +13219,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
 # sent_id = test-s492
-# text = 吉本本想召集沼田一家進行家訪,然而關鍵人物茂之卻不肯露面,面對如此學生,吉本作出了驚人之舉.
+# text = 吉本本想召集沼田一家進行家訪，然而關鍵人物茂之卻不肯露面，面對如此學生，吉本作出了驚人之舉。
 1	吉本	吉本	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 2	本	本	ADV	RB	_	4	advmod	_	SpaceAfter=No
 3	想	想	AUX	MD	_	4	aux	_	SpaceAfter=No
@@ -13251,7 +13251,7 @@
 29	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s493
-# text = 安仁屋政昭以長達20多年對當地居民的採訪經驗為依據,其證言表明無論是屠殺居民還是集體自殺的責任都在日本軍方,對於居民的犧牲,軍方總指揮官曾有過計劃(命令),另外即使沒有命令,各級官兵都自發作出了上述行為.
+# text = 安仁屋政昭以長達20多年對當地居民的採訪經驗為依據，其證言表明無論是屠殺居民還是集體自殺的責任都在日本軍方，對於居民的犧牲，軍方總指揮官曾有過計劃（命令），另外即使沒有命令，各級官兵都自發作出了上述行為。
 1	安仁屋	安仁屋	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
 2	政昭	政昭	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No
 3	以	以	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
@@ -13317,7 +13317,7 @@
 63	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s494
-# text = 家用伺服器通常都會扮演網路儲存設備的角色,為所有使用者提供安全的檔案儲存服務,而且擁有存取控制管理.
+# text = 家用伺服器通常都會扮演網路儲存設備的角色，為所有使用者提供安全的檔案儲存服務，而且擁有存取控制管理。
 1	家	家	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	用	用	VERB	VV	_	4	amod	_	SpaceAfter=No
 3	伺服	伺服	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -13351,7 +13351,7 @@
 31	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No
 
 # sent_id = test-s495
-# text = 酪梨醣是利用高科技分子蒸餾法由天然酪梨中萃取.
+# text = 酪梨醣是利用高科技分子蒸餾法由天然酪梨中萃取。
 1	酪梨	酪梨	NOUN	NN	_	2	case:suff	_	SpaceAfter=No
 2	醣	醣	PART	SFN	_	3	nsubj	_	SpaceAfter=No
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
@@ -13369,7 +13369,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = test-s496
-# text = 寬吻海豚可以同其他種類的海豚交配,在自然界和圈養狀態下都有這種情況發生.
+# text = 寬吻海豚可以同其他種類的海豚交配，在自然界和圈養狀態下都有這種情況發生。
 1	寬吻海豚	寬吻海豚	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 2	可以	可以	AUX	MD	_	8	aux	_	SpaceAfter=No
 3	同	同	ADP	IN	_	7	case	_	SpaceAfter=No
@@ -13395,7 +13395,7 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s497
-# text = 宵禁就是管理員下班(0:00 AM)到次日上班之前(9:00 AM)禁止發帖和回復,該規則在2010上海世博會期間實行,導致大量海外網友由於時差緣故無法正常發帖.
+# text = 宵禁就是管理員下班（0:00AM）到次日上班之前（9:00AM）禁止發帖和回復，該規則在2010上海世博會期間實行，導致大量海外網友由於時差緣故無法正常發帖。
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	就是	就是	VERB	VC	_	0	root	_	SpaceAfter=No
 3	管理	管理	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -13441,7 +13441,7 @@
 43	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s498
-# text = 分布於西達印度洋塞席爾群島及馬爾地夫群島以及海南省中沙群島等,屬於熱帶淺海底層魚.
+# text = 分布於西達印度洋塞席爾群島及馬爾地夫群島以及海南省中沙群島等，屬於熱帶淺海底層魚。
 1	分布	分布	VERB	VV	_	18	advcl	_	SpaceAfter=No
 2	於	於	ADP	IN	_	7	case	_	SpaceAfter=No
 3	西達	西達	VERB	VV	_	7	amod	_	SpaceAfter=No
@@ -13469,7 +13469,7 @@
 25	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s499
-# text = 這兩句話的意思分別和前述兩句話意義相同.
+# text = 這兩句話的意思分別和前述兩句話意義相同。
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No
 2	兩	兩	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	句	句	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
@@ -13487,7 +13487,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s500
-# text = 密室推理(Locked room mystery,或稱密室殺人)是推理小說常見的一種類型.
+# text = 密室推理（Lockedroommystery，或稱密室殺人）是推理小說常見的一種類型。
 1	密室	密室	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	推理	推理	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	2	punct	_	SpaceAfter=No
