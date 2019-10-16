@@ -145,7 +145,7 @@
 39	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = test-s7
-# text = 其中參賽者年齡不可超過18歲（以當年7月1日為準），且必須就讀於中學校（SecondarySchool）。
+# text = 其中參賽者年齡不可超過18歲（以當年7月1日為準），且必須就讀於中學校（Secondary School）。
 1	其中	其中	NOUN	NN	_	6	advmod	_	SpaceAfter=No
 2	參賽	參賽	VERB	VV	_	3	case:suff	_	SpaceAfter=No
 3	者	者	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -686,7 +686,7 @@
 22	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 # sent_id = test-s25
-# text = 聖伯多祿堂（IglesiadeSanPedro）是西班牙南部城市科爾多瓦的一座羅馬天主教教堂，供奉聖伯多祿，位於同名的廣場上。
+# text = 聖伯多祿堂（Iglesia de San Pedro）是西班牙南部城市科爾多瓦的一座羅馬天主教教堂，供奉聖伯多祿，位於同名的廣場上。
 1	聖伯多祿	聖伯多祿	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	25	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -1054,7 +1054,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
 # sent_id = test-s42
-# text = 在艾哈邁達巴德建立了SabarmatiAshram（高僧修行所），還有報紙「年輕的印度」（YoungIndia）。
+# text = 在艾哈邁達巴德建立了Sabarmati Ashram（高僧修行所），還有報紙「年輕的印度」（Young India）。
 1	在	在	VERB	VV	_	3	advcl	_	SpaceAfter=No
 2	艾哈邁達巴德	艾哈邁達巴德	PROPN	NNP	_	1	obj	_	SpaceAfter=No
 3	建立	建立	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -1642,7 +1642,7 @@
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s63
-# text = 化學中的場效應（Fieldeffect，記作F）是指通過空間的分子內靜電作用，即某取代基在空間產生一個電場，它對另一處的反應中心發生影響。
+# text = 化學中的場效應（Field effect，記作F）是指通過空間的分子內靜電作用，即某取代基在空間產生一個電場，它對另一處的反應中心發生影響。
 1	化學	化學	NOUN	NN	_	5	det	_	SpaceAfter=No
 2	中	中	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
@@ -2896,7 +2896,7 @@
 14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s109
-# text = 基督堂草坪（ChristChurchMeadow）是英國牛津一個著名的洪水草甸，和著名的步行和野餐地點。
+# text = 基督堂草坪（Christ Church Meadow）是英國牛津一個著名的洪水草甸，和著名的步行和野餐地點。
 1	基督	基督	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	堂	堂	PART	SFN	_	3	nmod	_	SpaceAfter=No
 3	草坪	草坪	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
@@ -5794,7 +5794,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = test-s219
-# text = 他也參與了CourtneyLove新專輯的製作。
+# text = 他也參與了Courtney Love新專輯的製作。
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 2	也	也	ADV	RB	_	3	mark	_	SpaceAfter=No
 3	參與	參與	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -8020,7 +8020,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s301
-# text = 中世紀的印度大哲學家商羯羅選出一些重要的奧義書作注，稱它們為「主要奧義書」（MukhyaUpanishad）。
+# text = 中世紀的印度大哲學家商羯羅選出一些重要的奧義書作注，稱它們為「主要奧義書」（Mukhya Upanishad）。
 1	中	中	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	世紀	世紀	NOUN	NN	_	7	det	_	SpaceAfter=No
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
@@ -8067,7 +8067,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 # sent_id = test-s303
-# text = 城市地標為伊歐拉湖（LakeEola），而奧蘭多市長為巴迪·戴爾（BuddyDyer）。
+# text = 城市地標為伊歐拉湖（Lake Eola），而奧蘭多市長為巴迪·戴爾（Buddy Dyer）。
 1	城市	城市	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	地標	地標	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 3	為	為	AUX	VC	_	5	cop	_	SpaceAfter=No
@@ -9401,7 +9401,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s351
-# text = 在2006年時，古生物學家根據在阿爾及利亞發現的始新世晚期的化石，命名了一個最新的種：Moeritheriumchehbeurameuri。
+# text = 在2006年時，古生物學家根據在阿爾及利亞發現的始新世晚期的化石，命名了一個最新的種：Moeritherium chehbeurameuri。
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 2	2006	2006	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	21	obl	_	SpaceAfter=No
@@ -9435,7 +9435,7 @@
 31	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No
 
 # sent_id = test-s352
-# text = 於1984年，查吉特（SankarChatterjee）發現了化石，他於1991年指這些化石屬於一種比始祖鳥更為古老的鳥類。
+# text = 於1984年，查吉特（Sankar Chatterjee）發現了化石，他於1991年指這些化石屬於一種比始祖鳥更為古老的鳥類。
 1	於	於	ADP	IN	_	3	case	_	SpaceAfter=No
 2	1984	1984	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	年	年	NOUN	NNB	_	10	obl	_	SpaceAfter=No
@@ -9633,7 +9633,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
 # sent_id = test-s359
-# text = 但這次風波並未將其打倒，在年底《Grazia》雜志評選的「十大最佳著裝人士」的評選中KateMoss又一次獲得第一名，證明了其的人氣與在時尚界的地位。
+# text = 但這次風波並未將其打倒，在年底《Grazia》雜志評選的「十大最佳著裝人士」的評選中Kate Moss又一次獲得第一名，證明了其的人氣與在時尚界的地位。
 1	但	但	ADV	RB	_	9	mark	_	SpaceAfter=No
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No
 3	次	次	NOUN	NNB	_	4	clf	_	SpaceAfter=No
@@ -9931,7 +9931,7 @@
 34	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 # sent_id = test-s371
-# text = 科特柳的任期幾乎和麥金萊的任期一樣長，他在這段時間內，逐漸變成了麥金萊的重要助手，相當於出版秘書（Presssecretary）和今日的幕僚長。
+# text = 科特柳的任期幾乎和麥金萊的任期一樣長，他在這段時間內，逐漸變成了麥金萊的重要助手，相當於出版秘書（Press secretary）和今日的幕僚長。
 1	科特柳	科特柳	PROPN	NNP	_	3	det	_	SpaceAfter=No
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
 3	任期	任期	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
@@ -10031,7 +10031,7 @@
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
 # sent_id = test-s374
-# text = 2013年4月，威廉瑪麗校友瑪麗·喬·懷特（MaryJoWhite）經美國參議院一致同意，擔任美國證監會主席。
+# text = 2013年4月，威廉瑪麗校友瑪麗·喬·懷特（Mary Jo White）經美國參議院一致同意，擔任美國證監會主席。
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
@@ -10523,7 +10523,7 @@
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
 # sent_id = test-s389
-# text = 孔恩瀑布由兩部分組成，西邊的是「桑法尼瀑布」，地勢較高，枯水時斷流，東邊的名為「發芬瀑布」（PhaphengFalls），是孔恩主瀑，孔恩瀑布總寬9.7公里，落差15~24米，年均流量1.2萬立方米/秒，號稱世界上最寬的瀑布。
+# text = 孔恩瀑布由兩部分組成，西邊的是「桑法尼瀑布」，地勢較高，枯水時斷流，東邊的名為「發芬瀑布」（Phapheng Falls），是孔恩主瀑，孔恩瀑布總寬9.7公里，落差15~24米，年均流量1.2萬立方米/秒，號稱世界上最寬的瀑布。
 1	孔恩	孔恩	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	瀑布	瀑布	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	由	由	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10956,7 +10956,7 @@
 22	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
 # sent_id = test-s406
-# text = 孤海浮燈（TheLikesofUs）是名作曲家安德魯·洛伊·韋伯的音樂劇，原書由萊斯利·湯瑪斯基於慈善家湯瑪斯·約翰成立貧困兒童院的真實故事創作。
+# text = 孤海浮燈（The Likes of Us）是名作曲家安德魯·洛伊·韋伯的音樂劇，原書由萊斯利·湯瑪斯基於慈善家湯瑪斯·約翰成立貧困兒童院的真實故事創作。
 1	孤海	孤海	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	浮燈	浮燈	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -12231,7 +12231,7 @@
 26	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
 # sent_id = test-s455
-# text = 安班加縣（AmbanjaDistrict）位於馬達加斯加北部，是安齊拉納納省的一部分，面積6,328平方公里（2,443平方英哩），2001年人口125,056，人口密度為每平方公里19.8人（每平方英哩2,443.3人）。
+# text = 安班加縣（Ambanja District）位於馬達加斯加北部，是安齊拉納納省的一部分，面積6,328平方公里（2,443平方英哩），2001年人口125,056，人口密度為每平方公里19.8人（每平方英哩2,443.3人）。
 1	安班加	安班加	PROPN	NNP	_	2	case:suff	_	SpaceAfter=No
 2	縣	縣	PART	SFN	_	17	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No
@@ -12279,7 +12279,7 @@
 45	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No
 
 # sent_id = test-s456
-# text = 現時首席執行官為StuartHarrison。
+# text = 現時首席執行官為Stuart Harrison。
 1	現時	現時	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
 2	首席	首席	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	執行	執行	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -13395,7 +13395,7 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 # sent_id = test-s497
-# text = 宵禁就是管理員下班（0:00AM）到次日上班之前（9:00AM）禁止發帖和回復，該規則在2010上海世博會期間實行，導致大量海外網友由於時差緣故無法正常發帖。
+# text = 宵禁就是管理員下班（0:00 AM）到次日上班之前（9:00 AM）禁止發帖和回復，該規則在2010上海世博會期間實行，導致大量海外網友由於時差緣故無法正常發帖。
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	就是	就是	VERB	VC	_	0	root	_	SpaceAfter=No
 3	管理	管理	VERB	VV	_	4	case:suff	_	SpaceAfter=No
@@ -13487,7 +13487,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No
 
 # sent_id = test-s500
-# text = 密室推理（Lockedroommystery，或稱密室殺人）是推理小說常見的一種類型。
+# text = 密室推理（Locked room mystery，或稱密室殺人）是推理小說常見的一種類型。
 1	密室	密室	NOUN	NN	_	2	nmod	_	SpaceAfter=No
 2	推理	推理	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 3	（	（	PUNCT	(	_	2	punct	_	SpaceAfter=No
