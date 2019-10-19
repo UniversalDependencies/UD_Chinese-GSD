@@ -35,7 +35,7 @@ Genre: wiki
 Lemmas: automatic
 UPOS: converted from manual
 XPOS: manual native
-Features: automatic
+Features: automatic with corrections
 Relations: converted from manual
 Contributors: Shen, Mo; McDonald, Ryan; Zeman, Daniel; Qi, Peng
 Contributing: here
