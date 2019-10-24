@@ -48,28 +48,29 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">425</feat><!-- 被, 為 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="46">
     <dep name="acl">1910</dep>
     <dep name="acl:relcl">1786</dep>
-    <dep name="advcl">3995</dep>
+    <dep name="advcl">3994</dep>
     <dep name="advmod">3937</dep>
-    <dep name="amod">2000</dep>
-    <dep name="appos">1360</dep>
+    <dep name="amod">2031</dep>
+    <dep name="appos">1358</dep>
     <dep name="aux">879</dep>
     <dep name="aux:pass">426</dep>
     <dep name="case">3747</dep>
     <dep name="case:aspect">955</dep>
     <dep name="case:dec">3285</dep>
     <dep name="case:pref">745</dep>
-    <dep name="case:suff">5562</dep>
+    <dep name="case:suff">1</dep>
     <dep name="cc">1746</dep>
     <dep name="ccomp">2161</dep>
     <dep name="clf">2247</dep>
+    <dep name="compound">5562</dep>
     <dep name="conj">3225</dep>
     <dep name="cop">1804</dep>
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
-    <dep name="det">4472</dep>
+    <dep name="det">1669</dep>
     <dep name="discourse">196</dep>
     <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
@@ -79,11 +80,11 @@
     <dep name="mark:advb">104</dep>
     <dep name="mark:comp">25</dep>
     <dep name="mark:relcl">2428</dep>
-    <dep name="nmod">13459</dep>
+    <dep name="nmod">16192</dep>
     <dep name="nmod:tmod">1615</dep>
-    <dep name="nsubj">9423</dep>
+    <dep name="nsubj">9425</dep>
     <dep name="nsubj:pass">275</dep>
-    <dep name="nummod">6219</dep>
+    <dep name="nummod">6258</dep>
     <dep name="obj">7747</dep>
     <dep name="obl">2581</dep>
     <dep name="obl:patient">196</dep>
