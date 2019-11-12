@@ -5,91 +5,95 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>4997</sentences><tokens>123283</tokens><words>123283</words><fused>0</fused></total>
-    <train><sentences>3997</sentences><tokens>98608</tokens><words>98608</words><fused>0</fused></train>
+    <total><sentences>4997</sentences><tokens>123291</tokens><words>123291</words><fused>0</fused></total>
+    <train><sentences>3997</sentences><tokens>98616</tokens><words>98616</words><fused>0</fused></train>
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20240" /><!-- ,, 的, ., 在, 年, 、, 是, 為, 一, 於, 和, 了, 他, 個, 人 -->
-  <forms unique="20246" /><!-- ,, 的, ., 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
+  <lemmas unique="20242" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 他, 個, 人 -->
+  <forms unique="20248" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">3032</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
-    <tag name="ADP">5424</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
-    <tag name="ADV">5749</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
-    <tag name="AUX">2684</tag><!-- 是, 為, 會, 可以, 可, 也是, 能, 要, 可能, 就是 -->
+    <tag name="ADJ">3034</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
+    <tag name="ADP">5621</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
+    <tag name="ADV">5748</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
+    <tag name="AUX">2686</tag><!-- 是, 為, 會, 可以, 可, 也是, 能, 要, 可能, 就是 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
     <tag name="DET">1297</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
-    <tag name="NOUN">34043</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
-    <tag name="NUM">6659</tag><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
-    <tag name="PART">13172</tag><!-- 的, 了, 之, 人, 大, 者, 市, 區, 會, 軍 -->
+    <tag name="NOUN">34047</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
+    <tag name="NUM">6660</tag><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
+    <tag name="PART">13368</tag><!-- 的, 了, 之, 人, 大, 者, 市, 區, 會, 軍 -->
     <tag name="PRON">1776</tag><!-- 他, 其, 她, 此, 它, 自己, 這, 我, 之, 牠 -->
-    <tag name="PROPN">10741</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
-    <tag name="PUNCT">17047</tag><!-- ,, ., 、, (, ), 」, 「, 》, 《, · -->
+    <tag name="PROPN">10743</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
+    <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
     <tag name="SYM">37</tag><!-- /, $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com -->
-    <tag name="VERB">18673</tag><!-- 有, 在, 為, 於, 被, 是, 由, 成, 到, 位 -->
-    <tag name="X">1209</tag><!-- 的, 了, the, A, 的話, NBA, JR, of, B, Google -->
+    <tag name="VERB">18475</tag><!-- 有, 在, 為, 於, 被, 是, 由, 成, 到, 位 -->
+    <tag name="X">994</tag><!-- the, A, NBA, JR, of, B, Google, County, Game, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="12">
-    <feat name="Aspect" value="Perf" upos="PART,X">826</feat><!-- 了, 過 -->
+  <feats unique="13">
+    <feat name="Aspect" value="Perf" upos="PART">826</feat><!-- 了, 過 -->
     <feat name="Aspect" value="Prog" upos="PART">131</feat><!-- 著 -->
-    <feat name="Case" value="Gen" upos="ADP,PART">3284</feat><!-- 的, 之, 之外, 地 -->
-    <feat name="Mood" value="Inter" upos="X">8</feat><!-- 呢, 嗎, 啊 -->
+    <feat name="Case" value="Gen" upos="ADP,PART">3286</feat><!-- 的, 之, 之外, 地 -->
+    <feat name="Mood" value="Inter" upos="PART">8</feat><!-- 呢, 嗎, 啊 -->
     <feat name="Number" value="Plur" upos="NOUN,PART,PRON">267</feat><!-- 他們, 它們, 們, 我們, 人們, 牠們, 她們 -->
-    <feat name="NumType" value="Card" upos="NUM">6659</feat><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
+    <feat name="NumType" value="Card" upos="NUM">6258</feat><!-- 一, 兩, 三, 1, 3, 12, 5, 2, 8, 10 -->
+    <feat name="NumType" value="Ord" upos="NUM">401</feat><!-- 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位 -->
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
     <feat name="Polarity" value="Neg" upos="ADV">244</feat><!-- 不, 未, 沒, 別, 無 -->
-    <feat name="Voice" value="Cau" upos="ADP,VERB">689</feat><!-- 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派 -->
-    <feat name="Voice" value="Pass" upos="VERB">424</feat><!-- 被, 為 -->
+    <feat name="Voice" value="Cau" upos="ADP,VERB">493</feat><!-- 以, 使, 讓, 使得, 令, 導致, 要求, 派, 派遣, 任命 -->
+    <feat name="Voice" value="Pass" upos="AUX,VERB">425</feat><!-- 被, 為 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
-    <dep name="acl">5435</dep>
-    <dep name="acl:relcl">1785</dep>
-    <dep name="advcl">160</dep>
-    <dep name="advmod">3938</dep>
-    <dep name="amod">2000</dep>
+  <deps unique="46">
+    <dep name="acl">1910</dep>
+    <dep name="acl:relcl">1786</dep>
+    <dep name="advcl">3994</dep>
+    <dep name="advmod">3937</dep>
+    <dep name="amod">2031</dep>
     <dep name="appos">1358</dep>
     <dep name="aux">879</dep>
-    <dep name="aux:caus">198</dep>
-    <dep name="aux:pass">424</dep>
-    <dep name="case">3546</dep>
+    <dep name="aux:pass">426</dep>
+    <dep name="case">3747</dep>
     <dep name="case:aspect">955</dep>
-    <dep name="case:dec">3283</dep>
+    <dep name="case:dec">3285</dep>
     <dep name="case:pref">745</dep>
-    <dep name="case:suff">5563</dep>
-    <dep name="cc">1744</dep>
-    <dep name="ccomp">2176</dep>
-    <dep name="clf">2244</dep>
-    <dep name="conj">3199</dep>
-    <dep name="cop">1803</dep>
-    <dep name="csubj">377</dep>
+    <dep name="case:suff">1</dep>
+    <dep name="cc">1746</dep>
+    <dep name="ccomp">2161</dep>
+    <dep name="clf">2247</dep>
+    <dep name="compound">5562</dep>
+    <dep name="conj">3225</dep>
+    <dep name="cop">1804</dep>
+    <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
-    <dep name="dep">2656</dep>
-    <dep name="det">4471</dep>
-    <dep name="discourse">195</dep>
-    <dep name="dislocated">63</dep>
+    <dep name="det">1669</dep>
+    <dep name="discourse">196</dep>
+    <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
+    <dep name="flat:name">1216</dep>
     <dep name="iobj">78</dep>
-    <dep name="mark">4554</dep>
-    <dep name="mark:advb">103</dep>
+    <dep name="mark">4553</dep>
+    <dep name="mark:advb">104</dep>
     <dep name="mark:comp">25</dep>
-    <dep name="mark:relcl">2429</dep>
-    <dep name="nmod">14674</dep>
-    <dep name="nmod:tmod">1609</dep>
-    <dep name="nsubj">9429</dep>
-    <dep name="nsubj:pass">274</dep>
-    <dep name="nummod">6221</dep>
-    <dep name="obj">7943</dep>
-    <dep name="obl">2576</dep>
+    <dep name="mark:relcl">2428</dep>
+    <dep name="nmod">16192</dep>
+    <dep name="nmod:tmod">1615</dep>
+    <dep name="nsubj">9425</dep>
+    <dep name="nsubj:pass">275</dep>
+    <dep name="nummod">6258</dep>
+    <dep name="obj">7747</dep>
+    <dep name="obl">2581</dep>
+    <dep name="obl:patient">196</dep>
     <dep name="orphan">2</dep>
-    <dep name="punct">17079</dep>
+    <dep name="parataxis">2322</dep>
+    <dep name="punct">17091</dep>
+    <dep name="reparandum">4</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1761</dep>
+    <dep name="xcomp">1750</dep>
   </deps>
 </treebank>
