@@ -2854,10 +2854,10 @@
 6	P-700	P-700	X	FW	_	14	nmod	_	SpaceAfter=No
 7	花崗	花崗	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	岩	岩	PART	SFN	_	14	nmod	_	SpaceAfter=No
-9	（	（	PUNCT	(	_	11	punct	_	SpaceAfter=No
+9	（	（	PUNCT	(	_	10	punct	_	SpaceAfter=No
 10	廠號	廠號	NOUN	NN	_	14	advcl	_	SpaceAfter=No
 11	3M45	3M45	X	FW	_	10	appos	_	SpaceAfter=No
-12	）	）	PUNCT	)	_	11	punct	_	SpaceAfter=No
+12	）	）	PUNCT	)	_	10	punct	_	SpaceAfter=No
 13	反艦	反艦	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	飛彈	飛彈	NOUN	NN	_	16	advcl	_	SpaceAfter=No
 15	（	（	PUNCT	(	_	16	punct	_	SpaceAfter=No
