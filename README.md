@@ -6,6 +6,9 @@ Google.
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * Aspect markers relations are corrected from `case:aspect` to `aux:aspect`.
+
 * 2019-11-15 v2.5
   * Google gave permission to drop the "NC" restriction from the license.
     This applies to the UD annotations (not the underlying content, of which Google claims no ownership or copyright).
