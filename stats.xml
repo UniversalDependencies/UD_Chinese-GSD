@@ -56,9 +56,9 @@
     <dep name="amod">2031</dep>
     <dep name="appos">1358</dep>
     <dep name="aux">879</dep>
+    <dep name="aux:aspect">955</dep>
     <dep name="aux:pass">426</dep>
     <dep name="case">3747</dep>
-    <dep name="case:aspect">955</dep>
     <dep name="case:dec">3285</dep>
     <dep name="case:pref">745</dep>
     <dep name="case:suff">1</dep>
