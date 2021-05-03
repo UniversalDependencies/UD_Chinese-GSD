@@ -36,10 +36,10 @@
     <feat name="Aspect" value="Perf" upos="AUX,PART">826</feat><!-- 了, 過 -->
     <feat name="Aspect" value="Prog" upos="AUX">131</feat><!-- 著 -->
     <feat name="Case" value="Gen" upos="ADP,PART">3286</feat><!-- 的, 之, 之外, 地 -->
-    <feat name="Mood" value="Inter" upos="PART">8</feat><!-- 呢, 嗎, 啊 -->
     <feat name="Number" value="Plur" upos="NOUN,PART,PRON">267</feat><!-- 他們, 它們, 們, 我們, 人們, 牠們, 她們 -->
     <feat name="NumType" value="Card" upos="NUM">6258</feat><!-- 一, 兩, 三, 1, 3, 12, 5, 2, 8, 10 -->
     <feat name="NumType" value="Ord" upos="NUM">401</feat><!-- 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位 -->
+    <feat name="PartType" value="Int" upos="PART">8</feat><!-- 呢, 嗎, 啊 -->
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
@@ -48,7 +48,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">425</feat><!-- 被, 為 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="44">
+  <deps unique="45">
     <dep name="acl">1909</dep>
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">3994</dep>
@@ -69,7 +69,8 @@
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1669</dep>
-    <dep name="discourse">196</dep>
+    <dep name="discourse">188</dep>
+    <dep name="discourse:sp">8</dep>
     <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
     <dep name="flat:name">1216</dep>

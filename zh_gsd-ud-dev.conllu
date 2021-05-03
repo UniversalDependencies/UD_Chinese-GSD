@@ -277,7 +277,7 @@
 13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	之內	之內	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No
-16	嗎	嗎	PART	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
+16	嗎	嗎	PART	UH	PartType=Int	9	discourse:sp	_	SpaceAfter=No
 17	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 # sent_id = dev-s13
@@ -2549,7 +2549,7 @@
 15	演員	演員	NOUN	NN	_	17	nsubj	_	SpaceAfter=No
 16	開口	開口	VERB	VV	_	17	advcl	_	SpaceAfter=No
 17	說話	說話	VERB	VV	_	14	ccomp	_	SpaceAfter=No
-18	呢	呢	PART	UH	Mood=Inter	14	discourse	_	SpaceAfter=No
+18	呢	呢	PART	UH	PartType=Int	14	discourse:sp	_	SpaceAfter=No
 19	？	？	PUNCT	.	_	14	punct	_	SpaceAfter=No
 20	」	」	PUNCT	''	_	14	punct	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
