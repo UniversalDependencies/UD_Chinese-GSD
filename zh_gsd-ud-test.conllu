@@ -1537,7 +1537,7 @@
 10	分子	分子	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No
 12	複製	複製	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
-13	變	變	AUX	VV	_	9	ccomp	_	SpaceAfter=No
+13	變	變	VERB	VV	_	9	ccomp	_	SpaceAfter=No
 14	得	得	PART	DEV	_	13	compound:ext	_	SpaceAfter=No
 15	更快	更快	ADJ	JJ	_	13	xcomp	_	SpaceAfter=No
 16	或	或	CCONJ	CC	_	17	cc	_	SpaceAfter=No
@@ -3614,7 +3614,7 @@
 20	也	也	ADV	RB	_	21	mark	_	SpaceAfter=No
 21	令	令	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 22	人	人	NOUN	NN	_	23	nsubj	_	SpaceAfter=No
-23	吃	吃	AUX	VV	_	21	ccomp	_	SpaceAfter=No
+23	吃	吃	VERB	VV	_	21	ccomp	_	SpaceAfter=No
 24	得	得	PART	DEV	_	23	compound:ext	_	SpaceAfter=No
 25	很	很	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	飽肚	飽肚	ADJ	JJ	_	23	xcomp	_	SpaceAfter=No

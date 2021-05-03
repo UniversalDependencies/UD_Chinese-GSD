@@ -1460,7 +1460,7 @@
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No
 19	開始	開始	VERB	VV	_	8	parataxis	_	SpaceAfter=No
-20	變	變	AUX	VV	_	19	xcomp	_	SpaceAfter=No
+20	變	變	VERB	VV	_	19	xcomp	_	SpaceAfter=No
 21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No
 22	頻繁	頻繁	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
@@ -3331,7 +3331,7 @@
 25	要	要	AUX	MD	_	28	aux	_	SpaceAfter=No
 26	比	比	ADP	IN	_	27	case	_	SpaceAfter=No
 27	雜劇	雜劇	NOUN	NN	_	28	nmod	_	SpaceAfter=No
-28	來	來	AUX	VV	_	40	advcl	_	SpaceAfter=No
+28	來	來	VERB	VV	_	40	advcl	_	SpaceAfter=No
 29	得	得	PART	DEV	_	28	compound:ext	_	SpaceAfter=No
 30	自由	自由	ADJ	JJ	_	28	xcomp	_	SpaceAfter=No
 31	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
@@ -7175,7 +7175,7 @@
 21	日報	日報	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 22	》	》	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	當時	當時	NOUN	NN	_	24	nmod:tmod	_	SpaceAfter=No
-24	辦	辦	AUX	VV	_	11	parataxis	_	SpaceAfter=No
+24	辦	辦	VERB	VV	_	11	parataxis	_	SpaceAfter=No
 25	的	的	PART	DEV	_	24	compound:ext	_	SpaceAfter=No
 26	有聲有色	有聲有色	ADJ	JJ	_	24	xcomp	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
@@ -9438,7 +9438,7 @@
 # sent_id = dev-s333
 # text = 消息傳得很快，日本報章也報道中國發現了天才神童。
 1	消息	消息	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
-2	傳	傳	AUX	VV	_	0	root	_	SpaceAfter=No
+2	傳	傳	VERB	VV	_	0	root	_	SpaceAfter=No
 3	得	得	PART	DEV	_	2	compound:ext	_	SpaceAfter=No
 4	很快	很快	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
