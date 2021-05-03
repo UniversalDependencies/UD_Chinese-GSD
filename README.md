@@ -13,6 +13,7 @@ Google.
   * Question particles changed from Mood=Inter to PartType=Int, and from discourse to discourse:sp.
   * Undocumented relation subtypes case:pref and case:suff changed to case.
   * Extent constructions converted from cop + mark:comp to compound:ext.
+  * Changed mark:advb to mark:adv (as in the other Chinese treebanks).
 * 2020-11-15 v2.7
   * Aspect markers relations are corrected from `case:aspect` to `aux:aspect`.
 * 2019-11-15 v2.5

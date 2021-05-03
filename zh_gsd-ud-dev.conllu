@@ -5784,7 +5784,7 @@
 24	仍然	仍然	ADV	RB	_	25	advmod	_	SpaceAfter=No
 25	無法	無法	VERB	VV	_	15	ccomp	_	SpaceAfter=No
 26	準確	準確	ADJ	JJ	_	28	advmod	_	SpaceAfter=No
-27	地	地	PART	DEV	_	26	mark:advb	_	SpaceAfter=No
+27	地	地	PART	DEV	_	26	mark:adv	_	SpaceAfter=No
 28	描述	描述	VERB	VV	_	25	xcomp	_	SpaceAfter=No
 29	「	「	PUNCT	``	_	30	punct	_	SpaceAfter=No
 30	知道	知道	NOUN	NN	_	28	obj	_	SpaceAfter=No
@@ -5920,7 +5920,7 @@
 13	開始	開始	VERB	VV	_	0	root	_	SpaceAfter=No
 14	如	如	VERB	VV	_	17	advcl	_	SpaceAfter=No
 15	雨後春筍	雨後春筍	NOUN	NN	_	14	obj	_	SpaceAfter=No
-16	的	的	PART	DEV	_	17	mark:advb	_	SpaceAfter=No
+16	的	的	PART	DEV	_	17	mark:adv	_	SpaceAfter=No
 17	發表	發表	VERB	VV	_	13	xcomp	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
@@ -7673,7 +7673,7 @@
 14	上	上	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	也	也	ADV	RB	_	18	mark	_	SpaceAfter=No
 16	極大	極大	ADJ	JJ	_	18	advmod	_	SpaceAfter=No
-17	地	地	PART	DEV	_	16	mark:advb	_	SpaceAfter=No
+17	地	地	PART	DEV	_	16	mark:adv	_	SpaceAfter=No
 18	受到	受到	VERB	VV	_	8	parataxis	_	SpaceAfter=No
 19	李	李	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
 20	小龍	小龍	PROPN	NNP	_	21	nmod	_	SpaceAfter=No
@@ -8555,7 +8555,7 @@
 # sent_id = dev-s302
 # text = 相反的只會說吉大港語的人聽不懂孟加拉語。
 1	相反	相反	ADJ	JJ	_	11	advmod	_	SpaceAfter=No
-2	的	的	PART	DEV	_	1	mark:advb	_	SpaceAfter=No
+2	的	的	PART	DEV	_	1	mark:adv	_	SpaceAfter=No
 3	只	只	ADV	RB	_	5	advmod	_	SpaceAfter=No
 4	會	會	AUX	MD	_	5	aux	_	SpaceAfter=No
 5	說	說	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No
@@ -11147,7 +11147,7 @@
 15	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 16	還	還	ADV	RB	_	19	mark	_	SpaceAfter=No
 17	瘋狂	瘋狂	ADJ	JJ	_	19	advmod	_	SpaceAfter=No
-18	地	地	PART	DEV	_	17	mark:advb	_	SpaceAfter=No
+18	地	地	PART	DEV	_	17	mark:adv	_	SpaceAfter=No
 19	愛上	愛上	VERB	VV	_	0	root	_	SpaceAfter=No
 20	他	他	PRON	PRP	Person=3	19	obj	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No

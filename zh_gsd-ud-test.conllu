@@ -492,7 +492,7 @@
 15	中	中	ADP	IN	_	14	acl	_	SpaceAfter=No
 16	就	就	ADV	RB	_	19	mark	_	SpaceAfter=No
 17	明確	明確	ADJ	JJ	_	19	advmod	_	SpaceAfter=No
-18	地	地	PART	DEV	_	17	mark:advb	_	SpaceAfter=No
+18	地	地	PART	DEV	_	17	mark:adv	_	SpaceAfter=No
 19	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
 20	：	：	PUNCT	:	_	19	punct	_	SpaceAfter=No
 21	「	「	PUNCT	``	_	71	punct	_	SpaceAfter=No
@@ -519,14 +519,14 @@
 42	和	和	CCONJ	CC	_	43	cc	_	SpaceAfter=No
 43	必須	必須	AUX	MD	_	41	conj	_	SpaceAfter=No
 44	謹慎	謹慎	ADJ	JJ	_	53	advmod	_	SpaceAfter=No
-45	地	地	PART	DEV	_	44	mark:advb	_	SpaceAfter=No
+45	地	地	PART	DEV	_	44	mark:adv	_	SpaceAfter=No
 46	、	、	PUNCT	EC	_	44	punct	_	SpaceAfter=No
 47	逐步	逐步	ADV	RB	_	44	advmod	_	SpaceAfter=No
-48	地	地	PART	DEV	_	47	mark:advb	_	SpaceAfter=No
+48	地	地	PART	DEV	_	47	mark:adv	_	SpaceAfter=No
 49	而	而	ADV	RB	_	50	mark	_	SpaceAfter=No
 50	又	又	CCONJ	CC	_	44	cc	_	SpaceAfter=No
 51	積極	積極	ADJ	JJ	_	44	advmod	_	SpaceAfter=No
-52	地	地	PART	DEV	_	51	mark:advb	_	SpaceAfter=No
+52	地	地	PART	DEV	_	51	mark:adv	_	SpaceAfter=No
 53	引導	引導	VERB	VV	Voice=Cau	40	xcomp	_	SpaceAfter=No
 54	它們	它	PRON	PRP	Number=Plur|Person=3	64	nsubj	_	SpaceAfter=No
 55	向	向	VERB	VV	_	64	advcl	_	SpaceAfter=No
@@ -3036,7 +3036,7 @@
 4	就	就	ADV	RB	_	17	mark	_	SpaceAfter=No
 5	因為	因為	ADP	IN	_	8	case	_	SpaceAfter=No
 6	熱情	熱情	ADJ	JJ	_	8	advmod	_	SpaceAfter=No
-7	地	地	PART	DEV	_	6	mark:advb	_	SpaceAfter=No
+7	地	地	PART	DEV	_	6	mark:adv	_	SpaceAfter=No
 8	傳播	傳播	VERB	VV	_	17	xcomp	_	SpaceAfter=No
 9	信仰	信仰	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
@@ -3264,10 +3264,10 @@
 30	則	則	ADV	RB	_	31	mark	_	SpaceAfter=No
 31	都是	都是	VERB	VC	_	13	parataxis	_	SpaceAfter=No
 32	間接	間接	ADJ	JJ	_	41	advmod	_	SpaceAfter=No
-33	地	地	PART	DEV	_	32	mark:advb	_	SpaceAfter=No
+33	地	地	PART	DEV	_	32	mark:adv	_	SpaceAfter=No
 34	或	或	CCONJ	CC	_	35	cc	_	SpaceAfter=No
 35	直接	直接	ADJ	JJ	_	32	conj	_	SpaceAfter=No
-36	地	地	PART	DEV	_	35	mark:advb	_	SpaceAfter=No
+36	地	地	PART	DEV	_	35	mark:adv	_	SpaceAfter=No
 37	從	從	ADP	IN	_	40	case	_	SpaceAfter=No
 38	這	這	DET	DT	_	40	det	_	SpaceAfter=No
 39	一	一	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No
@@ -3952,7 +3952,7 @@
 5	·	·	PUNCT	/	_	4	punct	_	SpaceAfter=No
 6	奧巴馬	奧巴馬	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 7	正式	正式	ADJ	JJ	_	9	advmod	_	SpaceAfter=No
-8	地	地	PART	DEV	_	7	mark:advb	_	SpaceAfter=No
+8	地	地	PART	DEV	_	7	mark:adv	_	SpaceAfter=No
 9	邀請	邀請	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 10	同性	同性	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	配偶	配偶	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
@@ -5843,7 +5843,7 @@
 6	本劇	本劇	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 7	「	「	PUNCT	``	_	10	punct	_	SpaceAfter=No
 8	深刻	深刻	ADJ	JJ	_	10	advmod	_	SpaceAfter=No
-9	地	地	PART	DEV	_	8	mark:advb	_	SpaceAfter=No
+9	地	地	PART	DEV	_	8	mark:adv	_	SpaceAfter=No
 10	揭示	揭示	VERB	VV	_	5	ccomp	_	SpaceAfter=No
 11	了	了	AUX	AS	Aspect=Perf	10	aux	_	SpaceAfter=No
 12	現實	現實	NOUN	NN	_	23	nmod	_	SpaceAfter=No
@@ -9383,7 +9383,7 @@
 1	牠	牠	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No
 2	能夠	能夠	AUX	MD	_	5	aux	_	SpaceAfter=No
 3	快速	快速	ADJ	JJ	_	5	advmod	_	SpaceAfter=No
-4	的	的	PART	DEV	_	3	mark:advb	_	SpaceAfter=No
+4	的	的	PART	DEV	_	3	mark:adv	_	SpaceAfter=No
 5	短跑	短跑	VERB	VV	_	17	advcl	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No
 7	當	當	ADP	IN	_	8	case	_	SpaceAfter=No
@@ -10241,7 +10241,7 @@
 23	必須	必須	AUX	MD	_	28	aux	_	SpaceAfter=No
 24	「	「	PUNCT	``	_	28	punct	_	SpaceAfter=No
 25	永遠	永遠	ADJ	JJ	_	28	advmod	_	SpaceAfter=No
-26	地	地	PART	DEV	_	25	mark:advb	_	SpaceAfter=No
+26	地	地	PART	DEV	_	25	mark:adv	_	SpaceAfter=No
 27	」	」	PUNCT	''	_	28	punct	_	SpaceAfter=No
 28	保留	保留	VERB	VV	_	0	root	_	SpaceAfter=No
 29	這	這	DET	DT	_	30	det	_	SpaceAfter=No
@@ -12522,7 +12522,7 @@
 3	高原	高原	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 4	更是	更是	ADV	RB	_	7	advmod	_	SpaceAfter=No
 5	特別	特別	ADJ	JJ	_	7	advmod	_	SpaceAfter=No
-6	的	的	PART	DEV	_	5	mark:advb	_	SpaceAfter=No
+6	的	的	PART	DEV	_	5	mark:adv	_	SpaceAfter=No
 7	嚴峻	嚴峻	ADJ	JJ	_	0	root	_	SpaceAfter=No
 8	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
