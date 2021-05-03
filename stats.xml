@@ -62,8 +62,9 @@
     <dep name="ccomp">2161</dep>
     <dep name="clf">2247</dep>
     <dep name="compound">5562</dep>
+    <dep name="compound:ext">25</dep>
     <dep name="conj">3225</dep>
-    <dep name="cop">1804</dep>
+    <dep name="cop">1784</dep>
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1669</dep>
@@ -75,7 +76,6 @@
     <dep name="iobj">78</dep>
     <dep name="mark">4553</dep>
     <dep name="mark:advb">104</dep>
-    <dep name="mark:comp">25</dep>
     <dep name="mark:rel">2428</dep>
     <dep name="nmod">16192</dep>
     <dep name="nmod:tmod">1615</dep>
@@ -91,6 +91,6 @@
     <dep name="reparandum">4</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1750</dep>
+    <dep name="xcomp">1770</dep>
   </deps>
 </treebank>

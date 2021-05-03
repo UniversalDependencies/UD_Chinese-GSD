@@ -1460,9 +1460,9 @@
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No
 19	開始	開始	VERB	VV	_	8	parataxis	_	SpaceAfter=No
-20	變	變	AUX	VV	_	22	cop	_	SpaceAfter=No
-21	得	得	PART	DEV	_	22	mark:comp	_	SpaceAfter=No
-22	頻繁	頻繁	ADJ	JJ	_	19	xcomp	_	SpaceAfter=No
+20	變	變	AUX	VV	_	19	xcomp	_	SpaceAfter=No
+21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No
+22	頻繁	頻繁	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 # sent_id = dev-s52
@@ -2702,7 +2702,7 @@
 33	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No
 34	共	共	ADV	RB	_	35	advmod	_	SpaceAfter=No
 35	拍賣	拍賣	VERB	VV	_	0	root	_	SpaceAfter=No
-36	得	得	PART	DEV	_	35	mark:comp	_	SpaceAfter=No
+36	得	得	PART	DEV	_	35	compound:ext	_	SpaceAfter=No
 37	320萬	320萬	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No
 38	歐	歐	PROPN	NNP	_	39	nmod	_	SpaceAfter=No
 39	元	元	NOUN	NNB	_	35	obj	_	SpaceAfter=No
@@ -3323,17 +3323,17 @@
 17	在	在	ADP	IN	_	20	case	_	SpaceAfter=No
 18	表演	表演	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
-20	體制	體制	NOUN	NN	_	30	nmod	_	SpaceAfter=No
+20	體制	體制	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 21	與	與	CCONJ	CC	_	22	cc	_	SpaceAfter=No
 22	結構	結構	NOUN	NN	_	20	conj	_	SpaceAfter=No
 23	上	上	ADP	IN	_	20	acl	_	SpaceAfter=No
-24	都	都	ADV	RB	_	30	mark	_	SpaceAfter=No
-25	要	要	AUX	MD	_	30	aux	_	SpaceAfter=No
+24	都	都	ADV	RB	_	28	mark	_	SpaceAfter=No
+25	要	要	AUX	MD	_	28	aux	_	SpaceAfter=No
 26	比	比	ADP	IN	_	27	case	_	SpaceAfter=No
-27	雜劇	雜劇	NOUN	NN	_	30	nmod	_	SpaceAfter=No
-28	來	來	AUX	VV	_	30	cop	_	SpaceAfter=No
-29	得	得	PART	DEV	_	30	mark:comp	_	SpaceAfter=No
-30	自由	自由	ADJ	JJ	_	40	advcl	_	SpaceAfter=No
+27	雜劇	雜劇	NOUN	NN	_	28	nmod	_	SpaceAfter=No
+28	來	來	AUX	VV	_	40	advcl	_	SpaceAfter=No
+29	得	得	PART	DEV	_	28	compound:ext	_	SpaceAfter=No
+30	自由	自由	ADJ	JJ	_	28	xcomp	_	SpaceAfter=No
 31	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
 32	可以	可以	AUX	MD	_	36	aux	_	SpaceAfter=No
 33	根據	根據	ADP	IN	_	35	case	_	SpaceAfter=No
@@ -7172,12 +7172,12 @@
 18	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 19	《	《	PUNCT	(	_	21	punct	_	SpaceAfter=No
 20	民聲	民聲	NOUN	NN	_	21	nmod	_	SpaceAfter=No
-21	日報	日報	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
+21	日報	日報	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 22	》	》	PUNCT	)	_	21	punct	_	SpaceAfter=No
-23	當時	當時	NOUN	NN	_	26	nmod:tmod	_	SpaceAfter=No
-24	辦	辦	AUX	VV	_	26	cop	_	SpaceAfter=No
-25	的	的	PART	DEV	_	26	mark:comp	_	SpaceAfter=No
-26	有聲有色	有聲有色	ADJ	JJ	_	11	parataxis	_	SpaceAfter=No
+23	當時	當時	NOUN	NN	_	24	nmod:tmod	_	SpaceAfter=No
+24	辦	辦	AUX	VV	_	11	parataxis	_	SpaceAfter=No
+25	的	的	PART	DEV	_	24	compound:ext	_	SpaceAfter=No
+26	有聲有色	有聲有色	ADJ	JJ	_	24	xcomp	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 28	但	但	ADV	RB	_	30	mark	_	SpaceAfter=No
 29	最後	最後	NOUN	NN	_	30	nmod:tmod	_	SpaceAfter=No
@@ -9437,10 +9437,10 @@
 
 # sent_id = dev-s333
 # text = 消息傳得很快，日本報章也報道中國發現了天才神童。
-1	消息	消息	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
-2	傳	傳	AUX	VV	_	4	cop	_	SpaceAfter=No
-3	得	得	PART	DEV	_	4	mark:comp	_	SpaceAfter=No
-4	很快	很快	ADJ	JJ	_	0	root	_	SpaceAfter=No
+1	消息	消息	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
+2	傳	傳	AUX	VV	_	0	root	_	SpaceAfter=No
+3	得	得	PART	DEV	_	2	compound:ext	_	SpaceAfter=No
+4	很快	很快	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 6	日本	日本	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 7	報章	報章	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
