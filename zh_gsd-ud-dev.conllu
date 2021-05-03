@@ -92,7 +92,7 @@
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	它	它	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No
 15	融合	融合	VERB	VV	_	12	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
+16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	動作	動作	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	遊戲	遊戲	NOUN	NN	_	21	nmod	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No
@@ -105,7 +105,7 @@
 1	其	其	PRON	PRP	Person=3	2	nmod	_	SpaceAfter=No
 2	測試	測試	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 3	包含	包含	VERB	VV	_	20	advcl	_	SpaceAfter=No
-4	了	了	PART	AS	Aspect=Perf	3	aux:aspect	_	SpaceAfter=No
+4	了	了	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
 5	美術	美術	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 6	治療	治療	VERB	VV	_	7	compound	_	SpaceAfter=No
 7	法	法	PART	SFN	_	3	obj	_	SpaceAfter=No
@@ -122,7 +122,7 @@
 18	行為	行為	NOUN	NN	_	19	nmod	_	SpaceAfter=No
 19	分析	分析	NOUN	NN	_	17	obj	_	SpaceAfter=No
 20	提供	提供	VERB	VV	_	0	root	_	SpaceAfter=No
-21	了	了	PART	AS	Aspect=Perf	20	aux:aspect	_	SpaceAfter=No
+21	了	了	AUX	AS	Aspect=Perf	20	aux	_	SpaceAfter=No
 22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
 23	個	個	NOUN	NNB	_	28	clf	_	SpaceAfter=No
 24	理論	理論	NOUN	NN	_	25	compound	_	SpaceAfter=No
@@ -146,7 +146,7 @@
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -224,7 +224,7 @@
 # text = 他花費了許多時間來比較加拿大地質調查局博物館中的恐龍化石。
 1	他	他	PRON	PRP	Person=3	7	nsubj	_	SpaceAfter=No
 2	花費	花費	VERB	VV	_	7	advcl	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 4	許多	許多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	時間	時間	NOUN	NN	_	2	obj	_	SpaceAfter=No
 6	來	來	ADV	RB	_	7	mark	_	SpaceAfter=No
@@ -423,7 +423,7 @@
 15	並	並	ADV	RB	_	16	mark	_	SpaceAfter=No
 16	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 17	為	為	VERB	VC	_	16	mark	_	SpaceAfter=No
-18	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+18	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 19	系列	系列	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 20	官方	官方	NOUN	NN	_	23	nmod	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No
@@ -499,7 +499,7 @@
 17	女士	女士	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	們	們	PART	SFN	Number=Plur	19	nsubj	_	SpaceAfter=No
 19	堅持	堅持	VERB	VV	_	27	advcl	_	SpaceAfter=No
-20	著	著	PART	AS	Aspect=Prog	19	aux:aspect	_	SpaceAfter=No
+20	著	著	AUX	AS	Aspect=Prog	19	aux	_	SpaceAfter=No
 21	她們	她	PRON	PRP	Number=Plur|Person=3	25	nmod	_	SpaceAfter=No
 22	無聲	無聲	ADJ	JJ	_	25	amod	_	SpaceAfter=No
 23	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No
@@ -896,7 +896,7 @@
 41	國安	國安	PROPN	NNP	_	42	compound	_	SpaceAfter=No
 42	隊	隊	PART	SFN	_	43	nsubj	_	SpaceAfter=No
 43	獲得	獲得	VERB	VV	_	2	parataxis	_	SpaceAfter=No
-44	了	了	PART	AS	Aspect=Perf	43	aux:aspect	_	SpaceAfter=No
+44	了	了	AUX	AS	Aspect=Perf	43	aux	_	SpaceAfter=No
 45	下	下	DET	DT	_	46	det	_	SpaceAfter=No
 46	賽季	賽季	NOUN	NN	_	48	nmod	_	SpaceAfter=No
 47	亞冠	亞冠	PROPN	NNP	_	48	nmod	_	SpaceAfter=No
@@ -1133,7 +1133,7 @@
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 4	學院	學院	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	恢復	恢復	VERB	VV	_	0	root	_	SpaceAfter=No
-6	了	了	PART	AS	Aspect=Perf	5	aux:aspect	_	SpaceAfter=No
+6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	本科	本科	NOUN	NN	_	8	compound	_	SpaceAfter=No
 8	生	生	PART	SFN	_	9	advmod	_	SpaceAfter=No
 9	招生	招生	VERB	VV	_	5	xcomp	_	SpaceAfter=No
@@ -1174,7 +1174,7 @@
 44	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
 45	成	成	VERB	VV	_	64	csubj	_	SpaceAfter=No
 46	為	為	VERB	VC	_	45	mark	_	SpaceAfter=No
-47	了	了	PART	AS	Aspect=Perf	45	aux:aspect	_	SpaceAfter=No
+47	了	了	AUX	AS	Aspect=Perf	45	aux	_	SpaceAfter=No
 48	中國	中國	PROPN	NNP	_	54	nmod	_	SpaceAfter=No
 49	乃至	乃至	CCONJ	CC	_	50	cc	_	SpaceAfter=No
 50	世界	世界	NOUN	NN	_	48	conj	_	SpaceAfter=No
@@ -1192,7 +1192,7 @@
 62	的	的	PART	DEC	Case=Gen	59	case	_	SpaceAfter=No
 63	影響	影響	NOUN	NN	_	64	obl	_	SpaceAfter=No
 64	做出	做出	VERB	VV	_	5	parataxis	_	SpaceAfter=No
-65	了	了	PART	AS	Aspect=Perf	64	aux:aspect	_	SpaceAfter=No
+65	了	了	AUX	AS	Aspect=Perf	64	aux	_	SpaceAfter=No
 66	重要	重要	ADJ	JJ	_	68	amod	_	SpaceAfter=No
 67	的	的	PART	DEC	_	66	mark:rel	_	SpaceAfter=No
 68	貢獻	貢獻	NOUN	NN	_	64	obj	_	SpaceAfter=No
@@ -1290,7 +1290,7 @@
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	每天	每天	DET	DT	_	9	nmod:tmod	_	SpaceAfter=No
 3	趕	趕	VERB	VV	_	9	advcl	_	SpaceAfter=No
-4	著	著	PART	AS	Aspect=Prog	3	aux:aspect	_	SpaceAfter=No
+4	著	著	AUX	AS	Aspect=Prog	3	aux	_	SpaceAfter=No
 5	馬車	馬車	NOUN	NN	_	3	obj	_	SpaceAfter=No
 6	到	到	VERB	VV	_	9	advcl	_	SpaceAfter=No
 7	災區	災區	NOUN	NN	_	6	obj	_	SpaceAfter=No
@@ -1398,7 +1398,7 @@
 9	公眾	公眾	NOUN	NN	_	11	obl	_	SpaceAfter=No
 10	中	中	ADP	IN	_	9	acl	_	SpaceAfter=No
 11	得到	得到	VERB	VV	_	6	ccomp	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
+12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 13	威望	威望	NOUN	NN	_	11	obj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 15	並	並	ADV	RB	_	20	mark	_	SpaceAfter=No
@@ -1670,7 +1670,7 @@
 2	後來	後來	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No
 3	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No
 4	鋪設	鋪設	VERB	VV	_	0	root	_	SpaceAfter=No
-5	了	了	PART	AS	Aspect=Perf	4	aux:aspect	_	SpaceAfter=No
+5	了	了	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 6	有軌	有軌	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 7	電車	電車	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	系統	系統	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -2615,7 +2615,7 @@
 24	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 25	完全	完全	ADV	RB	_	26	advmod	_	SpaceAfter=No
 26	禁止	禁止	VERB	VV	_	0	root	_	SpaceAfter=No
-27	了	了	PART	AS	Aspect=Perf	26	aux:aspect	_	SpaceAfter=No
+27	了	了	AUX	AS	Aspect=Perf	26	aux	_	SpaceAfter=No
 28	華	華	PROPN	NNP	_	29	compound	_	SpaceAfter=No
 29	人	人	PART	SFN	_	30	nsubj	_	SpaceAfter=No
 30	移民	移民	VERB	VV	_	26	ccomp	_	SpaceAfter=No
@@ -2629,7 +2629,7 @@
 4	二戰	二戰	NOUN	NN	_	6	obl	_	SpaceAfter=No
 5	後	後	ADP	IN	_	4	acl	_	SpaceAfter=No
 6	簽署	簽署	VERB	VV	_	17	ccomp	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	聯合	聯合	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	國	國	PART	SFN	_	12	nmod	_	SpaceAfter=No
 10	世界	世界	NOUN	NN	_	12	nmod	_	SpaceAfter=No
@@ -2794,7 +2794,7 @@
 73	被	被	VERB	BB	Voice=Pass	75	aux:pass	_	SpaceAfter=No
 74	旅客	旅客	NOUN	NN	_	75	nsubj	_	SpaceAfter=No
 75	使用	使用	VERB	VV	_	72	ccomp	_	SpaceAfter=No
-76	過	過	PART	AS	Aspect=Perf	75	aux:aspect	_	SpaceAfter=No
+76	過	過	AUX	AS	Aspect=Perf	75	aux	_	SpaceAfter=No
 77	的	的	PART	UH	_	70	discourse	_	SpaceAfter=No
 78	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -2873,7 +2873,7 @@
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 5	隨	隨	VERB	VV	_	24	advcl	_	SpaceAfter=No
-6	著	著	PART	AS	Aspect=Prog	5	aux:aspect	_	SpaceAfter=No
+6	著	著	AUX	AS	Aspect=Prog	5	aux	_	SpaceAfter=No
 7	殖民	殖民	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	地	地	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	獨立	獨立	ADJ	JJ	_	5	ccomp	_	SpaceAfter=No
@@ -3344,7 +3344,7 @@
 38	選擇	選擇	NOUN	NN	_	36	obj	_	SpaceAfter=No
 39	，	，	PUNCT	,	_	40	punct	_	SpaceAfter=No
 40	具備	具備	VERB	VV	_	12	parataxis	_	SpaceAfter=No
-41	了	了	PART	AS	Aspect=Perf	40	aux:aspect	_	SpaceAfter=No
+41	了	了	AUX	AS	Aspect=Perf	40	aux	_	SpaceAfter=No
 42	戲劇	戲劇	NOUN	NN	_	44	nmod	_	SpaceAfter=No
 43	的	的	PART	DEC	Case=Gen	42	case	_	SpaceAfter=No
 44	特徵	特徵	NOUN	NN	_	40	obj	_	SpaceAfter=No
@@ -3838,7 +3838,7 @@
 4	南洋	南洋	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
 5	酒店	酒店	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	進行	進行	VERB	VV	_	0	root	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	大	大	PART	PFA	_	9	case:pref	_	SpaceAfter=No
 9	規模	規模	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
@@ -4205,7 +4205,7 @@
 17	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No
 18	工廠	工廠	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 19	關閉	關閉	VERB	VV	_	7	parataxis	_	SpaceAfter=No
-20	了	了	PART	AS	Aspect=Perf	19	aux:aspect	_	SpaceAfter=No
+20	了	了	AUX	AS	Aspect=Perf	19	aux	_	SpaceAfter=No
 21	位	位	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No
 22	於	於	VERB	VV	_	21	mark	_	SpaceAfter=No
 23	肯布蘭	肯布蘭	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
@@ -4297,7 +4297,7 @@
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	慶典	慶典	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	吸引	吸引	VERB	VV	_	0	root	_	SpaceAfter=No
-6	了	了	PART	AS	Aspect=Perf	5	aux:aspect	_	SpaceAfter=No
+6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	許多	許多	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 8	法國	法國	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	人	人	PART	SFN	_	5	obj	_	SpaceAfter=No
@@ -4468,7 +4468,7 @@
 41	於是	於是	ADV	RB	_	43	mark	_	SpaceAfter=No
 42	還是	還是	ADV	RB	_	43	mark	_	SpaceAfter=No
 43	發展	發展	VERB	VV	_	0	root	_	SpaceAfter=No
-44	了	了	PART	AS	Aspect=Perf	43	aux:aspect	_	SpaceAfter=No
+44	了	了	AUX	AS	Aspect=Perf	43	aux	_	SpaceAfter=No
 45	大型	大型	NOUN	NN	_	47	nmod	_	SpaceAfter=No
 46	反潛	反潛	VERB	VV	_	47	compound	_	SpaceAfter=No
 47	艦	艦	PART	SFN	_	43	obj	_	SpaceAfter=No
@@ -4551,12 +4551,12 @@
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 8	母親	母親	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 9	帶	帶	VERB	VV	_	14	advcl	_	SpaceAfter=No
-10	著	著	PART	AS	Aspect=Prog	9	aux:aspect	_	SpaceAfter=No
+10	著	著	AUX	AS	Aspect=Prog	9	aux	_	SpaceAfter=No
 11	三	三	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 13	孩子	孩子	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	來到	來到	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-15	了	了	PART	AS	Aspect=Perf	14	aux:aspect	_	SpaceAfter=No
+15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
 16	洛杉磯	洛杉磯	PROPN	NNP	_	14	obj	_	SpaceAfter=No
 17	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
 
@@ -4819,7 +4819,7 @@
 13	闊綽	闊綽	ADJ	JJ	_	15	advcl	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 15	舉辦	舉辦	VERB	VV	_	5	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
+16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	盛大	盛大	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 18	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No
 19	賽會	賽會	NOUN	NN	_	15	obj	_	SpaceAfter=No
@@ -4830,7 +4830,7 @@
 # sent_id = dev-s166
 # text = 除了他的眼罩，賈霸最出名的就是他的大勾手投籃，其他球員幾乎很難防守其勾手，他也因此被稱為「天勾賈霸」。
 1	除	除	VERB	VV	_	11	advcl	_	SpaceAfter=No
-2	了	了	PART	AS	Aspect=Perf	1	aux:aspect	_	SpaceAfter=No
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No
 3	他	他	PRON	PRP	Person=3	5	det	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
 5	眼罩	眼罩	NOUN	NN	_	1	obj	_	SpaceAfter=No
@@ -5100,7 +5100,7 @@
 14	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 15	並	並	ADV	RB	_	16	mark	_	SpaceAfter=No
 16	修築	修築	VERB	VV	_	0	root	_	SpaceAfter=No
-17	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	多	多	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	個	個	NOUN	NNB	_	20	clf	_	SpaceAfter=No
 20	車站	車站	NOUN	NN	_	16	obj	_	SpaceAfter=No
@@ -5343,7 +5343,7 @@
 13	散文	散文	NOUN	NN	_	15	obl	_	SpaceAfter=No
 14	就	就	ADV	RB	_	15	mark	_	SpaceAfter=No
 15	構成	構成	VERB	VV	_	0	root	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
+16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	《	《	PUNCT	(	_	19	punct	_	SpaceAfter=No
 18	朝花	朝花	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 19	夕拾	夕拾	VERB	VV	_	22	det	_	SpaceAfter=No
@@ -5774,7 +5774,7 @@
 14	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 15	使得	使得	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No
 16	附加	附加	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No
-17	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	各種	各種	DET	DT	_	20	det	_	SpaceAfter=No
 19	額外	額外	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	要求	要求	NOUN	NN	_	16	obj	_	SpaceAfter=No
@@ -6011,7 +6011,7 @@
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 4	家長	家長	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	承擔	承擔	VERB	VV	_	0	root	_	SpaceAfter=No
-6	著	著	PART	AS	Aspect=Prog	5	aux:aspect	_	SpaceAfter=No
+6	著	著	AUX	AS	Aspect=Prog	5	aux	_	SpaceAfter=No
 7	對	對	ADP	IN	_	9	case	_	SpaceAfter=No
 8	其	其	PRON	PRP	Person=3	9	nmod	_	SpaceAfter=No
 9	子女	子女	NOUN	NN	_	10	obl	_	SpaceAfter=No
@@ -6195,7 +6195,7 @@
 2	軍	軍	PART	SFN	_	16	nsubj	_	SpaceAfter=No
 3	迅速	迅速	ADV	RB	_	4	advmod	_	SpaceAfter=No
 4	奪取	奪取	VERB	VV	_	16	advcl	_	SpaceAfter=No
-5	了	了	PART	AS	Aspect=Perf	4	aux:aspect	_	SpaceAfter=No
+5	了	了	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 6	閩北	閩北	PROPN	NNP	_	4	obj	_	SpaceAfter=No
 7	、	、	PUNCT	EC	_	8	punct	_	SpaceAfter=No
 8	閩南	閩南	PROPN	NNP	_	6	conj	_	SpaceAfter=No
@@ -6263,7 +6263,7 @@
 14	人	人	PART	SFN	_	15	nmod	_	SpaceAfter=No
 15	手中	手中	NOUN	NN	_	16	obl	_	SpaceAfter=No
 16	奪取	奪取	VERB	VV	_	0	root	_	SpaceAfter=No
-17	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	敘利亞	敘利亞	PROPN	NNP	_	16	obj	_	SpaceAfter=No
 19	和	和	CCONJ	CC	_	20	cc	_	SpaceAfter=No
 20	埃及	埃及	PROPN	NNP	_	18	conj	_	SpaceAfter=No
@@ -6372,7 +6372,7 @@
 7	人	人	PART	SFN	_	18	nsubj	_	SpaceAfter=No
 8	還	還	ADV	RB	_	9	mark	_	SpaceAfter=No
 9	滿足	滿足	VERB	VV	_	18	ccomp	_	SpaceAfter=No
-10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
+10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 11	他	他	PRON	PRP	Person=3	14	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 13	好奇	好奇	ADJ	JJ	_	14	compound	_	SpaceAfter=No
@@ -6381,7 +6381,7 @@
 16	向	向	ADP	IN	_	17	case	_	SpaceAfter=No
 17	他	他	PRON	PRP	Person=3	18	obl	_	SpaceAfter=No
 18	展示	展示	VERB	VV	_	3	ccomp	_	SpaceAfter=No
-19	了	了	PART	AS	Aspect=Perf	18	aux:aspect	_	SpaceAfter=No
+19	了	了	AUX	AS	Aspect=Perf	18	aux	_	SpaceAfter=No
 20	位	位	VERB	VV	_	31	acl:relcl	_	SpaceAfter=No
 21	於	於	VERB	VV	_	20	mark	_	SpaceAfter=No
 22	狄俄尼索斯	狄俄尼索斯	PROPN	NNP	_	24	nmod	_	SpaceAfter=No
@@ -6441,7 +6441,7 @@
 14	歐洲	歐洲	PROPN	NNP	_	13	obj	_	SpaceAfter=No
 15	甚至	甚至	ADV	RB	_	16	mark	_	SpaceAfter=No
 16	產生	產生	VERB	VV	_	0	root	_	SpaceAfter=No
-17	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	過熱	過熱	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	現象	現象	NOUN	NN	_	16	obj	_	SpaceAfter=No
@@ -6457,7 +6457,7 @@
 6	馬勒	馬勒	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No
 7	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
 8	為	為	VERB	VC	_	7	mark	_	SpaceAfter=No
-9	了	了	PART	AS	Aspect=Perf	7	aux:aspect	_	SpaceAfter=No
+9	了	了	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 10	最常	最常	ADV	RB	_	12	advmod	_	SpaceAfter=No
 11	被	被	VERB	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	錄音	錄音	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
@@ -6514,7 +6514,7 @@
 1	他	他	PRON	PRP	Person=3	25	nsubj	_	SpaceAfter=No
 2	幼年	幼年	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No
 3	受	受	VERB	VV	_	25	advcl	_	SpaceAfter=No
-4	過	過	PART	AS	Aspect=Perf	3	aux:aspect	_	SpaceAfter=No
+4	過	過	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
 5	良好	良好	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No
 7	教育	教育	NOUN	NN	_	3	obj	_	SpaceAfter=No
@@ -6536,7 +6536,7 @@
 23	到	到	VERB	VV	_	25	advcl	_	SpaceAfter=No
 24	雅典	雅典	PROPN	NNP	_	23	obj	_	SpaceAfter=No
 25	學	學	VERB	VV	_	0	root	_	SpaceAfter=No
-26	過	過	PART	AS	Aspect=Perf	25	aux:aspect	_	SpaceAfter=No
+26	過	過	AUX	AS	Aspect=Perf	25	aux	_	SpaceAfter=No
 27	哲學	哲學	NOUN	NN	_	25	obj	_	SpaceAfter=No
 28	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No
 
@@ -6573,7 +6573,7 @@
 7	樸實無華	樸實無華	ADJ	JJ	_	9	advcl	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 9	體現	體現	VERB	VV	_	0	root	_	SpaceAfter=No
-10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
+10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 11	和	和	ADP	IN	_	12	case	_	SpaceAfter=No
 12	西塞羅	西塞羅	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 13	迥異	迥異	ADJ	JJ	_	15	amod	_	SpaceAfter=No
@@ -6658,7 +6658,7 @@
 23	感	感	PART	SFN	_	20	conj	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	39	punct	_	SpaceAfter=No
 25	洋溢	洋溢	VERB	VV	_	39	acl	_	SpaceAfter=No
-26	著	著	PART	AS	Aspect=Prog	25	aux:aspect	_	SpaceAfter=No
+26	著	著	AUX	AS	Aspect=Prog	25	aux	_	SpaceAfter=No
 27	嚴肅	嚴肅	ADJ	JJ	_	33	amod	_	SpaceAfter=No
 28	、	、	PUNCT	EC	_	29	punct	_	SpaceAfter=No
 29	哀婉	哀婉	ADJ	JJ	_	27	conj	_	SpaceAfter=No
@@ -7349,7 +7349,7 @@
 24	獨特	獨特	ADJ	JJ	_	21	conj	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
 26	促成	促成	VERB	VV	_	3	parataxis	_	SpaceAfter=No
-27	了	了	PART	AS	Aspect=Perf	26	aux:aspect	_	SpaceAfter=No
+27	了	了	AUX	AS	Aspect=Perf	26	aux	_	SpaceAfter=No
 28	台灣	台灣	PROPN	NNP	_	29	nmod	_	SpaceAfter=No
 29	電影	電影	NOUN	NN	_	32	nmod	_	SpaceAfter=No
 30	的	的	PART	DEC	Case=Gen	29	case	_	SpaceAfter=No
@@ -7422,7 +7422,7 @@
 8	生長	生長	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	速度	速度	NOUN	NN	_	3	conj	_	SpaceAfter=No
 10	意味	意味	VERB	VV	_	0	root	_	SpaceAfter=No
-11	著	著	PART	AS	Aspect=Prog	10	aux:aspect	_	SpaceAfter=No
+11	著	著	AUX	AS	Aspect=Prog	10	aux	_	SpaceAfter=No
 12	合法	合法	ADJ	JJ	_	14	amod	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No
 14	供應	供應	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
@@ -7883,7 +7883,7 @@
 12	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 13	之後	之後	NOUN	NN	_	23	nmod:tmod	_	SpaceAfter=No
 14	經過	經過	VERB	VV	_	23	advcl	_	SpaceAfter=No
-15	了	了	PART	AS	Aspect=Perf	14	aux:aspect	_	SpaceAfter=No
+15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
 16	數	數	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	次	次	NOUN	NNB	_	19	nmod	_	SpaceAfter=No
 18	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No
@@ -7918,13 +7918,13 @@
 16	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 17	史瑞克	史瑞克	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No
 18	嗅	嗅	VERB	VV	_	28	advcl	_	SpaceAfter=No
-19	了	了	PART	AS	Aspect=Perf	18	aux:aspect	_	SpaceAfter=No
+19	了	了	AUX	AS	Aspect=Perf	18	aux	_	SpaceAfter=No
 20	嗅	嗅	VERB	VV	_	18	mark	_	SpaceAfter=No
 21	神水	神水	NOUN	NN	_	18	obj	_	SpaceAfter=No
 22	後	後	ADP	IN	_	18	mark	_	SpaceAfter=No
 23	突然	突然	ADV	RB	_	28	advmod	_	SpaceAfter=No
 24	向	向	VERB	VV	_	28	advcl	_	SpaceAfter=No
-25	著	著	PART	AS	Aspect=Prog	24	aux:aspect	_	SpaceAfter=No
+25	著	著	AUX	AS	Aspect=Prog	24	aux	_	SpaceAfter=No
 26	毒	毒	PART	PFA	_	27	case:pref	_	SpaceAfter=No
 27	蘑菇	蘑菇	NOUN	NN	_	24	obj	_	SpaceAfter=No
 28	打	打	VERB	VV	_	13	parataxis	_	SpaceAfter=No
@@ -7956,7 +7956,7 @@
 21	自己	自己	PRON	PRD	_	23	nsubj	_	SpaceAfter=No
 22	仍然	仍然	ADV	RB	_	23	advmod	_	SpaceAfter=No
 23	深愛	深愛	VERB	VV	_	19	ccomp	_	SpaceAfter=No
-24	著	著	PART	AS	Aspect=Prog	23	aux:aspect	_	SpaceAfter=No
+24	著	著	AUX	AS	Aspect=Prog	23	aux	_	SpaceAfter=No
 25	他	他	PRON	PRP	Person=3	23	obj	_	SpaceAfter=No
 26	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 27	即使	即使	ADP	IN	_	32	case	_	SpaceAfter=No
@@ -7985,7 +7985,7 @@
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
 15	影響	影響	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	暈	暈	VERB	VV	_	2	parataxis	_	SpaceAfter=No
-17	了	了	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	過去	過去	VERB	VV	_	16	mark	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No
 
@@ -8006,7 +8006,7 @@
 13	貓咪	貓咪	NOUN	NN	_	11	conj	_	SpaceAfter=No
 14	很快	很快	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	變成	變成	VERB	VV	_	7	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
+16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	朋友	朋友	NOUN	NN	_	15	obj	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -8451,7 +8451,7 @@
 19	棺木	棺木	NOUN	NN	_	15	obj	_	SpaceAfter=No
 20	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No
 21	帶	帶	VERB	VV	_	24	advcl	_	SpaceAfter=No
-22	著	著	PART	AS	Aspect=Prog	21	aux:aspect	_	SpaceAfter=No
+22	著	著	AUX	AS	Aspect=Prog	21	aux	_	SpaceAfter=No
 23	它	它	PRON	PRP	Person=3	21	obj	_	SpaceAfter=No
 24	行軍	行軍	VERB	VV	_	34	advcl	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No
@@ -8520,7 +8520,7 @@
 9	弟子	弟子	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 10	許耶羅布	許耶羅布	PROPN	NNP	_	9	appos	_	SpaceAfter=No
 11	興建	興建	VERB	VV	_	0	root	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
+12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	座	座	NOUN	NNB	_	22	clf	_	SpaceAfter=No
 15	名	名	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
@@ -8802,7 +8802,7 @@
 # text = 曾經花了30年的時間冒險的冒險家，打算和好友分享他的寶物和經歷演說，然而為了如此還邀請福爾摩斯與華生來參加展覽。
 1	曾經	曾經	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	花	花	VERB	VV	_	8	advcl	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 4	30	30	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	年	年	NOUN	NNB	_	7	nmod	_	SpaceAfter=No
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No
@@ -8973,7 +8973,7 @@
 3	行為	行為	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 4	本身	本身	PRON	PRD	_	3	appos	_	SpaceAfter=No
 5	造成	造成	VERB	VV	_	0	root	_	SpaceAfter=No
-6	了	了	PART	AS	Aspect=Perf	5	aux:aspect	_	SpaceAfter=No
+6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
 8	種	種	NOUN	NNB	_	14	clf	_	SpaceAfter=No
 9	對	對	ADP	IN	_	11	case	_	SpaceAfter=No
@@ -8989,7 +8989,7 @@
 # sent_id = dev-s316
 # text = 除了懷疑之外，他們的思想在理性思維者看來幾乎是凝滯的，他們只能寄生在現代啟蒙理性之上作個永遠的搗蛋鬼。
 1	除	除	VERB	VV	_	16	advcl	_	SpaceAfter=No
-2	了	了	PART	AS	Aspect=Perf	1	aux:aspect	_	SpaceAfter=No
+2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No
 3	懷疑	懷疑	VERB	VV	_	1	xcomp	_	SpaceAfter=No
 4	之外	之外	ADP	IN	_	3	mark	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
@@ -9139,7 +9139,7 @@
 6	氣候	氣候	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 7	特點	特點	NOUN	NN	_	4	conj	_	SpaceAfter=No
 8	造就	造就	VERB	VV	_	48	advcl	_	SpaceAfter=No
-9	了	了	PART	AS	Aspect=Perf	8	aux:aspect	_	SpaceAfter=No
+9	了	了	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 10	春夏	春夏	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 11	間	間	ADP	IN	_	10	acl	_	SpaceAfter=No
 12	雲山	雲山	NOUN	NN	_	13	nmod	_	SpaceAfter=No
@@ -9179,7 +9179,7 @@
 46	規模	規模	NOUN	NN	_	47	nmod	_	SpaceAfter=No
 47	開發	開發	NOUN	NN	_	45	obj	_	SpaceAfter=No
 48	提供	提供	VERB	VV	_	0	root	_	SpaceAfter=No
-49	了	了	PART	AS	Aspect=Perf	48	aux:aspect	_	SpaceAfter=No
+49	了	了	AUX	AS	Aspect=Perf	48	aux	_	SpaceAfter=No
 50	得天獨厚	得天獨厚	ADJ	JJ	_	53	amod	_	SpaceAfter=No
 51	的	的	PART	DEC	_	50	mark:rel	_	SpaceAfter=No
 52	自然	自然	ADJ	JJ	_	53	amod	_	SpaceAfter=No
@@ -9195,7 +9195,7 @@
 5	格羅滕迪克	格羅滕迪克	PROPN	NNP	_	4	obj	_	SpaceAfter=No
 6	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No
 7	參與	參與	VERB	VV	_	0	root	_	SpaceAfter=No
-8	了	了	PART	AS	Aspect=Perf	7	aux:aspect	_	SpaceAfter=No
+8	了	了	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 9	代數	代數	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 10	幾何	幾何	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 11	討論	討論	VERB	VV	_	12	compound	_	SpaceAfter=No
@@ -9269,7 +9269,7 @@
 3	叛亂	叛亂	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
 4	大大	大大	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	削弱	削弱	VERB	VV	_	15	advcl	_	SpaceAfter=No
-6	了	了	PART	AS	Aspect=Perf	5	aux:aspect	_	SpaceAfter=No
+6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	帝國	帝國	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 8	在	在	ADP	IN	_	13	acl:relcl	_	SpaceAfter=No
 9	巴爾幹	巴爾幹	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
@@ -9356,7 +9356,7 @@
 7	實質	實質	NOUN	NN	_	9	advmod	_	SpaceAfter=No
 8	上	上	ADP	IN	_	7	acl	_	SpaceAfter=No
 9	獲得	獲得	VERB	VV	_	5	ccomp	_	SpaceAfter=No
-10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
+10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 11	公開	公開	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	身份	身份	NOUN	NN	_	9	obj	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
@@ -9448,7 +9448,7 @@
 9	報道	報道	VERB	VV	_	4	parataxis	_	SpaceAfter=No
 10	中國	中國	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 11	發現	發現	VERB	VV	_	9	ccomp	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
+12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 13	天才	天才	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	神童	神童	NOUN	NN	_	11	obj	_	SpaceAfter=No
 15	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
@@ -9610,11 +9610,11 @@
 8	在	在	ADP	IN	_	22	case	_	SpaceAfter=No
 9	手裡	手裡	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 10	抱	抱	VERB	VV	_	18	advcl	_	SpaceAfter=No
-11	著	著	PART	AS	Aspect=Prog	10	aux:aspect	_	SpaceAfter=No
+11	著	著	AUX	AS	Aspect=Prog	10	aux	_	SpaceAfter=No
 12	嬰兒	嬰兒	NOUN	NN	_	10	obj	_	SpaceAfter=No
 13	嘴裡	嘴裡	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 14	哼	哼	VERB	VV	_	18	advcl	_	SpaceAfter=No
-15	著	著	PART	AS	Aspect=Prog	14	aux:aspect	_	SpaceAfter=No
+15	著	著	AUX	AS	Aspect=Prog	14	aux	_	SpaceAfter=No
 16	搖籃	搖籃	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	曲	曲	PART	SFN	_	14	obj	_	SpaceAfter=No
 18	哄	哄	VERB	VV	Voice=Cau	22	acl:relcl	_	SpaceAfter=No
@@ -9776,7 +9776,7 @@
 4	因	因	ADP	IN	_	5	case	_	SpaceAfter=No
 5	此	此	PRON	PRD	_	6	obl	_	SpaceAfter=No
 6	成	成	VERB	VV	_	0	root	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	吸血	吸血	VERB	VV	_	9	compound	_	SpaceAfter=No
 9	鬼	鬼	PART	SFN	_	6	obj	_	SpaceAfter=No
 10	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No
@@ -9829,7 +9829,7 @@
 31	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No
 32	Hannigan	Hannigan	X	FW	_	33	nsubj	_	SpaceAfter=No
 33	參加	參加	VERB	VV	_	15	parataxis	_	SpaceAfter=No
-34	了	了	PART	AS	Aspect=Perf	33	aux:aspect	_	SpaceAfter=No
+34	了	了	AUX	AS	Aspect=Perf	33	aux	_	SpaceAfter=No
 35	羅森博格	羅森博格	PROPN	NNP	_	40	nmod	_	SpaceAfter=No
 36	這	這	DET	DT	_	37	det	_	SpaceAfter=No
 37	個	個	NOUN	NNB	_	38	clf	_	SpaceAfter=No
@@ -9856,7 +9856,7 @@
 14	」	」	PUNCT	''	_	13	punct	_	SpaceAfter=No
 15	裡	裡	ADP	IN	_	13	acl	_	SpaceAfter=No
 16	出現	出現	VERB	VV	_	0	root	_	SpaceAfter=No
-17	過	過	PART	AS	Aspect=Perf	16	aux:aspect	_	SpaceAfter=No
+17	過	過	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No
 18	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No
 
 # sent_id = dev-s348
@@ -10008,7 +10008,7 @@
 7	也	也	ADV	RB	_	9	mark	_	SpaceAfter=No
 8	曾	曾	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	擔任	擔任	VERB	VV	_	0	root	_	SpaceAfter=No
-10	過	過	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
+10	過	過	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 11	與	與	ADP	IN	_	12	case	_	SpaceAfter=No
 12	教育	教育	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	無關	無關	ADJ	JJ	_	15	acl:relcl	_	SpaceAfter=No
@@ -10161,7 +10161,7 @@
 20	幾乎	幾乎	ADV	RB	_	22	advmod	_	SpaceAfter=No
 21	都	都	ADV	RB	_	22	mark	_	SpaceAfter=No
 22	看	看	VERB	VV	_	16	dislocated	_	SpaceAfter=No
-23	過	過	PART	AS	Aspect=Perf	22	aux:aspect	_	SpaceAfter=No
+23	過	過	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 # sent_id = dev-s358
@@ -10175,7 +10175,7 @@
 7	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 8	他們	他	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	SpaceAfter=No
 9	有	有	VERB	VV	_	7	ccomp	_	SpaceAfter=No
-10	了	了	PART	AS	Aspect=Perf	9	aux:aspect	_	SpaceAfter=No
+10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No
 11	自己	自己	PRON	PRD	_	15	det	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 13	獨有	獨有	VERB	VV	_	15	amod	_	SpaceAfter=No
@@ -10542,7 +10542,7 @@
 4	呼延	呼延	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	瑜	瑜	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No
 6	擊殺	擊殺	VERB	VV	_	1	ccomp	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	陳	陳	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
 9	安	安	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No
 10	之	之	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No
@@ -10619,7 +10619,7 @@
 15	通常	通常	ADV	RB	_	17	advmod	_	SpaceAfter=No
 16	都	都	ADV	RB	_	17	mark	_	SpaceAfter=No
 17	保留	保留	VERB	VV	_	0	root	_	SpaceAfter=No
-18	著	著	PART	AS	Aspect=Prog	17	aux:aspect	_	SpaceAfter=No
+18	著	著	AUX	AS	Aspect=Prog	17	aux	_	SpaceAfter=No
 19	可	可	AUX	MD	_	20	aux	_	SpaceAfter=No
 20	選	選	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No
 21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
@@ -10991,7 +10991,7 @@
 # text = 品客除了口味多樣之外，還有限定販賣地區或時間的特色口味，相當受到消費者的歡迎，而該廣告亦於無線、亞視及商台播出。
 1	品客	品客	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No
 2	除	除	VERB	VV	_	9	advcl	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 4	口味	口味	NOUN	NN	_	5	nsubj	_	SpaceAfter=No
 5	多樣	多樣	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No
 6	之外	之外	ADP	IN	_	5	mark	_	SpaceAfter=No
@@ -11168,7 +11168,7 @@
 12	提出	提出	VERB	VV	_	23	advcl	_	SpaceAfter=No
 13	或	或	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 14	接受	接受	VERB	VV	_	12	conj	_	SpaceAfter=No
-15	了	了	PART	AS	Aspect=Perf	14	aux:aspect	_	SpaceAfter=No
+15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No
 16	異性	異性	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case	_	SpaceAfter=No
 18	邀請	邀請	NOUN	NN	_	12	obj	_	SpaceAfter=No
@@ -11177,7 +11177,7 @@
 21	舞伴	舞伴	NOUN	NN	_	23	obl	_	SpaceAfter=No
 22	一起	一起	NOUN	NN	_	23	advmod	_	SpaceAfter=No
 23	參與	參與	VERB	VV	_	0	root	_	SpaceAfter=No
-24	了	了	PART	AS	Aspect=Perf	23	aux:aspect	_	SpaceAfter=No
+24	了	了	AUX	AS	Aspect=Perf	23	aux	_	SpaceAfter=No
 25	晚會	晚會	NOUN	NN	_	23	obj	_	SpaceAfter=No
 26	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
 
@@ -11575,7 +11575,7 @@
 5	美國	美國	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 6	本土	本土	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
 7	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No
-8	了	了	PART	AS	Aspect=Perf	7	aux:aspect	_	SpaceAfter=No
+8	了	了	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 9	數	數	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	宗	宗	NOUN	NNB	_	13	clf	_	SpaceAfter=No
 11	殘暴	殘暴	ADJ	JJ	_	13	amod	_	SpaceAfter=No
@@ -11698,7 +11698,7 @@
 26	他	他	PRON	PRP	Person=3	28	nsubj	_	SpaceAfter=No
 27	公然	公然	ADV	RB	_	28	advmod	_	SpaceAfter=No
 28	出席	出席	VERB	VV	_	4	ccomp	_	SpaceAfter=No
-29	了	了	PART	AS	Aspect=Perf	28	aux:aspect	_	SpaceAfter=No
+29	了	了	AUX	AS	Aspect=Perf	28	aux	_	SpaceAfter=No
 30	彭德格斯特	彭德格斯特	PROPN	NNP	_	32	nmod	_	SpaceAfter=No
 31	的	的	PART	DEC	Case=Gen	30	case	_	SpaceAfter=No
 32	喪禮	喪禮	NOUN	NN	_	28	obj	_	SpaceAfter=No
@@ -11803,7 +11803,7 @@
 # sent_id = dev-s415
 # text = 隨著冬季及冰雪的來臨渡過塞尼奧河的任何企圖是不可能的，第8軍團在1944年的行動因而結束。
 1	隨	隨	VERB	VV	_	14	advcl	_	SpaceAfter=No
-2	著	著	PART	AS	Aspect=Prog	1	aux:aspect	_	SpaceAfter=No
+2	著	著	AUX	AS	Aspect=Prog	1	aux	_	SpaceAfter=No
 3	冬季	冬季	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 4	及	及	CCONJ	CC	_	5	cc	_	SpaceAfter=No
 5	冰雪	冰雪	NOUN	NN	_	3	conj	_	SpaceAfter=No
@@ -12033,7 +12033,7 @@
 2	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No
 3	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	發動	發動	VERB	VV	_	3	xcomp	_	SpaceAfter=No
-5	過	過	PART	AS	Aspect=Perf	4	aux:aspect	_	SpaceAfter=No
+5	過	過	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 6	像	像	VERB	VV	_	14	acl	_	SpaceAfter=No
 7	唐	唐	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 8	太宗	太宗	NOUN	NN	_	12	compound	_	SpaceAfter=No
@@ -12081,7 +12081,7 @@
 8	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 9	名聲	名聲	NOUN	NN	_	7	conj	_	SpaceAfter=No
 10	出現	出現	VERB	VV	_	0	root	_	SpaceAfter=No
-11	了	了	PART	AS	Aspect=Perf	10	aux:aspect	_	SpaceAfter=No
+11	了	了	AUX	AS	Aspect=Perf	10	aux	_	SpaceAfter=No
 12	通貨	通貨	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 13	膨脹	膨脹	NOUN	NN	_	10	obj	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
@@ -12490,7 +12490,7 @@
 4	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 5	他	他	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No
 6	接拍	接拍	VERB	VV	_	0	root	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	部	部	NOUN	NNB	_	18	clf	_	SpaceAfter=No
 10	名	名	NOUN	NN	_	15	nsubj	_	SpaceAfter=No
@@ -12692,7 +12692,7 @@
 17	也	也	ADV	RB	_	19	mark	_	SpaceAfter=No
 18	曾	曾	ADV	RB	_	19	advmod	_	SpaceAfter=No
 19	擔任	擔任	VERB	VV	_	0	root	_	SpaceAfter=No
-20	過	過	PART	AS	Aspect=Perf	19	aux:aspect	_	SpaceAfter=No
+20	過	過	AUX	AS	Aspect=Perf	19	aux	_	SpaceAfter=No
 21	演員	演員	NOUN	NN	_	19	obj	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
@@ -12762,7 +12762,7 @@
 4	1956	1956	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
 5	年	年	NOUN	NNB	_	6	obl	_	SpaceAfter=No
 6	成立	成立	VERB	VV	_	0	root	_	SpaceAfter=No
-7	了	了	PART	AS	Aspect=Perf	6	aux:aspect	_	SpaceAfter=No
+7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No
 8	香港	香港	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No
 10	第一	第一	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No
@@ -13153,7 +13153,7 @@
 14	便	便	ADV	RB	_	22	mark	_	SpaceAfter=No
 15	經常	經常	ADV	RB	_	22	advmod	_	SpaceAfter=No
 16	跟	跟	VERB	VV	_	22	advcl	_	SpaceAfter=No
-17	著	著	PART	AS	Aspect=Prog	16	aux:aspect	_	SpaceAfter=No
+17	著	著	AUX	AS	Aspect=Prog	16	aux	_	SpaceAfter=No
 18	皇父	皇父	NOUN	NN	_	16	obj	_	SpaceAfter=No
 19	與	與	ADP	IN	_	21	case	_	SpaceAfter=No
 20	大臣	大臣	NOUN	NN	_	21	nmod	_	SpaceAfter=No
@@ -13406,7 +13406,7 @@
 4	動機	動機	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 5	不斷	不斷	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	推動	推動	VERB	VV	_	0	root	_	SpaceAfter=No
-7	著	著	PART	AS	Aspect=Prog	6	aux:aspect	_	SpaceAfter=No
+7	著	著	AUX	AS	Aspect=Prog	6	aux	_	SpaceAfter=No
 8	一般	一般	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 9	國際	國際	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	法	法	PART	SFN	_	14	nmod	_	SpaceAfter=No
@@ -13486,7 +13486,7 @@
 8	小島	小島	NOUN	NN	_	1	obj	_	SpaceAfter=No
 9	上	上	NOUN	NN	_	8	acl	_	SpaceAfter=No
 10	居住	居住	VERB	VV	_	0	root	_	SpaceAfter=No
-11	著	著	PART	AS	Aspect=Prog	10	aux:aspect	_	SpaceAfter=No
+11	著	著	AUX	AS	Aspect=Prog	10	aux	_	SpaceAfter=No
 12	大量	大量	ADJ	JJ	_	13	amod	_	SpaceAfter=No
 13	海鳥	海鳥	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
@@ -13498,7 +13498,7 @@
 3	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No
 4	他們	他	PRON	PRP	Number=Plur|Person=3	5	nsubj	_	SpaceAfter=No
 5	研發	研發	VERB	VV	_	0	root	_	SpaceAfter=No
-6	了	了	PART	AS	Aspect=Perf	5	aux:aspect	_	SpaceAfter=No
+6	了	了	AUX	AS	Aspect=Perf	5	aux	_	SpaceAfter=No
 7	噴氣	噴氣	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	動力	動力	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No

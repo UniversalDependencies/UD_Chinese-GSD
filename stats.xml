@@ -18,12 +18,12 @@
     <tag name="ADJ">3034</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
     <tag name="ADP">5621</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
     <tag name="ADV">5748</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
-    <tag name="AUX">2686</tag><!-- 是, 為, 會, 可以, 可, 也是, 能, 要, 可能, 就是 -->
+    <tag name="AUX">3641</tag><!-- 是, 了, 為, 會, 可以, 著, 可, 也是, 能, 要 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
     <tag name="DET">1297</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
     <tag name="NOUN">34047</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
     <tag name="NUM">6660</tag><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
-    <tag name="PART">13368</tag><!-- 的, 了, 之, 人, 大, 者, 市, 區, 會, 軍 -->
+    <tag name="PART">12413</tag><!-- 的, 之, 人, 大, 者, 市, 區, 會, 軍, 省 -->
     <tag name="PRON">1776</tag><!-- 他, 其, 她, 此, 它, 自己, 這, 我, 之, 牠 -->
     <tag name="PROPN">10743</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
     <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
@@ -33,8 +33,8 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="13">
-    <feat name="Aspect" value="Perf" upos="PART">826</feat><!-- 了, 過 -->
-    <feat name="Aspect" value="Prog" upos="PART">131</feat><!-- 著 -->
+    <feat name="Aspect" value="Perf" upos="AUX,PART">826</feat><!-- 了, 過 -->
+    <feat name="Aspect" value="Prog" upos="AUX">131</feat><!-- 著 -->
     <feat name="Case" value="Gen" upos="ADP,PART">3286</feat><!-- 的, 之, 之外, 地 -->
     <feat name="Mood" value="Inter" upos="PART">8</feat><!-- 呢, 嗎, 啊 -->
     <feat name="Number" value="Plur" upos="NOUN,PART,PRON">267</feat><!-- 他們, 它們, 們, 我們, 人們, 牠們, 她們 -->
@@ -48,15 +48,14 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">425</feat><!-- 被, 為 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="44">
     <dep name="acl">1909</dep>
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">3994</dep>
     <dep name="advmod">3937</dep>
     <dep name="amod">2031</dep>
     <dep name="appos">1358</dep>
-    <dep name="aux">879</dep>
-    <dep name="aux:aspect">955</dep>
+    <dep name="aux">1834</dep>
     <dep name="aux:pass">426</dep>
     <dep name="case">7032</dep>
     <dep name="case:pref">745</dep>
