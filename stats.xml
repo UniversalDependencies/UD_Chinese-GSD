@@ -48,7 +48,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">425</feat><!-- 被, 為 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="43">
     <dep name="acl">1909</dep>
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">3994</dep>
@@ -57,9 +57,7 @@
     <dep name="appos">1358</dep>
     <dep name="aux">1834</dep>
     <dep name="aux:pass">426</dep>
-    <dep name="case">7032</dep>
-    <dep name="case:pref">745</dep>
-    <dep name="case:suff">1</dep>
+    <dep name="case">7778</dep>
     <dep name="cc">1746</dep>
     <dep name="ccomp">2161</dep>
     <dep name="clf">2247</dep>
