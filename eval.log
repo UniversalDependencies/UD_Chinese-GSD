@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Chinese-GSD:
-commit 763f4b1444badb9fcf059e4741cac081f95c9eef
-Merge: a28bd37 14c012d
+commit 5b01e111d8a21077ccb2c38c45f68995048d86db
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 13 08:55:23 2021 +0200
 Size: counted 123291 of 123291 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62909482961094.
 Size: maximum value 13.815511 is for 1000000 words or more.
