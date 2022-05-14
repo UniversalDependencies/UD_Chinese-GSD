@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Chinese-GSD:
-commit 5b01e111d8a21077ccb2c38c45f68995048d86db
+commit 740bb4312e6c737d85eb21c86cd870055d514db2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 08:55:23 2021 +0200
+Date:   Wed Nov 3 15:58:42 2021 +0100
 Size: counted 123291 of 123291 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62909482961094.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,14 +29,14 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
 [Line 42 Sent dev-s2 Node 7]: [L5 Syntax cop-lemma] '則是' is not a copula in language [zh]
 [Line 141 Sent dev-s6 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
 [Line 250 Sent dev-s11 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 258 Sent dev-s11 Node 13]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
-[Line 274 Sent dev-s12 Node 10]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 270 Sent dev-s12 Node 6]: [L5 Morpho aux-lemma] '不會' is not an auxiliary verb in language [zh]
 [Line 287 Sent dev-s13 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NUM'
 [Line 401 Sent dev-s16 Node 20]: [L5 Morpho aux-lemma] '可能' is not an auxiliary verb in language [zh]
-[Line 425 Sent dev-s17 Node 17]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 483 Sent dev-s20 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 528 Sent dev-s21 Node 9]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 537 Sent dev-s21 Node 18]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 544 Sent dev-s21 Node 25]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+[Line 573 Sent dev-s22 Node 24]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 ...suppressing further errors regarding Syntax
 [Line 680 Sent dev-s26 Node 22]: [L5 Morpho aux-lemma] '而是' is not an auxiliary verb in language [zh]
 [Line 908 Sent dev-s32 Node 53]: [L5 Morpho aux-lemma] '需' is not an auxiliary verb in language [zh]
@@ -46,8 +46,8 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
 [Line 1431 Sent dev-s50 Node 16]: [L5 Morpho aux-lemma] '而是' is not an auxiliary verb in language [zh]
 ...suppressing further errors regarding Morpho
 Morpho errors: 75
-Syntax errors: 348
-*** FAILED *** with 423 errors
+Syntax errors: 208
+*** FAILED *** with 283 errors
 Exit code: 1
 validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
 [Line 99 Sent test-s5 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
@@ -55,24 +55,24 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
 [Line 153 Sent test-s7 Node 5]: [L5 Morpho aux-lemma] '不可' is not an auxiliary verb in language [zh]
 [Line 169 Sent test-s7 Node 21]: [L5 Morpho aux-lemma] '必須' is not an auxiliary verb in language [zh]
 [Line 267 Sent test-s10 Node 30]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 329 Sent test-s12 Node 17]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 343 Sent test-s13 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 355 Sent test-s13 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 381 Sent test-s14 Node 7]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 408 Sent test-s15 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
 [Line 425 Sent test-s15 Node 24]: [L5 Morpho aux-lemma] '都是' is not an auxiliary verb in language [zh]
 [Line 425 Sent test-s15 Node 24]: [L5 Syntax cop-lemma] '都是' is not a copula in language [zh]
 [Line 435 Sent test-s15 Node 34]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
-...suppressing further errors regarding Syntax
+[Line 526 Sent test-s18 Node 50]: [L3 Syntax leaf-cc] 'cc' not expected to have children (50:又:cc --> 49:而:mark)
 [Line 518 Sent test-s18 Node 41]: [L5 Morpho aux-lemma] '可能' is not an auxiliary verb in language [zh]
 [Line 520 Sent test-s18 Node 43]: [L5 Morpho aux-lemma] '必須' is not an auxiliary verb in language [zh]
+[Line 617 Sent test-s21 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+...suppressing further errors regarding Syntax
 [Line 835 Sent test-s30 Node 32]: [L5 Morpho aux-lemma] '要' is not an auxiliary verb in language [zh]
 [Line 1046 Sent test-s41 Node 6]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
 [Line 1321 Sent test-s51 Node 23]: [L5 Morpho aux-lemma] '就是' is not an auxiliary verb in language [zh]
 ...suppressing further errors regarding Morpho
 Morpho errors: 87
-Syntax errors: 283
-*** FAILED *** with 370 errors
+Syntax errors: 158
+*** FAILED *** with 245 errors
 Exit code: 1
 validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 [Line 8 Sent train-s1 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NUM'
@@ -80,15 +80,15 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 [Line 3 Sent train-s1 Node 1]: [L5 Syntax cop-lemma] '看似' is not a copula in language [zh]
 [Line 40 Sent train-s1 Node 38]: [L5 Morpho aux-lemma] '還是' is not an auxiliary verb in language [zh]
 [Line 40 Sent train-s1 Node 38]: [L5 Syntax cop-lemma] '還是' is not a copula in language [zh]
-[Line 86 Sent train-s3 Node 9]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 95 Sent train-s3 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 143 Sent train-s6 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
 [Line 148 Sent train-s6 Node 10]: [L5 Morpho aux-lemma] '不會' is not an auxiliary verb in language [zh]
 [Line 207 Sent train-s7 Node 44]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'ADJ'
 [Line 207 Sent train-s7 Node 44]: [L5 Syntax cop-lemma] '便宜' is not a copula in language [zh]
 [Line 232 Sent train-s8 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-...suppressing further errors regarding Syntax
+[Line 271 Sent train-s9 Node 26]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
 [Line 278 Sent train-s9 Node 33]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
+...suppressing further errors regarding Syntax
 [Line 429 Sent train-s12 Node 24]: [L5 Morpho aux-lemma] '不能' is not an auxiliary verb in language [zh]
 [Line 437 Sent train-s13 Node 2]: [L5 Morpho aux-lemma] '可' is not an auxiliary verb in language [zh]
 [Line 459 Sent train-s13 Node 24]: [L5 Morpho aux-lemma] '能夠' is not an auxiliary verb in language [zh]
@@ -96,8 +96,8 @@ validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 [Line 881 Sent train-s26 Node 12]: [L5 Morpho aux-lemma] '想' is not an auxiliary verb in language [zh]
 ...suppressing further errors regarding Morpho
 Morpho errors: 718
-Syntax errors: 2610
-*** FAILED *** with 3328 errors
+Syntax errors: 1490
+*** FAILED *** with 2208 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.15) = 0.0115384615384615
