@@ -54,7 +54,7 @@
     <dep name="advcl">3994</dep>
     <dep name="advmod">3937</dep>
     <dep name="amod">2031</dep>
-    <dep name="appos">1358</dep>
+    <dep name="appos">1357</dep>
     <dep name="aux">1834</dep>
     <dep name="aux:pass">426</dep>
     <dep name="case">7778</dep>
@@ -87,8 +87,8 @@
     <dep name="obl:patient">196</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">2322</dep>
-    <dep name="punct">17091</dep>
-    <dep name="reparandum">4</dep>
+    <dep name="punct">17095</dep>
+    <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
     <dep name="xcomp">1770</dep>
