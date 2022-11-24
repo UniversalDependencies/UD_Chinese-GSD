@@ -77,7 +77,7 @@
     <dep name="mark">4553</dep>
     <dep name="mark:adv">104</dep>
     <dep name="mark:rel">2428</dep>
-    <dep name="nmod">16192</dep>
+    <dep name="nmod">16222</dep>
     <dep name="nmod:tmod">1615</dep>
     <dep name="nsubj">9425</dep>
     <dep name="nsubj:pass">275</dep>
@@ -87,7 +87,7 @@
     <dep name="obl:patient">196</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">2322</dep>
-    <dep name="punct">17095</dep>
+    <dep name="punct">17065</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>

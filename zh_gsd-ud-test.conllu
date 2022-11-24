@@ -772,7 +772,7 @@
 11	密度	密度	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
 12	19.1	19.1	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	人	人	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No
-14	/	/	SYM	/	_	13	punct	_	SpaceAfter=No
+14	/	/	SYM	/	_	13	nmod	_	SpaceAfter=No
 15	平方公里	平方公里	NOUN	NNB	_	13	acl	_	SpaceAfter=No
 16	（	（	PUNCT	(	_	18	punct	_	SpaceAfter=No
 17	2009	2009	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
@@ -1850,7 +1850,7 @@
 29	密度	密度	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 30	139	139	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No
 31	人	人	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No
-32	/	/	SYM	/	_	31	punct	_	SpaceAfter=No
+32	/	/	SYM	/	_	31	nmod	_	SpaceAfter=No
 33	平方公里	平方公里	NOUN	NNB	_	31	acl	_	SpaceAfter=No
 34	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No
 
@@ -2869,7 +2869,7 @@
 21	發射	發射	VERB	VV	_	22	compound	_	SpaceAfter=No
 22	器	器	PART	SFN	_	16	obj	_	SpaceAfter=No
 23	裡	裡	NOUN	NN	_	22	acl	_	SpaceAfter=No
-24	）	）	PUNCT	)	_	16	punct	_	SpaceAfter=No
+24	）	）	PUNCT	)	_	27	punct	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 26	可以	可以	AUX	MD	_	27	aux	_	SpaceAfter=No
 27	擊沉	擊沉	VERB	VV	_	16	parataxis	_	SpaceAfter=No
@@ -10579,7 +10579,7 @@
 53	流量	流量	NOUN	NN	_	55	nsubj	_	SpaceAfter=No
 54	1.2萬	1.2萬	NUM	CD	NumType=Card	55	nummod	_	SpaceAfter=No
 55	立方米	立方米	NOUN	NNB	_	3	parataxis	_	SpaceAfter=No
-56	/	/	SYM	/	_	55	punct	_	SpaceAfter=No
+56	/	/	SYM	/	_	55	nmod	_	SpaceAfter=No
 57	秒	秒	NOUN	NNB	_	55	acl	_	SpaceAfter=No
 58	，	，	PUNCT	,	_	59	punct	_	SpaceAfter=No
 59	號稱	號稱	VERB	VV	_	3	parataxis	_	SpaceAfter=No
