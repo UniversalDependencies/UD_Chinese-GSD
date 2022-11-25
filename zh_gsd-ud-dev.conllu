@@ -138,7 +138,7 @@
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
-5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+5	被	被	AUX	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 6	撤下	撤下	VERB	VV	_	0	root	_	SpaceAfter=No
 7	櫃檯	櫃檯	NOUN	NN	_	6	obj	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
@@ -247,7 +247,7 @@
 2	年	年	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 4	勃蘭登堡	勃蘭登堡	PROPN	NNP	_	12	nsubj:pass	_	SpaceAfter=No
-5	被	被	VERB	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+5	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 6	神聖	神聖	ADJ	JJ	_	8	amod	_	SpaceAfter=No
 7	羅馬	羅馬	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 8	帝國	帝國	NOUN	NN	_	9	nmod	_	SpaceAfter=No
@@ -1149,7 +1149,7 @@
 19	電影	電影	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	學院	學院	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 21	首批	首批	NUM	CD	NumType=Ord	23	advmod	_	SpaceAfter=No
-22	被	被	VERB	BB	Voice=Pass	23	aux:pass	_	SpaceAfter=No
+22	被	被	AUX	BB	Voice=Pass	23	aux:pass	_	SpaceAfter=No
 23	授予	授予	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No
 24	學士	學士	NOUN	NN	_	25	nmod	_	SpaceAfter=No
 25	學位	學位	NOUN	NN	_	23	obj	_	SpaceAfter=No
@@ -1677,7 +1677,7 @@
 9	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 10	地段	地段	NOUN	NN	_	16	nsubj:pass	_	SpaceAfter=No
 11	亦	亦	ADV	RB	_	16	mark	_	SpaceAfter=No
-12	被	被	VERB	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No
+12	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No
 13	投機	投機	VERB	VV	_	14	compound	_	SpaceAfter=No
 14	者	者	PART	SFN	_	16	nsubj	_	SpaceAfter=No
 15	所	所	ADV	RB	_	16	mark	_	SpaceAfter=No
@@ -2352,7 +2352,7 @@
 3	秘密	秘密	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	帳戶	帳戶	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No
 5	最後	最後	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No
-6	被	被	VERB	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+6	被	被	AUX	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 7	半澤	半澤	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No
 8	查獲	查獲	VERB	VV	_	0	root	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
@@ -2471,7 +2471,7 @@
 11	軍團	軍團	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 13	戰線	戰線	NOUN	NN	_	15	nsubj:pass	_	SpaceAfter=No
-14	被	被	VERB	BB	Voice=Pass	15	aux:pass	_	SpaceAfter=No
+14	被	被	AUX	BB	Voice=Pass	15	aux:pass	_	SpaceAfter=No
 15	突破	突破	VERB	VV	_	7	parataxis	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No
 
@@ -2791,7 +2791,7 @@
 70	都是	都是	VERB	VC	_	4	parataxis	_	SpaceAfter=No
 71	從來	從來	ADV	RB	_	72	advmod	_	SpaceAfter=No
 72	沒有	沒有	VERB	VV	_	70	xcomp	_	SpaceAfter=No
-73	被	被	VERB	BB	Voice=Pass	75	aux:pass	_	SpaceAfter=No
+73	被	被	AUX	BB	Voice=Pass	75	aux:pass	_	SpaceAfter=No
 74	旅客	旅客	NOUN	NN	_	75	nsubj	_	SpaceAfter=No
 75	使用	使用	VERB	VV	_	72	ccomp	_	SpaceAfter=No
 76	過	過	AUX	AS	Aspect=Perf	75	aux	_	SpaceAfter=No
@@ -3362,7 +3362,7 @@
 8	中葉	中葉	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No
 9	後	後	ADP	IN	_	8	acl	_	SpaceAfter=No
 10	逐漸	逐漸	ADV	RB	_	17	advmod	_	SpaceAfter=No
-11	被	被	VERB	BB	Voice=Pass	17	aux:pass	_	SpaceAfter=No
+11	被	被	AUX	BB	Voice=Pass	17	aux:pass	_	SpaceAfter=No
 12	新興	新興	ADJ	JJ	_	15	acl:relcl	_	SpaceAfter=No
 13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	崑山	崑山	PROPN	NNP	_	15	compound	_	SpaceAfter=No
@@ -3859,7 +3859,7 @@
 9	大	大	PART	PFA	_	10	case	_	SpaceAfter=No
 10	革命	革命	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	期間	期間	NOUN	NN	_	13	obl	_	SpaceAfter=No
-12	被	被	VERB	BB	Voice=Pass	13	aux:pass	_	SpaceAfter=No
+12	被	被	AUX	BB	Voice=Pass	13	aux:pass	_	SpaceAfter=No
 13	毀	毀	VERB	VV	_	17	advcl	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 15	1989	1989	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
@@ -4385,7 +4385,7 @@
 10	興趣	興趣	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 12	並且	並且	ADV	RB	_	14	mark	_	SpaceAfter=No
-13	被	被	VERB	BB	Voice=Pass	14	aux:pass	_	SpaceAfter=No
+13	被	被	AUX	BB	Voice=Pass	14	aux:pass	_	SpaceAfter=No
 14	培養	培養	VERB	VV	_	0	root	_	SpaceAfter=No
 15	為	為	VERB	VC	_	14	mark	_	SpaceAfter=No
 16	鋼琴	鋼琴	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -4417,7 +4417,7 @@
 21	他	他	PRON	PRP	Person=3	23	det	_	SpaceAfter=No
 22	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No
 23	統治	統治	NOUN	NN	_	27	nsubj:pass	_	SpaceAfter=No
-24	被	被	VERB	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No
+24	被	被	AUX	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No
 25	帖木兒	帖木兒	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 26	帝國	帝國	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
 27	中斷	中斷	VERB	VV	_	5	parataxis	_	SpaceAfter=No
@@ -4858,7 +4858,7 @@
 27	也	也	ADV	RB	_	31	mark	_	SpaceAfter=No
 28	因	因	ADP	IN	_	29	case	_	SpaceAfter=No
 29	此	此	PRON	PRD	_	31	obl	_	SpaceAfter=No
-30	被	被	VERB	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
+30	被	被	AUX	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
 31	稱	稱	VERB	VV	_	11	parataxis	_	SpaceAfter=No
 32	為	為	VERB	VC	_	31	mark	_	SpaceAfter=No
 33	「	「	PUNCT	``	_	35	punct	_	SpaceAfter=No
@@ -5737,7 +5737,7 @@
 14	幾何	幾何	NOUN	NN	_	11	obj	_	SpaceAfter=No
 15	那樣	那樣	PRON	PRD	_	14	appos	_	SpaceAfter=No
 16	容易	容易	ADV	RB	_	18	advmod	_	SpaceAfter=No
-17	被	被	VERB	BB	Voice=Pass	18	aux:pass	_	SpaceAfter=No
+17	被	被	AUX	BB	Voice=Pass	18	aux:pass	_	SpaceAfter=No
 18	接受	接受	VERB	VV	_	10	xcomp	_	SpaceAfter=No
 19	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
 
@@ -5768,7 +5768,7 @@
 8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No
 9	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No
 10	反例	反例	NOUN	NN	_	12	nsubj:pass	_	SpaceAfter=No
-11	被	被	VERB	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	製造	製造	VERB	VV	_	15	csubj	_	SpaceAfter=No
 13	出來	出來	VERB	VV	_	12	mark	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
@@ -5883,7 +5883,7 @@
 7	年	年	NOUN	NNB	_	27	obl	_	SpaceAfter=No
 8	因	因	ADP	IN	_	19	case	_	SpaceAfter=No
 9	聯軍	聯軍	NOUN	NN	_	19	nsubj:pass	_	SpaceAfter=No
-10	被	被	VERB	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No
+10	被	被	AUX	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 11	拿破崙	拿破崙	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 12	所	所	ADV	RB	_	13	mark	_	SpaceAfter=No
 13	率領	率領	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
@@ -6034,7 +6034,7 @@
 26	其中	其中	NOUN	NN	_	24	obj	_	SpaceAfter=No
 27	的	的	PART	DEC	_	24	mark:rel	_	SpaceAfter=No
 28	角色	角色	NOUN	NN	_	30	nsubj:pass	_	SpaceAfter=No
-29	被	被	VERB	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
+29	被	被	AUX	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
 30	削弱	削弱	VERB	VV	_	5	parataxis	_	SpaceAfter=No
 31	了	了	PART	UH	_	30	discourse	_	SpaceAfter=No
 32	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -6459,7 +6459,7 @@
 8	為	為	VERB	VC	_	7	mark	_	SpaceAfter=No
 9	了	了	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 10	最常	最常	ADV	RB	_	12	advmod	_	SpaceAfter=No
-11	被	被	VERB	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+11	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	錄音	錄音	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
 13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No
 14	作曲	作曲	VERB	VV	_	15	compound	_	SpaceAfter=No
@@ -6810,7 +6810,7 @@
 16	正	正	ADV	RB	_	20	advmod	_	SpaceAfter=No
 17	在	在	ADV	RB	_	20	advmod	_	SpaceAfter=No
 18	迅速	迅速	ADV	RB	_	20	advmod	_	SpaceAfter=No
-19	被	被	VERB	BB	Voice=Pass	20	aux:pass	_	SpaceAfter=No
+19	被	被	AUX	BB	Voice=Pass	20	aux:pass	_	SpaceAfter=No
 20	改進	改進	VERB	VV	_	0	root	_	SpaceAfter=No
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
@@ -6886,7 +6886,7 @@
 # text = 此譯名被普遍認為是最經典的譯名之一。
 1	此	此	DET	DT	_	2	det	_	SpaceAfter=No
 2	譯名	譯名	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No
-3	被	被	VERB	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No
+3	被	被	AUX	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 4	普遍	普遍	ADV	RB	_	5	advmod	_	SpaceAfter=No
 5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No
 6	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
@@ -6913,7 +6913,7 @@
 11	相對	相對	ADJ	JJ	_	12	amod	_	SpaceAfter=No
 12	哲學	哲學	NOUN	NN	_	31	nsubj:pass	_	SpaceAfter=No
 13	現今	現今	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
-14	被	被	VERB	BB	Voice=Pass	15	aux:pass	_	SpaceAfter=No
+14	被	被	AUX	BB	Voice=Pass	15	aux:pass	_	SpaceAfter=No
 15	稱	稱	VERB	VV	_	31	advcl	_	SpaceAfter=No
 16	為	為	VERB	VC	_	15	mark	_	SpaceAfter=No
 17	詭辯	詭辯	NOUN	NN	_	15	obj	_	SpaceAfter=No
@@ -6924,7 +6924,7 @@
 22	年	年	NOUN	NNB	_	31	obl	_	SpaceAfter=No
 23	前	前	ADP	IN	_	22	acl	_	SpaceAfter=No
 24	已	已	ADV	RB	_	31	advmod	_	SpaceAfter=No
-25	被	被	VERB	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
+25	被	被	AUX	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
 26	蘇格拉底	蘇格拉底	PROPN	NNP	_	31	nsubj	_	SpaceAfter=No
 27	和	和	CCONJ	CC	_	30	cc	_	SpaceAfter=No
 28	他	他	PRON	PRP	Person=3	30	det	_	SpaceAfter=No
@@ -7118,7 +7118,7 @@
 3	在	在	VERB	VV	_	21	acl	_	SpaceAfter=No
 4	台灣	台灣	PROPN	NNP	_	3	obj	_	SpaceAfter=No
 5	常	常	ADV	RB	_	7	advmod	_	SpaceAfter=No
-6	被	被	VERB	BB	Voice=Pass	7	aux:pass	_	SpaceAfter=No
+6	被	被	AUX	BB	Voice=Pass	7	aux:pass	_	SpaceAfter=No
 7	利用	利用	VERB	VV	_	21	acl	_	SpaceAfter=No
 8	於	於	ADP	IN	_	15	case	_	SpaceAfter=No
 9	爆料	爆料	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
@@ -8034,7 +8034,7 @@
 2	齣	齣	NOUN	NNB	_	4	nmod	_	SpaceAfter=No
 3	音樂	音樂	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	劇	劇	PART	SFN	_	9	nsubj:pass	_	SpaceAfter=No
-5	被	被	VERB	BB	Voice=Pass	9	aux:pass	_	SpaceAfter=No
+5	被	被	AUX	BB	Voice=Pass	9	aux:pass	_	SpaceAfter=No
 6	當年	當年	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 7	時代	時代	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	雜誌	雜誌	NOUN	NN	_	9	obj	_	SpaceAfter=No
@@ -9404,7 +9404,7 @@
 16	因	因	ADP	IN	_	17	case	_	SpaceAfter=No
 17	偷竊	偷竊	VERB	VV	_	21	xcomp	_	SpaceAfter=No
 18	而	而	ADV	RB	_	21	mark	_	SpaceAfter=No
-19	被	被	VERB	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No
+19	被	被	AUX	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No
 20	學校	學校	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
 21	開除	開除	VERB	VV	_	10	parataxis	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No
@@ -9686,7 +9686,7 @@
 9	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 10	她	她	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No
 11	曾	曾	ADV	RB	_	13	advmod	_	SpaceAfter=No
-12	被	被	VERB	BB	Voice=Pass	13	aux:pass	_	SpaceAfter=No
+12	被	被	AUX	BB	Voice=Pass	13	aux:pass	_	SpaceAfter=No
 13	安排	安排	VERB	VV	_	22	advcl	_	SpaceAfter=No
 14	到	到	VERB	VV	_	17	advcl	_	SpaceAfter=No
 15	西北	西北	NOUN	NN	_	16	nmod	_	SpaceAfter=No
@@ -9721,7 +9721,7 @@
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 5	吳	吳	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No
 6	金貴	金貴	PROPN	NNP	_	5	flat:name	_	SpaceAfter=No
-7	被	被	VERB	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+7	被	被	AUX	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	調入	調入	VERB	VV	_	14	advcl	_	SpaceAfter=No
 9	中國	中國	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
 10	國家	國家	NOUN	NN	_	12	nmod	_	SpaceAfter=No
@@ -9940,7 +9940,7 @@
 26	原因	原因	NOUN	NN	_	23	appos	_	SpaceAfter=No
 27	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No
 28	協會	協會	NOUN	NN	_	30	nsubj:pass	_	SpaceAfter=No
-29	被	被	VERB	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
+29	被	被	AUX	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
 30	迫	迫	VERB	VV	_	65	advcl	_	SpaceAfter=No
 31	先後	先後	ADV	RB	_	32	advmod	_	SpaceAfter=No
 32	結束	結束	VERB	VV	_	30	xcomp	_	SpaceAfter=No
@@ -10098,7 +10098,7 @@
 4	後	後	ADP	IN	_	3	mark	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 6	他	他	PRON	PRP	Person=3	27	nsubj	_	SpaceAfter=No
-7	被	被	VERB	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+7	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 8	蜀	蜀	PROPN	NNP	_	9	compound	_	SpaceAfter=No
 9	軍	軍	PART	SFN	_	10	nmod	_	SpaceAfter=No
 10	政府	政府	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -10261,7 +10261,7 @@
 5	19	19	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
 6	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No
 7	他	他	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No
-8	被	被	VERB	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+8	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 9	首都	首都	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 10	高等	高等	ADJ	JJ	_	11	amod	_	SpaceAfter=No
 11	法院	法院	NOUN	NN	_	12	nsubj	_	SpaceAfter=No
@@ -10279,7 +10279,7 @@
 23	月	月	NOUN	NNB	_	27	nmod:tmod	_	SpaceAfter=No
 24	上訴	上訴	VERB	VV	_	27	csubj	_	SpaceAfter=No
 25	仍	仍	ADV	RB	_	27	advmod	_	SpaceAfter=No
-26	被	被	VERB	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No
+26	被	被	AUX	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No
 27	維持	維持	VERB	VV	_	33	advcl	_	SpaceAfter=No
 28	原判	原判	NOUN	NN	_	27	obj	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
@@ -11338,7 +11338,7 @@
 15	價格	價格	NOUN	NN	_	16	nsubj	_	SpaceAfter=No
 16	較高	較高	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No
 17	但	但	ADV	RB	_	19	mark	_	SpaceAfter=No
-18	被	被	VERB	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No
+18	被	被	AUX	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No
 19	視	視	VERB	VV	_	25	advcl	_	SpaceAfter=No
 20	為	為	VERB	VC	_	19	mark	_	SpaceAfter=No
 21	品質	品質	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
@@ -11439,7 +11439,7 @@
 26	於	於	ADP	IN	_	27	case	_	SpaceAfter=No
 27	季後	季後	NOUN	NN	_	30	obl	_	SpaceAfter=No
 28	約滿	約滿	VERB	VV	_	30	advcl	_	SpaceAfter=No
-29	被	被	VERB	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
+29	被	被	AUX	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No
 30	放棄	放棄	VERB	VV	_	5	parataxis	_	SpaceAfter=No
 31	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No
 
@@ -11600,7 +11600,7 @@
 30	華爾頓	華爾頓	PROPN	NNP	_	31	compound	_	SpaceAfter=No
 31	縣	縣	PART	SFN	_	32	nmod	_	SpaceAfter=No
 32	附近	附近	NOUN	NN	_	26	obj	_	SpaceAfter=No
-33	被	被	VERB	BB	Voice=Pass	34	aux:pass	_	SpaceAfter=No
+33	被	被	AUX	BB	Voice=Pass	34	aux:pass	_	SpaceAfter=No
 34	殺害	殺害	VERB	VV	_	16	ccomp	_	SpaceAfter=No
 35	；	；	PUNCT	:	_	16	punct	_	SpaceAfter=No
 36	另外	另外	ADV	RB	_	38	advmod	_	SpaceAfter=No
@@ -11639,7 +11639,7 @@
 7	健康	健康	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	每況愈下	每況愈下	VERB	VV	_	11	ccomp	_	SpaceAfter=No
 9	時	時	ADP	IN	_	8	mark	_	SpaceAfter=No
-10	被	被	VERB	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No
+10	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No
 11	任命	任命	VERB	VV	_	2	xcomp	_	SpaceAfter=No
 12	為	為	VERB	VC	_	11	mark	_	SpaceAfter=No
 13	副	副	PART	PFA	_	14	case	_	SpaceAfter=No
@@ -12534,7 +12534,7 @@
 1	漢密爾頓	漢密爾頓	PROPN	NNP	_	5	nsubj:pass	_	SpaceAfter=No
 2	在	在	ADP	IN	_	3	case	_	SpaceAfter=No
 3	當時	當時	NOUN	NN	_	5	obl	_	SpaceAfter=No
-4	被	被	VERB	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No
+4	被	被	AUX	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No
 5	視	視	VERB	VV	_	0	root	_	SpaceAfter=No
 6	為	為	VERB	VC	_	5	mark	_	SpaceAfter=No
 7	棒球	棒球	NOUN	NN	_	8	compound	_	SpaceAfter=No
@@ -12588,7 +12588,7 @@
 # sent_id = dev-s446
 # text = 大眾被邀請參觀實驗室的設施，目睹實驗室有關科學技術的演示。
 1	大眾	大眾	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
-2	被	被	VERB	BB	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	被	被	AUX	BB	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	邀請	邀請	VERB	VV	_	10	advcl	_	SpaceAfter=No
 4	參觀	參觀	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	實驗	實驗	VERB	VV	_	6	compound	_	SpaceAfter=No
@@ -12616,7 +12616,7 @@
 6	年代	年代	NOUN	NNB	_	7	clf	_	SpaceAfter=No
 7	中期	中期	NOUN	NN	_	10	obl	_	SpaceAfter=No
 8	經常	經常	ADV	RB	_	10	advmod	_	SpaceAfter=No
-9	被	被	VERB	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+9	被	被	AUX	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 10	稱	稱	VERB	VV	_	0	root	_	SpaceAfter=No
 11	為	為	VERB	VC	_	10	mark	_	SpaceAfter=No
 12	噴射	噴射	NOUN	NN	_	14	nmod	_	SpaceAfter=No
@@ -12877,7 +12877,7 @@
 42	傷	傷	NOUN	NN	_	40	obj	_	SpaceAfter=No
 43	，	，	PUNCT	,	_	51	punct	_	SpaceAfter=No
 44	當時	當時	NOUN	NN	_	47	nmod:tmod	_	SpaceAfter=No
-45	被	被	VERB	BB	Voice=Pass	47	aux:pass	_	SpaceAfter=No
+45	被	被	AUX	BB	Voice=Pass	47	aux:pass	_	SpaceAfter=No
 46	槍手	槍手	NOUN	NN	_	47	nsubj	_	SpaceAfter=No
 47	擊中	擊中	VERB	VV	_	51	csubj	_	SpaceAfter=No
 48	的	的	PART	DEC	_	47	mark:rel	_	SpaceAfter=No
@@ -13752,7 +13752,7 @@
 22	日	日	PROPN	NNP	_	23	obl	_	SpaceAfter=No
 23	作戰	作戰	VERB	VV	_	0	root	_	SpaceAfter=No
 24	和	和	CCONJ	CC	_	31	cc	_	SpaceAfter=No
-25	被	被	VERB	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
+25	被	被	AUX	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No
 26	共產	共產	VERB	VV	_	27	compound	_	SpaceAfter=No
 27	黨	黨	PART	SFN	_	30	nmod	_	SpaceAfter=No
 28	彭	彭	PROPN	NNP	_	30	compound	_	SpaceAfter=No
