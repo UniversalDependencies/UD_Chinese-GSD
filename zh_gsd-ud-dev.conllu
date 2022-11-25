@@ -5346,7 +5346,7 @@
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	《	《	PUNCT	(	_	19	punct	_	SpaceAfter=No
 18	朝花	朝花	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
-19	夕拾	夕拾	VERB	VV	_	22	det	_	SpaceAfter=No
+19	夕拾	夕拾	DET	VV	_	22	det	_	SpaceAfter=No
 20	》	》	PUNCT	)	_	19	punct	_	SpaceAfter=No
 21	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No
 22	全部	全部	NOUN	NN	_	15	obj	_	SpaceAfter=No
@@ -11710,7 +11710,7 @@
 2	槍機	槍機	NOUN	NN	_	3	nsubj	_	SpaceAfter=No
 3	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
 4	以	以	VERB	VV	Voice=Cau	20	advcl	_	SpaceAfter=No
-5	AK-47	AK-47	X	FW	_	11	det	_	SpaceAfter=No
+5	AK-47	AK-47	DET	FW	_	11	det	_	SpaceAfter=No
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No
 7	雙	雙	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
 8	大形	大形	NOUN	NN	_	11	nmod	_	SpaceAfter=No

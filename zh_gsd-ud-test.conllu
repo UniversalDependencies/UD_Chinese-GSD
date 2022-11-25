@@ -11358,7 +11358,7 @@
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 7	由於	由於	ADP	IN	_	8	case	_	SpaceAfter=No
 8	得到	得到	VERB	VV	_	15	xcomp	_	SpaceAfter=No
-9	JAXA	JAXA	X	FW	_	11	det	_	SpaceAfter=No
+9	JAXA	JAXA	DET	FW	_	11	det	_	SpaceAfter=No
 10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
 11	協助	協助	NOUN	NN	_	8	obj	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
