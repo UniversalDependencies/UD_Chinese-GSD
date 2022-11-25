@@ -6768,7 +6768,7 @@
 19	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 20	並且	並且	ADV	RB	_	21	mark	_	SpaceAfter=No
 21	設有	設有	VERB	VV	_	0	root	_	SpaceAfter=No
-22	少量	少量	ADJ	JJ	_	24	nummod	_	SpaceAfter=No
+22	少量	少量	ADJ	JJ	_	24	amod	_	SpaceAfter=No
 23	預留	預留	NOUN	NN	_	24	nmod	_	SpaceAfter=No
 24	空間	空間	NOUN	NN	_	25	nsubj	_	SpaceAfter=No
 25	作	作	VERB	VV	_	21	ccomp	_	SpaceAfter=No
