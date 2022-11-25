@@ -10,6 +10,7 @@ Google.
   * Fixed: PUNCT nodes must be attached via punct relations.
   * Fixed: Only some UPOS categories are compatible with mark.
   * Fixed: Only some UPOS categories are compatible with det.
+  * Fixed: ADJ cannot be copula.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
   * Removed the relation case:dec (for 的 between two nouns; the other treebanks use just `case` here.

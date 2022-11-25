@@ -53,7 +53,7 @@
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">3994</dep>
     <dep name="advmod">3937</dep>
-    <dep name="amod">2031</dep>
+    <dep name="amod">2038</dep>
     <dep name="appos">1357</dep>
     <dep name="aux">1834</dep>
     <dep name="aux:pass">426</dep>
@@ -64,7 +64,7 @@
     <dep name="compound">5563</dep>
     <dep name="compound:ext">25</dep>
     <dep name="conj">3225</dep>
-    <dep name="cop">1784</dep>
+    <dep name="cop">1777</dep>
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1509</dep>

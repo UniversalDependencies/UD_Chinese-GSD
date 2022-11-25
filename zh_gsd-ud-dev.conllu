@@ -10169,7 +10169,7 @@
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No
 2	情況	情況	NOUN	NN	_	7	advmod	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
-4	輕	輕	ADJ	JJ	_	5	cop	_	SpaceAfter=No
+4	輕	輕	ADJ	JJ	_	5	amod	_	SpaceAfter=No
 5	一些	一些	ADJ	JJ	_	6	advcl	_	SpaceAfter=No
 6	說	說	VERB	VV	_	7	csubj	_	SpaceAfter=No
 7	是	是	VERB	VC	_	0	root	_	SpaceAfter=No
@@ -10182,7 +10182,7 @@
 14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	風格	風格	NOUN	NN	_	9	obj	_	SpaceAfter=No
 16	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
-17	重	重	ADJ	JJ	_	18	cop	_	SpaceAfter=No
+17	重	重	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 18	一些	一些	ADJ	JJ	_	19	advcl	_	SpaceAfter=No
 19	說	說	VERB	VV	_	20	csubj	_	SpaceAfter=No
 20	是	是	VERB	VC	_	7	parataxis	_	SpaceAfter=No
