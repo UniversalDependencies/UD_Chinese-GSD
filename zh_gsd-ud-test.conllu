@@ -521,11 +521,11 @@
 44	謹慎	謹慎	ADJ	JJ	_	53	advmod	_	SpaceAfter=No
 45	地	地	PART	DEV	_	44	mark:adv	_	SpaceAfter=No
 46	、	、	PUNCT	EC	_	47	punct	_	SpaceAfter=No
-47	逐步	逐步	ADV	RB	_	44	advmod	_	SpaceAfter=No
+47	逐步	逐步	ADV	RB	_	44	conj	_	SpaceAfter=No
 48	地	地	PART	DEV	_	47	mark:adv	_	SpaceAfter=No
-49	而	而	ADV	RB	_	50	mark	_	SpaceAfter=No
-50	又	又	CCONJ	CC	_	44	cc	_	SpaceAfter=No
-51	積極	積極	ADJ	JJ	_	44	advmod	_	SpaceAfter=No
+49	而	而	ADV	RB	_	51	mark	_	SpaceAfter=No
+50	又	又	CCONJ	CC	_	51	cc	_	SpaceAfter=No
+51	積極	積極	ADJ	JJ	_	44	conj	_	SpaceAfter=No
 52	地	地	PART	DEV	_	51	mark:adv	_	SpaceAfter=No
 53	引導	引導	VERB	VV	Voice=Cau	40	xcomp	_	SpaceAfter=No
 54	它們	它	PRON	PRP	Number=Plur|Person=3	64	nsubj	_	SpaceAfter=No
