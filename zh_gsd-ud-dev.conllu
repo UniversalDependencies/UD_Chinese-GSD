@@ -1569,7 +1569,7 @@
 # text = 五歲後，雌性約2.5米長，300公斤，成長速度減慢很多，但雄性可能到五到八歲性發育完全之後才停止成長，到那時長到3.33 m左右，而且胸，頸和上身寬大，重量達到600-1100公斤。
 1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
 2	歲	歲	NOUN	NNB	_	3	nmod	_	SpaceAfter=No
-3	後	後	ADP	IN	_	9	advmod	_	SpaceAfter=No
+3	後	後	ADV	IN	_	9	advmod	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	雌性	雌性	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 6	約	約	ADV	RB	_	8	advmod	_	SpaceAfter=No
@@ -2463,7 +2463,7 @@
 3	14	14	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	日	日	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
-6	Radzymin	Radzymin	X	FW	_	7	advmod	_	SpaceAfter=No
+6	Radzymin	Radzymin	ADV	FW	_	7	advmod	_	SpaceAfter=No
 7	失守	失守	VERB	VV	_	0	root	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No
 9	波蘭	波蘭	PROPN	NNP	_	11	nmod	_	SpaceAfter=No

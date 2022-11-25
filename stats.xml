@@ -16,8 +16,8 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">3034</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
-    <tag name="ADP">5622</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
-    <tag name="ADV">5748</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
+    <tag name="ADP">5620</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
+    <tag name="ADV">5752</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
     <tag name="AUX">4046</tag><!-- 是, 了, 為, 被, 會, 可以, 著, 可, 也是, 能 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
     <tag name="DET">1331</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
     <tag name="SYM">37</tag><!-- /, $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com -->
     <tag name="VERB">18065</tag><!-- 有, 在, 於, 為, 是, 由, 成, 到, 位, 開始 -->
-    <tag name="X">965</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
+    <tag name="X">963</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="13">
