@@ -96,7 +96,7 @@
 4	台	台	PART	SFN	_	10	nsubj:pass	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No
 6	現	現	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No
-7	為	為	VERB	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
+7	為	為	AUX	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No
 8	天文	天文	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	社	社	PART	SFN	_	10	nsubj	_	SpaceAfter=No
 10	使用	使用	VERB	VV	_	2	ccomp	_	SpaceAfter=No
@@ -5907,7 +5907,7 @@
 1	迦陵	迦陵	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
 2	舍利	舍利	NOUN	NN	_	3	compound	_	SpaceAfter=No
 3	塔	塔	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
-4	為	為	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
+4	為	為	AUX	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
 5	松柏	松柏	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 6	環繞	環繞	VERB	VV	_	0	root	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
