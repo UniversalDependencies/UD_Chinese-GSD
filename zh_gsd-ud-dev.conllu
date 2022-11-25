@@ -7309,7 +7309,7 @@
 17	游擊	游擊	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	戰	戰	PART	SFN	_	16	obj	_	SpaceAfter=No
 19	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No
-20	前	前	DET	DT	_	25	case	_	SpaceAfter=No
+20	前	前	ADP	DT	_	25	case	_	SpaceAfter=No
 21	台灣	台灣	PROPN	NNP	_	25	nmod	_	SpaceAfter=No
 22	民主	民主	NOUN	NN	_	23	compound	_	SpaceAfter=No
 23	國	國	PART	SFN	_	25	nmod	_	SpaceAfter=No
@@ -12873,7 +12873,7 @@
 38	擊中	擊中	VERB	VV	_	36	ccomp	_	SpaceAfter=No
 39	頭部	頭部	NOUN	NN	_	40	nsubj	_	SpaceAfter=No
 40	受	受	VERB	VV	_	36	parataxis	_	SpaceAfter=No
-41	重	重	ADJ	JJ	_	42	case	_	SpaceAfter=No
+41	重	重	ADP	JJ	_	42	case	_	SpaceAfter=No
 42	傷	傷	NOUN	NN	_	40	obj	_	SpaceAfter=No
 43	，	，	PUNCT	,	_	51	punct	_	SpaceAfter=No
 44	當時	當時	NOUN	NN	_	47	nmod:tmod	_	SpaceAfter=No
@@ -13539,7 +13539,7 @@
 # sent_id = dev-s482
 # text = 雖然大部分的總統由民主方法選出，也有部分國家元首是發動政變或起義奪權而產生（如古巴前國務委員會主席菲德爾·卡斯特羅）。
 1	雖然	雖然	ADP	IN	_	6	case	_	SpaceAfter=No
-2	大	大	ADJ	JJ	_	3	case	_	SpaceAfter=No
+2	大	大	ADP	JJ	_	3	case	_	SpaceAfter=No
 3	部分	部分	NOUN	NN	_	5	nmod	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
 5	總統	總統	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -14045,7 +14045,7 @@
 41	為	為	AUX	VC	_	45	cop	_	SpaceAfter=No
 42	臺灣	臺灣	PROPN	NNP	_	45	nmod	_	SpaceAfter=No
 43	五	五	NUM	CD	NumType=Card	45	nummod	_	SpaceAfter=No
-44	大	大	ADJ	JJ	_	45	case	_	SpaceAfter=No
+44	大	大	ADP	JJ	_	45	case	_	SpaceAfter=No
 45	學府	學府	NOUN	NN	_	0	root	_	SpaceAfter=No
 
 # sent_id = dev-s498

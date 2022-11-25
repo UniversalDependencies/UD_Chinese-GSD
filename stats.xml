@@ -15,17 +15,17 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">3034</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
-    <tag name="ADP">5620</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
+    <tag name="ADJ">3030</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 最大, 唯一, 一樣, 大量 -->
+    <tag name="ADP">5629</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
     <tag name="ADV">5752</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
     <tag name="AUX">4046</tag><!-- 是, 了, 為, 被, 會, 可以, 著, 可, 也是, 能 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
-    <tag name="DET">1331</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
+    <tag name="DET">1329</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
     <tag name="NOUN">34046</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
     <tag name="NUM">6660</tag><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
     <tag name="PART">12413</tag><!-- 的, 之, 人, 大, 者, 市, 區, 會, 軍, 省 -->
     <tag name="PRON">1776</tag><!-- 他, 其, 她, 此, 它, 自己, 這, 我, 之, 牠 -->
-    <tag name="PROPN">10743</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
+    <tag name="PROPN">10740</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
     <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
     <tag name="SYM">37</tag><!-- /, $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com -->
     <tag name="VERB">18065</tag><!-- 有, 在, 於, 為, 是, 由, 成, 到, 位, 開始 -->
@@ -38,7 +38,7 @@
     <feat name="Case" value="Gen" upos="ADP,PART">3286</feat><!-- 的, 之, 之外, 地 -->
     <feat name="Number" value="Plur" upos="NOUN,PART,PRON">267</feat><!-- 他們, 它們, 們, 我們, 人們, 牠們, 她們 -->
     <feat name="NumType" value="Card" upos="NUM">6258</feat><!-- 一, 兩, 三, 1, 3, 12, 5, 2, 8, 10 -->
-    <feat name="NumType" value="Ord" upos="NUM">401</feat><!-- 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位 -->
+    <feat name="NumType" value="Ord" upos="ADJ,NUM">403</feat><!-- 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位 -->
     <feat name="PartType" value="Int" upos="PART">8</feat><!-- 呢, 嗎, 啊 -->
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
@@ -53,7 +53,7 @@
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">4012</dep>
     <dep name="advmod">3185</dep>
-    <dep name="amod">2038</dep>
+    <dep name="amod">2045</dep>
     <dep name="appos">1357</dep>
     <dep name="aux">1834</dep>
     <dep name="aux:pass">425</dep>
@@ -77,11 +77,11 @@
     <dep name="mark">4550</dep>
     <dep name="mark:adv">104</dep>
     <dep name="mark:rel">2427</dep>
-    <dep name="nmod">16223</dep>
+    <dep name="nmod">16231</dep>
     <dep name="nmod:tmod">1615</dep>
     <dep name="nsubj">9425</dep>
     <dep name="nsubj:pass">275</dep>
-    <dep name="nummod">6258</dep>
+    <dep name="nummod">6243</dep>
     <dep name="obj">7747</dep>
     <dep name="obl">3314</dep>
     <dep name="obl:patient">196</dep>
