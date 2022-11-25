@@ -11343,8 +11343,8 @@
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 5	類	類	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 6	由於	由於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
-7	非	非	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-8	線性	線性	NOUN	NN	_	9	amod	_	SpaceAfter=No|Translit=xiànxìng|LTranslit=xiànxìng
+7	非	非	VERB	VC	_	9	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+8	線性	線性	NOUN	NN	_	7	xcomp	_	SpaceAfter=No|Translit=xiànxìng|LTranslit=xiànxìng
 9	作用	作用	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=zuòyòng|LTranslit=zuòyòng
 10	引起	引起	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=yǐnqǐ|LTranslit=yǐnqǐ
 11	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
