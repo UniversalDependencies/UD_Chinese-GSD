@@ -659,7 +659,7 @@
 1	由於	由於	ADP	IN	_	10	case	_	SpaceAfter=No
 2	包浩斯	包浩斯	PROPN	NNP	_	10	nmod	_	SpaceAfter=No
 3	學校	學校	NOUN	NN	_	10	nmod	_	SpaceAfter=No
-4	對於	對於	ADP	IN	_	10	det	_	SpaceAfter=No
+4	對於	對於	ADP	IN	_	10	case	_	SpaceAfter=No
 5	現代	現代	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 6	建築	建築	NOUN	NN	_	7	compound	_	SpaceAfter=No
 7	學	學	PART	SFN	_	4	nmod	_	SpaceAfter=No
@@ -1186,7 +1186,7 @@
 56	為	為	ADP	IN	_	63	case	_	SpaceAfter=No
 57	中國	中國	PROPN	NNP	_	58	nmod	_	SpaceAfter=No
 58	電影	電影	NOUN	NN	_	63	nmod	_	SpaceAfter=No
-59	在	在	ADP	IN	_	63	det	_	SpaceAfter=No
+59	在	在	ADP	IN	_	63	case	_	SpaceAfter=No
 60	全	全	DET	DT	_	61	det	_	SpaceAfter=No
 61	世界	世界	NOUN	NN	_	59	nmod	_	SpaceAfter=No
 62	的	的	PART	DEC	Case=Gen	59	case	_	SpaceAfter=No
@@ -1453,7 +1453,7 @@
 10	直到	直到	ADP	IN	_	11	case	_	SpaceAfter=No
 11	現代	現代	NOUN	NN	_	19	obl	_	SpaceAfter=No
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
-13	與	與	ADP	IN	_	17	det	_	SpaceAfter=No
+13	與	與	ADP	IN	_	17	case	_	SpaceAfter=No
 14	其他	其他	DET	DT	_	15	det	_	SpaceAfter=No
 15	地區	地區	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
@@ -1911,7 +1911,7 @@
 23	空間	空間	NOUN	NN	_	17	obj	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No
 25	集團	集團	NOUN	NN	_	29	nmod	_	SpaceAfter=No
-26	與	與	ADP	IN	_	29	det	_	SpaceAfter=No
+26	與	與	ADP	IN	_	29	case	_	SpaceAfter=No
 27	澳博	澳博	PROPN	NNP	_	26	nmod	_	SpaceAfter=No
 28	的	的	PART	DEC	Case=Gen	26	case	_	SpaceAfter=No
 29	合作	合作	NOUN	NN	_	33	nsubj	_	SpaceAfter=No
@@ -2091,7 +2091,7 @@
 
 # sent_id = dev-s68
 # text = 關於十八銅人的具體描述非常分歧。
-1	關於	關於	ADP	IN	_	6	det	_	SpaceAfter=No
+1	關於	關於	ADP	IN	_	6	case	_	SpaceAfter=No
 2	十八	十八	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
 3	銅人	銅人	NOUN	NN	_	1	nmod	_	SpaceAfter=No
 4	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
@@ -3817,7 +3817,7 @@
 12	會議	會議	NOUN	NN	_	9	conj	_	SpaceAfter=No
 13	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No
 14	同時	同時	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No
-15	由	由	ADP	IN	_	21	det	_	SpaceAfter=No
+15	由	由	ADP	IN	_	21	case	_	SpaceAfter=No
 16	數	數	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
 17	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No
 18	不同	不同	ADJ	JJ	_	19	amod	_	SpaceAfter=No
@@ -5694,7 +5694,7 @@
 5	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 6	耐旱	耐旱	NOUN	NN	_	4	conj	_	SpaceAfter=No
 7	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-8	對	對	ADP	IN	_	14	det	_	SpaceAfter=No
+8	對	對	ADP	IN	_	14	case	_	SpaceAfter=No
 9	高	高	PART	PFA	_	10	case	_	SpaceAfter=No
 10	海拔	海拔	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	地區	地區	NOUN	NN	_	8	nmod	_	SpaceAfter=No
@@ -5907,7 +5907,7 @@
 # text = 所以，有關成年人及老年人心理發展的研究開始如雨後春筍的發表。
 1	所以	所以	ADV	RB	_	13	mark	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
-3	有關	有關	ADP	IN	_	12	det	_	SpaceAfter=No
+3	有關	有關	ADP	IN	_	12	case	_	SpaceAfter=No
 4	成年	成年	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	人	人	PART	SFN	_	10	nmod	_	SpaceAfter=No
 6	及	及	CCONJ	CC	_	8	cc	_	SpaceAfter=No
@@ -5965,7 +5965,7 @@
 7	們	們	PART	SFN	Number=Plur	8	nsubj	_	SpaceAfter=No
 8	指出	指出	VERB	VV	_	0	root	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
-10	在	在	ADP	IN	_	18	det	_	SpaceAfter=No
+10	在	在	ADP	IN	_	18	case	_	SpaceAfter=No
 11	教育	教育	NOUN	NN	_	12	nmod	_	SpaceAfter=No
 12	範疇	範疇	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 13	內	內	ADP	IN	_	12	acl	_	SpaceAfter=No
@@ -5996,7 +5996,7 @@
 38	家長	家長	NOUN	NN	_	39	nmod	_	SpaceAfter=No
 39	手中	手中	NOUN	NN	_	40	obl	_	SpaceAfter=No
 40	奪回	奪回	VERB	VV	_	32	conj	_	SpaceAfter=No
-41	對	對	ADP	IN	_	46	det	_	SpaceAfter=No
+41	對	對	ADP	IN	_	46	case	_	SpaceAfter=No
 42	其	其	PRON	PRP	Person=3	43	nmod	_	SpaceAfter=No
 43	子女	子女	NOUN	NN	_	41	nmod	_	SpaceAfter=No
 44	的	的	PART	DEC	Case=Gen	41	case	_	SpaceAfter=No
@@ -6331,7 +6331,7 @@
 24	可以	可以	AUX	MD	_	25	aux	_	SpaceAfter=No
 25	滿足	滿足	VERB	VV	_	0	root	_	SpaceAfter=No
 26	他們	他	PRON	PRP	Number=Plur|Person=3	30	nmod	_	SpaceAfter=No
-27	對	對	ADP	IN	_	30	det	_	SpaceAfter=No
+27	對	對	ADP	IN	_	30	case	_	SpaceAfter=No
 28	少年	少年	NOUN	NN	_	27	nmod	_	SpaceAfter=No
 29	的	的	PART	DEC	Case=Gen	27	case	_	SpaceAfter=No
 30	愛慕	愛慕	NOUN	NN	_	25	obj	_	SpaceAfter=No
@@ -6826,7 +6826,7 @@
 8	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No
 10	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
-11	在	在	ADP	IN	_	15	det	_	SpaceAfter=No
+11	在	在	ADP	IN	_	15	case	_	SpaceAfter=No
 12	2011	2011	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
 13	年	年	NOUN	NNB	_	11	nmod	_	SpaceAfter=No
 14	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
@@ -8392,7 +8392,7 @@
 
 # sent_id = dev-s295
 # text = 關於精靈之眼的介紹，將在下方『魔法』條目中會詳以敘述。
-1	關於	關於	ADP	IN	_	6	det	_	SpaceAfter=No
+1	關於	關於	ADP	IN	_	6	case	_	SpaceAfter=No
 2	精靈	精靈	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	之	之	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	眼	眼	NOUN	NN	_	1	nmod	_	SpaceAfter=No
@@ -10315,7 +10315,7 @@
 # text = 西戎是對中國古代西部部族的統稱，長期威脅西周王朝的西部邊境。
 1	西戎	西戎	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No
-3	對	對	ADP	IN	_	9	det	_	SpaceAfter=No
+3	對	對	ADP	IN	_	9	case	_	SpaceAfter=No
 4	中國	中國	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 5	古代	古代	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 6	西部	西部	NOUN	NN	_	7	nmod	_	SpaceAfter=No
@@ -10940,7 +10940,7 @@
 4	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No
 5	台灣	台灣	PROPN	NNP	_	19	nmod	_	SpaceAfter=No
 6	南部	南部	NOUN	NN	_	19	nmod	_	SpaceAfter=No
-7	自	自	ADP	IN	_	19	det	_	SpaceAfter=No
+7	自	自	ADP	IN	_	19	case	_	SpaceAfter=No
 8	清	清	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
 9	治	治	VERB	VV	_	10	amod	_	SpaceAfter=No
 10	時期	時期	NOUN	NN	_	7	nmod	_	SpaceAfter=No
@@ -11140,7 +11140,7 @@
 8	分析	分析	VERB	VV	_	7	xcomp	_	SpaceAfter=No
 9	和	和	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	研究	研究	VERB	VV	_	8	conj	_	SpaceAfter=No
-11	有關	有關	ADP	IN	_	14	det	_	SpaceAfter=No
+11	有關	有關	ADP	IN	_	14	case	_	SpaceAfter=No
 12	他	他	PRON	PRP	Person=3	11	nmod	_	SpaceAfter=No
 13	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 14	事	事	NOUN	NN	_	8	obj	_	SpaceAfter=No
@@ -11822,7 +11822,7 @@
 18	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No
 19	第8	第8	NUM	CD	NumType=Ord	20	nummod	_	SpaceAfter=No
 20	軍團	軍團	NOUN	NN	_	25	nmod	_	SpaceAfter=No
-21	在	在	ADP	IN	_	25	det	_	SpaceAfter=No
+21	在	在	ADP	IN	_	25	case	_	SpaceAfter=No
 22	1944	1944	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No
 23	年	年	NOUN	NNB	_	21	nmod	_	SpaceAfter=No
 24	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No
@@ -12599,7 +12599,7 @@
 10	目睹	目睹	VERB	VV	_	0	root	_	SpaceAfter=No
 11	實驗	實驗	VERB	VV	_	12	compound	_	SpaceAfter=No
 12	室	室	PART	SFN	_	17	nmod	_	SpaceAfter=No
-13	有關	有關	ADP	IN	_	17	det	_	SpaceAfter=No
+13	有關	有關	ADP	IN	_	17	case	_	SpaceAfter=No
 14	科學	科學	NOUN	NN	_	15	nmod	_	SpaceAfter=No
 15	技術	技術	NOUN	NN	_	13	nmod	_	SpaceAfter=No
 16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
@@ -12724,7 +12724,7 @@
 10	曾	曾	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	發表	發表	VERB	VV	_	0	root	_	SpaceAfter=No
 12	一些	一些	ADJ	JJ	_	21	amod	_	SpaceAfter=No
-13	有關	有關	ADP	IN	_	21	det	_	SpaceAfter=No
+13	有關	有關	ADP	IN	_	21	case	_	SpaceAfter=No
 14	香港	香港	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
 15	通商	通商	VERB	VV	_	16	compound	_	SpaceAfter=No
 16	史	史	PART	SFN	_	13	nmod	_	SpaceAfter=No
@@ -12907,7 +12907,7 @@
 # text = 噶哈巫語對數詞的稱呼與台灣各原住民族的數詞稱呼法，或多或少有相似之處。
 1	噶哈巫	噶哈巫	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	語	語	PART	SFN	_	6	nmod	_	SpaceAfter=No
-3	對	對	ADP	IN	_	6	det	_	SpaceAfter=No
+3	對	對	ADP	IN	_	6	case	_	SpaceAfter=No
 4	數詞	數詞	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
 6	稱呼	稱呼	NOUN	NN	_	21	nsubj	_	SpaceAfter=No

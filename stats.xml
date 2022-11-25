@@ -16,12 +16,12 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">3034</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 大, 最大, 唯一, 一樣 -->
-    <tag name="ADP">5621</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
+    <tag name="ADP">5622</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
     <tag name="ADV">5748</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
     <tag name="AUX">3622</tag><!-- 是, 了, 為, 會, 可以, 著, 可, 也是, 能, 要 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
     <tag name="DET">1297</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
-    <tag name="NOUN">34047</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
+    <tag name="NOUN">34046</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
     <tag name="NUM">6660</tag><!-- 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8 -->
     <tag name="PART">12413</tag><!-- 的, 之, 人, 大, 者, 市, 區, 會, 軍, 省 -->
     <tag name="PRON">1776</tag><!-- 他, 其, 她, 此, 它, 自己, 這, 我, 之, 牠 -->
@@ -49,7 +49,7 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
-    <dep name="acl">1909</dep>
+    <dep name="acl">1908</dep>
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">3994</dep>
     <dep name="advmod">3937</dep>
@@ -57,33 +57,33 @@
     <dep name="appos">1357</dep>
     <dep name="aux">1834</dep>
     <dep name="aux:pass">426</dep>
-    <dep name="case">7778</dep>
+    <dep name="case">7939</dep>
     <dep name="cc">1746</dep>
     <dep name="ccomp">2161</dep>
     <dep name="clf">2247</dep>
-    <dep name="compound">5562</dep>
+    <dep name="compound">5563</dep>
     <dep name="compound:ext">25</dep>
     <dep name="conj">3225</dep>
     <dep name="cop">1784</dep>
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
-    <dep name="det">1669</dep>
+    <dep name="det">1509</dep>
     <dep name="discourse">188</dep>
     <dep name="discourse:sp">8</dep>
     <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
     <dep name="flat:name">1216</dep>
     <dep name="iobj">78</dep>
-    <dep name="mark">4553</dep>
+    <dep name="mark">4550</dep>
     <dep name="mark:adv">104</dep>
-    <dep name="mark:rel">2428</dep>
-    <dep name="nmod">16222</dep>
+    <dep name="mark:rel">2427</dep>
+    <dep name="nmod">16223</dep>
     <dep name="nmod:tmod">1615</dep>
     <dep name="nsubj">9425</dep>
     <dep name="nsubj:pass">275</dep>
     <dep name="nummod">6258</dep>
     <dep name="obj">7747</dep>
-    <dep name="obl">2581</dep>
+    <dep name="obl">2582</dep>
     <dep name="obl:patient">196</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">2322</dep>
@@ -91,6 +91,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1770</dep>
+    <dep name="xcomp">1771</dep>
   </deps>
 </treebank>
