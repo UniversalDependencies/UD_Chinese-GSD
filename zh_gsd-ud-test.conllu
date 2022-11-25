@@ -146,7 +146,7 @@
 
 # sent_id = test-s7
 # text = 其中參賽者年齡不可超過18歲（以當年7月1日為準），且必須就讀於中學校（Secondary School）。
-1	其中	其中	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+1	其中	其中	NOUN	NN	_	6	obl	_	SpaceAfter=No
 2	參賽	參賽	VERB	VV	_	3	compound	_	SpaceAfter=No
 3	者	者	PART	SFN	_	4	nmod	_	SpaceAfter=No
 4	年齡	年齡	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
@@ -264,7 +264,7 @@
 27	282	282	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No
 28	至	至	CCONJ	CC	_	29	cc	_	SpaceAfter=No
 29	348	348	NUM	CD	NumType=Card	27	conj	_	SpaceAfter=No
-30	期	期	NOUN	NNB	_	32	advmod	_	SpaceAfter=No
+30	期	期	NOUN	NNB	_	32	obl	_	SpaceAfter=No
 31	斷續	斷續	ADV	RB	_	32	advmod	_	SpaceAfter=No
 32	連載	連載	VERB	VV	_	0	root	_	SpaceAfter=No
 33	，	，	PUNCT	,	_	36	punct	_	SpaceAfter=No
@@ -340,7 +340,7 @@
 
 # sent_id = test-s13
 # text = 事實上，團購網站的產品原價和購買數量經常被「注水」，而產品和服務的品質則經常「縮水」。
-1	事實	事實	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+1	事實	事實	NOUN	NN	_	15	obl	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 4	團購	團購	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -1140,7 +1140,7 @@
 18	議會	議會	NOUN	NN	_	15	obj	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No
 20	他們	他	PRON	PRP	Number=Plur|Person=3	22	nsubj	_	SpaceAfter=No
-21	秘密	秘密	NOUN	NN	_	22	advmod	_	SpaceAfter=No
+21	秘密	秘密	NOUN	NN	_	22	obl	_	SpaceAfter=No
 22	組建	組建	VERB	VV	_	15	parataxis	_	SpaceAfter=No
 23	了	了	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No
 24	一	一	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No
@@ -1829,7 +1829,7 @@
 8	1579	1579	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	人	人	NOUN	NN	_	4	parataxis	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No
-11	其中	其中	NOUN	NN	_	18	advmod	_	SpaceAfter=No
+11	其中	其中	NOUN	NN	_	18	obl	_	SpaceAfter=No
 12	男性	男性	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 13	741	741	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	人	人	NOUN	NN	_	18	advcl	_	SpaceAfter=No
@@ -1864,7 +1864,7 @@
 6	認為	認為	VERB	VV	_	1	ccomp	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 8	坎珀	坎珀	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No
-9	實際	實際	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+9	實際	實際	NOUN	NN	_	15	obl	_	SpaceAfter=No
 10	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No
 11	厄客德娜	厄客德娜	PROPN	NNP	_	15	nmod	_	SpaceAfter=No
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
@@ -1974,7 +1974,7 @@
 1	由	由	VERB	VV	_	15	advcl	_	SpaceAfter=No
 2	節目	節目	NOUN	NN	_	3	nmod	_	SpaceAfter=No
 3	來賓	來賓	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
-4	各自	各自	PRON	PRD	_	6	advmod	_	SpaceAfter=No
+4	各自	各自	PRON	PRD	_	6	obl	_	SpaceAfter=No
 5	抽籤	抽籤	VERB	VV	_	6	advcl	_	SpaceAfter=No
 6	選定	選定	VERB	VV	Voice=Cau	1	ccomp	_	SpaceAfter=No
 7	主持	主持	VERB	VV	_	8	compound	_	SpaceAfter=No
@@ -2052,7 +2052,7 @@
 7	當時	當時	NOUN	NN	_	21	nmod:tmod	_	SpaceAfter=No
 8	隆美爾	隆美爾	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No
 9	是	是	AUX	VC	_	21	cop	_	SpaceAfter=No
-10	美國	美國	PROPN	NNP	_	18	advmod	_	SpaceAfter=No
+10	美國	美國	PROPN	NNP	_	18	obl	_	SpaceAfter=No
 11	僅	僅	ADV	RB	_	12	advmod	_	SpaceAfter=No
 12	次	次	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 13	於	於	VERB	VV	_	12	mark	_	SpaceAfter=No
@@ -2161,7 +2161,7 @@
 5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No
 6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	次	次	NOUN	NNB	_	8	clf	_	SpaceAfter=No
-8	採訪	採訪	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+8	採訪	採訪	NOUN	NN	_	11	obl	_	SpaceAfter=No
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No
 10	艾米	艾米	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 11	說到	說到	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -2212,7 +2212,7 @@
 25	該湖	該湖	NOUN	NN	_	26	nsubj	_	SpaceAfter=No
 26	長	長	ADJ	JJ	_	17	parataxis	_	SpaceAfter=No
 27	84	84	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
-28	公里	公里	NOUN	NNB	_	26	advmod	_	SpaceAfter=No
+28	公里	公里	NOUN	NNB	_	26	obl	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No
 30	面積	面積	NOUN	NN	_	32	nsubj	_	SpaceAfter=No
 31	1,040	1,040	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No
@@ -2578,7 +2578,7 @@
 # text = 河姆渡遺址和仰韶遺址出土被認為最原始的陶塤均只有吹孔，而無音孔。
 1	河姆	河姆	PROPN	NNP	_	2	compound	_	SpaceAfter=No
 2	渡	渡	PART	SFN	_	3	nmod	_	SpaceAfter=No
-3	遺址	遺址	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+3	遺址	遺址	NOUN	NN	_	7	obl	_	SpaceAfter=No
 4	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No
 5	仰韶	仰韶	PROPN	NNP	_	6	nmod	_	SpaceAfter=No
 6	遺址	遺址	NOUN	NN	_	3	conj	_	SpaceAfter=No
@@ -2773,7 +2773,7 @@
 24	等待	等待	VERB	VV	_	31	advcl	_	SpaceAfter=No
 25	英	英	PROPN	NNP	_	26	compound	_	SpaceAfter=No
 26	軍	軍	PART	SFN	_	28	nsubj	_	SpaceAfter=No
-27	正面	正面	NOUN	NN	_	28	advmod	_	SpaceAfter=No
+27	正面	正面	NOUN	NN	_	28	obl	_	SpaceAfter=No
 28	進攻	進攻	VERB	VV	_	24	ccomp	_	SpaceAfter=No
 29	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 30	以	以	ADV	RB	_	31	mark	_	SpaceAfter=No
@@ -3704,7 +3704,7 @@
 22	所以	所以	ADV	RB	_	29	mark	_	SpaceAfter=No
 23	每次	每次	DET	DT	_	25	det	_	SpaceAfter=No
 24	鑄造	鑄造	NOUN	NN	_	25	nmod	_	SpaceAfter=No
-25	過程	過程	NOUN	NN	_	29	advmod	_	SpaceAfter=No
+25	過程	過程	NOUN	NN	_	29	obl	_	SpaceAfter=No
 26	中	中	ADP	IN	_	25	acl	_	SpaceAfter=No
 27	可能	可能	AUX	MD	_	29	aux	_	SpaceAfter=No
 28	會	會	AUX	MD	_	29	aux	_	SpaceAfter=No
@@ -3887,7 +3887,7 @@
 15	大	大	PART	PFA	_	16	case	_	SpaceAfter=No
 16	部類	部類	NOUN	NN	_	13	obj	_	SpaceAfter=No
 17	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
-18	其中	其中	NOUN	NN	_	22	advmod	_	SpaceAfter=No
+18	其中	其中	NOUN	NN	_	22	obl	_	SpaceAfter=No
 19	哲學	哲學	NOUN	NN	_	20	compound	_	SpaceAfter=No
 20	部	部	PART	SFN	_	22	nsubj	_	SpaceAfter=No
 21	為	為	AUX	VC	_	22	cop	_	SpaceAfter=No
@@ -4223,7 +4223,7 @@
 23	開關	開關	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 24	會	會	AUX	MD	_	31	aux	_	SpaceAfter=No
 25	啟動	啟動	VERB	VV	_	31	advcl	_	SpaceAfter=No
-26	內部	內部	NOUN	NN	_	27	advmod	_	SpaceAfter=No
+26	內部	內部	NOUN	NN	_	27	obl	_	SpaceAfter=No
 27	設計	設計	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No
 28	的	的	PART	DEC	_	27	mark:rel	_	SpaceAfter=No
 29	NC	NC	X	FW	_	30	nmod	_	SpaceAfter=No
@@ -4874,7 +4874,7 @@
 23	5900	5900	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
 24	平方米	平方米	NOUN	NNB	_	3	parataxis	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No
-26	其中	其中	NOUN	NN	_	31	advmod	_	SpaceAfter=No
+26	其中	其中	NOUN	NN	_	31	obl	_	SpaceAfter=No
 27	佔地	佔地	NOUN	NN	_	28	nmod	_	SpaceAfter=No
 28	面積	面積	NOUN	NN	_	31	nsubj	_	SpaceAfter=No
 29	為	為	AUX	VC	_	31	cop	_	SpaceAfter=No
@@ -4971,7 +4971,7 @@
 # text = 往返的航程中，第一砲塔因美軍的轟炸而中了4枚炸彈，但對後續戰鬥沒有影響。
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No
 2	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No
-3	航程	航程	NOUN	NN	_	14	advmod	_	SpaceAfter=No
+3	航程	航程	NOUN	NN	_	14	obl	_	SpaceAfter=No
 4	中	中	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 6	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No
@@ -5015,7 +5015,7 @@
 15	是	是	AUX	VC	_	32	cop	_	SpaceAfter=No
 16	凡爾納	凡爾納	PROPN	NNP	_	18	nmod	_	SpaceAfter=No
 17	的	的	PART	DEC	Case=Gen	16	case	_	SpaceAfter=No
-18	小說	小說	NOUN	NN	_	25	advmod	_	SpaceAfter=No
+18	小說	小說	NOUN	NN	_	25	obl	_	SpaceAfter=No
 19	環遊	環遊	VERB	VV	_	18	appos	_	SpaceAfter=No
 20	世界	世界	NOUN	NN	_	19	obj	_	SpaceAfter=No
 21	八十	八十	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No
@@ -5144,7 +5144,7 @@
 21	樓	樓	NOUN	NN	_	22	nsubj	_	SpaceAfter=No
 22	高	高	ADJ	JJ	_	19	parataxis	_	SpaceAfter=No
 23	151.2	151.2	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
-24	米	米	NOUN	NNB	_	22	advmod	_	SpaceAfter=No
+24	米	米	NOUN	NNB	_	22	obl	_	SpaceAfter=No
 25	，	，	PUNCT	,	_	29	punct	_	SpaceAfter=No
 26	共	共	ADV	RB	_	29	advmod	_	SpaceAfter=No
 27	地上	地上	NOUN	NN	_	29	nsubj	_	SpaceAfter=No
@@ -5177,7 +5177,7 @@
 17	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 18	主要	主要	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 19	演員	演員	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
-20	全部	全部	DET	DT	_	21	advmod	_	SpaceAfter=No
+20	全部	全部	DET	DT	_	21	obl	_	SpaceAfter=No
 21	更換	更換	VERB	VV	_	9	parataxis	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -6166,7 +6166,7 @@
 7	民國	民國	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	經歷	經歷	VERB	VV	_	3	parataxis	_	SpaceAfter=No
 9	了	了	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
-10	民主	民主	NOUN	NN	_	13	advmod	_	SpaceAfter=No
+10	民主	民主	NOUN	NN	_	13	obl	_	SpaceAfter=No
 11	與	與	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 12	獨裁	獨裁	NOUN	NN	_	10	conj	_	SpaceAfter=No
 13	統治	統治	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No
@@ -6269,7 +6269,7 @@
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 4	教友	教友	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	54,942	54,942	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No
-6	人	人	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+6	人	人	NOUN	NN	_	4	obl	_	SpaceAfter=No
 7	、	、	PUNCT	EC	_	10	punct	_	SpaceAfter=No
 8	廿一	廿一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
 9	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No
@@ -6344,7 +6344,7 @@
 14	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 15	教友	教友	NOUN	NN	_	14	nsubj	_	SpaceAfter=No
 16	10,000	10,000	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No
-17	人	人	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+17	人	人	NOUN	NN	_	15	obl	_	SpaceAfter=No
 18	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No
 19	四	四	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
 20	個	個	NOUN	NNB	_	21	clf	_	SpaceAfter=No
@@ -6664,7 +6664,7 @@
 
 # sent_id = test-s254
 # text = 每集統計兩隊總分，總分最高者即是該集的優勝隊，優勝隊隊員各獲得同一個獎品。
-1	每集	每集	DET	DT	_	2	advmod	_	SpaceAfter=No
+1	每集	每集	DET	DT	_	2	obl	_	SpaceAfter=No
 2	統計	統計	VERB	VV	_	0	root	_	SpaceAfter=No
 3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	隊	隊	NOUN	NN	_	5	nmod	_	SpaceAfter=No
@@ -6683,7 +6683,7 @@
 17	優勝	優勝	VERB	VV	_	18	compound	_	SpaceAfter=No
 18	隊	隊	PART	SFN	_	19	nmod	_	SpaceAfter=No
 19	隊員	隊員	NOUN	NN	_	21	nsubj	_	SpaceAfter=No
-20	各	各	DET	DT	_	21	advmod	_	SpaceAfter=No
+20	各	各	DET	DT	_	21	obl	_	SpaceAfter=No
 21	獲得	獲得	VERB	VV	_	2	parataxis	_	SpaceAfter=No
 22	同	同	DET	DT	_	24	det	_	SpaceAfter=No
 23	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No
@@ -6711,7 +6711,7 @@
 1	河	河	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
 2	長	長	ADJ	JJ	_	0	root	_	SpaceAfter=No
 3	176	176	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-4	千米	千米	NOUN	NNB	_	2	advmod	_	SpaceAfter=No
+4	千米	千米	NOUN	NNB	_	2	obl	_	SpaceAfter=No
 5	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No
 6	流域	流域	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 7	面積	面積	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
@@ -6989,14 +6989,14 @@
 49	市	市	PART	SFN	_	47	obj	_	SpaceAfter=No
 50	天津	天津	PROPN	NNP	_	51	nmod	_	SpaceAfter=No
 51	企業	企業	NOUN	NN	_	46	obj	_	SpaceAfter=No
-52	等	等	NOUN	NN	_	30	advmod	_	SpaceAfter=No
+52	等	等	NOUN	NN	_	30	obl	_	SpaceAfter=No
 53	相關	相關	ADJ	JJ	_	54	amod	_	SpaceAfter=No
 54	事項	事項	NOUN	NN	_	30	appos	_	SpaceAfter=No
 55	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No
 
 # sent_id = test-s263
 # text = 歷史上，1982年11月至1994年10月期間，天津市人民政府建立了駐福州和駐廈門辦事處。
-1	歷史	歷史	NOUN	NN	_	19	advmod	_	SpaceAfter=No
+1	歷史	歷史	NOUN	NN	_	19	obl	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	，	，	PUNCT	.	_	1	punct	_	SpaceAfter=No
 4	1982	1982	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No
@@ -7461,7 +7461,7 @@
 43	澳洲	澳洲	PROPN	NNP	_	45	nmod	_	SpaceAfter=No
 44	外交	外交	NOUN	NN	_	45	nmod	_	SpaceAfter=No
 45	部長	部長	NOUN	NN	_	41	conj	_	SpaceAfter=No
-46	每年	每年	DET	DT	_	52	advmod	_	SpaceAfter=No
+46	每年	每年	DET	DT	_	52	obl	_	SpaceAfter=No
 47	會	會	AUX	MD	_	52	aux	_	SpaceAfter=No
 48	就	就	ADP	IN	_	51	case	_	SpaceAfter=No
 49	條約	條約	NOUN	NN	_	51	nmod	_	SpaceAfter=No
@@ -7481,7 +7481,7 @@
 63	11	11	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No
 64	月	月	NOUN	NNB	_	67	obl	_	SpaceAfter=No
 65	澳洲	澳洲	PROPN	NNP	_	66	nmod	_	SpaceAfter=No
-66	阿德萊德	阿德萊德	PROPN	NNP	_	67	advmod	_	SpaceAfter=No
+66	阿德萊德	阿德萊德	PROPN	NNP	_	67	obl	_	SpaceAfter=No
 67	召開	召開	VERB	VV	_	11	parataxis	_	SpaceAfter=No
 68	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -7572,7 +7572,7 @@
 18	與	與	ADP	IN	_	20	case	_	SpaceAfter=No
 19	沙坪	沙坪	PROPN	NNP	_	20	compound	_	SpaceAfter=No
 20	鄉	鄉	PART	SFN	_	24	obl	_	SpaceAfter=No
-21	一起	一起	NOUN	NN	_	24	advmod	_	SpaceAfter=No
+21	一起	一起	NOUN	NN	_	24	obl	_	SpaceAfter=No
 22	成	成	VERB	VV	_	24	advcl	_	SpaceAfter=No
 23	建制	建制	NOUN	NN	_	22	obj	_	SpaceAfter=No
 24	合併	合併	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -7662,7 +7662,7 @@
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No
 12	人們	人	NOUN	NN	Number=Plur	23	nsubj	_	SpaceAfter=No
 13	把	把	ADP	BB	_	17	case	_	SpaceAfter=No
-14	平民	平民	NOUN	NN	_	15	advmod	_	SpaceAfter=No
+14	平民	平民	NOUN	NN	_	15	obl	_	SpaceAfter=No
 15	出身	出身	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No
 17	政要	政要	NOUN	NN	_	23	obl:patient	_	SpaceAfter=No
@@ -7742,7 +7742,7 @@
 6	門口	門口	NOUN	NN	_	10	nsubj	_	SpaceAfter=No
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 8	又	又	ADV	RB	_	10	mark	_	SpaceAfter=No
-9	各	各	DET	DT	_	10	advmod	_	SpaceAfter=No
+9	各	各	DET	DT	_	10	obl	_	SpaceAfter=No
 10	有	有	VERB	VV	_	0	root	_	SpaceAfter=No
 11	幾	幾	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	名	名	NOUN	NNB	_	14	nmod	_	SpaceAfter=No
@@ -8490,7 +8490,7 @@
 48	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No
 49	但	但	ADV	RB	_	53	mark	_	SpaceAfter=No
 50	一定	一定	ADJ	JJ	_	51	amod	_	SpaceAfter=No
-51	程度	程度	NOUN	NN	_	53	advmod	_	SpaceAfter=No
+51	程度	程度	NOUN	NN	_	53	obl	_	SpaceAfter=No
 52	上	上	ADP	IN	_	51	acl	_	SpaceAfter=No
 53	維持	維持	VERB	VV	_	22	ccomp	_	SpaceAfter=No
 54	住	住	VERB	VV	_	53	mark	_	SpaceAfter=No
@@ -8819,7 +8819,7 @@
 
 # sent_id = test-s331
 # text = 史書上唯一有記載的他的事蹟是鎮壓一起農奴的動亂。
-1	史書	史書	NOUN	NN	_	4	advmod	_	SpaceAfter=No
+1	史書	史書	NOUN	NN	_	4	obl	_	SpaceAfter=No
 2	上	上	ADP	IN	_	1	acl	_	SpaceAfter=No
 3	唯一	唯一	ADV	RB	_	4	advmod	_	SpaceAfter=No
 4	有	有	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
@@ -8902,7 +8902,7 @@
 
 # sent_id = test-s334
 # text = 每段介紹兩個無厘頭的新聞後，方芳芳與巴戈就感謝觀眾收看〈新聞砲〉，新聞攝影棚燈光調暗，巴戈仍然與方芳芳進行一小段對話；跟第一段短劇一樣，有時候巴戈又會被方芳芳打一巴掌。
-1	每段	每段	DET	DT	_	2	advmod	_	SpaceAfter=No
+1	每段	每段	DET	DT	_	2	obl	_	SpaceAfter=No
 2	介紹	介紹	VERB	VV	_	16	advcl	_	SpaceAfter=No
 3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
 4	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No
@@ -9031,7 +9031,7 @@
 12	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 13	多數	多數	ADJ	JJ	_	15	amod	_	SpaceAfter=No
 14	大	大	PART	PFA	_	15	case	_	SpaceAfter=No
-15	宅第	宅第	NOUN	NN	_	20	advmod	_	SpaceAfter=No
+15	宅第	宅第	NOUN	NN	_	20	obl	_	SpaceAfter=No
 16	中	中	NOUN	NN	_	15	acl	_	SpaceAfter=No
 17	女僕	女僕	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 18	都	都	ADV	RB	_	20	mark	_	SpaceAfter=No
@@ -9090,7 +9090,7 @@
 14	原本	原本	ADJ	JJ	_	22	amod	_	SpaceAfter=No
 15	男性	男性	NOUN	NN	_	17	nmod	_	SpaceAfter=No
 16	視角	視角	NOUN	NN	_	17	nmod	_	SpaceAfter=No
-17	觀點	觀點	NOUN	NN	_	18	advmod	_	SpaceAfter=No
+17	觀點	觀點	NOUN	NN	_	18	obl	_	SpaceAfter=No
 18	出發	出發	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
 19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No
 20	日本	日本	PROPN	NNP	_	22	nmod	_	SpaceAfter=No
@@ -9153,7 +9153,7 @@
 18	自己	自己	PRON	PRD	_	20	det	_	SpaceAfter=No
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No
 20	壽命	壽命	NOUN	NN	_	15	conj	_	SpaceAfter=No
-21	一起	一起	NOUN	NN	_	22	advmod	_	SpaceAfter=No
+21	一起	一起	NOUN	NN	_	22	obl	_	SpaceAfter=No
 22	結束	結束	VERB	VV	_	13	xcomp	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No
 
@@ -9270,7 +9270,7 @@
 16	球場	球場	NOUN	NN	_	14	obj	_	SpaceAfter=No
 17	遠射	遠射	VERB	VV	_	20	advcl	_	SpaceAfter=No
 18	破門	破門	VERB	VV	_	20	advcl	_	SpaceAfter=No
-19	3-2	3-2	NUM	CD	NumType=Card	20	advmod	_	SpaceAfter=No
+19	3-2	3-2	NUM	CD	NumType=Card	20	obl	_	SpaceAfter=No
 20	擊敗	擊敗	VERB	VV	_	13	xcomp	_	SpaceAfter=No
 21	英格蘭	英格蘭	PROPN	NNP	_	20	obj	_	SpaceAfter=No
 22	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No
@@ -9666,7 +9666,7 @@
 30	Moss	Moss	X	FW	_	29	flat:foreign	_	SpaceAfter=No
 31	又	又	ADV	RB	_	33	mark	_	SpaceAfter=No
 32	一	一	NUM	CD	NumType=Card	33	nummod	_	SpaceAfter=No
-33	次	次	NOUN	NNB	_	34	advmod	_	SpaceAfter=No
+33	次	次	NOUN	NNB	_	34	obl	_	SpaceAfter=No
 34	獲得	獲得	VERB	VV	_	38	csubj	_	SpaceAfter=No
 35	第一	第一	NUM	CD	NumType=Ord	36	nummod	_	SpaceAfter=No
 36	名	名	NOUN	NNB	_	34	obj	_	SpaceAfter=No
@@ -10017,7 +10017,7 @@
 17	長官	長官	NOUN	NN	_	18	obl	_	SpaceAfter=No
 18	盡忠	盡忠	VERB	VV	_	10	ccomp	_	SpaceAfter=No
 19	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
-20	實際	實際	NOUN	NN	_	23	advmod	_	SpaceAfter=No
+20	實際	實際	NOUN	NN	_	23	obl	_	SpaceAfter=No
 21	上	上	ADP	IN	_	20	acl	_	SpaceAfter=No
 22	俾斯麥	俾斯麥	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
 23	拿	拿	VERB	VV	_	0	root	_	SpaceAfter=No
@@ -10170,7 +10170,7 @@
 3	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No
 4	全	全	DET	DT	_	5	det	_	SpaceAfter=No
 5	美	美	PROPN	NNP	_	11	nmod	_	SpaceAfter=No
-6	第二	第二	NUM	CD	NumType=Ord	8	advmod	_	SpaceAfter=No
+6	第二	第二	NUM	CD	NumType=Ord	8	obl	_	SpaceAfter=No
 7	歷史	歷史	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	悠久	悠久	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
@@ -10199,7 +10199,7 @@
 17	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 18	1918	1918	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
 19	年	年	NOUN	NNB	_	21	nmod:tmod	_	SpaceAfter=No
-20	男女	男女	NOUN	NN	_	21	advmod	_	SpaceAfter=No
+20	男女	男女	NOUN	NN	_	21	obl	_	SpaceAfter=No
 21	合校	合校	VERB	VV	_	27	advcl	_	SpaceAfter=No
 22	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No
 23	直到	直到	ADP	IN	_	25	case	_	SpaceAfter=No
@@ -10583,7 +10583,7 @@
 57	秒	秒	NOUN	NNB	_	55	acl	_	SpaceAfter=No
 58	，	，	PUNCT	,	_	59	punct	_	SpaceAfter=No
 59	號稱	號稱	VERB	VV	_	3	parataxis	_	SpaceAfter=No
-60	世界	世界	NOUN	NN	_	62	advmod	_	SpaceAfter=No
+60	世界	世界	NOUN	NN	_	62	obl	_	SpaceAfter=No
 61	上	上	ADP	IN	_	60	acl	_	SpaceAfter=No
 62	最寬	最寬	ADJ	JJ	_	64	amod	_	SpaceAfter=No
 63	的	的	PART	DEC	_	62	mark:rel	_	SpaceAfter=No
@@ -11017,7 +11017,7 @@
 14	它們	它	PRON	PRP	Number=Plur|Person=3	24	nsubj	_	SpaceAfter=No
 15	跟	跟	ADP	IN	_	21	case	_	SpaceAfter=No
 16	目前	目前	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No
-17	世界	世界	NOUN	NN	_	19	advmod	_	SpaceAfter=No
+17	世界	世界	NOUN	NN	_	19	obl	_	SpaceAfter=No
 18	上	上	ADP	IN	_	17	acl	_	SpaceAfter=No
 19	已知	已知	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No
 20	的	的	PART	DEC	_	19	mark:rel	_	SpaceAfter=No
@@ -11048,7 +11048,7 @@
 
 # sent_id = test-s409
 # text = 後來，孫楚先後升任第六旅旅長及第二軍第六師師長，任內曾經到日本參觀秋操。
-1	後來	後來	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+1	後來	後來	NOUN	NN	_	6	obl	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	孫	孫	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No
 4	楚	楚	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No
@@ -11129,7 +11129,7 @@
 5	中	中	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 6	俄	俄	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
 7	北京	北京	PROPN	NNP	_	8	nmod	_	SpaceAfter=No
-8	條約	條約	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+8	條約	條約	NOUN	NN	_	10	obl	_	SpaceAfter=No
 9	中	中	ADP	IN	_	8	acl	_	SpaceAfter=No
 10	規定	規定	VERB	VV	_	0	root	_	SpaceAfter=No
 11	清	清	PROPN	NNP	_	12	nmod	_	SpaceAfter=No
@@ -11535,7 +11535,7 @@
 # text = 他幾次搬家和轉學，同時尋找他可以充分發揮他才華的地方。
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No
 2	幾	幾	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	次	次	NOUN	NNB	_	4	advmod	_	SpaceAfter=No
+3	次	次	NOUN	NNB	_	4	obl	_	SpaceAfter=No
 4	搬家	搬家	VERB	VV	_	9	advcl	_	SpaceAfter=No
 5	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No
 6	轉學	轉學	VERB	VV	_	4	conj	_	SpaceAfter=No
@@ -11667,7 +11667,7 @@
 
 # sent_id = test-s432
 # text = 此外，他還創辦了北京市伊斯蘭教經學院，並曾任中國伊斯蘭教經學院與北京市伊斯蘭教經學院院長。
-1	此外	此外	NOUN	NN	_	16	advmod	_	SpaceAfter=No
+1	此外	此外	NOUN	NN	_	16	obl	_	SpaceAfter=No
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No
 3	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No
 4	還	還	ADV	RB	_	5	mark	_	SpaceAfter=No
@@ -12094,7 +12094,7 @@
 16	中國	中國	PROPN	NNP	_	17	nmod	_	SpaceAfter=No
 17	大陸	大陸	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 18	第三	第三	NUM	CD	NumType=Ord	19	nummod	_	SpaceAfter=No
-19	家	家	NOUN	NNB	_	20	advmod	_	SpaceAfter=No
+19	家	家	NOUN	NNB	_	20	obl	_	SpaceAfter=No
 20	引進	引進	VERB	VV	_	26	acl:relcl	_	SpaceAfter=No
 21	泰國	泰國	PROPN	NNP	_	23	nmod	_	SpaceAfter=No
 22	電視	電視	NOUN	NN	_	23	compound	_	SpaceAfter=No
@@ -12267,12 +12267,12 @@
 33	密度	密度	NOUN	NN	_	38	nsubj	_	SpaceAfter=No
 34	為	為	AUX	VC	_	38	cop	_	SpaceAfter=No
 35	每	每	DET	DT	_	36	det	_	SpaceAfter=No
-36	平方公里	平方公里	NOUN	NNB	_	38	advmod	_	SpaceAfter=No
+36	平方公里	平方公里	NOUN	NNB	_	38	obl	_	SpaceAfter=No
 37	19.8	19.8	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No
 38	人	人	NOUN	NN	_	17	parataxis	_	SpaceAfter=No
 39	（	（	PUNCT	(	_	43	punct	_	SpaceAfter=No
 40	每	每	DET	DT	_	41	det	_	SpaceAfter=No
-41	平方英哩	平方英哩	NOUN	NNB	_	43	advmod	_	SpaceAfter=No
+41	平方英哩	平方英哩	NOUN	NNB	_	43	obl	_	SpaceAfter=No
 42	2,443.3	2,443.3	NUM	CD	NumType=Card	43	nummod	_	SpaceAfter=No
 43	人	人	NOUN	NN	_	38	appos	_	SpaceAfter=No
 44	）	）	PUNCT	)	_	43	punct	_	SpaceAfter=No
@@ -12293,7 +12293,7 @@
 # text = Anggun是世界上最成功的亞裔歌手，在法國、美國、巴西、比利時、義大利、新加坡、印尼、馬來西亞、芬蘭、瑞士、西班牙、俄羅斯、德國、加拿大、荷蘭、希臘、菲律賓、汶萊、日本等40多個國家也有著高知名度。
 1	Anggun	Anggun	X	FW	_	55	nsubj	_	SpaceAfter=No
 2	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No
-3	世界	世界	NOUN	NN	_	6	advmod	_	SpaceAfter=No
+3	世界	世界	NOUN	NN	_	6	obl	_	SpaceAfter=No
 4	上	上	ADP	IN	_	3	acl	_	SpaceAfter=No
 5	最	最	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	成功	成功	ADJ	JJ	_	10	amod	_	SpaceAfter=No
@@ -12414,7 +12414,7 @@
 
 # sent_id = test-s461
 # text = 此外當局亦會研究興建垂直運輸系統，提供無障礙的便利連接，以及在岩洞提供商業設施，例如餐廳及咖啡廳。
-1	此外	此外	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+1	此外	此外	NOUN	NN	_	11	obl	_	SpaceAfter=No
 2	當局	當局	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 3	亦	亦	ADV	RB	_	11	mark	_	SpaceAfter=No
 4	會	會	AUX	MD	_	11	aux	_	SpaceAfter=No
@@ -13143,7 +13143,7 @@
 # text = 另一方面，畑中等人也試圖做近衛師團的工作。
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No
-3	方面	方面	NOUN	NN	_	9	advmod	_	SpaceAfter=No
+3	方面	方面	NOUN	NN	_	9	obl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	畑中	畑中	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No
 6	等	等	NOUN	NN	_	5	acl	_	SpaceAfter=No
@@ -13275,7 +13275,7 @@
 21	屠殺	屠殺	VERB	VV	_	27	acl:relcl	_	SpaceAfter=No
 22	居民	居民	NOUN	NN	_	21	obj	_	SpaceAfter=No
 23	還是	還是	CCONJ	CC	_	25	cc	_	SpaceAfter=No
-24	集體	集體	NOUN	NN	_	25	advmod	_	SpaceAfter=No
+24	集體	集體	NOUN	NN	_	25	obl	_	SpaceAfter=No
 25	自殺	自殺	VERB	VV	_	21	conj	_	SpaceAfter=No
 26	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No
 27	責任	責任	NOUN	NN	_	29	xcomp	_	SpaceAfter=No
@@ -13497,7 +13497,7 @@
 7	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 8	或	或	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	稱	稱	VERB	VV	_	20	acl	_	SpaceAfter=No
-10	密室	密室	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+10	密室	密室	NOUN	NN	_	11	obl	_	SpaceAfter=No
 11	殺人	殺人	VERB	VV	_	9	obj	_	SpaceAfter=No
 12	）	）	PUNCT	)	_	9	punct	_	SpaceAfter=No
 13	是	是	AUX	VC	_	20	cop	_	SpaceAfter=No
