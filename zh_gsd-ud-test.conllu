@@ -5535,7 +5535,7 @@
 6	四	四	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
 7	位	位	NOUN	NNB	_	8	clf	_	SpaceAfter=No
 8	妻子	妻子	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
-9	不斷	不斷	VERB	VV	_	11	advmod	_	SpaceAfter=No
+9	不斷	不斷	VERB	VV	_	11	advcl	_	SpaceAfter=No
 10	去	去	ADV	RB	_	11	mark	_	SpaceAfter=No
 11	爭奪	爭奪	VERB	VV	_	4	parataxis	_	SpaceAfter=No
 12	丈夫	丈夫	NOUN	NN	_	16	nmod	_	SpaceAfter=No

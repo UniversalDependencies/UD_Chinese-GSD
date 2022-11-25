@@ -2737,7 +2737,7 @@
 16	倉庫	倉庫	NOUN	NN	_	6	obl	_	SpaceAfter=No
 17	內	內	NOUN	NN	_	16	acl	_	SpaceAfter=No
 18	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
-19	超過	超過	VERB	VV	_	23	advmod	_	SpaceAfter=No
+19	超過	超過	VERB	VV	_	23	advcl	_	SpaceAfter=No
 20	1000	1000	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No
 21	件	件	NOUN	NNB	_	19	obl	_	SpaceAfter=No
 22	客機	客機	NOUN	NN	_	23	nmod	_	SpaceAfter=No
@@ -3499,7 +3499,7 @@
 18	聯邦	聯邦	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 19	中央	中央	NOUN	NN	_	20	nmod	_	SpaceAfter=No
 20	人員	人員	NOUN	NN	_	27	nsubj	_	SpaceAfter=No
-21	也是	也是	VERB	VC	_	27	advmod	_	SpaceAfter=No
+21	也是	也是	VERB	VC	_	27	advcl	_	SpaceAfter=No
 22	由	由	VERB	VV	_	27	advcl	_	SpaceAfter=No
 23	地方	地方	NOUN	NN	_	24	nsubj	_	SpaceAfter=No
 24	派	派	VERB	VV	_	22	ccomp	_	SpaceAfter=No
@@ -13267,7 +13267,7 @@
 29	新	新	PART	PFA	_	30	case	_	SpaceAfter=No
 30	中國	中國	PROPN	NNP	_	32	nsubj	_	SpaceAfter=No
 31	對外	對外	ADV	RB	_	32	advmod	_	SpaceAfter=No
-32	交往	交往	VERB	VV	_	39	advmod	_	SpaceAfter=No
+32	交往	交往	VERB	VV	_	39	advcl	_	SpaceAfter=No
 33	中	中	ADP	IN	_	32	mark	_	SpaceAfter=No
 34	黨	黨	NOUN	NN	_	38	nmod	_	SpaceAfter=No
 35	和	和	CCONJ	CC	_	36	cc	_	SpaceAfter=No
