@@ -1805,9 +1805,9 @@
 49	她	她	PRON	PRP	Person=3	51	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 50	總	總	ADV	RB	_	51	advmod	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
 51	是	是	VERB	VC	_	5	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-52	顯得	顯得	AUX	VV	_	54	cop	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
-53	不	不	ADV	RB	Polarity=Neg	54	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
-54	自在	自在	ADJ	JJ	_	51	xcomp	_	SpaceAfter=No|Translit=zìzài|LTranslit=zìzài
+52	顯得	顯得	VERB	VV	_	51	xcomp	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
+53	不	不	ADV	RB	Polarity=Neg	52	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+54	自在	自在	ADJ	JJ	_	52	xcomp	_	SpaceAfter=No|Translit=zìzài|LTranslit=zìzài
 55	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s65
@@ -4790,8 +4790,8 @@
 7	關係	關係	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=guānxì|LTranslit=guānxì
 8	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	秘密	秘密	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=mìmì|LTranslit=mìmì
-10	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	相較	相較	VERB	VV	_	25	advcl	_	SpaceAfter=No|Translit=xiāngjiào|LTranslit=xiāngjiào
+10	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+11	相較	相較	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=xiāngjiào|LTranslit=xiāngjiào
 12	美朱	美朱	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=měi朱|LTranslit=měi朱
 13	在	在	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 14	第一	第一	NUM	CD	NumType=Ord	15	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
@@ -4802,10 +4802,10 @@
 19	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	這	這	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 21	種	種	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
-22	關係	關係	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=guānxì|LTranslit=guānxì
-23	顯得	顯得	AUX	VV	_	25	cop	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
-24	比較	比較	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=bǐjiào|LTranslit=bǐjiào
-25	成熟	成熟	ADJ	JJ	_	4	parataxis	_	SpaceAfter=No|Translit=chéngshú|LTranslit=chéngshú
+22	關係	關係	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=guānxì|LTranslit=guānxì
+23	顯得	顯得	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
+24	比較	比較	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=bǐjiào|LTranslit=bǐjiào
+25	成熟	成熟	ADJ	JJ	_	23	xcomp	_	SpaceAfter=No|Translit=chéngshú|LTranslit=chéngshú
 26	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s174
