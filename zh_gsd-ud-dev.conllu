@@ -8399,7 +8399,7 @@
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 3	史通	史通	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shǐtōng|LTranslit=shǐtōng
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
-5	總結	總結	VERB	VV	_	22	ccomp	_	SpaceAfter=No|Translit=zǒngjié|LTranslit=zǒngjié
+5	總結	總結	VERB	VV	_	21	ccomp	_	SpaceAfter=No|Translit=zǒngjié|LTranslit=zǒngjié
 6	唐	唐	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=táng|LTranslit=táng
 7	以前	以前	ADP	IN	_	6	acl	_	SpaceAfter=No|Translit=yǐqián|LTranslit=yǐqián
 8	史學	史學	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=shǐxué|LTranslit=shǐxué
@@ -8407,17 +8407,17 @@
 10	全部	全部	DET	DT	_	11	det	_	SpaceAfter=No|Translit=quánbù|LTranslit=quánbù
 11	問題	問題	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
 12	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-13	因而	因而	ADV	RB	_	22	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
-14	擁有	擁有	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
+13	因而	因而	ADV	RB	_	21	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
+14	擁有	擁有	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
 15	極高	極高	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=jígāo|LTranslit=jígāo
 16	史學	史學	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=shǐxué|LTranslit=shǐxué
 17	地位	地位	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=dewèi|LTranslit=dewèi
 18	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	對	對	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 20	後世	後世	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=hòushì|LTranslit=hòushì
-21	影響	影響	AUX	VV	_	22	cop	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
-22	深遠	深遠	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=shēnyuǎn|LTranslit=shēnyuǎn
-23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+21	影響	影響	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
+22	深遠	深遠	ADJ	JJ	_	21	xcomp	_	SpaceAfter=No|Translit=shēnyuǎn|LTranslit=shēnyuǎn
+23	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s286
 # text = 右龍是日本將棋的棋子之一。
