@@ -9806,26 +9806,26 @@
 # sent_id = dev-s335
 # text = 三桂治軍嚴謹，精銳騎兵一千人，分二十隊，五十人一隊，每隊設一領騎官，吳三桂在自己的靴筒上放這二十名領騎官姓名，一旦抽中誰，便呼叫某領騎官，該領騎官即統五十人騎隊，跟隨他衝鋒陷陣，可謂「無往不利」，是明末最後一支有戰力的鐵騎部隊。
 # translit = sān桂zhìjūnyánjǐn,jīngruìqíbīngyīqiānrén,fēn'èrshíduì,wǔshírényīduì,měiduìshèyīlǐngqíguān,吳sān桂zàizìjǐdexuētǒngshàngfàngzhè'èrshímínglǐngqíguānxìngmíng,yīdànchōuzhōngshuí,biànhūjiàomǒulǐngqíguān,gāilǐngqíguānjítǒngwǔshírénqíduì,gēnsuítā衝fēngxiànzhèn,kěwèi“wúwǎngbùlì”,shìmíngmòzuìhòuyīzhīyǒuzhànlìdetiěqíbùduì.
-1	三桂	三桂	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
-2	治軍	治軍	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=zhìjūn|LTranslit=zhìjūn
-3	嚴謹	嚴謹	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yánjǐn|LTranslit=yánjǐn
+1	三桂	三桂	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
+2	治軍	治軍	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhìjūn|LTranslit=zhìjūn
+3	嚴謹	嚴謹	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=yánjǐn|LTranslit=yánjǐn
 4	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	精銳	精銳	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=jīngruì|LTranslit=jīngruì
 6	騎兵	騎兵	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=qíbīng|LTranslit=qíbīng
 7	一千	一千	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yīqiān|LTranslit=yīqiān
 8	人	人	NOUN	NN	_	10	csubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	分	分	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
+10	分	分	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
 11	二十	二十	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit='èrshí|LTranslit='èrshí
 12	隊	隊	NOUN	NNB	_	10	obj	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 13	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	五十	五十	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=wǔshí|LTranslit=wǔshí
 15	人	人	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	隊	隊	NOUN	NNB	_	3	parataxis	_	SpaceAfter=No|Translit=duì|LTranslit=duì
+17	隊	隊	NOUN	NNB	_	2	parataxis	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 18	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	每隊	每隊	DET	DT	_	20	nsubj	_	SpaceAfter=No|Translit=měiduì|LTranslit=měiduì
-20	設	設	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=shè|LTranslit=shè
+20	設	設	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=shè|LTranslit=shè
 21	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 22	領騎	領騎	VERB	VV	_	23	compound	_	SpaceAfter=No|Translit=lǐngqí|LTranslit=lǐngqí
 23	官	官	PART	SFN	_	20	obj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
@@ -9850,7 +9850,7 @@
 42	誰	誰	PRON	WP	_	41	obj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
 43	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 44	便	便	ADV	RB	_	45	mark	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-45	呼叫	呼叫	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=hūjiào|LTranslit=hūjiào
+45	呼叫	呼叫	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=hūjiào|LTranslit=hūjiào
 46	某	某	DET	DT	_	48	det	_	SpaceAfter=No|Translit=mǒu|LTranslit=mǒu
 47	領騎	領騎	VERB	VV	_	48	compound	_	SpaceAfter=No|Translit=lǐngqí|LTranslit=lǐngqí
 48	官	官	PART	SFN	_	45	obj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
@@ -9872,7 +9872,7 @@
 64	可	可	AUX	MD	_	67	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
 65	謂	謂	AUX	VV	_	67	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 66	「	「	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-67	無往不利	無往不利	ADJ	JJ	_	3	parataxis	_	SpaceAfter=No|Translit=wúwǎngbùlì|LTranslit=wúwǎngbùlì
+67	無往不利	無往不利	ADJ	JJ	_	2	parataxis	_	SpaceAfter=No|Translit=wúwǎngbùlì|LTranslit=wúwǎngbùlì
 68	」	」	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 69	，	，	PUNCT	,	_	80	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 70	是	是	AUX	VC	_	80	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -9885,8 +9885,8 @@
 77	戰力	戰力	NOUN	NN	_	76	obj	_	SpaceAfter=No|Translit=zhànlì|LTranslit=zhànlì
 78	的	的	PART	DEC	_	76	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 79	鐵騎	鐵騎	NOUN	NN	_	80	nmod	_	SpaceAfter=No|Translit=tiěqí|LTranslit=tiěqí
-80	部隊	部隊	NOUN	NN	_	3	parataxis	_	SpaceAfter=No|Translit=bùduì|LTranslit=bùduì
-81	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+80	部隊	部隊	NOUN	NN	_	2	parataxis	_	SpaceAfter=No|Translit=bùduì|LTranslit=bùduì
+81	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s336
 # text = 之後吳三桂轉成為清軍先驅，率軍攻打陝西、四川等地的李自成、張獻忠餘部。
