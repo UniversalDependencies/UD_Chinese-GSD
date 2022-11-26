@@ -8919,9 +8919,9 @@
 41	次	次	NOUN	NNB	_	42	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 42	助攻	助攻	NOUN	NN	_	39	obj	_	SpaceAfter=No|Translit=zhùgōng|LTranslit=zhùgōng
 43	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-44	表現	表現	AUX	VV	_	45	cop	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
-45	出色	出色	ADJ	JJ	_	47	advcl	_	SpaceAfter=No|Translit=chūsè|LTranslit=chūsè
-46	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+44	表現	表現	VERB	VV	_	47	advcl	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
+45	出色	出色	ADJ	JJ	_	44	xcomp	_	SpaceAfter=No|Translit=chūsè|LTranslit=chūsè
+46	，	，	PUNCT	,	_	44	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 47	協助	協助	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiézhù|LTranslit=xiézhù
 48	墨西哥	墨西哥	PROPN	NNP	_	49	nsubj	_	SpaceAfter=No|Translit=mòxigē|LTranslit=mòxigē
 49	羸得	羸得	VERB	VV	_	47	ccomp	_	SpaceAfter=No|Translit=羸de|LTranslit=羸de
