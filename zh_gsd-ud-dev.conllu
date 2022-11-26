@@ -1633,11 +1633,11 @@
 10	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	300	300	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=300|LTranslit=300
 12	公斤	公斤	NOUN	NNB	_	9	conj	_	SpaceAfter=No|Translit=gōngjīn|LTranslit=gōngjīn
-13	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	成長	成長	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=chéngzhǎng|LTranslit=chéngzhǎng
-15	速度	速度	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=sùdù|LTranslit=sùdù
-16	減慢	減慢	AUX	VV	_	17	cop	_	SpaceAfter=No|Translit=jiǎnmàn|LTranslit=jiǎnmàn
-17	很多	很多	ADJ	JJ	_	9	conj	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
+15	速度	速度	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=sùdù|LTranslit=sùdù
+16	減慢	減慢	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=jiǎnmàn|LTranslit=jiǎnmàn
+17	很多	很多	ADJ	JJ	_	16	xcomp	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
 18	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	但	但	ADV	RB	_	38	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 20	雄性	雄性	NOUN	NN	_	38	nsubj	_	SpaceAfter=No|Translit=xióngxìng|LTranslit=xióngxìng
