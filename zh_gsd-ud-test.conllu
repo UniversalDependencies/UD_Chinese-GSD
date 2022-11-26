@@ -8740,9 +8740,9 @@
 4	希臘	希臘	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=xī臘|LTranslit=xī臘
 5	政府	政府	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 6	面對	面對	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=miànduì|LTranslit=miànduì
-7	負債	負債	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=fùzhài|LTranslit=fùzhài
-8	纍纍	纍纍	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=纍纍|LTranslit=纍纍
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	負債	負債	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=fùzhài|LTranslit=fùzhài
+8	纍纍	纍纍	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=纍纍|LTranslit=纍纍
+9	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	奧林匹克	奧林匹克	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 11	航空	航空	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=hángkōng|LTranslit=hángkōng
 12	公司	公司	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
