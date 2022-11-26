@@ -437,7 +437,7 @@
 21	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	菌肉	菌肉	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=jūnròu|LTranslit=jūnròu
 23	無論如何	無論如何	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=wúlùnrúhé|LTranslit=wúlùnrúhé
-24	都是	都是	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=dōushì|LTranslit=dōushì
+24	都是	是	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=dōushì|LTranslit=shì
 25	白色	白色	NOUN	NN	_	13	parataxis	_	SpaceAfter=No|Translit=báisè|LTranslit=báisè
 26	的	的	PART	UH	_	25	discourse	_	SpaceAfter=No|Translit=de|LTranslit=de
 27	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -1369,7 +1369,7 @@
 20	線	線	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 21	代表	代表	VERB	VV	_	26	csubj	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
 22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-23	就是	就是	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+23	就是	是	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 24	100	100	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
 25	米	米	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
 26	海拔	海拔	NOUN	NN	_	4	ccomp	_	SpaceAfter=No|Translit=hǎibá|LTranslit=hǎibá
@@ -1551,7 +1551,7 @@
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	任務	任務	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=rènwu|LTranslit=rènwu
 4	重心	重心	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=zhòngxīn|LTranslit=zhòngxīn
-5	就是	就是	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+5	就是	是	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 6	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 7	自由	自由	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
 8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
@@ -1675,7 +1675,7 @@
 2	世紀	世紀	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
 3	50	50	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
 4	年代	年代	NOUN	NNB	_	12	nsubj	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
-5	也是	也是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
+5	也是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 6	地貌	地貌	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=demào|LTranslit=demào
 7	學	學	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 8	出現	出現	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
@@ -3385,7 +3385,7 @@
 28	和	和	CCONJ	CC	_	29	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 29	權威	權威	NOUN	NN	_	25	conj	_	SpaceAfter=No|Translit=quánwēi|LTranslit=quánwēi
 30	則	則	ADV	RB	_	31	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
-31	都是	都是	VERB	VC	_	13	parataxis	_	SpaceAfter=No|Translit=dōushì|LTranslit=dōushì
+31	都是	是	VERB	VC	_	13	parataxis	_	SpaceAfter=No|Translit=dōushì|LTranslit=shì
 32	間接	間接	ADJ	JJ	_	41	advmod	_	SpaceAfter=No|Translit=jiānjiē|LTranslit=jiānjiē
 33	地	地	PART	DEV	_	32	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 34	或	或	CCONJ	CC	_	35	cc	_	SpaceAfter=No|Translit=huò|LTranslit=huò
@@ -4815,7 +4815,7 @@
 2	髮飾	髮飾	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=髮shì|LTranslit=髮shì
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	皇冠	皇冠	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=huángguān|LTranslit=huángguān
-5	就是	就是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+5	就是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 6	宮廷	宮廷	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=gōngtíng|LTranslit=gōngtíng
 7	蛋糕	蛋糕	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=dàngāo|LTranslit=dàngāo
 8	師	師	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shī|LTranslit=shī
@@ -5191,7 +5191,7 @@
 4	人類	人類	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=rénlèi|LTranslit=rénlèi
 5	角色	角色	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	也是	也是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
+7	也是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 8	養育	養育	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=yǎngyù|LTranslit=yǎngyù
 9	大嘴鳥	大嘴鳥	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=dàzuǐniǎo|LTranslit=dàzuǐniǎo
 10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7824,7 +7824,7 @@
 9	等	等	NOUN	NN	_	8	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 10	故事	故事	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	則是	則是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=zéshì
+12	則是	是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=shì
 13	吉川	吉川	PROPN	NNP	_	14	nmod	_	SpaceAfter=No|Translit=jíchuān|LTranslit=jíchuān
 14	原作	原作	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=yuánzuò|LTranslit=yuánzuò
 15	沒有	沒有	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
@@ -8266,7 +8266,7 @@
 35	作義	作義	PROPN	NNP	_	34	flat:name	_	SpaceAfter=No|Translit=zuòyì|LTranslit=zuòyì
 36	創建	創建	VERB	VV	_	31	ccomp	_	SpaceAfter=No|Translit=chuàngjiàn|LTranslit=chuàngjiàn
 37	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-38	也是	也是	AUX	VC	_	43	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
+38	也是	是	AUX	VC	_	43	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 39	內	內	NOUN	NN	_	43	nmod	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
 40	蒙古	蒙古	PROPN	NNP	_	43	nmod	_	SpaceAfter=No|Translit=ménggǔ|LTranslit=ménggǔ
 41	第一	第一	NUM	CD	NumType=Ord	42	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
@@ -8688,7 +8688,7 @@
 21	干擾	干擾	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=gànrǎo|LTranslit=gànrǎo
 22	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	也	也	ADV	RB	_	34	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-24	就是	就是	AUX	VC	_	34	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+24	就是	是	AUX	VC	_	34	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 25	天文	天文	NOUN	NN	_	26	compound	_	SpaceAfter=No|Translit=tiānwén|LTranslit=tiānwén
 26	學	學	PART	SFN	_	29	advmod	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 27	上	上	ADP	IN	_	26	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
@@ -8830,7 +8830,7 @@
 8	轉會	轉會	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=zhuǎnhuì|LTranslit=zhuǎnhuì
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	球隊	球隊	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=qiúduì|LTranslit=qiúduì
-11	卻是	卻是	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=quèshì|LTranslit=quèshì
+11	卻是	是	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=quèshì|LTranslit=shì
 12	英超	英超	PROPN	NNP	_	14	nmod	_	SpaceAfter=No|Translit=yīngchāo|LTranslit=yīngchāo
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	阿斯頓維拉	阿斯頓維拉	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit='āsīdùnwéilā|LTranslit='āsīdùnwéilā
@@ -10706,7 +10706,7 @@
 25	政體	政體	NOUN	NN	_	5	parataxis	_	SpaceAfter=No|Translit=zhèngtǐ|LTranslit=zhèngtǐ
 26	，	，	PUNCT	,	_	44	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 27	後者	後者	NOUN	NN	_	44	nsubj	_	SpaceAfter=No|Translit=hòuzhě|LTranslit=hòuzhě
-28	則是	則是	AUX	VC	_	37	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=zéshì
+28	則是	是	AUX	VC	_	37	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=shì
 29	君權	君權	NOUN	NN	_	37	acl:relcl	_	SpaceAfter=No|Translit=jūnquán|LTranslit=jūnquán
 30	神	神	NOUN	NN	_	31	nsubj	_	SpaceAfter=No|Translit=shén|LTranslit=shén
 31	授	授	VERB	VV	_	29	dislocated	_	SpaceAfter=No|Translit=shòu|LTranslit=shòu
@@ -11417,7 +11417,7 @@
 7	和	和	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 8	日	日	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 9	語	語	PART	SFN	_	6	conj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-10	也是	也是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
+10	也是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 11	孤立	孤立	ADJ	JJ	_	12	amod	_	SpaceAfter=No|Translit=gūlì|LTranslit=gūlì
 12	語言	語言	NOUN	NN	_	24	advcl	_	SpaceAfter=No|Translit=yǔyán|LTranslit=yǔyán
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12229,7 +12229,7 @@
 # text = 洛姬諾娃也是俄羅斯最有名的女保鏢之一。
 # translit = luò姬nuòwáyěshì'éluósīzuìyǒumíngdenǚbǎo鏢zhīyī.
 1	洛姬諾娃	洛姬諾娃	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=luò姬nuòwá|LTranslit=luò姬nuòwá
-2	也是	也是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=yěshì
+2	也是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 3	俄羅斯	俄羅斯	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='éluósī|LTranslit='éluósī
 4	最	最	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 5	有名	有名	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=yǒumíng|LTranslit=yǒumíng
@@ -12425,7 +12425,7 @@
 2	箱	箱	PART	SFN	_	3	nsubj	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
 3	載有	載有	VERB	VV	_	15	csubj	_	SpaceAfter=No|Translit=zàiyǒu|LTranslit=zàiyǒu
 4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	就是	就是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+5	就是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 6	他	他	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 7	在	在	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 8	西班牙	西班牙	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=xibānyá|LTranslit=xibānyá
@@ -13894,7 +13894,7 @@
 # text = 宵禁就是管理員下班（0:00 AM）到次日上班之前（9:00 AM）禁止發帖和回復，該規則在2010上海世博會期間實行，導致大量海外網友由於時差緣故無法正常發帖。
 # translit = xiāojìnjiùshìguǎnlǐyuánxiàbān(0:00 AM)dàocìrìshàngbānzhīqián(9:00 AM)jìnzhǐfā帖héhuífù,gāiguīzézài2010shànghǎishìbóhuìqījiānshíxíng,dǎozhìdàliànghǎiwàiwǎngyouyóuyúshíchàyuángùwúfǎzhèngchángfā帖.
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=xiāojìn|LTranslit=xiāojìn
-2	就是	就是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jiùshì|LTranslit=jiùshì
+2	就是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
 3	管理	管理	VERB	VV	_	4	compound	_	SpaceAfter=No|Translit=guǎnlǐ|LTranslit=guǎnlǐ
 4	員	員	PART	SFN	_	5	nsubj	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
 5	下班	下班	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=xiàbān|LTranslit=xiàbān

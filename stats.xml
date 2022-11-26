@@ -10,7 +10,7 @@
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20242" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 他, 個, 人 -->
+  <lemmas unique="20233" /><!-- ，, 的, 。, 在, 年, 是, 、, 為, 一, 於, 和, 了, 他, 個, 人 -->
   <forms unique="20248" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">3030</tag><!-- 不同, 一些, 重要, 主要, 一般, 最高, 最大, 唯一, 一樣, 大量 -->
     <tag name="ADP">5629</tag><!-- 在, 於, 中, 與, 後, 時, 上, 對, 因, 從 -->
     <tag name="ADV">5752</tag><!-- 也, 並, 而, 但, 不, 所, 都, 曾, 則, 就 -->
-    <tag name="AUX">3989</tag><!-- 是, 了, 為, 被, 會, 可以, 著, 可, 也是, 能 -->
+    <tag name="AUX">3989</tag><!-- 是, 了, 為, 被, 會, 可以, 著, 可, 能, 要 -->
     <tag name="CCONJ">1740</tag><!-- 和, 及, 與, 或, 以及, 至, 到, 或者, 並, 而 -->
     <tag name="DET">1329</tag><!-- 這, 該, 這些, 其他, 此, 所有, 各, 另, 任何, 每 -->
     <tag name="NOUN">34046</tag><!-- 年, 個, 月, 人, 日, 等, 種, 次, 人口, 名 -->
@@ -43,7 +43,7 @@
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
-    <feat name="Polarity" value="Neg" upos="ADV">244</feat><!-- 不, 未, 沒, 別, 無 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">280</feat><!-- 不, 不是, 未, 沒, 別, 無 -->
     <feat name="Voice" value="Cau" upos="ADP,VERB">493</feat><!-- 以, 使, 讓, 使得, 令, 導致, 要求, 派, 派遣, 任命 -->
     <feat name="Voice" value="Pass" upos="AUX">425</feat><!-- 被, 為 -->
   </feats>
