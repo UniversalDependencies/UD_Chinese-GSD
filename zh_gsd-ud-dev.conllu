@@ -14151,8 +14151,8 @@
 29	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 30	隨後	隨後	ADV	RB	_	43	advmod	_	SpaceAfter=No|Translit=suíhòu|LTranslit=suíhòu
 31	因	因	ADP	IN	_	33	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
-32	損失	損失	AUX	VV	_	33	cop	_	SpaceAfter=No|Translit=sǔnshī|LTranslit=sǔnshī
-33	過重	過重	ADJ	JJ	_	43	xcomp	_	SpaceAfter=No|Translit=guòzhòng|LTranslit=guòzhòng
+32	損失	損失	VERB	VV	_	43	xcomp	_	SpaceAfter=No|Translit=sǔnshī|LTranslit=sǔnshī
+33	過重	過重	ADJ	JJ	_	32	xcomp	_	SpaceAfter=No|Translit=guòzhòng|LTranslit=guòzhòng
 34	於	於	ADP	IN	_	38	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 35	11	11	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 36	月	月	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
