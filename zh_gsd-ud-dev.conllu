@@ -2481,16 +2481,16 @@
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 12	個	個	NOUN	NNB	_	33	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	依靠	依靠	VERB	VV	_	26	advcl	_	SpaceAfter=No|Translit=yīkào|LTranslit=yīkào
-14	貿易	貿易	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=màoyì|LTranslit=màoyì
+14	貿易	貿易	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=màoyì|LTranslit=màoyì
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	資本	資本	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=zīběn|LTranslit=zīběn
 17	主義	主義	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 18	和	和	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 19	創新	創新	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=chuàngxīn|LTranslit=chuàngxīn
 20	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	而非	而非	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
+21	而非	而非	VERB	VC	_	13	ccomp	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
 22	殖民	殖民	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=zhímín|LTranslit=zhímín
-23	主義	主義	NOUN	NN	_	13	ccomp	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
+23	主義	主義	NOUN	NN	_	21	xcomp	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 24	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 25	掠奪	掠奪	NOUN	NN	_	23	conj	_	SpaceAfter=No|Translit='èduó|LTranslit='èduó
 26	成長	成長	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|Translit=chéngzhǎng|LTranslit=chéngzhǎng
@@ -7363,7 +7363,7 @@
 # text = 新聞自由在台灣常被利用於爆料與不負責任的言論上，而非理性的討論。
 # translit = xīnwénzìyóuzàitáiwānchángbèilìyòngyúbàoliàoyǔbùfùzérèndeyánlùnshàng,'érfēilǐxìngdetǎolùn.
 1	新聞	新聞	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
-2	自由	自由	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
+2	自由	自由	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=zìyóu|LTranslit=zìyóu
 3	在	在	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 4	台灣	台灣	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
 5	常	常	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=cháng|LTranslit=cháng
@@ -7379,11 +7379,11 @@
 15	言論	言論	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=yánlùn|LTranslit=yánlùn
 16	上	上	ADP	IN	_	15	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 17	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	而非	而非	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
+18	而非	而非	VERB	VC	_	0	root	_	SpaceAfter=No|Translit='érfēi|LTranslit='érfēi
 19	理性	理性	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=lǐxìng|LTranslit=lǐxìng
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-21	討論	討論	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=tǎolùn|LTranslit=tǎolùn
-22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+21	討論	討論	NOUN	NN	_	18	xcomp	_	SpaceAfter=No|Translit=tǎolùn|LTranslit=tǎolùn
+22	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s250
 # text = 這些顯然都是台灣媒體所需大力加強的。
