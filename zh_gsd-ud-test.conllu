@@ -3285,9 +3285,9 @@
 2	盆地	盆地	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=pénde|LTranslit=pénde
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	塔克拉瑪干	塔克拉瑪干	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=tǎkèlāmǎgàn|LTranslit=tǎkèlāmǎgàn
-5	沙漠	沙漠	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
-6	流沙	流沙	AUX	VV	_	7	cop	_	SpaceAfter=No|Translit=liúshā|LTranslit=liúshā
-7	嚴重	嚴重	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yánzhòng|LTranslit=yánzhòng
+5	沙漠	沙漠	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
+6	流沙	流沙	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liúshā|LTranslit=liúshā
+7	嚴重	嚴重	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=yánzhòng|LTranslit=yánzhòng
 8	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	從	從	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 10	谷歌	谷歌	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=gǔgē|LTranslit=gǔgē
@@ -3295,7 +3295,7 @@
 12	圖片	圖片	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=túpiàn|LTranslit=túpiàn
 13	可以	可以	AUX	MD	_	15	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 14	清晰	清晰	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=qīngxī|LTranslit=qīngxī
-15	看到	看到	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kàndào|LTranslit=kàndào
+15	看到	看到	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=kàndào|LTranslit=kàndào
 16	，	，	PUNCT	,	_	52	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	沙漠	沙漠	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=shāmò|LTranslit=shāmò
 18	腹地	腹地	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=fùde|LTranslit=fùde
@@ -3334,7 +3334,7 @@
 51	，	，	PUNCT	,	_	50	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 52	阻斷	阻斷	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=zǔduàn|LTranslit=zǔduàn
 53	交通	交通	NOUN	NN	_	52	obj	_	SpaceAfter=No|Translit=jiāotōng|LTranslit=jiāotōng
-54	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+54	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s122
 # text = 其中一處甚至塗有「小心惡犬」的標語。
