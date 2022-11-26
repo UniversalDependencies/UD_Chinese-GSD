@@ -1971,16 +1971,16 @@
 21	五	五	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
 22	層	層	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 23	空間	空間	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=kōngjiān|LTranslit=kōngjiān
-24	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+24	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	集團	集團	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=jítuán|LTranslit=jítuán
 26	與	與	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 27	澳博	澳博	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit='àobó|LTranslit='àobó
 28	的	的	PART	DEC	Case=Gen	26	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-29	合作	合作	NOUN	NN	_	33	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
-30	亦	亦	ADV	RB	_	33	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
-31	因而	因而	ADV	RB	_	33	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
-32	更趨	更趨	AUX	VV	_	33	cop	_	SpaceAfter=No|Translit=gèngqū|LTranslit=gèngqū
-33	緊密	緊密	ADJ	JJ	_	12	parataxis	_	SpaceAfter=No|Translit=jǐnmì|LTranslit=jǐnmì
+29	合作	合作	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
+30	亦	亦	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+31	因而	因而	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
+32	更趨	更趨	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=gèngqū|LTranslit=gèngqū
+33	緊密	緊密	ADJ	JJ	_	32	xcomp	_	SpaceAfter=No|Translit=jǐnmì|LTranslit=jǐnmì
 34	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s63
