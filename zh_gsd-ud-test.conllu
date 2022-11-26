@@ -7189,12 +7189,12 @@
 15	的	的	PART	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 17	塊	塊	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
-18	飛地	飛地	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=fēide|LTranslit=fēide
+18	飛地	飛地	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=fēide|LTranslit=fēide
 19	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-20	即	即	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+20	即	即	VERB	VC	_	9	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 21	天津	天津	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=tiānjīn|LTranslit=tiānjīn
 22	鐵廠	鐵廠	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=tiěchǎng|LTranslit=tiěchǎng
-23	街道	街道	NOUN	NN	_	9	ccomp	_	SpaceAfter=No|Translit=jiēdào|LTranslit=jiēdào
+23	街道	街道	NOUN	NN	_	20	xcomp	_	SpaceAfter=No|Translit=jiēdào|LTranslit=jiēdào
 24	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s262
@@ -13291,13 +13291,13 @@
 9	可能	可能	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 10	包含	包含	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bāohán|LTranslit=bāohán
 11	定語	定語	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=dìngyǔ|LTranslit=dìngyǔ
-12	從句	從句	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
+12	從句	從句	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	即	即	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+14	即	即	VERB	VC	_	10	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 15	多	多	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 16	重	重	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=zhòng|LTranslit=zhòng
 17	定語	定語	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=dìngyǔ|LTranslit=dìngyǔ
-18	從句	從句	NOUN	NN	_	10	ccomp	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
+18	從句	從句	NOUN	NN	_	14	xcomp	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
 19	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s477
