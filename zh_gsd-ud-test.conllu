@@ -8439,10 +8439,10 @@
 # sent_id = test-s306
 # text = 離開本國很久的阿凱亞首領們紛紛回國，奧德修斯也帶著他的夥伴，乘船向他的故鄉伊塔克出發。
 # translit = líkāiběnguóhěnjiǔde'ā凱yàshǒulǐngmenfēnfēnhuíguó,'àodéxiūsīyědàizhetāde夥bàn,chéngchuánxiàngtādegùxiāngyītǎkèchūfā.
-1	離開	離開	AUX	VV	_	3	cop	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
-2	本國	本國	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
-3	很久	很久	ADJ	JJ	_	7	acl:relcl	_	SpaceAfter=No|Translit=hěnjiǔ|LTranslit=hěnjiǔ
-4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+1	離開	離開	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
+2	本國	本國	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
+3	很久	很久	ADJ	JJ	_	1	xcomp	_	SpaceAfter=No|Translit=hěnjiǔ|LTranslit=hěnjiǔ
+4	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	阿凱亞	阿凱亞	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='ā凱yà|LTranslit='ā凱yà
 6	首領	首領	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=shǒulǐng|LTranslit=shǒulǐng
 7	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
