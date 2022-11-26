@@ -5752,15 +5752,15 @@
 16	注意	注意	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=zhùyì|LTranslit=zhùyì
 17	和	和	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 18	感情	感情	NOUN	NN	_	16	conj	_	SpaceAfter=No|Translit=gǎnqíng|LTranslit=gǎnqíng
-19	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+19	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	雖然	雖然	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 21	大	大	PART	PFA	_	22	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 22	太太	太太	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=tàitài|LTranslit=tàitài
 23	的	的	PART	DEC	Case=Gen	22	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-24	競爭	競爭	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
-25	沒有	沒有	AUX	VV	_	27	cop	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
-26	這麼	這麼	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
-27	多	多	ADJ	JJ	_	11	ccomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+24	競爭	競爭	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
+25	沒有	沒有	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+26	這麼	這麼	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
+27	多	多	ADJ	JJ	_	25	xcomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 28	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s208
