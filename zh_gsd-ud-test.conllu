@@ -11602,15 +11602,15 @@
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	由於	由於	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 6	戰亂	戰亂	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=zhànluàn|LTranslit=zhànluàn
-7	頻發	頻發	VERB	VV	_	12	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
+7	頻發	頻發	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=pínfā|LTranslit=pínfā
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	寧波	寧波	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=níngbō|LTranslit=níngbō
-10	人口	人口	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
-11	增長	增長	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
-12	緩慢	緩慢	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
+10	人口	人口	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
+11	增長	增長	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zēngzhǎng|LTranslit=zēngzhǎng
+12	緩慢	緩慢	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=huǎnmàn|LTranslit=huǎnmàn
 13	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	特別	特別	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=tèbié|LTranslit=tèbié
-15	是	是	VERB	VC	_	12	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+15	是	是	VERB	VC	_	11	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	抗	抗	VERB	VV	_	18	amod	_	SpaceAfter=No|Translit=kàng|LTranslit=kàng
 17	日	日	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 18	戰爭	戰爭	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
@@ -11622,7 +11622,7 @@
 24	了	了	AUX	AS	Aspect=Perf	23	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 25	近	近	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=jìn|LTranslit=jìn
 26	20%	20%	NUM	CD	NumType=Card	23	obj	_	SpaceAfter=No|Translit=20%|LTranslit=20%
-27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+27	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s415
 # text = 外來人口在為寧波帶來勞動力和經濟發展的同時，也帶來了社會治安狀況的下降和社會資源緊缺。
