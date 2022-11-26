@@ -1504,9 +1504,9 @@
 # translit = zhǎngqīxuètángshuǐpíngkòngzhìliánghǎokěyǐjiàngdītángniàobìngshìwǎngmóbìngbiàndefēngxiǎn.
 1	長期	長期	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=zhǎngqī|LTranslit=zhǎngqī
 2	血糖	血糖	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=xuètáng|LTranslit=xuètáng
-3	水平	水平	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
-4	控制	控制	AUX	VV	_	5	cop	_	SpaceAfter=No|Translit=kòngzhì|LTranslit=kòngzhì
-5	良好	良好	ADJ	JJ	_	7	csubj	_	SpaceAfter=No|Translit=liánghǎo|LTranslit=liánghǎo
+3	水平	水平	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=shuǐpíng|LTranslit=shuǐpíng
+4	控制	控制	VERB	VV	_	7	csubj	_	SpaceAfter=No|Translit=kòngzhì|LTranslit=kòngzhì
+5	良好	良好	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No|Translit=liánghǎo|LTranslit=liánghǎo
 6	可以	可以	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 7	降低	降低	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiàngdī|LTranslit=jiàngdī
 8	糖尿	糖尿	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=tángniào|LTranslit=tángniào
