@@ -10800,13 +10800,13 @@
 10	範圍	範圍	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
 11	逐漸	逐漸	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=zhújiàn|LTranslit=zhújiàn
 12	變小	變小	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biànxiǎo|LTranslit=biànxiǎo
-13	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+13	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	財富	財富	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=cáifù|LTranslit=cáifù
 15	及	及	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 16	繼承	繼承	NOUN	NN	_	14	conj	_	SpaceAfter=No|Translit=jìchéng|LTranslit=jìchéng
-17	問題	問題	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
-18	日趨	日趨	AUX	VV	_	19	cop	_	SpaceAfter=No|Translit=rìqū|LTranslit=rìqū
-19	突出	突出	ADJ	JJ	_	12	parataxis	_	SpaceAfter=No|Translit=tūchū|LTranslit=tūchū
+17	問題	問題	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=wèntí|LTranslit=wèntí
+18	日趨	日趨	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=rìqū|LTranslit=rìqū
+19	突出	突出	ADJ	JJ	_	18	xcomp	_	SpaceAfter=No|Translit=tūchū|LTranslit=tūchū
 20	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	於是	於是	ADV	RB	_	30	mark	_	SpaceAfter=No|Translit=yúshì|LTranslit=yúshì
 22	關於	關於	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
