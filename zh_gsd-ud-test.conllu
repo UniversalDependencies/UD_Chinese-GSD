@@ -1931,7 +1931,7 @@
 3	神話	神話	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=shénhuà|LTranslit=shénhuà
 4	學	學	PART	SFN	_	5	compound	_	SpaceAfter=No|Translit=xué|LTranslit=xué
 5	家	家	PART	SFN	_	6	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-6	認為	認為	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+6	認為	為	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 7	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	坎珀	坎珀	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=kǎn珀|LTranslit=kǎn珀
 9	實際	實際	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=shíjì|LTranslit=shíjì
@@ -2163,7 +2163,7 @@
 # text = 由於認為德義軍隊戰力已就緒，隆美爾決定再發動攻勢。
 # translit = yóuyúrènwèidéyìjūnduìzhànlìyǐjiùxù,lóngměi'ěrjuédìngzàifādònggōngshì.
 1	由於	由於	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
-2	認為	認為	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+2	認為	為	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	德	德	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=dé|LTranslit=dé
 4	義	義	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 5	軍隊	軍隊	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=jūnduì|LTranslit=jūnduì
@@ -2200,7 +2200,7 @@
 17	後	後	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 18	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	隆美爾	隆美爾	PROPN	NNP	_	28	nsubj	_	SpaceAfter=No|Translit=lóngměi'ěr|LTranslit=lóngměi'ěr
-20	認為	認為	VERB	VV	_	28	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+20	認為	為	VERB	VV	_	28	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 21	魏斯法爾	魏斯法爾	PROPN	NNP	_	23	nmod	_	SpaceAfter=No|Translit=魏sīfǎ'ěr|LTranslit=魏sīfǎ'ěr
 22	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	判斷	判斷	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=pànduàn|LTranslit=pànduàn
@@ -2325,7 +2325,7 @@
 13	一百多	一百多	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yībǎiduō|LTranslit=yībǎiduō
 14	張	張	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 15	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-16	認為	認為	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+16	認為	為	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 17	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 18	色情	色情	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=sèqíng|LTranslit=sèqíng
 19	物品	物品	NOUN	NN	_	16	xcomp	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn
@@ -2681,7 +2681,7 @@
 6	遺址	遺址	NOUN	NN	_	3	conj	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
 7	出土	出土	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=chūtǔ|LTranslit=chūtǔ
 8	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-9	認為	認為	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	認為	為	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
 12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -2718,7 +2718,7 @@
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 3	種	種	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	觀點	觀點	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
-5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	兩	兩	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 8	種	種	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
@@ -2749,7 +2749,7 @@
 2	感到	感到	VERB	VV	_	5	advcl	_	SpaceAfter=No|Translit=gǎndào|LTranslit=gǎndào
 3	自責	自責	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=zìzé|LTranslit=zìzé
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	這樣	這樣	PRON	PRD	_	8	det	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	復仇	復仇	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=fùchóu|LTranslit=fùchóu
@@ -4006,7 +4006,7 @@
 8	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	因為	因為	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 10	普遍	普遍	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
-11	認為	認為	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+11	認為	為	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 12	弗雷格	弗雷格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=fúléigé|LTranslit=fúléigé
 13	首先	首先	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=shǒuxiān|LTranslit=shǒuxiān
 14	公式	公式	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=gōngshì|LTranslit=gōngshì
@@ -4405,7 +4405,7 @@
 # translit = kēxuéjiārènwèishēngmìngkěnéngcéngjīngcúnzàiguòhuòzhěyīráncúnzàidedefāngbāokuòjīnxīng,huǒxīng,mùxīngdewèixīng(rúmùwèi'èr,mùwèiliù),tǔxīngdewèixīng(rútǔwèiliùhétǔwèi'èr).
 1	科學	科學	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=kēxué|LTranslit=kēxué
 2	家	家	PART	SFN	_	3	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
-3	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	生命	生命	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shēngmìng|LTranslit=shēngmìng
 5	可能	可能	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 6	曾經	曾經	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=céngjīng|LTranslit=céngjīng
@@ -4672,7 +4672,7 @@
 30	轟動	轟動	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=hōngdòng|LTranslit=hōngdòng
 31	，	，	PUNCT	,	_	41	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 32	而且	而且	ADV	RB	_	41	mark	_	SpaceAfter=No|Translit='érqiě|LTranslit='érqiě
-33	更為	更為	AUX	VC	_	41	cop	_	SpaceAfter=No|Translit=gèngwèi|LTranslit=gèngwèi
+33	更為	為	AUX	VC	_	41	cop	_	SpaceAfter=No|Translit=gèngwèi|LTranslit=wèi
 34	中國	中國	PROPN	NNP	_	41	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 35	電影	電影	NOUN	NN	_	36	compound	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 36	史	史	PART	SFN	_	41	nmod	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
@@ -5007,7 +5007,7 @@
 # translit = dàfúkǒuyìwèiwānzǐqūyìhuìqízhōngyīgèxuǎnqū,xiànrènyìyuánwèiqīnjiànzhìdemínjiànliánchéngyuánliyún頤.
 1	大佛	大佛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàfú|LTranslit=dàfú
 2	口	口	PART	SFN	_	10	nsubj	_	SpaceAfter=No|Translit=kǒu|LTranslit=kǒu
-3	亦為	亦為	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yìwèi|LTranslit=yìwèi
+3	亦為	為	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=yìwèi|LTranslit=wèi
 4	灣仔	灣仔	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=wānzǐ|LTranslit=wānzǐ
 5	區	區	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 6	議會	議會	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=yìhuì|LTranslit=yìhuì
@@ -6060,7 +6060,7 @@
 2	紐約	紐約	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=niǔyuē|LTranslit=niǔyuē
 3	時報	時報	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shíbào|LTranslit=shíbào
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
-5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	本劇	本劇	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=běnjù|LTranslit=běnjù
 7	「	「	PUNCT	``	_	10	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 8	深刻	深刻	ADJ	JJ	_	10	advmod	_	SpaceAfter=No|Translit=shēnkè|LTranslit=shēnkè
@@ -6845,7 +6845,7 @@
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	往往	往往	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=wǎngwǎng|LTranslit=wǎngwǎng
 7	一般	一般	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=yībān|LTranslit=yībān
-8	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 9	她	她	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 10	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	園長	園長	NOUN	NN	_	8	ccomp	_	SpaceAfter=No|Translit=yuánzhǎng|LTranslit=yuánzhǎng
@@ -9305,7 +9305,7 @@
 4	小	小	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 5	跟	跟	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 6	母親	母親	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=mǔqīn|LTranslit=mǔqīn
-7	相依為命	相依為命	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=xiāngyīwèimìng|LTranslit=xiāngyīwèimìng
+7	相依為命	為	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=xiāngyīwèimìng|LTranslit=wèi
 8	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	多	多	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 10	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -10134,7 +10134,7 @@
 # sent_id = test-s364
 # text = 身為頹廢的一代的主要成員，他是影響流行文化以及文學的前衛作家。
 # translit = shēnwèi頹fèideyīdàidezhǔyàochéngyuán,tāshìyǐngxiǎngliúxíngwénhuàyǐjíwénxuédeqiánwèizuòjiā.
-1	身為	身為	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=shēnwèi
+1	身為	為	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=wèi
 2	頹廢	頹廢	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=頹fèi|LTranslit=頹fèi
 3	的	的	PART	DEC	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -11410,7 +11410,7 @@
 # translit = yǒuguāndiǎnrènwèi,cháoxiānyǔhérìyǔyěshìgūlìyǔyán,tāmengēnmùqiánshìjièshàngyǐzhīdeyǔxìkěnéngdōuméiyǒuguānlián.
 1	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 2	觀點	觀點	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
-3	認為	認為	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	朝鮮	朝鮮	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 6	語	語	PART	SFN	_	12	nsubj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
@@ -11493,7 +11493,7 @@
 7	射擊	射擊	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=shèjī|LTranslit=shèjī
 8	能手	能手	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=néngshǒu|LTranslit=néngshǒu
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	為人	為人	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèirén|LTranslit=wèirén
+10	為人	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèirén|LTranslit=wèi
 11	十分	十分	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=shífēn|LTranslit=shífēn
 12	豪爽	豪爽	ADJ	JJ	_	10	xcomp	_	SpaceAfter=No|Translit=háoshuǎng|LTranslit=háoshuǎng
 13	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

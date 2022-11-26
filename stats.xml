@@ -10,7 +10,7 @@
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20233" /><!-- ，, 的, 。, 在, 年, 是, 、, 為, 一, 於, 和, 了, 他, 個, 人 -->
+  <lemmas unique="20213" /><!-- ，, 的, 。, 在, 年, 是, 為, 、, 一, 於, 和, 了, 他, 個, 人 -->
   <forms unique="20248" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">10740</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
     <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
     <tag name="SYM">37</tag><!-- /, $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com -->
-    <tag name="VERB">18212</tag><!-- 有, 在, 於, 為, 是, 由, 成, 到, 位, 開始 -->
+    <tag name="VERB">18212</tag><!-- 為, 有, 在, 於, 是, 由, 成, 到, 位, 開始 -->
     <tag name="X">963</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
