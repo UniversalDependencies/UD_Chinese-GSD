@@ -4980,9 +4980,9 @@
 9	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	卡里努斯	卡里努斯	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=kǎlǐnǔsī|LTranslit=kǎlǐnǔsī
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	出手	出手	AUX	VV	_	13	cop	_	SpaceAfter=No|Translit=chūshǒu|LTranslit=chūshǒu
-13	闊綽	闊綽	ADJ	JJ	_	15	advcl	_	SpaceAfter=No|Translit=kuò綽|LTranslit=kuò綽
-14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+12	出手	出手	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=chūshǒu|LTranslit=chūshǒu
+13	闊綽	闊綽	ADJ	JJ	_	12	xcomp	_	SpaceAfter=No|Translit=kuò綽|LTranslit=kuò綽
+14	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	舉辦	舉辦	VERB	VV	_	5	parataxis	_	SpaceAfter=No|Translit=jǔbàn|LTranslit=jǔbàn
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 17	盛大	盛大	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=shèngdà|LTranslit=shèngdà
