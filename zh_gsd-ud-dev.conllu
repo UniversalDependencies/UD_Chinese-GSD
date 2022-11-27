@@ -688,8 +688,8 @@
 4	對於	對於	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=duìyú|LTranslit=duìyú
 5	現代	現代	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
 6	建築	建築	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=jiànzhú|LTranslit=jiànzhú
-7	學	學	PART	SFN	_	4	nmod	_	SpaceAfter=No|Translit=xué|LTranslit=xué
-8	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	學	學	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=xué|LTranslit=xué
+8	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	深遠	深遠	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=shēnyuǎn|LTranslit=shēnyuǎn
 10	影響	影響	NOUN	NN	_	33	obl	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -858,7 +858,7 @@
 7	球員	球員	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=qiúyuán|LTranslit=qiúyuán
 8	普遍	普遍	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
 9	達	達	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dá|LTranslit=dá
-10	不	不	ADV	RB	Polarity=Neg	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+10	不	不	ADV	RB	Polarity=Neg	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 11	到	到	VERB	VV	_	9	mark	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 13	隊	隊	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=duì|LTranslit=duì
@@ -1229,8 +1229,8 @@
 58	電影	電影	NOUN	NN	_	63	nmod	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 59	在	在	ADP	IN	_	63	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 60	全	全	DET	DT	_	61	det	_	SpaceAfter=No|Translit=quán|LTranslit=quán
-61	世界	世界	NOUN	NN	_	59	nmod	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
-62	的	的	PART	DEC	Case=Gen	59	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+61	世界	世界	NOUN	NN	_	63	nmod	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
+62	的	的	PART	DEC	Case=Gen	63	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 63	影響	影響	NOUN	NN	_	64	obl	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 64	做出	做出	VERB	VV	_	5	parataxis	_	SpaceAfter=No|Translit=zuòchū|LTranslit=zuòchū
 65	了	了	AUX	AS	Aspect=Perf	64	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -1506,8 +1506,8 @@
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	與	與	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 14	其他	其他	DET	DT	_	15	det	_	SpaceAfter=No|Translit=qítā|LTranslit=qítā
-15	地區	地區	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
-16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+15	地區	地區	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
+16	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 19	開始	開始	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
@@ -1974,8 +1974,8 @@
 24	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	集團	集團	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=jítuán|LTranslit=jítuán
 26	與	與	ADP	IN	_	29	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-27	澳博	澳博	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit='àobó|LTranslit='àobó
-28	的	的	PART	DEC	Case=Gen	26	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+27	澳博	澳博	PROPN	NNP	_	29	nmod	_	SpaceAfter=No|Translit='àobó|LTranslit='àobó
+28	的	的	PART	DEC	Case=Gen	29	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 29	合作	合作	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
 30	亦	亦	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 31	因而	因而	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
@@ -2002,7 +2002,7 @@
 14	球	球	PART	SFN	_	15	obl:patient	_	SpaceAfter=No|Translit=qiú|LTranslit=qiú
 15	設	設	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=shè|LTranslit=shè
 16	為	為	VERB	VC	_	15	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-17	課程	課程	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=kèchéng|LTranslit=kèchéng
+17	課程	課程	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=kèchéng|LTranslit=kèchéng
 18	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s64
@@ -2077,7 +2077,7 @@
 17	體重	體重	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=tǐzhòng|LTranslit=tǐzhòng
 18	資料	資料	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=zīliào|LTranslit=zīliào
 19	庫	庫	PART	SFN	_	20	nmod	_	SpaceAfter=No|Translit=kù|LTranslit=kù
-20	雲端	雲端	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=雲duān|LTranslit=雲duān
+20	雲端	雲端	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=雲duān|LTranslit=雲duān
 21	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	通過	通過	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
 23	app	app	X	FW	_	43	obl	_	SpaceAfter=No|Translit=app|LTranslit=app
@@ -2161,8 +2161,8 @@
 # translit = guānyúshíbātóngréndejùtǐmiáoshùfēichángfēn歧.
 1	關於	關於	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
 2	十八	十八	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=shíbā|LTranslit=shíbā
-3	銅人	銅人	NOUN	NN	_	1	nmod	_	SpaceAfter=No|Translit=tóngrén|LTranslit=tóngrén
-4	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+3	銅人	銅人	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=tóngrén|LTranslit=tóngrén
+4	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	具體	具體	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=jùtǐ|LTranslit=jùtǐ
 6	描述	描述	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=miáoshù|LTranslit=miáoshù
 7	非常	非常	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
@@ -3670,7 +3670,7 @@
 17	規模	規模	NOUN	NN	_	18	obl:patient	_	SpaceAfter=No|Translit=guīmó|LTranslit=guīmó
 18	縮編	縮編	VERB	VV	_	26	advcl	_	SpaceAfter=No|Translit=suōbiān|LTranslit=suōbiān
 19	為	為	VERB	VC	_	18	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-20	一半	一半	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=yībàn|LTranslit=yībàn
+20	一半	一半	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=yībàn|LTranslit=yībàn
 21	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	並	並	ADV	RB	_	26	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 23	按照	按照	ADP	IN	_	25	case	_	SpaceAfter=No|Translit='ànzhào|LTranslit='ànzhào
@@ -3942,13 +3942,13 @@
 11	視頻	視頻	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=shìpín|LTranslit=shìpín
 12	會議	會議	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=huìyì|LTranslit=huìyì
 13	和	和	CCONJ	CC	_	25	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-14	同時	同時	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
+14	同時	同時	NOUN	NN	_	21	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
 15	由	由	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 16	數	數	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=shù|LTranslit=shù
 17	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 18	不同	不同	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
-19	地點	地點	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=dediǎn|LTranslit=dediǎn
-20	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+19	地點	地點	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=dediǎn|LTranslit=dediǎn
+20	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	通訊	通訊	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=tōngxùn|LTranslit=tōngxùn
 22	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	設備	設備	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
@@ -4577,7 +4577,7 @@
 # translit = sūliánběnláicéngxiǎngzàifēnshèyīzhǒng1134Ahéyīzhǒng1134Bfǎnqiánjiàn,yěcéngxiǎngjiāngfǎnqiánderènwudōujiāogěi1124xíngxiǎoxíngfǎnqiánjiàn,dànshìfāxiànxiǎoxíngjiànshìyīngbùleyuǎnhǎirènwuyúshìháishìfāzhǎnledàxíngfǎnqiánjiàn.
 1	蘇聯	蘇聯	PROPN	NNP	_	43	nsubj	_	SpaceAfter=No|Translit=sūlián|LTranslit=sūlián
 2	本來	本來	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=běnlái|LTranslit=běnlái
-3	曾	曾	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
+3	曾	曾	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 4	想	想	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 5	再	再	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 6	分設	分設	VERB	VV	_	43	advcl	_	SpaceAfter=No|Translit=fēnshè|LTranslit=fēnshè
@@ -4591,8 +4591,8 @@
 14	反潛	反潛	VERB	VV	_	15	compound	_	SpaceAfter=No|Translit=fǎnqián|LTranslit=fǎnqián
 15	艦	艦	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 16	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-17	也	也	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-18	曾	曾	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
+17	也	也	ADV	RB	_	25	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+18	曾	曾	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 19	想	想	AUX	MD	_	25	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 20	將	將	ADP	BB	_	23	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 21	反潛	反潛	VERB	VV	_	23	acl:relcl	_	SpaceAfter=No|Translit=fǎnqián|LTranslit=fǎnqián
@@ -4611,7 +4611,7 @@
 34	小型	小型	NOUN	NN	_	35	compound	_	SpaceAfter=No|Translit=xiǎoxíng|LTranslit=xiǎoxíng
 35	艦	艦	PART	SFN	_	36	nsubj	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 36	適應	適應	VERB	VV	_	33	ccomp	_	SpaceAfter=No|Translit=shìyīng|LTranslit=shìyīng
-37	不	不	ADV	RB	Polarity=Neg	38	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+37	不	不	ADV	RB	Polarity=Neg	36	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 38	了	了	VERB	VV	_	36	mark	_	SpaceAfter=No|Translit=le|LTranslit=le
 39	遠海	遠海	NOUN	NN	_	40	nmod	_	SpaceAfter=No|Translit=yuǎnhǎi|LTranslit=yuǎnhǎi
 40	任務	任務	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=rènwu|LTranslit=rènwu
@@ -5273,7 +5273,7 @@
 10	擴展	擴展	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=kuòzhǎn|LTranslit=kuòzhǎn
 11	到	到	VERB	VV	_	10	mark	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 12	印第安	印第安	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=yìndì'ān|LTranslit=yìndì'ān
-13	納波利斯	納波利斯	PROPN	NNP	_	11	obj	_	SpaceAfter=No|Translit=nàbōlìsī|LTranslit=nàbōlìsī
+13	納波利斯	納波利斯	PROPN	NNP	_	10	obj	_	SpaceAfter=No|Translit=nàbōlìsī|LTranslit=nàbōlìsī
 14	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	並	並	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 16	修築	修築	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiūzhú|LTranslit=xiūzhú
@@ -5896,8 +5896,8 @@
 8	對	對	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 9	高	高	PART	PFA	_	10	case	_	SpaceAfter=No|Translit=gāo|LTranslit=gāo
 10	海拔	海拔	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=hǎibá|LTranslit=hǎibá
-11	地區	地區	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
-12	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	地區	地區	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
+12	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	適應	適應	VERB	VV	_	14	compound	_	SpaceAfter=No|Translit=shìyīng|LTranslit=shìyīng
 14	力	力	PART	SFN	_	4	conj	_	SpaceAfter=No|Translit=lì|LTranslit=lì
 15	而	而	ADV	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -6121,8 +6121,8 @@
 7	老年	老年	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=lǎonián|LTranslit=lǎonián
 8	人	人	PART	SFN	_	5	conj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 9	心理	心理	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=xīnlǐ|LTranslit=xīnlǐ
-10	發展	發展	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=fāzhǎn|LTranslit=fāzhǎn
-11	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	發展	發展	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=fāzhǎn|LTranslit=fāzhǎn
+11	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	研究	研究	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
 13	開始	開始	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 14	如	如	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=rú|LTranslit=rú
@@ -6177,9 +6177,9 @@
 9	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	在	在	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 11	教育	教育	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=jiàoyù|LTranslit=jiàoyù
-12	範疇	範疇	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=fàn疇|LTranslit=fàn疇
+12	範疇	範疇	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=fàn疇|LTranslit=fàn疇
 13	內	內	ADP	IN	_	12	acl	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
-14	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+14	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	過多	過多	ADJ	JJ	_	18	amod	_	SpaceAfter=No|Translit=guòduō|LTranslit=guòduō
 16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	國家	國家	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
@@ -6208,8 +6208,8 @@
 40	奪回	奪回	VERB	VV	_	32	conj	_	SpaceAfter=No|Translit=duóhuí|LTranslit=duóhuí
 41	對	對	ADP	IN	_	46	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 42	其	其	PRON	PRP	Person=3	43	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
-43	子女	子女	NOUN	NN	_	41	nmod	_	SpaceAfter=No|Translit=zinǚ|LTranslit=zinǚ
-44	的	的	PART	DEC	Case=Gen	41	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+43	子女	子女	NOUN	NN	_	46	nmod	_	SpaceAfter=No|Translit=zinǚ|LTranslit=zinǚ
+44	的	的	PART	DEC	Case=Gen	46	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 45	教育	教育	VERB	VV	_	46	compound	_	SpaceAfter=No|Translit=jiàoyù|LTranslit=jiàoyù
 46	權	權	PART	SFN	_	40	obj	_	SpaceAfter=No|Translit=quán|LTranslit=quán
 47	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -6555,8 +6555,8 @@
 25	滿足	滿足	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mǎnzú|LTranslit=mǎnzú
 26	他們	他	PRON	PRP	Number=Plur|Person=3	30	nmod	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 27	對	對	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-28	少年	少年	NOUN	NN	_	27	nmod	_	SpaceAfter=No|Translit=shǎonián|LTranslit=shǎonián
-29	的	的	PART	DEC	Case=Gen	27	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+28	少年	少年	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=shǎonián|LTranslit=shǎonián
+29	的	的	PART	DEC	Case=Gen	30	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 30	愛慕	愛慕	NOUN	NN	_	25	obj	_	SpaceAfter=No|Translit='àimù|LTranslit='àimù
 31	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -7068,8 +7068,8 @@
 10	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	在	在	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 12	2011	2011	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-13	年	年	NOUN	NNB	_	11	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-14	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+13	年	年	NOUN	NNB	_	15	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+14	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	預測	預測	NOUN	NN	_	36	obl	_	SpaceAfter=No|Translit=yùcè|LTranslit=yùcè
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	在	在	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -8326,7 +8326,7 @@
 12	最	最	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 13	優秀	優秀	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=yōuxiù|LTranslit=yōuxiù
 14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-15	成就	成就	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
+15	成就	成就	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s283
@@ -8338,7 +8338,7 @@
 4	人	人	NOUN	NN	_	5	obl:patient	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 5	強留	強留	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=qiángliú|LTranslit=qiángliú
 6	在	在	VERB	VV	_	5	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-7	工廠	工廠	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=gōngchǎng|LTranslit=gōngchǎng
+7	工廠	工廠	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=gōngchǎng|LTranslit=gōngchǎng
 8	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	並	並	ADV	RB	_	18	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 10	從	從	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
@@ -8690,8 +8690,8 @@
 1	關於	關於	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
 2	精靈	精靈	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=jīnglíng|LTranslit=jīnglíng
 3	之	之	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
-4	眼	眼	NOUN	NN	_	1	nmod	_	SpaceAfter=No|Translit=yǎn|LTranslit=yǎn
-5	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	眼	眼	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=yǎn|LTranslit=yǎn
+5	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	介紹	介紹	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jièshào|LTranslit=jièshào
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	將	將	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
@@ -8867,7 +8867,7 @@
 9	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	人	人	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 11	聽	聽	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tīng|LTranslit=tīng
-12	不	不	ADV	RB	Polarity=Neg	13	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+12	不	不	ADV	RB	Polarity=Neg	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 13	懂	懂	VERB	VV	_	11	mark	_	SpaceAfter=No|Translit=dǒng|LTranslit=dǒng
 14	孟加拉	孟加拉	PROPN	NNP	_	15	compound	_	SpaceAfter=No|Translit=孟jiālā|LTranslit=孟jiālā
 15	語	語	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
@@ -10321,7 +10321,7 @@
 57	至	至	VERB	VV	_	56	mark	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 58	西	西	NOUN	NN	_	60	nmod	_	SpaceAfter=No|Translit=xi|LTranslit=xi
 59	歐	歐	PROPN	NNP	_	60	nmod	_	SpaceAfter=No|Translit='ōu|LTranslit='ōu
-60	地區	地區	NOUN	NN	_	57	obj	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
+60	地區	地區	NOUN	NN	_	56	obj	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
 61	，	，	PUNCT	,	_	56	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 62	工作	工作	NOUN	NN	_	63	nmod	_	SpaceAfter=No|Translit=gōngzuò|LTranslit=gōngzuò
 63	性質	性質	NOUN	NN	_	65	nsubj	_	SpaceAfter=No|Translit=xìngzhì|LTranslit=xìngzhì
@@ -10397,7 +10397,7 @@
 25	委員	委員	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=wěiyuán|LTranslit=wěiyuán
 26	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 27	因	因	ADP	IN	_	31	mark	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
-28	此	此	PRON	PRD	_	27	nmod	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
+28	此	此	PRON	PRD	_	31	nmod	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 29	對	對	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 30	協會	協會	NOUN	NN	_	31	obl	_	SpaceAfter=No|Translit=xiéhuì|LTranslit=xiéhuì
 31	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -10546,7 +10546,7 @@
 20	是	是	VERB	VC	_	7	parataxis	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 21	別人	別人	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=biérén|LTranslit=biérén
 22	辦	辦	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=bàn|LTranslit=bàn
-23	不	不	ADV	RB	Polarity=Neg	24	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+23	不	不	ADV	RB	Polarity=Neg	22	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 24	了	了	VERB	VV	_	22	mark	_	SpaceAfter=No|Translit=le|LTranslit=le
 25	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -10683,8 +10683,8 @@
 4	中國	中國	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 5	古代	古代	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=gǔdài|LTranslit=gǔdài
 6	西部	西部	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xibù|LTranslit=xibù
-7	部族	部族	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=bùzú|LTranslit=bùzú
-8	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	部族	部族	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=bùzú|LTranslit=bùzú
+8	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	統稱	統稱	NOUN	NN	_	12	advcl	_	SpaceAfter=No|Translit=tǒngchēng|LTranslit=tǒngchēng
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	長期	長期	NOUN	NN	_	12	nmod:tmod	_	SpaceAfter=No|Translit=zhǎngqī|LTranslit=zhǎngqī
@@ -11330,12 +11330,12 @@
 7	自	自	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=zì|LTranslit=zì
 8	清	清	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=qīng|LTranslit=qīng
 9	治	治	VERB	VV	_	10	amod	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
-10	時期	時期	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=shíqī|LTranslit=shíqī
+10	時期	時期	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=shíqī|LTranslit=shíqī
 11	至	至	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 12	日	日	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 13	治	治	VERB	VV	_	14	amod	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 14	初期	初期	NOUN	NN	_	10	conj	_	SpaceAfter=No|Translit=chūqī|LTranslit=chūqī
-15	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+15	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 17	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 18	行政	行政	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=xíngzhèng|LTranslit=xíngzhèng
@@ -11533,8 +11533,8 @@
 9	和	和	CCONJ	CC	_	10	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 10	研究	研究	VERB	VV	_	8	conj	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
 11	有關	有關	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=yǒuguān|LTranslit=yǒuguān
-12	他	他	PRON	PRP	Person=3	11	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-13	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	他	他	PRON	PRP	Person=3	14	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+13	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	事	事	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 15	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	還	還	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=hái|LTranslit=hái
@@ -11895,7 +11895,7 @@
 9	為	為	VERB	VC	_	8	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 10	現在	現在	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-12	哈特蘭德	哈特蘭德	PROPN	NNP	_	9	obj	_	SpaceAfter=No|Translit=hātèlándé|LTranslit=hātèlándé
+12	哈特蘭德	哈特蘭德	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=hātèlándé|LTranslit=hātèlándé
 13	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s405
@@ -12239,8 +12239,8 @@
 20	軍團	軍團	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=jūntuán|LTranslit=jūntuán
 21	在	在	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 22	1944	1944	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=1944|LTranslit=1944
-23	年	年	NOUN	NNB	_	21	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-24	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+23	年	年	NOUN	NNB	_	25	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+24	的	的	PART	DEC	Case=Gen	25	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 25	行動	行動	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=xíngdòng|LTranslit=xíngdòng
 26	因而	因而	ADV	RB	_	27	mark	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
 27	結束	結束	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=jiéshù|LTranslit=jiéshù
@@ -12617,7 +12617,7 @@
 33	一	一	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 34	種	種	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 35	物質	物質	NOUN	NN	_	36	nmod	_	SpaceAfter=No|Translit=wùzhì|LTranslit=wùzhì
-36	形式	形式	NOUN	NN	_	32	obj	_	SpaceAfter=No|Translit=xíngshì|LTranslit=xíngshì
+36	形式	形式	NOUN	NN	_	31	obj	_	SpaceAfter=No|Translit=xíngshì|LTranslit=xíngshì
 37	與	與	CCONJ	CC	_	38	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 38	過程	過程	NOUN	NN	_	36	conj	_	SpaceAfter=No|Translit=guòchéng|LTranslit=guòchéng
 39	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -12671,7 +12671,7 @@
 19	其	其	PRON	PRP	Person=3	20	obl:patient	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 20	驅逐	驅逐	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=qūzhú|LTranslit=qūzhú
 21	回	回	VERB	VV	_	20	mark	_	SpaceAfter=No|Translit=huí|LTranslit=huí
-22	秦國	秦國	PROPN	NNP	_	21	obj	_	SpaceAfter=No|Translit=秦guó|LTranslit=秦guó
+22	秦國	秦國	PROPN	NNP	_	20	obj	_	SpaceAfter=No|Translit=秦guó|LTranslit=秦guó
 23	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s431
@@ -13047,8 +13047,8 @@
 12	室	室	PART	SFN	_	17	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 13	有關	有關	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yǒuguān|LTranslit=yǒuguān
 14	科學	科學	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=kēxué|LTranslit=kēxué
-15	技術	技術	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
-16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+15	技術	技術	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
+16	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	演示	演示	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=yǎnshì|LTranslit=yǎnshì
 18	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -13179,11 +13179,11 @@
 13	有關	有關	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=yǒuguān|LTranslit=yǒuguān
 14	香港	香港	PROPN	NNP	_	16	nmod	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 15	通商	通商	VERB	VV	_	16	compound	_	SpaceAfter=No|Translit=tōngshāng|LTranslit=tōngshāng
-16	史	史	PART	SFN	_	13	nmod	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
+16	史	史	PART	SFN	_	21	nmod	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
 17	和	和	CCONJ	CC	_	19	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 18	商業	商業	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=shāngyè|LTranslit=shāngyè
 19	史	史	PART	SFN	_	16	conj	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
-20	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+20	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	文章	文章	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=wénzhāng|LTranslit=wénzhāng
 22	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -13366,8 +13366,8 @@
 1	噶哈巫	噶哈巫	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=噶hā巫|LTranslit=噶hā巫
 2	語	語	PART	SFN	_	6	nmod	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 3	對	對	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-4	數詞	數詞	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=shùcí|LTranslit=shùcí
-5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	數詞	數詞	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=shùcí|LTranslit=shùcí
+5	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	稱呼	稱呼	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=chēnghū|LTranslit=chēnghū
 7	與	與	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 8	台灣	台灣	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
