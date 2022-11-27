@@ -279,7 +279,7 @@
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	公主	公主	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=gōngzhǔ|LTranslit=gōngzhǔ
 5	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
-6	不會	不會	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+6	不會	會	AUX	MD	Polarity=Neg	9	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 7	都	都	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 8	太	太	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=tài|LTranslit=tài
 9	侷限	侷限	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=侷xiàn|LTranslit=侷xiàn
@@ -394,7 +394,7 @@
 
 # sent_id = dev-s16
 # text = 當《Game Informer》提到遊戲在日本的知名度時甚至說「四百萬日本人可能錯了」。
-# translit = dāng«Game Informer»tídàoyóuxìzàirìběndezhīmíngdùshíshénzhìshuō“sìbǎiwànrìběnrénkěnéngcuòle”.
+# translit = dāng«Game Informer»tídàoyóuxìzàirìběndezhīmíngdùshíshénzhìshuō‘sìbǎiwànrìběnrénkěnéngcuòle’.
 1	當	當	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 3	Game	Game	X	FW	_	6	nsubj	_	Translit=Game|LTranslit=Game
@@ -410,14 +410,14 @@
 13	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 15	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
-16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 17	四百萬	四百萬	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sìbǎiwàn|LTranslit=sìbǎiwàn
 18	日本	日本	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
 19	人	人	PART	SFN	_	21	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 21	錯	錯	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No|Translit=cuò|LTranslit=cuò
 22	了	了	PART	UH	_	21	discourse	_	SpaceAfter=No|Translit=le|LTranslit=le
-23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s17
@@ -509,7 +509,7 @@
 7	颳風	颳風	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=颳fēng|LTranslit=颳fēng
 8	下雨	下雨	VERB	VV	_	27	xcomp	_	SpaceAfter=No|Translit=xiàyǔ|LTranslit=xiàyǔ
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	不顧	不顧	VERB	VV	_	27	advcl	_	SpaceAfter=No|Translit=bùgù|LTranslit=bùgù
+10	不顧	顧	VERB	VV	Polarity=Neg	27	advcl	_	SpaceAfter=No|Translit=bùgù|LTranslit=gù
 11	警察	警察	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=jǐngchá|LTranslit=jǐngchá
 12	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 13	暴徒	暴徒	NOUN	NN	_	11	conj	_	SpaceAfter=No|Translit=bàotú|LTranslit=bàotú
@@ -1294,7 +1294,7 @@
 
 # sent_id = dev-s44
 # text = 為了改善中央空檔的視覺效果，故借鑒中國傳統城門樓的設計，設計成一個寬45米、高50米的「門洞」。
-# translit = wèilegǎishànzhōngyāngkōngdàngdeshìjuéxiàoguǒ,gùjièjiànzhōngguóchuántǒngchéngménlóudeshèjì,shèjìchéngyīgèkuān45mǐ,gāo50mǐde“méndòng”.
+# translit = wèilegǎishànzhōngyāngkōngdàngdeshìjuéxiàoguǒ,gùjièjiànzhōngguóchuántǒngchéngménlóudeshèjì,shèjìchéngyīgèkuān45mǐ,gāo50mǐde‘méndòng’.
 1	為了	為了	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 2	改善	改善	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=gǎishàn|LTranslit=gǎishàn
 3	中央	中央	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=zhōngyāng|LTranslit=zhōngyāng
@@ -1324,9 +1324,9 @@
 27	50	50	NUM	CD	NumType=Card	28	nmod	_	SpaceAfter=No|Translit=50|LTranslit=50
 28	米	米	NOUN	NNB	_	26	obl	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
 29	的	的	PART	DEC	_	22	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-30	「	「	PUNCT	``	_	31	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+30	「	「	PUNCT	``	_	31	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 31	門洞	門洞	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=méndòng|LTranslit=méndòng
-32	」	」	PUNCT	''	_	31	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+32	」	」	PUNCT	''	_	31	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 33	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s45
@@ -1462,7 +1462,7 @@
 
 # sent_id = dev-s50
 # text = 那股充滿狂氣的演技力，並非只有身為演員的狂氣，而是表現於「演技」上的狂氣。
-# translit = nàgǔchōngmǎnkuángqìdeyǎnjìlì,bìngfēizhǐyǒushēnwèiyǎnyuándekuángqì,'érshìbiǎoxiànyú“yǎnjì”shàngdekuángqì.
+# translit = nàgǔchōngmǎnkuángqìdeyǎnjìlì,bìngfēizhǐyǒushēnwèiyǎnyuándekuángqì,'érshìbiǎoxiànyú‘yǎnjì’shàngdekuángqì.
 1	那	那	DET	DT	_	2	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 2	股	股	NOUN	NNB	_	7	nmod	_	SpaceAfter=No|Translit=gǔ|LTranslit=gǔ
 3	充滿	充滿	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=chōngmǎn|LTranslit=chōngmǎn
@@ -1481,9 +1481,9 @@
 16	而是	是	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit='érshì|LTranslit=shì
 17	表現	表現	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
 18	於	於	VERB	VV	_	17	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-19	「	「	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+19	「	「	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 20	演技	演技	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=yǎnjì|LTranslit=yǎnjì
-21	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+21	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 22	上	上	ADP	IN	_	20	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 23	的	的	PART	DEC	_	17	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 24	狂氣	狂氣	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=kuángqì|LTranslit=kuángqì
@@ -2171,16 +2171,16 @@
 
 # sent_id = dev-s69
 # text = 當年為培養「天下最惡的人」，說服十大惡人饒過小魚兒。
-# translit = dāngniánwèipéiyǎng“tiānxiàzuì'èderén”,shuōfúshídà'èrénráoguòxiǎoyúr.
+# translit = dāngniánwèipéiyǎng‘tiānxiàzuì'èderén’,shuōfúshídà'èrénráoguòxiǎoyúr.
 1	當年	當年	NOUN	NN	_	11	nmod:tmod	_	SpaceAfter=No|Translit=dāngnián|LTranslit=dāngnián
 2	為	為	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 3	培養	培養	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=péiyǎng|LTranslit=péiyǎng
-4	「	「	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+4	「	「	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 5	天下	天下	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=tiānxià|LTranslit=tiānxià
 6	最惡	最惡	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=zuì'è|LTranslit=zuì'è
 7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	人	人	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-9	」	」	PUNCT	''	_	8	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+9	」	」	PUNCT	''	_	8	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 10	，	，	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	說服	說服	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shuōfú|LTranslit=shuōfú
 12	十	十	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -2294,7 +2294,7 @@
 
 # sent_id = dev-s73
 # text = 老子在本章中主要是向帝王闡述治國之術，要王者注重時政中細微的變化，遵循事物發展規律，順應自然，以達「無為」而治之目的。
-# translit = lǎozizàiběnzhāngzhōngzhǔyàoshìxiàngdìwángchǎnshùzhìguózhīshù,yàowángzhězhùzhòngshízhèngzhōngxìwēidebiànhuà,zūnxúnshìwùfāzhǎnguīlǜ,shùnyīngzìrán,yǐdá“wúwèi”'érzhìzhīmùde.
+# translit = lǎozizàiběnzhāngzhōngzhǔyàoshìxiàngdìwángchǎnshùzhìguózhīshù,yàowángzhězhùzhòngshízhèngzhōngxìwēidebiànhuà,zūnxúnshìwùfāzhǎnguīlǜ,shùnyīngzìrán,yǐdá‘wúwèi’'érzhìzhīmùde.
 1	老子	老子	PROPN	NNP	_	32	nsubj	_	SpaceAfter=No|Translit=lǎozi|LTranslit=lǎozi
 2	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	本章	本章	NOUN	NN	_	32	obl	_	SpaceAfter=No|Translit=běnzhāng|LTranslit=běnzhāng
@@ -2327,9 +2327,9 @@
 30	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 31	以	以	ADV	RB	_	32	mark	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 32	達	達	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dá|LTranslit=dá
-33	「	「	PUNCT	``	_	34	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+33	「	「	PUNCT	``	_	34	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 34	無為	為	VERB	VV	_	37	advcl	_	SpaceAfter=No|Translit=wúwèi|LTranslit=wèi
-35	」	」	PUNCT	''	_	34	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+35	」	」	PUNCT	''	_	34	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 36	而	而	ADV	RB	_	37	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 37	治	治	VERB	VV	_	39	acl:relcl	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 38	之	之	PART	DEC	_	37	mark:rel	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
@@ -2558,7 +2558,7 @@
 
 # sent_id = dev-s82
 # text = 他手上有24師的兵力，意圖仿效俄軍將領Ivan Paskievich在1831年的「十一月起義」中採用的方法去佔領華沙。
-# translit = tāshǒushàngyǒu24shīdebīnglì,yìtúfǎngxiào'éjūnjiānglǐngIvan Paskievichzài1831niánde“shíyīyuèqǐyì”zhōngcǎiyòngdefāngfǎqùzhànlǐnghuáshā.
+# translit = tāshǒushàngyǒu24shīdebīnglì,yìtúfǎngxiào'éjūnjiānglǐngIvan Paskievichzài1831niánde‘shíyīyuèqǐyì’zhōngcǎiyòngdefāngfǎqùzhànlǐnghuáshā.
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	手上	手上	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=shǒushàng|LTranslit=shǒushàng
 3	有	有	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -2578,11 +2578,11 @@
 17	1831	1831	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=1831|LTranslit=1831
 18	年	年	NOUN	NNB	_	23	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-20	「	「	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+20	「	「	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 21	十一	十一	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=shíyī|LTranslit=shíyī
 22	月	月	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 23	起義	起義	NOUN	NN	_	26	obl	_	SpaceAfter=No|Translit=qǐyì|LTranslit=qǐyì
-24	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+24	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 25	中	中	ADP	IN	_	23	acl	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 26	採用	採用	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|Translit=cǎiyòng|LTranslit=cǎiyòng
 27	的	的	PART	DEC	_	26	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -2615,7 +2615,7 @@
 
 # sent_id = dev-s84
 # text = 但哈利·華納表示反對意見：「誰會想要聽到演員開口說話呢？」。
-# translit = dànhālì·huánàbiǎoshìfǎnduìyìjiàn:“shuíhuìxiǎngyàotīngdàoyǎnyuánkāikǒushuōhuàne?”.
+# translit = dànhālì·huánàbiǎoshìfǎnduìyìjiàn:‘shuíhuìxiǎngyàotīngdàoyǎnyuánkāikǒushuōhuàne?’.
 1	但	但	ADV	RB	_	5	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 2	哈利	哈利	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No|Translit=hālì|LTranslit=hālì
 3	·	·	PUNCT	/	_	4	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
@@ -2624,7 +2624,7 @@
 6	反對	反對	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=fǎnduì|LTranslit=fǎnduì
 7	意見	意見	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=yìjiàn|LTranslit=yìjiàn
 8	：	：	PUNCT	:	_	14	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-9	「	「	PUNCT	``	_	14	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+9	「	「	PUNCT	``	_	14	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 10	誰	誰	PRON	WP	_	14	nsubj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
 11	會	會	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 12	想	想	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
@@ -2635,7 +2635,7 @@
 17	說話	說話	VERB	VV	_	14	ccomp	_	SpaceAfter=No|Translit=shuōhuà|LTranslit=shuōhuà
 18	呢	呢	PART	UH	PartType=Int	14	discourse:sp	_	SpaceAfter=No|Translit=ne|LTranslit=ne
 19	？	？	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
-20	」	」	PUNCT	''	_	14	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+20	」	」	PUNCT	''	_	14	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 21	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s85
@@ -2890,33 +2890,33 @@
 
 # sent_id = dev-s91
 # text = 自此卓義峰便擁有「丐幫幫主」的外號。
-# translit = zìcǐ卓yìfēngbiànyōngyǒu“丐bāngbāngzhǔ”dewàihào.
+# translit = zìcǐ卓yìfēngbiànyōngyǒu‘丐bāngbāngzhǔ’dewàihào.
 1	自	自	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zì|LTranslit=zì
 2	此	此	PRON	PRD	_	6	obl	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 3	卓	卓	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=卓|LTranslit=卓
 4	義峰	義峰	PROPN	NNP	_	3	flat:name	_	SpaceAfter=No|Translit=yìfēng|LTranslit=yìfēng
 5	便	便	ADV	RB	_	6	mark	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
 6	擁有	擁有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
-7	「	「	PUNCT	``	_	9	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+7	「	「	PUNCT	``	_	9	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 8	丐幫	丐幫	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=丐bāng|LTranslit=丐bāng
 9	幫主	幫主	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=bāngzhǔ|LTranslit=bāngzhǔ
-10	」	」	PUNCT	''	_	9	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+10	」	」	PUNCT	''	_	9	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 11	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	外號	外號	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=wàihào|LTranslit=wàihào
 13	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s92
 # text = 雖則日語存在「二段音階」的變化，但只憑這二音變化，也沒有協音的可能。
-# translit = suīzérìyǔcúnzài“'èrduànyīnjiē”debiànhuà,dànzhǐpíngzhè'èryīnbiànhuà,yěméiyǒuxiéyīndekěnéng.
+# translit = suīzérìyǔcúnzài‘'èrduànyīnjiē’debiànhuà,dànzhǐpíngzhè'èryīnbiànhuà,yěméiyǒuxiéyīndekěnéng.
 1	雖則	雖則	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=suīzé|LTranslit=suīzé
 2	日	日	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 3	語	語	PART	SFN	_	4	nsubj	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 4	存在	存在	VERB	VV	_	22	ccomp	_	SpaceAfter=No|Translit=cúnzài|LTranslit=cúnzài
-5	「	「	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+5	「	「	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 6	二	二	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit='èr|LTranslit='èr
 7	段	段	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 8	音階	音階	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=yīnjiē|LTranslit=yīnjiē
-9	」	」	PUNCT	''	_	8	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+9	」	」	PUNCT	''	_	8	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 10	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	變化	變化	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=biànhuà|LTranslit=biànhuà
 12	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2961,7 +2961,7 @@
 
 # sent_id = dev-s94
 # text = 1960年代後，隨著殖民地獨立，作為「單獨關稅區」的非主權政治實體漸漸減少。
-# translit = 1960niándàihòu,suízhezhímíndedúlì,zuòwèi“dāndúguānshuìqū”defēizhǔquánzhèngzhìshítǐjiànjiànjiǎnshǎo.
+# translit = 1960niándàihòu,suízhezhímíndedúlì,zuòwèi‘dāndúguānshuìqū’defēizhǔquánzhèngzhìshítǐjiànjiànjiǎnshǎo.
 1	1960	1960	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
 2	年代	年代	NOUN	NNB	_	24	nmod:tmod	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
@@ -2974,11 +2974,11 @@
 10	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	作	作	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 12	為	為	VERB	VC	_	11	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-13	「	「	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+13	「	「	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 14	單獨	單獨	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=dāndú|LTranslit=dāndú
 15	關稅	關稅	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=guānshuì|LTranslit=guānshuì
 16	區	區	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
-17	」	」	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+17	」	」	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	非	非	VERB	VC	_	22	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
 20	主權	主權	NOUN	NN	_	19	xcomp	_	SpaceAfter=No|Translit=zhǔquán|LTranslit=zhǔquán
@@ -3243,7 +3243,7 @@
 
 # sent_id = dev-s106
 # text = 朝鮮雖然認為渤海國是本國歷史，但不使用「南北國時代」這個詞匯。
-# translit = cháoxiānsuīránrènwèi渤hǎiguóshìběnguólìshǐ,dànbùshǐyòng“nánběiguóshídài”zhègècíhuì.
+# translit = cháoxiānsuīránrènwèi渤hǎiguóshìběnguólìshǐ,dànbùshǐyòng‘nánběiguóshídài’zhègècíhuì.
 1	朝鮮	朝鮮	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 2	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 3	認為	為	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
@@ -3256,10 +3256,10 @@
 10	但	但	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 11	不	不	ADV	RB	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 12	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
-13	「	「	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+13	「	「	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 14	南北國	南北國	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=nánběiguó|LTranslit=nánběiguó
 15	時代	時代	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shídài|LTranslit=shídài
-16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 17	這	這	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 18	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 19	詞匯	詞匯	NOUN	NN	_	15	appos	_	SpaceAfter=No|Translit=cíhuì|LTranslit=cíhuì
@@ -3339,7 +3339,7 @@
 
 # sent_id = dev-s110
 # text = 2007年5月3日，中石油高調宣稱冀東南堡油田油氣總儲量為10.2億噸，探明儲量4.05億噸，約為30億桶，媒體稱之為「40多年來中國石油勘探最激動人心的發現」。
-# translit = 2007nián5yuè3rì,zhōngshíyóugāodiàoxuānchēng冀dōngnánbǎoyóutiányóuqìzǒngchǔliàngwèi10.2yìdūn,tànmíngchǔliàng4.05yìdūn,yuēwèi30yìtǒng,méitǐchēngzhīwèi“40duōniánláizhōngguóshíyóukāntànzuìjīdòngrénxīndefāxiàn”.
+# translit = 2007nián5yuè3rì,zhōngshíyóugāodiàoxuānchēng冀dōngnánbǎoyóutiányóuqìzǒngchǔliàngwèi10.2yìdūn,tànmíngchǔliàng4.05yìdūn,yuēwèi30yìtǒng,méitǐchēngzhīwèi‘40duōniánláizhōngguóshíyóukāntànzuìjīdòngrénxīndefāxiàn’.
 1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	5	5	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
@@ -3375,7 +3375,7 @@
 33	稱	稱	VERB	VV	_	11	parataxis	_	SpaceAfter=No|Translit=chēng|LTranslit=chēng
 34	之	之	PRON	PRD	_	47	nsubj	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 35	為	為	AUX	VC	_	47	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-36	「	「	PUNCT	``	_	47	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+36	「	「	PUNCT	``	_	47	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 37	40多	40多	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No|Translit=40duō|LTranslit=40duō
 38	年	年	NOUN	NNB	_	47	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 39	來	來	ADP	IN	_	38	acl	_	SpaceAfter=No|Translit=lái|LTranslit=lái
@@ -3387,17 +3387,17 @@
 45	人心	人心	NOUN	NN	_	44	obj	_	SpaceAfter=No|Translit=rénxīn|LTranslit=rénxīn
 46	的	的	PART	DEC	_	44	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 47	發現	發現	NOUN	NN	_	33	ccomp	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn
-48	」	」	PUNCT	''	_	47	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+48	」	」	PUNCT	''	_	47	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 49	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s111
 # text = 「文化大革命」中各級教育行政機構陷入癱瘓，1978年後恢複發展。
-# translit = “wénhuàdàgémìng”zhōnggèjíjiàoyùxíngzhèngjīgòuxiànrù癱瘓,1978niánhòuhuīfùfāzhǎn.
-1	「	「	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+# translit = ‘wénhuàdàgémìng’zhōnggèjíjiàoyùxíngzhèngjīgòuxiànrù癱瘓,1978niánhòuhuīfùfāzhǎn.
+1	「	「	PUNCT	``	_	4	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 2	文化	文化	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=wénhuà|LTranslit=wénhuà
 3	大	大	PART	PFA	_	4	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 4	革命	革命	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=gémìng|LTranslit=gémìng
-5	」	」	PUNCT	''	_	4	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+5	」	」	PUNCT	''	_	4	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 6	中	中	ADP	IN	_	4	acl	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 7	各級	各級	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=gèjí|LTranslit=gèjí
 8	教育	教育	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=jiàoyù|LTranslit=jiàoyù
@@ -3415,18 +3415,18 @@
 
 # sent_id = dev-s112
 # text = 「南曲戲文」跟宋金「北曲雜劇」有很大不同，它在表演的體制與結構上都要比雜劇來得自由，可以根據劇情需要作不同選擇，具備了戲劇的特徵。
-# translit = “nánqūxìwén”gēn宋jīn“běiqūzájù”yǒuhěndàbùtóng,tāzàibiǎoyǎndetǐzhìyǔjiégòushàngdōuyàobǐzájùláidezìyóu,kěyǐgēnjùjùqíngxūyàozuòbùtóngxuǎnzé,jùbèilexìjùdetè徵.
-1	「	「	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+# translit = ‘nánqūxìwén’gēn宋jīn‘běiqūzájù’yǒuhěndàbùtóng,tāzàibiǎoyǎndetǐzhìyǔjiégòushàngdōuyàobǐzájùláidezìyóu,kěyǐgēnjùjùqíngxūyàozuòbùtóngxuǎnzé,jùbèilexìjùdetè徵.
+1	「	「	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 2	南曲	南曲	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=nánqū|LTranslit=nánqū
 3	戲文	戲文	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=xìwén|LTranslit=xìwén
-4	」	」	PUNCT	''	_	3	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+4	」	」	PUNCT	''	_	3	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 5	跟	跟	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 6	宋	宋	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=宋|LTranslit=宋
 7	金	金	PROPN	NNP	_	10	nmod	_	SpaceAfter=No|Translit=jīn|LTranslit=jīn
-8	「	「	PUNCT	``	_	10	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+8	「	「	PUNCT	``	_	10	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 9	北曲	北曲	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=běiqū|LTranslit=běiqū
 10	雜劇	雜劇	NOUN	NN	_	12	obl	_	SpaceAfter=No|Translit=zájù|LTranslit=zájù
-11	」	」	PUNCT	''	_	10	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+11	」	」	PUNCT	''	_	10	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 12	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 13	很大	很大	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit=hěndà|LTranslit=hěndà
 14	不同	不同	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
@@ -3631,7 +3631,7 @@
 33	選區	選區	NOUN	NN	_	34	obl	_	SpaceAfter=No|Translit=xuǎnqū|LTranslit=xuǎnqū
 34	負責	負責	VERB	VV	_	38	advcl	_	SpaceAfter=No|Translit=fùzé|LTranslit=fùzé
 35	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-36	不會	不會	AUX	MD	_	38	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+36	不會	會	AUX	MD	Polarity=Neg	38	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 37	去	去	VERB	VV	_	38	mark	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 38	考量	考量	VERB	VV	_	29	ccomp	_	SpaceAfter=No|Translit=kǎoliàng|LTranslit=kǎoliàng
 39	整體	整體	NOUN	NN	_	40	nmod	_	SpaceAfter=No|Translit=zhěngtǐ|LTranslit=zhěngtǐ
@@ -3650,7 +3650,7 @@
 
 # sent_id = dev-s118
 # text = 戰爭結束時，狄托下令所有超過27歲的士兵復員，將軍隊規模縮編為一半，並按照蘇聯模式組成新軍，在南斯拉夫的觀點中，蘇聯紅軍不僅是最優秀的，更重要的是，它是一支「社會主義的軍隊」。
-# translit = zhànzhēngjiéshùshí,狄tuōxiàlìngsuǒyǒuchāoguò27suìdeshìbīngfùyuán,jiāngjūnduìguīmósuōbiānwèiyībàn,bìng'ànzhàosūliánmóshìzǔchéngxīnjūn,zàinánsīlāfudeguāndiǎnzhōng,sūliánhóngjūnbùjǐnshìzuìyōuxiùde,gèngzhòngyàodeshì,tāshìyīzhī“shèhuìzhǔyìdejūnduì”.
+# translit = zhànzhēngjiéshùshí,狄tuōxiàlìngsuǒyǒuchāoguò27suìdeshìbīngfùyuán,jiāngjūnduìguīmósuōbiānwèiyībàn,bìng'ànzhàosūliánmóshìzǔchéngxīnjūn,zàinánsīlāfudeguāndiǎnzhōng,sūliánhóngjūnbùjǐnshìzuìyōuxiùde,gèngzhòngyàodeshì,tāshìyīzhī‘shèhuìzhǔyìdejūnduì’.
 1	戰爭	戰爭	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
 2	結束	結束	VERB	VV	_	26	advcl	_	SpaceAfter=No|Translit=jiéshù|LTranslit=jiéshù
 3	時	時	ADP	IN	_	2	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -3702,12 +3702,12 @@
 49	是	是	AUX	VC	_	56	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 50	一	一	NUM	CD	NumType=Card	51	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 51	支	支	NOUN	NNB	_	56	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
-52	「	「	PUNCT	``	_	56	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+52	「	「	PUNCT	``	_	56	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 53	社會	社會	NOUN	NN	_	54	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
 54	主義	主義	NOUN	NN	_	56	nmod	_	SpaceAfter=No|Translit=zhǔyì|LTranslit=zhǔyì
 55	的	的	PART	DEC	Case=Gen	54	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 56	軍隊	軍隊	NOUN	NN	_	46	ccomp	_	SpaceAfter=No|Translit=jūnduì|LTranslit=jūnduì
-57	」	」	PUNCT	''	_	56	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+57	」	」	PUNCT	''	_	56	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 58	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s119
@@ -4207,7 +4207,7 @@
 
 # sent_id = dev-s137
 # text = 2008年11月，南車四方機車車輛股份獲國家發改委批准，設立「高速列車系統集成國家工程實驗室」，主力建設包含高速列車系統集成、轉向架綜合、電磁兼容綜合、車體綜合和環境綜合等研發試驗設施的高速列車研發實驗基地..
-# translit = 2008nián11yuè,nánchēsìfāngjīchēchēliànggǔfènhuòguójiāfāgǎiwěipīzhǔn,shèlì“gāosùlièchēxìtǒngjíchéngguójiāgōngchéngshíyànshì”,zhǔlìjiànshèbāohángāosùlièchēxìtǒngjíchéng,zhuǎnxiàngjiàzōnghé,diàncíjiānróngzōnghé,chētǐzōnghéhéhuánjìngzōnghéděngyánfāshìyànshèshīdegāosùlièchēyánfāshíyànjīde..
+# translit = 2008nián11yuè,nánchēsìfāngjīchēchēliànggǔfènhuòguójiāfāgǎiwěipīzhǔn,shèlì‘gāosùlièchēxìtǒngjíchéngguójiāgōngchéngshíyànshì’,zhǔlìjiànshèbāohángāosùlièchēxìtǒngjíchéng,zhuǎnxiàngjiàzōnghé,diàncíjiānróngzōnghé,chētǐzōnghéhéhuánjìngzōnghéděngyánfāshìyànshèshīdegāosùlièchēyánfāshíyànjīde..
 1	2008	2008	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2008|LTranslit=2008
 2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
@@ -4224,7 +4224,7 @@
 14	批准	批准	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=pīzhǔn|LTranslit=pīzhǔn
 15	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	設立	設立	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=shèlì|LTranslit=shèlì
-17	「	「	PUNCT	``	_	25	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+17	「	「	PUNCT	``	_	25	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 18	高速	高速	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=gāosù|LTranslit=gāosù
 19	列車	列車	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=lièchē|LTranslit=lièchē
 20	系統	系統	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
@@ -4233,7 +4233,7 @@
 23	工程	工程	NOUN	NN	_	25	nmod	_	SpaceAfter=No|Translit=gōngchéng|LTranslit=gōngchéng
 24	實驗	實驗	VERB	VV	_	25	compound	_	SpaceAfter=No|Translit=shíyàn|LTranslit=shíyàn
 25	室	室	PART	SFN	_	16	obj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-26	」	」	PUNCT	''	_	25	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+26	」	」	PUNCT	''	_	25	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 27	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 28	主力	主力	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=zhǔlì|LTranslit=zhǔlì
 29	建設	建設	NOUN	NN	_	30	nsubj	_	SpaceAfter=No|Translit=jiànshè|LTranslit=jiànshè
@@ -4994,7 +4994,7 @@
 
 # sent_id = dev-s166
 # text = 除了他的眼罩，賈霸最出名的就是他的大勾手投籃，其他球員幾乎很難防守其勾手，他也因此被稱為「天勾賈霸」。
-# translit = chúletādeyǎnzhào,賈bàzuìchūmíngdejiùshìtādedàgōushǒutóulán,qítāqiúyuánjǐhuhěnnánfángshǒuqígōushǒu,tāyěyīncǐbèichēngwèi“tiāngōu賈bà”.
+# translit = chúletādeyǎnzhào,賈bàzuìchūmíngdejiùshìtādedàgōushǒutóulán,qítāqiúyuánjǐhuhěnnánfángshǒuqígōushǒu,tāyěyīncǐbèichēngwèi‘tiāngōu賈bà’.
 1	除	除	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chú|LTranslit=chú
 2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 3	他	他	PRON	PRP	Person=3	5	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -5027,10 +5027,10 @@
 30	被	被	AUX	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 31	稱	稱	VERB	VV	_	11	parataxis	_	SpaceAfter=No|Translit=chēng|LTranslit=chēng
 32	為	為	VERB	VC	_	31	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-33	「	「	PUNCT	``	_	35	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+33	「	「	PUNCT	``	_	35	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 34	天勾	天勾	NOUN	NN	_	35	nmod	_	SpaceAfter=No|Translit=tiāngōu|LTranslit=tiāngōu
 35	賈霸	賈霸	PROPN	NNP	_	31	obj	_	SpaceAfter=No|Translit=賈bà|LTranslit=賈bà
-36	」	」	PUNCT	''	_	35	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+36	」	」	PUNCT	''	_	35	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 37	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s167
@@ -5097,7 +5097,7 @@
 
 # sent_id = dev-s169
 # text = 橋東頭則立有乾隆帝題寫的「盧溝曉月」碑。
-# translit = qiáodōngtóuzélìyǒu乾lóngdìtíxiěde“盧gōuxiǎoyuè”bēi.
+# translit = qiáodōngtóuzélìyǒu乾lóngdìtíxiěde‘盧gōuxiǎoyuè’bēi.
 1	橋	橋	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=qiáo|LTranslit=qiáo
 2	東頭	東頭	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=dōngtóu|LTranslit=dōngtóu
 3	則	則	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
@@ -5106,10 +5106,10 @@
 6	帝	帝	PART	SFN	_	7	nsubj	_	SpaceAfter=No|Translit=dì|LTranslit=dì
 7	題寫	題寫	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=tíxiě|LTranslit=tíxiě
 8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-9	「	「	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+9	「	「	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 10	盧溝	盧溝	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=盧gōu|LTranslit=盧gōu
 11	曉月	曉月	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=xiǎoyuè|LTranslit=xiǎoyuè
-12	」	」	PUNCT	''	_	11	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+12	」	」	PUNCT	''	_	11	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 13	碑	碑	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=bēi|LTranslit=bēi
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -5959,15 +5959,15 @@
 
 # sent_id = dev-s202
 # text = 然而，更多的「蓋梯爾式」的反例被製造出來，使得附加了各種額外要求的JTB理論仍然無法準確地描述「知道」這個概念。
-# translit = rán'ér,gèngduōde“gàitī'ěrshì”defǎnlìbèizhìzàochūlái,shǐdefùjiālegèzhǒng'éwàiyàoqiúdeJTBlǐlùnréngránwúfǎzhǔnquèdemiáoshù“zhīdào”zhègègàiniàn.
+# translit = rán'ér,gèngduōde‘gàitī'ěrshì’defǎnlìbèizhìzàochūlái,shǐdefùjiālegèzhǒng'éwàiyàoqiúdeJTBlǐlùnréngránwúfǎzhǔnquèdemiáoshù‘zhīdào’zhègègàiniàn.
 1	然而	然而	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	更多	更多	ADJ	JJ	_	10	acl:relcl	_	SpaceAfter=No|Translit=gèngduō|LTranslit=gèngduō
 4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+5	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 6	蓋梯爾	蓋梯爾	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=gàitī'ěr|LTranslit=gàitī'ěr
 7	式	式	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 9	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	反例	反例	NOUN	NN	_	12	nsubj:pass	_	SpaceAfter=No|Translit=fǎnlì|LTranslit=fǎnlì
 11	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -5988,9 +5988,9 @@
 26	準確	準確	ADJ	JJ	_	28	advmod	_	SpaceAfter=No|Translit=zhǔnquè|LTranslit=zhǔnquè
 27	地	地	PART	DEV	_	26	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 28	描述	描述	VERB	VV	_	25	xcomp	_	SpaceAfter=No|Translit=miáoshù|LTranslit=miáoshù
-29	「	「	PUNCT	``	_	30	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+29	「	「	PUNCT	``	_	30	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 30	知道	知道	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
-31	」	」	PUNCT	''	_	30	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+31	」	」	PUNCT	''	_	30	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 32	這	這	DET	DT	_	33	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 33	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 34	概念	概念	NOUN	NN	_	30	appos	_	SpaceAfter=No|Translit=gàiniàn|LTranslit=gàiniàn
@@ -6048,7 +6048,7 @@
 
 # sent_id = dev-s205
 # text = 異端裁判所的正式名稱為「最高宗教法庭」，其目的在於抑制異端的興起，防止教會的分裂。
-# translit = yìduāncáipànsuǒdezhèngshìmíngchēngwèi“zuìgāozōngjiàofǎtíng”,qímùdezàiyúyìzhìyìduāndexìngqǐ,fángzhǐjiàohuìdefēnliè.
+# translit = yìduāncáipànsuǒdezhèngshìmíngchēngwèi‘zuìgāozōngjiàofǎtíng’,qímùdezàiyúyìzhìyìduāndexìngqǐ,fángzhǐjiàohuìdefēnliè.
 1	異端	異端	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=yìduān|LTranslit=yìduān
 2	裁判	裁判	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=cáipàn|LTranslit=cáipàn
 3	所	所	PART	SFN	_	6	nmod	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
@@ -6056,11 +6056,11 @@
 5	正式	正式	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=zhèngshì|LTranslit=zhèngshì
 6	名稱	名稱	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=míngchēng|LTranslit=míngchēng
 7	為	為	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-8	「	「	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+8	「	「	PUNCT	``	_	11	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 9	最高	最高	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=zuìgāo|LTranslit=zuìgāo
 10	宗教	宗教	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=zōngjiào|LTranslit=zōngjiào
 11	法庭	法庭	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=fǎtíng|LTranslit=fǎtíng
-12	」	」	PUNCT	''	_	11	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+12	」	」	PUNCT	''	_	11	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 13	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	其	其	PRON	PRP	Person=3	15	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 15	目的	目的	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=mùde|LTranslit=mùde
@@ -6970,7 +6970,7 @@
 9	廢氣	廢氣	NOUN	NN	_	5	conj	_	SpaceAfter=No|Translit=fèiqì|LTranslit=fèiqì
 10	等	等	NOUN	NN	_	5	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 11	都	都	ADV	RB	_	13	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-12	不會	不會	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+12	不會	會	AUX	MD	Polarity=Neg	13	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 13	排放	排放	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=páifàng|LTranslit=páifàng
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -7792,7 +7792,7 @@
 
 # sent_id = dev-s264
 # text = 1956年2月28日在日本東京成立的海外台獨組織「台灣共和國臨時政府」，其領導人稱為「大統領」，但未獲承認。
-# translit = 1956nián2yuè28rìzàirìběndōngjīngchénglìdehǎiwàitáidúzǔzhī“táiwāngònghéguólínshízhèngfǔ”,qílǐngdǎorénchēngwèi“dàtǒnglǐng”,dànwèihuòchéngrèn.
+# translit = 1956nián2yuè28rìzàirìběndōngjīngchénglìdehǎiwàitáidúzǔzhī‘táiwāngònghéguólínshízhèngfǔ’,qílǐngdǎorénchēngwèi‘dàtǒnglǐng’,dànwèihuòchéngrèn.
 1	1956	1956	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1956|LTranslit=1956
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	2	2	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
@@ -7808,23 +7808,23 @@
 13	台	台	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=tái|LTranslit=tái
 14	獨	獨	VERB	VV	_	15	amod	_	SpaceAfter=No|Translit=dú|LTranslit=dú
 15	組織	組織	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zǔzhī|LTranslit=zǔzhī
-16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 17	台灣	台灣	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=táiwān|LTranslit=táiwān
 18	共和	共和	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=gònghé|LTranslit=gònghé
 19	國	國	PART	SFN	_	21	nmod	_	SpaceAfter=No|Translit=guó|LTranslit=guó
 20	臨時	臨時	ADJ	JJ	_	21	amod	_	SpaceAfter=No|Translit=línshí|LTranslit=línshí
 21	政府	政府	NOUN	NN	_	15	appos	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
-22	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+22	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 23	，	，	PUNCT	,	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	其	其	PRON	PRP	Person=3	26	nmod	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 25	領導	領導	VERB	VV	_	26	compound	_	SpaceAfter=No|Translit=lǐngdǎo|LTranslit=lǐngdǎo
 26	人	人	PART	SFN	_	35	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 27	稱	稱	VERB	VV	_	35	advcl	_	SpaceAfter=No|Translit=chēng|LTranslit=chēng
 28	為	為	VERB	VC	_	27	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-29	「	「	PUNCT	``	_	31	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+29	「	「	PUNCT	``	_	31	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 30	大	大	PART	PFA	_	31	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 31	統領	統領	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=tǒnglǐng|LTranslit=tǒnglǐng
-32	」	」	PUNCT	''	_	31	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+32	」	」	PUNCT	''	_	31	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 33	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	但	但	ADV	RB	_	35	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 35	未獲	未獲	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=wèihuò|LTranslit=wèihuò
@@ -8247,15 +8247,15 @@
 
 # sent_id = dev-s279
 # text = 鏡頭回到「很遠很遠的王國」，費歐娜也受到神水的影響暈了過去。
-# translit = jìngtóuhuídào“hěnyuǎnhěnyuǎndewángguó”,fèi'ōu娜yěshòudàoshénshuǐdeyǐngxiǎngyūnleguòqù.
+# translit = jìngtóuhuídào‘hěnyuǎnhěnyuǎndewángguó’,fèi'ōu娜yěshòudàoshénshuǐdeyǐngxiǎngyūnleguòqù.
 1	鏡頭	鏡頭	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=jìngtóu|LTranslit=jìngtóu
 2	回到	回到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huídào|LTranslit=huídào
-3	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+3	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 4	很遠	很遠	ADJ	JJ	_	5	advcl	_	SpaceAfter=No|Translit=hěnyuǎn|LTranslit=hěnyuǎn
 5	很遠	很遠	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=hěnyuǎn|LTranslit=hěnyuǎn
 6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	王國	王國	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=wángguó|LTranslit=wángguó
-8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+8	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 9	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	費歐娜	費歐娜	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit=fèi'ōu娜|LTranslit=fèi'ōu娜
 11	也	也	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -8686,7 +8686,7 @@
 
 # sent_id = dev-s295
 # text = 關於精靈之眼的介紹，將在下方『魔法』條目中會詳以敘述。
-# translit = guānyújīnglíngzhīyǎndejièshào,jiāngzàixiàfāng『mófǎ』tiáomùzhōnghuìxiángyǐxùshù.
+# translit = guānyújīnglíngzhīyǎndejièshào,jiāngzàixiàfāng“mófǎ”tiáomùzhōnghuìxiángyǐxùshù.
 1	關於	關於	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=guānyú|LTranslit=guānyú
 2	精靈	精靈	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=jīnglíng|LTranslit=jīnglíng
 3	之	之	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
@@ -8697,9 +8697,9 @@
 8	將	將	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 9	在	在	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 10	下方	下方	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=xiàfāng|LTranslit=xiàfāng
-11	『	『	PUNCT	``	_	12	punct	_	SpaceAfter=No|Translit=『|LTranslit=『
+11	『	『	PUNCT	``	_	12	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 12	魔法	魔法	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=mófǎ|LTranslit=mófǎ
-13	』	』	PUNCT	''	_	12	punct	_	SpaceAfter=No|Translit=』|LTranslit=』
+13	』	』	PUNCT	''	_	12	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 14	條目	條目	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=tiáomù|LTranslit=tiáomù
 15	中	中	ADP	IN	_	14	acl	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 16	會	會	AUX	MD	_	19	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
@@ -8808,7 +8808,7 @@
 
 # sent_id = dev-s300
 # text = 約11世紀，苯教大師賢欽魯噶的弟子許耶羅布興建了一座名叫「吉卡日香」的苯教寺院。
-# translit = yuē11shìjì,苯jiàodàshī賢qīnlǔ噶dedìzixǔyéluóbùxìngjiànleyīzuòmíngjiào“jíkǎrìxiāng”de苯jiàosìyuàn.
+# translit = yuē11shìjì,苯jiàodàshī賢qīnlǔ噶dedìzixǔyéluóbùxìngjiànleyīzuòmíngjiào‘jíkǎrìxiāng’de苯jiàosìyuàn.
 1	約	約	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=yuē|LTranslit=yuē
 2	11	11	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 3	世紀	世紀	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
@@ -8825,9 +8825,9 @@
 14	座	座	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 15	名	名	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 16	叫	叫	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
-17	「	「	PUNCT	``	_	18	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+17	「	「	PUNCT	``	_	18	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 18	吉卡日香	吉卡日香	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=jíkǎrìxiāng|LTranslit=jíkǎrìxiāng
-19	」	」	PUNCT	''	_	18	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+19	」	」	PUNCT	''	_	18	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 20	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	苯教	苯教	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|Translit=苯jiào|LTranslit=苯jiào
 22	寺院	寺院	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=sìyuàn|LTranslit=sìyuàn
@@ -9805,7 +9805,7 @@
 
 # sent_id = dev-s335
 # text = 三桂治軍嚴謹，精銳騎兵一千人，分二十隊，五十人一隊，每隊設一領騎官，吳三桂在自己的靴筒上放這二十名領騎官姓名，一旦抽中誰，便呼叫某領騎官，該領騎官即統五十人騎隊，跟隨他衝鋒陷陣，可謂「無往不利」，是明末最後一支有戰力的鐵騎部隊。
-# translit = sān桂zhìjūnyánjǐn,jīngruìqíbīngyīqiānrén,fēn'èrshíduì,wǔshírényīduì,měiduìshèyīlǐngqíguān,吳sān桂zàizìjǐdexuētǒngshàngfàngzhè'èrshímínglǐngqíguānxìngmíng,yīdànchōuzhōngshuí,biànhūjiàomǒulǐngqíguān,gāilǐngqíguānjítǒngwǔshírénqíduì,gēnsuítā衝fēngxiànzhèn,kěwèi“wúwǎngbùlì”,shìmíngmòzuìhòuyīzhīyǒuzhànlìdetiěqíbùduì.
+# translit = sān桂zhìjūnyánjǐn,jīngruìqíbīngyīqiānrén,fēn'èrshíduì,wǔshírényīduì,měiduìshèyīlǐngqíguān,吳sān桂zàizìjǐdexuētǒngshàngfàngzhè'èrshímínglǐngqíguānxìngmíng,yīdànchōuzhōngshuí,biànhūjiàomǒulǐngqíguān,gāilǐngqíguānjítǒngwǔshírénqíduì,gēnsuítā衝fēngxiànzhèn,kěwèi‘wúwǎngbùlì’,shìmíngmòzuìhòuyīzhīyǒuzhànlìdetiěqíbùduì.
 1	三桂	三桂	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
 2	治軍	治軍	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhìjūn|LTranslit=zhìjūn
 3	嚴謹	嚴謹	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=yánjǐn|LTranslit=yánjǐn
@@ -9871,9 +9871,9 @@
 63	，	，	PUNCT	,	_	54	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 64	可	可	AUX	MD	_	65	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
 65	謂	謂	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-66	「	「	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+66	「	「	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 67	無往不利	無往不利	ADJ	JJ	_	65	xcomp	_	SpaceAfter=No|Translit=wúwǎngbùlì|LTranslit=wúwǎngbùlì
-68	」	」	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+68	」	」	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 69	，	，	PUNCT	,	_	80	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 70	是	是	AUX	VC	_	80	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 71	明	明	PROPN	NNP	_	80	nmod	_	SpaceAfter=No|Translit=míng|LTranslit=míng
@@ -10056,7 +10056,7 @@
 
 # sent_id = dev-s342
 # text = 2004年初，吳金貴被調入中國國家足球隊，出任荷蘭主教練阿里·哈恩的助理，但是很快因為對於「業務的不同意見」而離開。
-# translit = 2004niánchū,吳jīnguìbèidiàorùzhōngguóguójiāzúqiúduì,chūrènhélánzhǔjiàoliàn'ālǐ·hā'ēndezhùlǐ,dànshìhěnkuàiyīnwèiduìyú“yèwudebùtóngyìjiàn”'érlíkāi.
+# translit = 2004niánchū,吳jīnguìbèidiàorùzhōngguóguójiāzúqiúduì,chūrènhélánzhǔjiàoliàn'ālǐ·hā'ēndezhùlǐ,dànshìhěnkuàiyīnwèiduìyú‘yèwudebùtóngyìjiàn’'érlíkāi.
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2004|LTranslit=2004
 2	年	年	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	初	初	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=chū|LTranslit=chū
@@ -10084,12 +10084,12 @@
 25	很快	很快	ADV	RB	_	35	advmod	_	SpaceAfter=No|Translit=hěnkuài|LTranslit=hěnkuài
 26	因為	因為	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 27	對於	對於	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=duìyú|LTranslit=duìyú
-28	「	「	PUNCT	``	_	32	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+28	「	「	PUNCT	``	_	32	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 29	業務	業務	NOUN	NN	_	32	nmod	_	SpaceAfter=No|Translit=yèwu|LTranslit=yèwu
 30	的	的	PART	DEC	Case=Gen	29	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 31	不同	不同	ADJ	JJ	_	32	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 32	意見	意見	NOUN	NN	_	35	obl	_	SpaceAfter=No|Translit=yìjiàn|LTranslit=yìjiàn
-33	」	」	PUNCT	''	_	32	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+33	」	」	PUNCT	''	_	32	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 34	而	而	ADV	RB	_	35	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 35	離開	離開	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
 36	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -10186,7 +10186,7 @@
 
 # sent_id = dev-s347
 # text = 因為天生身體虛弱，從沒在「夜之社交界」裡出現過。
-# translit = yīnwèitiānshēngshēntǐxūruò,cóngméizài“yèzhīshèjiāojiè”lichūxiànguò.
+# translit = yīnwèitiānshēngshēntǐxūruò,cóngméizài‘yèzhīshèjiāojiè’lichūxiànguò.
 1	因為	因為	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 2	天生	天生	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=tiānshēng|LTranslit=tiānshēng
 3	身體	身體	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=shēntǐ|LTranslit=shēntǐ
@@ -10195,12 +10195,12 @@
 6	從	從	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 7	沒	沒	ADV	RB	Polarity=Neg	16	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 8	在	在	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-9	「	「	PUNCT	``	_	13	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+9	「	「	PUNCT	``	_	13	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 10	夜	夜	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=yè|LTranslit=yè
 11	之	之	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 12	社交	社交	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=shèjiāo|LTranslit=shèjiāo
 13	界	界	PART	SFN	_	16	obl	_	SpaceAfter=No|Translit=jiè|LTranslit=jiè
-14	」	」	PUNCT	''	_	13	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+14	」	」	PUNCT	''	_	13	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 15	裡	裡	ADP	IN	_	13	acl	_	SpaceAfter=No|Translit=li|LTranslit=li
 16	出現	出現	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
 17	過	過	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
@@ -10754,7 +10754,7 @@
 
 # sent_id = dev-s367
 # text = 晚年留居北京，常與恩施樊增祥、應山左紹佐以詩文唱和，號「楚中三老」。
-# translit = wǎnniánliújūběijīng,chángyǔ'ēnshī樊zēngxiáng,yīngshānzuǒshào佐yǐshīwénchànghé,hào“chuzhōngsānlǎo”.
+# translit = wǎnniánliújūběijīng,chángyǔ'ēnshī樊zēngxiáng,yīngshānzuǒshào佐yǐshīwénchànghé,hào‘chuzhōngsānlǎo’.
 1	晚年	晚年	NOUN	NN	_	2	nmod:tmod	_	SpaceAfter=No|Translit=wǎnnián|LTranslit=wǎnnián
 2	留居	留居	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=liújū|LTranslit=liújū
 3	北京	北京	PROPN	NNP	_	2	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
@@ -10773,11 +10773,11 @@
 16	唱和	唱和	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=chànghé|LTranslit=chànghé
 17	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	號	號	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hào|LTranslit=hào
-19	「	「	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+19	「	「	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 20	楚中	楚中	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|Translit=chuzhōng|LTranslit=chuzhōng
 21	三	三	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
 22	老	老	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=lǎo|LTranslit=lǎo
-23	」	」	PUNCT	''	_	22	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+23	」	」	PUNCT	''	_	22	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 24	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s368
@@ -11092,7 +11092,7 @@
 # text = 他們不分戰爭的社會根源，認為通過和平談判和協商就能解決雙方的暴力。
 # translit = tāmenbùfēnzhànzhēngdeshèhuìgēnyuán,rènwèitōngguòhépíngtánpànhéxiéshāngjiùnéngjiějuéshuāngfāngdebàolì.
 1	他們	他	PRON	PRP	Number=Plur|Person=3	8	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
-2	不分	不分	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=bùfēn|LTranslit=bùfēn
+2	不分	分	VERB	VV	Polarity=Neg	8	advcl	_	SpaceAfter=No|Translit=bùfēn|LTranslit=fēn
 3	戰爭	戰爭	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	社會	社會	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
@@ -11418,7 +11418,7 @@
 
 # sent_id = dev-s390
 # text = 哈公，香港作家、電影編導、傳媒工作者，原名許國、許子賓，潮汕人，一說是閩南泉州人（潮州話和泉州話都屬於閩南語系，和泉州話有很多完全相同，比如「你」、「魚」、「舉」、「話」、「同」等字音）。
-# translit = hāgōng,xiānggǎngzuòjiā,diànyǐngbiāndǎo,chuánméigōngzuòzhě,yuánmíngxǔguó,xǔzibīn,cháo汕rén,yīshuōshì閩nánquánzhōurén(cháozhōuhuàhéquánzhōuhuàdōushǔyú閩nányǔxì,héquánzhōuhuàyǒuhěnduōwánquánxiāngtóng,bǐrú“nǐ”,“yú”,“jǔ”,“huà”,“tóng”děngzìyīn).
+# translit = hāgōng,xiānggǎngzuòjiā,diànyǐngbiāndǎo,chuánméigōngzuòzhě,yuánmíngxǔguó,xǔzibīn,cháo汕rén,yīshuōshì閩nánquánzhōurén(cháozhōuhuàhéquánzhōuhuàdōushǔyú閩nányǔxì,héquánzhōuhuàyǒuhěnduōwánquánxiāngtóng,bǐrú‘nǐ’,‘yú’,‘jǔ’,‘huà’,‘tóng’děngzìyīn).
 1	哈公	哈公	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=hāgōng|LTranslit=hāgōng
 2	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	香港	香港	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
@@ -11468,25 +11468,25 @@
 47	相同	相同	ADJ	JJ	_	44	ccomp	_	SpaceAfter=No|Translit=xiāngtóng|LTranslit=xiāngtóng
 48	，	，	PUNCT	,	_	44	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 49	比如	比如	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=bǐrú|LTranslit=bǐrú
-50	「	「	PUNCT	``	_	51	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+50	「	「	PUNCT	``	_	51	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 51	你	你	NOUN	NN	_	49	obj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
-52	」	」	PUNCT	''	_	51	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+52	」	」	PUNCT	''	_	51	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 53	、	、	PUNCT	EC	_	55	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-54	「	「	PUNCT	``	_	55	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+54	「	「	PUNCT	``	_	55	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 55	魚	魚	NOUN	NN	_	51	conj	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-56	」	」	PUNCT	''	_	55	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+56	」	」	PUNCT	''	_	55	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 57	、	、	PUNCT	EC	_	59	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-58	「	「	PUNCT	``	_	59	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+58	「	「	PUNCT	``	_	59	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 59	舉	舉	NOUN	NN	_	51	conj	_	SpaceAfter=No|Translit=jǔ|LTranslit=jǔ
-60	」	」	PUNCT	''	_	59	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+60	」	」	PUNCT	''	_	59	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 61	、	、	PUNCT	EC	_	63	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-62	「	「	PUNCT	``	_	63	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+62	「	「	PUNCT	``	_	63	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 63	話	話	NOUN	NN	_	51	conj	_	SpaceAfter=No|Translit=huà|LTranslit=huà
-64	」	」	PUNCT	''	_	63	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+64	」	」	PUNCT	''	_	63	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 65	、	、	PUNCT	EC	_	67	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-66	「	「	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+66	「	「	PUNCT	``	_	67	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 67	同	同	NOUN	NN	_	51	conj	_	SpaceAfter=No|Translit=tóng|LTranslit=tóng
-68	」	」	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+68	」	」	PUNCT	''	_	67	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 69	等	等	NOUN	NN	_	51	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 70	字音	字音	NOUN	NN	_	51	appos	_	SpaceAfter=No|Translit=zìyīn|LTranslit=zìyīn
 71	）	）	PUNCT	)	_	49	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -11665,7 +11665,7 @@
 
 # sent_id = dev-s397
 # text = 哈爾濱正處於金融業加速期，其金融業的「利基市場」成為國內外銀行紛紛鎖定的一塊肥碩蛋糕。
-# translit = hā'ěrbīnzhèngchùyújīnróngyèjiāsùqī,qíjīnróngyède“lìjīshìchǎng”chéngwèiguónèiwàiyínxíngfēnfēnsuǒdìngdeyīkuàiféi碩dàngāo.
+# translit = hā'ěrbīnzhèngchùyújīnróngyèjiāsùqī,qíjīnróngyède‘lìjīshìchǎng’chéngwèiguónèiwàiyínxíngfēnfēnsuǒdìngdeyīkuàiféi碩dàngāo.
 1	哈爾濱	哈爾濱	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=hā'ěrbīn|LTranslit=hā'ěrbīn
 2	正	正	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zhèng|LTranslit=zhèng
 3	處	處	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chù|LTranslit=chù
@@ -11679,10 +11679,10 @@
 11	金融	金融	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=jīnróng|LTranslit=jīnróng
 12	業	業	PART	SFN	_	16	nmod	_	SpaceAfter=No|Translit=yè|LTranslit=yè
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-14	「	「	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+14	「	「	PUNCT	``	_	16	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 15	利基	利基	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=lìjī|LTranslit=lìjī
 16	市場	市場	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=shìchǎng|LTranslit=shìchǎng
-17	」	」	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+17	」	」	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 18	成	成	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 19	為	為	VERB	VC	_	18	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 20	國內外	國內外	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=guónèiwài|LTranslit=guónèiwài
@@ -12513,7 +12513,7 @@
 
 # sent_id = dev-s426
 # text = 唐詩詠中學時開始兼職模特兒，直至2000年參演「香港電台」的電視劇《青春@Y2K》同期演員有余文樂、蔡卓妍、黎國輝等。
-# translit = tángshī詠zhōngxuéshíkāishǐjiānzhímótèr,zhízhì2000niáncānyǎn“xiānggǎngdiàntái”dediànshìjù«qīngchūn@Y2K»tóngqīyǎnyuányǒuyúwénlè,蔡卓妍,líguóhuīděng.
+# translit = tángshī詠zhōngxuéshíkāishǐjiānzhímótèr,zhízhì2000niáncānyǎn‘xiānggǎngdiàntái’dediànshìjù«qīngchūn@Y2K»tóngqīyǎnyuányǒuyúwénlè,蔡卓妍,líguóhuīděng.
 1	唐	唐	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=táng|LTranslit=táng
 2	詩詠	詩詠	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=shī詠|LTranslit=shī詠
 3	中學	中學	NOUN	NN	_	5	obl	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
@@ -12526,10 +12526,10 @@
 10	2000	2000	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=2000|LTranslit=2000
 11	年	年	NOUN	NNB	_	12	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 12	參演	參演	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=cānyǎn|LTranslit=cānyǎn
-13	「	「	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+13	「	「	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 14	香港	香港	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 15	電台	電台	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=diàntái|LTranslit=diàntái
-16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 17	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 18	電視	電視	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=diànshì|LTranslit=diànshì
 19	劇	劇	PART	SFN	_	12	obj	_	SpaceAfter=No|Translit=jù|LTranslit=jù
@@ -12554,7 +12554,7 @@
 
 # sent_id = dev-s427
 # text = 據《淡水廳志》記載：「淡水開墾，自奇里岸（今唭哩岸）始。」
-# translit = jù«dànshuǐtīngzhì»jìzài:“dànshuǐkāikěn,zìqílǐ'àn(jīn唭li'àn)shǐ.”
+# translit = jù«dànshuǐtīngzhì»jìzài:‘dànshuǐkāikěn,zìqílǐ'àn(jīn唭li'àn)shǐ.’
 1	據	據	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=jù|LTranslit=jù
 2	《	《	PUNCT	(	_	5	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 3	淡水	淡水	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=dànshuǐ|LTranslit=dànshuǐ
@@ -12563,7 +12563,7 @@
 6	》	》	PUNCT	)	_	5	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 7	記載	記載	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jìzài|LTranslit=jìzài
 8	：	：	PUNCT	:	_	21	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-9	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+9	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 10	淡水	淡水	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=dànshuǐ|LTranslit=dànshuǐ
 11	開墾	開墾	VERB	VV	_	21	csubj	_	SpaceAfter=No|Translit=kāikěn|LTranslit=kāikěn
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12577,7 +12577,7 @@
 20	）	）	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 21	始	始	ADP	IN	_	7	ccomp	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
-23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = dev-s428
 # text = 唯心論直接相對於唯物論，後者認為世界的基本成分為物質，我們對世界之認識主要是通過物質，並將之視作為一種物質形式與過程。
@@ -13288,7 +13288,7 @@
 
 # sent_id = dev-s456
 # text = 2011年1月8日，她在亞利桑那州圖森市的Safeway超級市場外舉辦「國會就在你的街角」（Congress on Your Corner）活動時遭槍手擊中頭部受重傷，當時被槍手擊中的另外還有18人。
-# translit = 2011nián1yuè8rì,tāzàiyàlìsāngnàzhōutúsēnshìdeSafewaychāojíshìchǎngwàijǔbàn“guóhuìjiùzàinǐdejiējiǎo”(Congress on Your Corner)huódòngshízāoqiāngshǒujīzhōngtóubùshòuzhòngshāng,dāngshíbèiqiāngshǒujīzhōngdelìngwàiháiyǒu18rén.
+# translit = 2011nián1yuè8rì,tāzàiyàlìsāngnàzhōutúsēnshìdeSafewaychāojíshìchǎngwàijǔbàn‘guóhuìjiùzàinǐdejiējiǎo’(Congress on Your Corner)huódòngshízāoqiāngshǒujīzhōngtóubùshòuzhòngshāng,dāngshíbèiqiāngshǒujīzhōngdelìngwàiháiyǒu18rén.
 1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
 2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
@@ -13308,14 +13308,14 @@
 17	市場	市場	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=shìchǎng|LTranslit=shìchǎng
 18	外	外	NOUN	NN	_	17	acl	_	SpaceAfter=No|Translit=wài|LTranslit=wài
 19	舉辦	舉辦	VERB	VV	_	36	advcl	_	SpaceAfter=No|Translit=jǔbàn|LTranslit=jǔbàn
-20	「	「	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+20	「	「	PUNCT	``	_	23	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 21	國會	國會	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=guóhuì|LTranslit=guóhuì
 22	就	就	ADV	RB	_	23	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 23	在	在	VERB	VV	_	19	obj	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 24	你	你	PRON	PRP	Person=2	26	det	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
 25	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	街角	街角	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=jiējiǎo|LTranslit=jiējiǎo
-27	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+27	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 28	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 29	Congress	Congress	X	FW	_	23	appos	_	Translit=Congress|LTranslit=Congress
 30	on	on	X	FW	_	29	flat:foreign	_	Translit=on|LTranslit=on
@@ -13706,7 +13706,7 @@
 
 # sent_id = dev-s471
 # text = 國際友誼博物館是中華人民共和國國家文物局直屬的國家級博物館，「專門收藏、保護、研究和展示新中國對外交往中黨和國家領導人受贈的外交禮品」。
-# translit = guójìyouyìbówùguǎnshìzhōnghuárénmíngònghéguóguójiāwénwùjúzhíshǔdeguójiājíbówùguǎn,“zhuānménshōucáng,bǎohù,yánjiūhézhǎnshìxīnzhōngguóduìwàijiāowǎngzhōngdǎnghéguójiālǐngdǎorénshòu贈dewàijiāolǐpǐn”.
+# translit = guójìyouyìbówùguǎnshìzhōnghuárénmíngònghéguóguójiāwénwùjúzhíshǔdeguójiājíbówùguǎn,‘zhuānménshōucáng,bǎohù,yánjiūhézhǎnshìxīnzhōngguóduìwàijiāowǎngzhōngdǎnghéguójiālǐngdǎorénshòu贈dewàijiāolǐpǐn’.
 1	國際	國際	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
 2	友誼	友誼	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=youyì|LTranslit=youyì
 3	博物	博物	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=bówù|LTranslit=bówù
@@ -13726,7 +13726,7 @@
 17	博物	博物	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=bówù|LTranslit=bówù
 18	館	館	PART	SFN	_	22	advcl	_	SpaceAfter=No|Translit=guǎn|LTranslit=guǎn
 19	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-20	「	「	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+20	「	「	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 21	專門	專門	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=zhuānmén|LTranslit=zhuānmén
 22	收藏	收藏	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shōucáng|LTranslit=shōucáng
 23	、	、	PUNCT	EC	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -13749,7 +13749,7 @@
 40	的	的	PART	DEC	_	39	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 41	外交	外交	NOUN	NN	_	42	nmod	_	SpaceAfter=No|Translit=wàijiāo|LTranslit=wàijiāo
 42	禮品	禮品	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=lǐpǐn|LTranslit=lǐpǐn
-43	」	」	PUNCT	''	_	22	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+43	」	」	PUNCT	''	_	22	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 44	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s472
@@ -13899,13 +13899,13 @@
 
 # sent_id = dev-s477
 # text = 該機構的宗旨為「致力於推動電磁理論及其相關的先進應用，以及在全球範圍促進電磁學的教育和學術交流。」
-# translit = gāijīgòudezōng旨wèi“zhìlìyútuīdòngdiàncílǐlùnjíqíxiāngguāndexiānjìnyīngyòng,yǐjízàiquánqiúfànwéicùjìndiàncíxuédejiàoyùhéxuéshùjiāoliú.”
+# translit = gāijīgòudezōng旨wèi‘zhìlìyútuīdòngdiàncílǐlùnjíqíxiāngguāndexiānjìnyīngyòng,yǐjízàiquánqiúfànwéicùjìndiàncíxuédejiàoyùhéxuéshùjiāoliú.’
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 2	機構	機構	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=jīgòu|LTranslit=jīgòu
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	宗旨	宗旨	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=zōng旨|LTranslit=zōng旨
 5	為	為	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-6	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+6	「	「	PUNCT	``	_	7	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 7	致力	致力	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=zhìlì|LTranslit=zhìlì
 8	於	於	VERB	VV	_	7	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 9	推動	推動	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=tuīdòng|LTranslit=tuīdòng
@@ -13931,7 +13931,7 @@
 29	學術	學術	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=xuéshù|LTranslit=xuéshù
 30	交流	交流	NOUN	NN	_	27	conj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
 31	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
-32	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+32	」	」	PUNCT	''	_	7	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = dev-s478
 # text = 這場戰役於1553年12月25日發生在智利圖卡佩爾。
@@ -14547,7 +14547,7 @@
 
 # sent_id = dev-s498
 # text = 一樓為供學生自習的K書中心，二樓為期刊閱覽室，有數部可上網的電腦供師生查閱、列印資料，並設有咖啡機，三樓為普通閱覽室，四樓為鄰近音樂教室的「紅土藝術空間」與美術教室，五樓為演藝廳。
-# translit = yīlóuwèigōngxuéshēngzìxídeKshūzhōngxīn,'èrlóuwèiqīkānyuèlǎnshì,yǒushùbùkěshàngwǎngdediànnǎogōngshīshēngcháyuè,lièyìnzīliào,bìngshèyǒukāfēijī,sānlóuwèipǔtōngyuèlǎnshì,sìlóuwèilínjìnyīnlèjiàoshìde“hóngtǔyìshùkōngjiān”yǔměishùjiàoshì,wǔlóuwèiyǎnyìtīng.
+# translit = yīlóuwèigōngxuéshēngzìxídeKshūzhōngxīn,'èrlóuwèiqīkānyuèlǎnshì,yǒushùbùkěshàngwǎngdediànnǎogōngshīshēngcháyuè,lièyìnzīliào,bìngshèyǒukāfēijī,sānlóuwèipǔtōngyuèlǎnshì,sìlóuwèilínjìnyīnlèjiàoshìde‘hóngtǔyìshùkōngjiān’yǔměishùjiàoshì,wǔlóuwèiyǎnyìtīng.
 1	一	一	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 2	樓	樓	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=lóu|LTranslit=lóu
 3	為	為	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -14599,11 +14599,11 @@
 49	音樂	音樂	NOUN	NN	_	50	nmod	_	SpaceAfter=No|Translit=yīnlè|LTranslit=yīnlè
 50	教室	教室	NOUN	NN	_	48	obj	_	SpaceAfter=No|Translit=jiàoshì|LTranslit=jiàoshì
 51	的	的	PART	DEC	_	48	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-52	「	「	PUNCT	``	_	55	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+52	「	「	PUNCT	``	_	55	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 53	紅土	紅土	NOUN	NN	_	55	nmod	_	SpaceAfter=No|Translit=hóngtǔ|LTranslit=hóngtǔ
 54	藝術	藝術	NOUN	NN	_	55	nmod	_	SpaceAfter=No|Translit=yìshù|LTranslit=yìshù
 55	空間	空間	NOUN	NN	_	10	parataxis	_	SpaceAfter=No|Translit=kōngjiān|LTranslit=kōngjiān
-56	」	」	PUNCT	''	_	55	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
+56	」	」	PUNCT	''	_	55	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 57	與	與	CCONJ	CC	_	59	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 58	美術	美術	NOUN	NN	_	59	nmod	_	SpaceAfter=No|Translit=měishù|LTranslit=měishù
 59	教室	教室	NOUN	NN	_	55	conj	_	SpaceAfter=No|Translit=jiàoshì|LTranslit=jiàoshì

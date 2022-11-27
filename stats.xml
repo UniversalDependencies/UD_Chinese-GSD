@@ -10,7 +10,7 @@
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20213" /><!-- ，, 的, 。, 在, 年, 是, 為, 、, 一, 於, 和, 了, 他, 個, 人 -->
+  <lemmas unique="20177" /><!-- ，, 的, 。, 在, 年, 是, 為, 、, 一, 於, 和, 了, 他, 個, 人 -->
   <forms unique="20248" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -43,7 +43,7 @@
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">280</feat><!-- 不, 不是, 未, 沒, 別, 無 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">423</feat><!-- 不, 不是, 未, 不會, 不能, 不可, 不得, 不應, 沒, 不及 -->
     <feat name="Voice" value="Cau" upos="ADP,VERB">493</feat><!-- 以, 使, 讓, 使得, 令, 導致, 要求, 派, 派遣, 任命 -->
     <feat name="Voice" value="Pass" upos="AUX">425</feat><!-- 被, 為 -->
   </feats>
@@ -68,7 +68,7 @@
     <dep name="csubj">374</dep>
     <dep name="csubj:pass">6</dep>
     <dep name="det">1509</dep>
-    <dep name="discourse">188</dep>
+    <dep name="discourse">189</dep>
     <dep name="discourse:sp">8</dep>
     <dep name="dislocated">62</dep>
     <dep name="flat:foreign">325</dep>
@@ -91,6 +91,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">4997</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1921</dep>
+    <dep name="xcomp">1920</dep>
   </deps>
 </treebank>
