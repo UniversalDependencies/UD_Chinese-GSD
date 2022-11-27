@@ -7827,7 +7827,7 @@
 32	」	」	PUNCT	''	_	31	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 33	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	但	但	ADV	RB	_	35	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-35	未獲	未獲	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=wèihuò|LTranslit=wèihuò
+35	未獲	獲	VERB	VV	Polarity=Neg	15	parataxis	_	SpaceAfter=No|Translit=wèihuò|LTranslit=huò
 36	承認	承認	NOUN	NN	_	35	obj	_	SpaceAfter=No|Translit=chéngrèn|LTranslit=chéngrèn
 37	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

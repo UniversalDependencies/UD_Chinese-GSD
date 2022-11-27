@@ -6244,7 +6244,7 @@
 3	戰敗	戰敗	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhànbài|LTranslit=zhànbài
 4	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	規劃	規劃	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=guīhuà|LTranslit=guīhuà
-6	未能	未能	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+6	未能	能	AUX	MD	Polarity=Neg	7	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 7	實現	實現	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=shíxiàn|LTranslit=shíxiàn
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -8800,7 +8800,7 @@
 41	）	）	PUNCT	)	_	35	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 42	，	，	PUNCT	.	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 43	雖	雖	ADP	IN	_	45	case	_	SpaceAfter=No|Translit=suī|LTranslit=suī
-44	未能	未能	AUX	MD	_	45	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+44	未能	能	AUX	MD	Polarity=Neg	45	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 45	戰勝	戰勝	VERB	VV	_	53	xcomp	_	SpaceAfter=No|Translit=zhànshèng|LTranslit=zhànshèng
 46	法國	法國	PROPN	NNP	_	47	nmod	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
 47	陸軍	陸軍	NOUN	NN	_	45	obj	_	SpaceAfter=No|Translit=lùjūn|LTranslit=lùjūn
