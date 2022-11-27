@@ -184,7 +184,7 @@
 16	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	現	現	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 18	已	已	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
-19	沒落	沒落	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=méiluò|LTranslit=méiluò
+19	沒落	落	VERB	VV	Polarity=Neg	23	advcl	_	SpaceAfter=No|Translit=méiluò|LTranslit=luò
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	目前	目前	NOUN	NN	_	23	nmod:tmod	_	SpaceAfter=No|Translit=mùqián|LTranslit=mùqián
 22	主要	主要	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=zhǔyào|LTranslit=zhǔyào
@@ -748,7 +748,7 @@
 20	外交	外交	NOUN	NN	_	23	obl	_	SpaceAfter=No|Translit=wàijiāo|LTranslit=wàijiāo
 21	上	上	ADP	IN	_	20	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 22	卻	卻	ADV	RB	_	23	mark	_	SpaceAfter=No|Translit=què|LTranslit=què
-23	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+23	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 24	任何	任何	DET	DT	_	27	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 25	大	大	ADJ	JJ	_	27	amod	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 26	的	的	PART	DEC	_	25	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -769,7 +769,7 @@
 9	地方	地方	NOUN	NN	_	3	appos	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 10	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	即	即	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-12	沒有	沒有	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+12	沒有	有	VERB	VV	Polarity=Neg	11	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 13	開化	開化	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=kāihuà|LTranslit=kāihuà
 14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	地方	地方	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
@@ -1159,7 +1159,7 @@
 17	號	號	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=hào|LTranslit=hào
 18	線	線	PART	SFN	_	20	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 19	並	並	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-20	沒有	沒有	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+20	沒有	有	VERB	VV	Polarity=Neg	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 21	全線	全線	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=quánxiàn|LTranslit=quánxiàn
 22	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	專用	專用	ADJ	JJ	_	24	amod	_	SpaceAfter=No|Translit=zhuānyòng|LTranslit=zhuānyòng
@@ -2880,7 +2880,7 @@
 69	物品	物品	NOUN	NN	_	70	nsubj	_	SpaceAfter=No|Translit=wùpǐn|LTranslit=wùpǐn
 70	都是	是	VERB	VC	_	4	parataxis	_	SpaceAfter=No|Translit=dōushì|LTranslit=shì
 71	從來	從來	ADV	RB	_	72	advmod	_	SpaceAfter=No|Translit=cónglái|LTranslit=cónglái
-72	沒有	沒有	VERB	VV	_	70	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+72	沒有	有	VERB	VV	Polarity=Neg	70	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 73	被	被	AUX	BB	Voice=Pass	75	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 74	旅客	旅客	NOUN	NN	_	75	nsubj	_	SpaceAfter=No|Translit=lǚkè|LTranslit=lǚkè
 75	使用	使用	VERB	VV	_	72	ccomp	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
@@ -2929,7 +2929,7 @@
 19	變化	變化	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=biànhuà|LTranslit=biànhuà
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	也	也	ADV	RB	_	22	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-22	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+22	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 23	協音	協音	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=xiéyīn|LTranslit=xiéyīn
 24	的	的	PART	DEC	_	23	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 25	可能	可能	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
@@ -5828,7 +5828,7 @@
 7	或	或	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=huò|LTranslit=huò
 8	黃色	黃色	NOUN	NN	_	6	conj	_	SpaceAfter=No|Translit=huángsè|LTranslit=huángsè
 9	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+10	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 11	眼睛	眼睛	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=yǎnjing|LTranslit=yǎnjing
 12	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	尾部	尾部	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=wěibù|LTranslit=wěibù
@@ -5930,7 +5930,7 @@
 7	一些	一些	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
 8	幾何	幾何	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=jǐhé|LTranslit=jǐhé
 9	事實	事實	NOUN	NN	_	10	nsubj:pass	_	SpaceAfter=No|Translit=shìshí|LTranslit=shìshí
-10	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+10	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 11	像	像	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 12	歐	歐	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit='ōu|LTranslit='ōu
 13	式	式	PART	SFN	_	14	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -7996,7 +7996,7 @@
 8	出	出	VERB	VV	_	7	mark	_	SpaceAfter=No|Translit=chū|LTranslit=chū
 9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 10	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-11	沒有	沒有	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+11	沒有	有	VERB	VV	Polarity=Neg	15	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 12	頭	頭	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=tóu|LTranslit=tóu
 13	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	人形	人形	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=rénxíng|LTranslit=rénxíng
@@ -8189,7 +8189,7 @@
 10	與	與	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 11	驢子	驢子	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=lǘzi|LTranslit=lǘzi
 12	並	並	ADV	RB	_	13	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-13	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+13	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 14	任何	任何	DET	DT	_	15	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 15	改變	改變	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=gǎibiàn|LTranslit=gǎibiàn
 16	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -9250,7 +9250,7 @@
 2	由於	由於	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 3	我們	我	PRON	PRP	Number=Plur|Person=1	7	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 4	已經	已經	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
-5	沒有	沒有	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+5	沒有	有	VERB	VV	Polarity=Neg	7	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 6	辦法	辦法	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=bànfǎ|LTranslit=bànfǎ
 7	脫離	脫離	VERB	VV	_	25	ccomp	_	SpaceAfter=No|Translit=tuōlí|LTranslit=tuōlí
 8	現代	現代	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
@@ -12070,7 +12070,7 @@
 29	他們	他	PRON	PRP	Number=Plur|Person=3	32	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 30	兩	兩	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 31	人	人	NOUN	NN	_	29	appos	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-32	沒有	沒有	VERB	VV	_	2	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+32	沒有	有	VERB	VV	Polarity=Neg	2	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 33	開展	開展	VERB	VV	_	32	xcomp	_	SpaceAfter=No|Translit=kāizhǎn|LTranslit=kāizhǎn
 34	重要	重要	ADJ	JJ	_	36	amod	_	SpaceAfter=No|Translit=zhòngyào|LTranslit=zhòngyào
 35	的	的	PART	DEC	_	34	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -12454,7 +12454,7 @@
 # translit = 玄zōngsuīránméiyǒufādòngguòxiàngtángtàizōng,tánggāozōngcháoshínàyàngdedàguīmódekāibiānjūnshìxíngdòng.
 1	玄宗	玄宗	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=玄zōng|LTranslit=玄zōng
 2	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-3	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+3	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 4	發動	發動	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=fādòng|LTranslit=fādòng
 5	過	過	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 6	像	像	VERB	VV	_	14	acl	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
@@ -12482,7 +12482,7 @@
 2	此	此	PRON	PRD	_	5	obl	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 3	以後	以後	ADP	IN	_	2	acl	_	SpaceAfter=No|Translit=yǐhòu|LTranslit=yǐhòu
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+5	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 6	人	人	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 7	敢	敢	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=gǎn|LTranslit=gǎn
 8	再	再	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -12962,7 +12962,7 @@
 34	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 35	不過	不過	ADV	RB	_	37	mark	_	SpaceAfter=No|Translit=bùguò|LTranslit=bùguò
 36	並	並	ADV	RB	_	37	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-37	沒有	沒有	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+37	沒有	有	VERB	VV	Polarity=Neg	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 38	獲得	獲得	VERB	VV	_	37	xcomp	_	SpaceAfter=No|Translit=huòde|LTranslit=huòde
 39	霹靂	霹靂	NOUN	NN	_	40	nmod	_	SpaceAfter=No|Translit=霹靂|LTranslit=霹靂
 40	嬌娃	嬌娃	NOUN	NN	_	43	nmod	_	SpaceAfter=No|Translit=jiāowá|LTranslit=jiāowá

@@ -10,7 +10,7 @@
     <dev><sentences>500</sentences><tokens>12663</tokens><words>12663</words><fused>0</fused></dev>
     <test><sentences>500</sentences><tokens>12012</tokens><words>12012</words><fused>0</fused></test>
   </size>
-  <lemmas unique="20171" /><!-- ，, 的, 。, 在, 年, 是, 為, 、, 一, 於, 和, 了, 他, 個, 人 -->
+  <lemmas unique="20165" /><!-- ，, 的, 。, 在, 年, 是, 為, 、, 一, 於, 和, 了, 有, 他, 個 -->
   <forms unique="20248" /><!-- ，, 的, 。, 在, 年, 、, 是, 為, 一, 於, 和, 了, 個, 人, 月 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">10740</tag><!-- 中國, 美國, 日本, 香港, 李, 英國, 中華, 美, 台灣, 英 -->
     <tag name="PUNCT">17065</tag><!-- ，, 。, 、, （, ）, 」, 「, 》, 《, · -->
     <tag name="SYM">37</tag><!-- /, $, +, Kink.com, km, t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com -->
-    <tag name="VERB">18215</tag><!-- 為, 有, 在, 於, 是, 由, 成, 到, 位, 開始 -->
+    <tag name="VERB">18215</tag><!-- 有, 為, 在, 於, 是, 由, 成, 到, 位, 開始 -->
     <tag name="X">963</tag><!-- A, the, NBA, JR, of, B, County, Game, Google, John -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -43,7 +43,7 @@
     <feat name="Person" value="1" upos="PRON">69</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">21</feat><!-- 你, 妳, 您 -->
     <feat name="Person" value="3" upos="PRON">1240</feat><!-- 他, 其, 她, 他們, 它, 它們, 牠們, 她們, 牠, 祂 -->
-    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">439</feat><!-- 不, 不是, 未, 不會, 不能, 未能, 不可, 不得, 不應, 沒 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">571</feat><!-- 不, 沒有, 不是, 未, 不會, 不能, 未能, 不可, 不得, 不應 -->
     <feat name="Voice" value="Cau" upos="ADP,VERB">493</feat><!-- 以, 使, 讓, 使得, 令, 導致, 要求, 派, 派遣, 任命 -->
     <feat name="Voice" value="Pass" upos="AUX">425</feat><!-- 被, 為 -->
   </feats>

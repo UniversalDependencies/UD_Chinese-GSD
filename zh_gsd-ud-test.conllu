@@ -2013,7 +2013,7 @@
 1	雷妮拉	雷妮拉	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=léi妮lā|LTranslit=léi妮lā
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	母親	母親	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=mǔqīn|LTranslit=mǔqīn
-4	沒有	沒有	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+4	沒有	有	VERB	VV	Polarity=Neg	10	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 5	生下	生下	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=shēngxià|LTranslit=shēngxià
 6	男性	男性	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=nánxìng|LTranslit=nánxìng
 7	繼承	繼承	VERB	VV	_	8	compound	_	SpaceAfter=No|Translit=jìchéng|LTranslit=jìchéng
@@ -2251,12 +2251,12 @@
 13	「	「	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 14	如果	如果	ADP	IN	_	16	case	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
 15	我們	我	PRON	PRP	Number=Plur|Person=1	16	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-16	沒有	沒有	VERB	VV	_	20	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+16	沒有	有	VERB	VV	Polarity=Neg	20	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 17	變化	變化	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=biànhuà|LTranslit=biànhuà
 18	的話	的話	PART	UH	_	16	discourse	_	SpaceAfter=No|Translit=dehuà|LTranslit=dehuà
 19	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	是	是	VERB	VC	_	11	xcomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-21	沒法	沒法	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=méifǎ|LTranslit=méifǎ
+21	沒法	法	VERB	VV	Polarity=Neg	20	xcomp	_	SpaceAfter=No|Translit=méifǎ|LTranslit=fǎ
 22	做出	做出	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=zuòchū|LTranslit=zuòchū
 23	第二	第二	NUM	CD	NumType=Ord	24	nummod	_	SpaceAfter=No|Translit=dì'èr|LTranslit=dì'èr
 24	張	張	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
@@ -2470,7 +2470,7 @@
 1	雖然	雖然	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 2	她	她	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 3	從來	從來	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=cónglái|LTranslit=cónglái
-4	沒有	沒有	VERB	VV	_	19	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+4	沒有	有	VERB	VV	Polarity=Neg	19	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 5	再婚	再婚	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=zàihūn|LTranslit=zàihūn
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	她	她	PRON	PRP	Person=3	19	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -5178,7 +5178,7 @@
 21	對	對	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 22	後續	後續	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=hòuxù|LTranslit=hòuxù
 23	戰鬥	戰鬥	NOUN	NN	_	24	obl	_	SpaceAfter=No|Translit=zhàndòu|LTranslit=zhàndòu
-24	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+24	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 25	影響	影響	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 26	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -5758,7 +5758,7 @@
 22	太太	太太	NOUN	NN	_	24	nmod	_	SpaceAfter=No|Translit=tàitài|LTranslit=tàitài
 23	的	的	PART	DEC	Case=Gen	22	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 24	競爭	競爭	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
-25	沒有	沒有	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+25	沒有	有	VERB	VV	Polarity=Neg	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 26	這麼	這麼	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
 27	多	多	ADJ	JJ	_	25	xcomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 28	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -7827,7 +7827,7 @@
 12	則是	是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=zéshì|LTranslit=shì
 13	吉川	吉川	PROPN	NNP	_	14	nmod	_	SpaceAfter=No|Translit=jíchuān|LTranslit=jíchuān
 14	原作	原作	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=yuánzuò|LTranslit=yuánzuò
-15	沒有	沒有	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+15	沒有	有	VERB	VV	Polarity=Neg	17	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 16	的	的	PART	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	創作	創作	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=chuàngzuò|LTranslit=chuàngzuò
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -9196,7 +9196,7 @@
 23	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	該黨	該黨	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=gāidǎng|LTranslit=gāidǎng
 25	也	也	ADV	RB	_	26	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-26	沒有	沒有	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+26	沒有	有	VERB	VV	Polarity=Neg	6	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 27	公認	公認	VERB	VV	_	26	xcomp	_	SpaceAfter=No|Translit=gōngrèn|LTranslit=gōngrèn
 28	任何	任何	DET	DT	_	30	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 29	一	一	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -9219,7 +9219,7 @@
 4	建成	建成	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=jiànchéng|LTranslit=jiànchéng
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	早年	早年	NOUN	NN	_	7	nmod:tmod	_	SpaceAfter=No|Translit=zǎonián|LTranslit=zǎonián
-7	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+7	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 8	街名	街名	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=jiēmíng|LTranslit=jiēmíng
 9	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	當地	當地	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=dāngde|LTranslit=dāngde
@@ -9505,7 +9505,7 @@
 2	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 3	種	種	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 4	分期	分期	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=fēnqī|LTranslit=fēnqī
-5	沒有	沒有	VERB	VV	_	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+5	沒有	有	VERB	VV	Polarity=Neg	11	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 6	嚴格	嚴格	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=yángé|LTranslit=yángé
 7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	規則	規則	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=guīzé|LTranslit=guīzé
@@ -9875,7 +9875,7 @@
 15	有	有	VERB	VV	_	3	parataxis	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 16	指甲	指甲	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=zhǐjiǎ|LTranslit=zhǐjiǎ
 17	而	而	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-18	沒有	沒有	VERB	VV	_	15	conj	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+18	沒有	有	VERB	VV	Polarity=Neg	15	conj	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 19	爪	爪	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=zhǎo|LTranslit=zhǎo
 20	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -10279,7 +10279,7 @@
 12	談判	談判	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=tánpàn|LTranslit=tánpàn
 13	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	但	但	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-15	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+15	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 16	取得	取得	VERB	VV	_	15	xcomp	_	SpaceAfter=No|Translit=qǔde|LTranslit=qǔde
 17	任何	任何	DET	DT	_	18	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 18	共識	共識	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=gòngshi|LTranslit=gòngshi
@@ -11431,7 +11431,7 @@
 21	語系	語系	NOUN	NN	_	24	obl	_	SpaceAfter=No|Translit=yǔxì|LTranslit=yǔxì
 22	可能	可能	AUX	MD	_	24	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 23	都	都	ADV	RB	_	24	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-24	沒有	沒有	VERB	VV	_	3	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+24	沒有	有	VERB	VV	Polarity=Neg	3	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 25	關聯	關聯	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=guānlián|LTranslit=guānlián
 26	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -13796,7 +13796,7 @@
 49	，	，	PUNCT	,	_	43	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 50	另外	另外	ADV	RB	_	58	advmod	_	SpaceAfter=No|Translit=lìngwài|LTranslit=lìngwài
 51	即使	即使	ADP	IN	_	52	case	_	SpaceAfter=No|Translit=jíshǐ|LTranslit=jíshǐ
-52	沒有	沒有	VERB	VV	_	58	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+52	沒有	有	VERB	VV	Polarity=Neg	58	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 53	命令	命令	NOUN	NN	_	52	obj	_	SpaceAfter=No|Translit=mìnglìng|LTranslit=mìnglìng
 54	，	，	PUNCT	,	_	52	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 55	各級	各級	NOUN	NN	_	56	nmod	_	SpaceAfter=No|Translit=gèjí|LTranslit=gèjí
