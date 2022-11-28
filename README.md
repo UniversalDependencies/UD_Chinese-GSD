@@ -50,7 +50,7 @@ Data available since: UD v1.3
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: wiki
-Lemmas: automatic
+Lemmas: automatic with corrections
 UPOS: converted from manual
 XPOS: manual native
 Features: automatic with corrections
