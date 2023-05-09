@@ -1,113 +1,80 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Chinese-GSD:
-commit ceb6c8935de04a853d21d21a8c6214c1dd12ec97
+commit 3bd683461b41ed8b7fc52f3ee2affa7c52309602
+Merge: a77f543 c4738ef
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 13:44:57 2022 +0200
 Size: counted 123291 of 123291 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62909482961094.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
 Split: Found at least 10000 test words.
-Lemmas: source of annotation (from README) factor is 0.4.
+Lemmas: source of annotation (from README) factor is 0.5.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 13455 out of 123291 total words have one or more features.
+Features: 13784 out of 123291 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      24790
-Udapi: found 24790 bugs.
+               TOTAL      23886
+Udapi: found 23886 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 123291 words.
 Genres: found 1 out of 17 known.
-validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
-[Line 42 Sent dev-s2 Node 7]: [L5 Morpho aux-lemma] '則是' is not an auxiliary verb in language [zh]
-[Line 42 Sent dev-s2 Node 7]: [L5 Syntax cop-lemma] '則是' is not a copula in language [zh]
-[Line 141 Sent dev-s6 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 250 Sent dev-s11 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 257 Sent dev-s11 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 270 Sent dev-s12 Node 6]: [L5 Morpho aux-lemma] '不會' is not an auxiliary verb in language [zh]
-[Line 287 Sent dev-s13 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NUM'
-[Line 401 Sent dev-s16 Node 20]: [L5 Morpho aux-lemma] '可能' is not an auxiliary verb in language [zh]
-[Line 483 Sent dev-s20 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 528 Sent dev-s21 Node 9]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
-[Line 537 Sent dev-s21 Node 18]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
-[Line 544 Sent dev-s21 Node 25]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'SYM'
+/net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
+[Line 268 Sent dev-s11 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [4, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1740 Sent dev-s56 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [10, 14] not subtyped as ':outer'.
+[Line 2433 Sent dev-s76 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [4, 7] not subtyped as ':outer'.
+[Line 4572 Sent dev-s149 Node 27]: [L3 Syntax too-many-subjects] Multiple subjects [23, 26] not subtyped as ':outer'.
+[Line 6101 Sent dev-s206 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [9, 18] not subtyped as ':outer'.
+[Line 6249 Sent dev-s211 Node 30]: [L3 Syntax too-many-subjects] Multiple subjects [23, 28] not subtyped as ':outer'.
+[Line 7176 Sent dev-s243 Node 31]: [L3 Syntax too-many-subjects] Multiple subjects [12, 26] not subtyped as ':outer'.
+[Line 9740 Sent dev-s331 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [14, 20] not subtyped as ':outer'.
+[Line 10630 Sent dev-s362 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [7, 11] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-[Line 680 Sent dev-s26 Node 22]: [L5 Morpho aux-lemma] '而是' is not an auxiliary verb in language [zh]
-[Line 908 Sent dev-s32 Node 53]: [L5 Morpho aux-lemma] '需' is not an auxiliary verb in language [zh]
-[Line 917 Sent dev-s32 Node 62]: [L5 Morpho aux-lemma] '可' is not an auxiliary verb in language [zh]
-[Line 920 Sent dev-s32 Node 65]: [L5 Morpho aux-lemma] '能夠' is not an auxiliary verb in language [zh]
-[Line 1241 Sent dev-s43 Node 17]: [L5 Morpho aux-lemma] '也是' is not an auxiliary verb in language [zh]
-[Line 1431 Sent dev-s50 Node 16]: [L5 Morpho aux-lemma] '而是' is not an auxiliary verb in language [zh]
-...suppressing further errors regarding Morpho
-Morpho errors: 75
-Syntax errors: 219
-*** FAILED *** with 294 errors
+Syntax errors: 11
+*** FAILED *** with 11 errors
 Exit code: 1
-validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
-[Line 99 Sent test-s5 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 102 Sent test-s5 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 149 Sent test-s7 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 153 Sent test-s7 Node 5]: [L5 Morpho aux-lemma] '不可' is not an auxiliary verb in language [zh]
-[Line 169 Sent test-s7 Node 21]: [L5 Morpho aux-lemma] '必須' is not an auxiliary verb in language [zh]
-[Line 267 Sent test-s10 Node 30]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 343 Sent test-s13 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 355 Sent test-s13 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 408 Sent test-s15 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 425 Sent test-s15 Node 24]: [L5 Morpho aux-lemma] '都是' is not an auxiliary verb in language [zh]
-[Line 425 Sent test-s15 Node 24]: [L5 Syntax cop-lemma] '都是' is not a copula in language [zh]
-[Line 435 Sent test-s15 Node 34]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
-[Line 526 Sent test-s18 Node 50]: [L3 Syntax leaf-cc] 'cc' not expected to have children (50:又:cc --> 49:而:mark)
-[Line 518 Sent test-s18 Node 41]: [L5 Morpho aux-lemma] '可能' is not an auxiliary verb in language [zh]
-[Line 520 Sent test-s18 Node 43]: [L5 Morpho aux-lemma] '必須' is not an auxiliary verb in language [zh]
+/net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
+[Line 107 Sent test-s5 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [4, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 701 Sent test-s24 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
+[Line 3333 Sent test-s121 Node 50]: [L3 Syntax too-many-subjects] Multiple subjects [43, 48] not subtyped as ':outer'.
+[Line 4289 Sent test-s156 Node 27]: [L3 Syntax too-many-subjects] Multiple subjects [14, 25] not subtyped as ':outer'.
+[Line 4843 Sent test-s175 Node 15]: [L3 Syntax too-many-subjects] Multiple subjects [1, 12] not subtyped as ':outer'.
+[Line 5265 Sent test-s189 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [5, 10] not subtyped as ':outer'.
+[Line 6135 Sent test-s223 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] not subtyped as ':outer'.
+[Line 6582 Sent test-s238 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [2, 15] not subtyped as ':outer'.
+[Line 9294 Sent test-s334 Node 56]: [L3 Syntax too-many-subjects] Multiple subjects [49, 54] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-[Line 835 Sent test-s30 Node 32]: [L5 Morpho aux-lemma] '要' is not an auxiliary verb in language [zh]
-[Line 1046 Sent test-s41 Node 6]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
-[Line 1321 Sent test-s51 Node 23]: [L5 Morpho aux-lemma] '就是' is not an auxiliary verb in language [zh]
-...suppressing further errors regarding Morpho
-Morpho errors: 87
-Syntax errors: 168
-*** FAILED *** with 255 errors
+Syntax errors: 10
+*** FAILED *** with 10 errors
 Exit code: 1
-validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
-[Line 8 Sent train-s1 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NUM'
-[Line 3 Sent train-s1 Node 1]: [L5 Morpho aux-lemma] '看似' is not an auxiliary verb in language [zh]
-[Line 3 Sent train-s1 Node 1]: [L5 Syntax cop-lemma] '看似' is not a copula in language [zh]
-[Line 40 Sent train-s1 Node 38]: [L5 Morpho aux-lemma] '還是' is not an auxiliary verb in language [zh]
-[Line 40 Sent train-s1 Node 38]: [L5 Syntax cop-lemma] '還是' is not a copula in language [zh]
-[Line 55 Sent train-s2 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 95 Sent train-s3 Node 18]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 143 Sent train-s6 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 148 Sent train-s6 Node 10]: [L5 Morpho aux-lemma] '不會' is not an auxiliary verb in language [zh]
-[Line 207 Sent train-s7 Node 44]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'ADJ'
-[Line 207 Sent train-s7 Node 44]: [L5 Syntax cop-lemma] '便宜' is not a copula in language [zh]
-[Line 232 Sent train-s8 Node 11]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+/net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
+[Line 57 Sent train-s2 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 3294 Sent train-s114 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [5, 9] not subtyped as ':outer'.
+[Line 3891 Sent train-s138 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 7] not subtyped as ':outer'.
+[Line 4112 Sent train-s145 Node 30]: [L3 Syntax too-many-subjects] Multiple subjects [2, 20] not subtyped as ':outer'.
+[Line 8211 Sent train-s294 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [6, 20] not subtyped as ':outer'.
+[Line 9036 Sent train-s330 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [7, 15] not subtyped as ':outer'.
+[Line 11904 Sent train-s438 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [3, 19] not subtyped as ':outer'.
+[Line 12687 Sent train-s468 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [1, 19] not subtyped as ':outer'.
+[Line 15490 Sent train-s564 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [6, 10] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-[Line 278 Sent train-s9 Node 33]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
-[Line 429 Sent train-s12 Node 24]: [L5 Morpho aux-lemma] '不能' is not an auxiliary verb in language [zh]
-[Line 437 Sent train-s13 Node 2]: [L5 Morpho aux-lemma] '可' is not an auxiliary verb in language [zh]
-[Line 459 Sent train-s13 Node 24]: [L5 Morpho aux-lemma] '能夠' is not an auxiliary verb in language [zh]
-[Line 862 Sent train-s25 Node 13]: [L5 Morpho aux-lemma] '能' is not an auxiliary verb in language [zh]
-[Line 881 Sent train-s26 Node 12]: [L5 Morpho aux-lemma] '想' is not an auxiliary verb in language [zh]
-...suppressing further errors regarding Morpho
-Morpho errors: 718
-Syntax errors: 1563
-*** FAILED *** with 2281 errors
+Syntax errors: 73
+*** FAILED *** with 73 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.15) = 0.0115384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
-(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.0769230769230769) * (score{lemmas}=0.5) = 0.0384615384615385
 (weight=0.256410256410256) * (score{size}=0.696977125037194) = 0.17871208334287
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.387424732643755) * (availability=1) * (validity=0.01) = 0.00387424732643755
+(TOTAL score=0.395117040336063) * (availability=1) * (validity=0.01) = 0.00395117040336063
 STARS = 0
-UD_Chinese-GSD	0.00387424732643755	0
+UD_Chinese-GSD	0.00395117040336063	0
