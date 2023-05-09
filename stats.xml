@@ -49,7 +49,7 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
-    <dep name="acl">1908</dep>
+    <dep name="acl">778</dep>
     <dep name="acl:relcl">1787</dep>
     <dep name="advcl">4012</dep>
     <dep name="advmod">3185</dep>
@@ -57,7 +57,7 @@
     <dep name="appos">1357</dep>
     <dep name="aux">1827</dep>
     <dep name="aux:pass">425</dep>
-    <dep name="case">7939</dep>
+    <dep name="case">9069</dep>
     <dep name="cc">1746</dep>
     <dep name="ccomp">2161</dep>
     <dep name="clf">2247</dep>
