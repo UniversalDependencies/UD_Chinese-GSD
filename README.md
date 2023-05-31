@@ -6,6 +6,8 @@ Google.
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * Some PART/ADV should be SCONJ (see https://github.com/UniversalDependencies/docs/issues/460 and https://github.com/slavpetrov/parallel-treebanks/issues/30).
 * 2023-05-15 v2.12
   * Fixed: PUNCT nodes must be attached via punct relations.
   * Fixed: Only some UPOS categories are compatible with mark.
