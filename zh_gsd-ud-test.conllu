@@ -72,10 +72,10 @@
 4	博物	博物	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=bówù|LTranslit=bówù
 5	館	館	PART	SFN	_	22	nsubj	_	SpaceAfter=No|Translit=guǎn|LTranslit=guǎn
 6	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-8	棟	棟	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=棟|LTranslit=棟
-9	兩	兩	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-10	層	層	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=céng|LTranslit=céng
+7	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+8	棟	棟	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=棟|LTranslit=棟
+9	兩	兩	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+10	層	層	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 11	樓	樓	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=lóu|LTranslit=lóu
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	建築	建築	NOUN	NN	_	22	advcl	_	SpaceAfter=No|Translit=jiànzhú|LTranslit=jiànzhú
@@ -164,8 +164,8 @@
 9	（	（	PUNCT	(	_	10	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 10	以	以	VERB	VV	Voice=Cau	6	parataxis	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 11	當年	當年	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=dāngnián|LTranslit=dāngnián
-12	7	7	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
-13	月	月	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+12	7	7	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
+13	月	月	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 14	1	1	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 15	日	日	NOUN	NNB	_	17	nsubj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 16	為	為	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -188,8 +188,8 @@
 # text = 同年9月7日，亞奧理事會主席薩巴赫親王為國際射擊中心主持銅像揭幕儀式。
 # translit = tóngnián9yuè7rì,yà'àolǐshìhuìzhǔxísàbahèqīnwángwèiguójìshèjīzhōngxīnzhǔchítóngxiàngjiēmùyíshì.
 1	同年	同年	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
-2	9	9	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
-3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+2	9	9	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
+3	月	月	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 4	7	7	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
 5	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -256,13 +256,13 @@
 9	晚期	晚期	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=wǎnqī|LTranslit=wǎnqī
 10	作品	作品	NOUN	NN	_	32	advcl	_	SpaceAfter=No|Translit=zuòpǐn|LTranslit=zuòpǐn
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	1976	1976	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=1976|LTranslit=1976
-13	年	年	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+12	1976	1976	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=1976|LTranslit=1976
+13	年	年	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 14	6	6	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
 15	月	月	NOUN	NNB	_	32	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 16	至	至	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
-17	1978	1978	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=1978|LTranslit=1978
-18	年	年	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+17	1978	1978	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=1978|LTranslit=1978
+18	年	年	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 19	5	5	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 20	月	月	NOUN	NNB	_	15	conj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 21	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -314,8 +314,8 @@
 13	滄龍	滄龍	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=滄lóng|LTranslit=滄lóng
 14	科	科	PART	SFN	_	18	nmod	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	個	個	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+16	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+17	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 18	屬	屬	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -326,8 +326,8 @@
 2	設計	設計	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=shèjì|LTranslit=shèjì
 3	局	局	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=jú|LTranslit=jú
 4	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	1960	1960	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
-6	年代	年代	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
+5	1960	1960	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
+6	年代	年代	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 7	末期	末期	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=mòqī|LTranslit=mòqī
 8	推出	推出	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=tuīchū|LTranslit=tuīchū
 9	圖	圖	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=tú|LTranslit=tú
@@ -497,13 +497,13 @@
 2	澤東	澤東	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=澤dōng|LTranslit=澤dōng
 3	早	早	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=zǎo|LTranslit=zǎo
 4	在	在	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	1949	1949	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1949|LTranslit=1949
-6	年	年	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+5	1949	1949	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=1949|LTranslit=1949
+6	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 7	3	3	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 8	月	月	NOUN	NNB	_	12	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 9	中共	中共	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=zhōnggòng|LTranslit=zhōnggòng
-10	七	七	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=qī|LTranslit=qī
-11	屆	屆	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=jiè|LTranslit=jiè
+10	七	七	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=qī|LTranslit=qī
+11	屆	屆	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=jiè|LTranslit=jiè
 12	二中全會	二中全會	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit='èrzhōngquánhuì|LTranslit='èrzhōngquánhuì
 13	的	的	PART	DEC	Case=Gen	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	報告	報告	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=bàogào|LTranslit=bàogào
@@ -686,10 +686,10 @@
 # sent_id = test-s24
 # text = 2007年7月6日，聖喬治教堂被馬來西亞政府列為50個馬來西亞國家寶藏之一。
 # translit = 2007nián7yuè6rì,shèng喬zhìjiàotángbèimǎláixiyàzhèngfǔlièwèi50gèmǎláixiyàguójiābǎocángzhīyī.
-1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	2007	2007	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	7	7	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	6	6	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
 6	日	日	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -700,8 +700,8 @@
 12	政府	政府	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 13	列	列	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liè|LTranslit=liè
 14	為	為	VERB	VC	_	13	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-15	50	50	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
-16	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+15	50	50	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
+16	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 17	馬來西亞	馬來西亞	PROPN	NNP	_	19	nmod	_	SpaceAfter=No|Translit=mǎláixiyà|LTranslit=mǎláixiyà
 18	國家	國家	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 19	寶藏	寶藏	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=bǎocáng|LTranslit=bǎocáng
@@ -726,8 +726,8 @@
 12	城市	城市	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
 13	科爾多瓦	科爾多瓦	PROPN	NNP	_	12	appos	_	SpaceAfter=No|Translit=kē'ěrduōwǎ|LTranslit=kē'ěrduōwǎ
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-15	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-16	座	座	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+15	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+16	座	座	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 17	羅馬	羅馬	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit=luómǎ|LTranslit=luómǎ
 18	天主	天主	PROPN	NNP	_	19	compound	_	SpaceAfter=No|Translit=tiānzhǔ|LTranslit=tiānzhǔ
 19	教	教	PART	SFN	_	20	nmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
@@ -955,8 +955,8 @@
 6	網球	網球	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=wǎngqiú|LTranslit=wǎngqiú
 7	場	場	PART	SFN	_	3	obj	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 8	和	和	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-9	1	1	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
-10	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+9	1	1	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
+10	個	個	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	環繞	環繞	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=huánrào|LTranslit=huánrào
 12	安娜費雷拉	安娜費雷拉	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit='ān娜fèiléilā|LTranslit='ān娜fèiléilā
 13	峰	峰	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=fēng|LTranslit=fēng
@@ -1187,8 +1187,8 @@
 21	秘密	秘密	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=mìmì|LTranslit=mìmì
 22	組建	組建	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=zǔjiàn|LTranslit=zǔjiàn
 23	了	了	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-24	一	一	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-25	個	個	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+24	一	一	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+25	個	個	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 26	反	反	VERB	VV	_	30	acl:relcl	_	SpaceAfter=No|Translit=fǎn|LTranslit=fǎn
 27	法西斯	法西斯	PROPN	NNP	_	26	obj	_	SpaceAfter=No|Translit=fǎxisī|LTranslit=fǎxisī
 28	的	的	SCONJ	DEC	_	26	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -1210,8 +1210,8 @@
 44	已經	已經	ADV	RB	_	45	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
 45	成	成	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 46	為	為	VERB	VC	_	45	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-47	一	一	NUM	CD	NumType=Card	48	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-48	支	支	NOUN	NNB	_	52	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+47	一	一	NUM	CD	NumType=Card	52	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+48	支	支	NOUN	NNB	_	47	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 49	可觀	可觀	ADJ	JJ	_	52	amod	_	SpaceAfter=No|Translit=kěguān|LTranslit=kěguān
 50	的	的	SCONJ	DEC	_	49	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 51	政治	政治	NOUN	NN	_	52	nmod	_	SpaceAfter=No|Translit=zhèngzhì|LTranslit=zhèngzhì
@@ -1269,14 +1269,14 @@
 1	聖馬洛	聖馬洛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngmǎluò|LTranslit=shèngmǎluò
 2	區	區	PART	SFN	_	9	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 3	轄有	轄有	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=xiáyǒu|LTranslit=xiáyǒu
-4	9	9	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
-5	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	9	9	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
+5	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	縣	縣	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 7	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	共	共	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=gòng|LTranslit=gòng
 9	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-10	63	63	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=63|LTranslit=63
-11	個	個	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+10	63	63	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=63|LTranslit=63
+11	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 12	市鎮	市鎮	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=shìzhèn|LTranslit=shìzhèn
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -1370,8 +1370,8 @@
 21	代表	代表	VERB	VV	_	26	csubj	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
 22	的	的	SCONJ	DEC	_	21	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	就是	是	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
-24	100	100	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
-25	米	米	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
+24	100	100	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
+25	米	米	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
 26	海拔	海拔	NOUN	NN	_	4	ccomp	_	SpaceAfter=No|Translit=hǎibá|LTranslit=hǎibá
 27	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -1453,8 +1453,8 @@
 11	縣	縣	PART	SFN	_	5	obj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 12	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	為	為	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	省級	省級	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=shěngjí|LTranslit=shěngjí
 17	文物	文物	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=wénwù|LTranslit=wénwù
 18	保護	保護	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=bǎohù|LTranslit=bǎohù
@@ -1536,8 +1536,8 @@
 13	年	年	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 14	首映	首映	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=shǒuyìng|LTranslit=shǒuyìng
 15	的	的	SCONJ	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	部	部	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+16	一	一	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+17	部	部	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 18	美國	美國	PROPN	NNP	_	21	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 19	科幻	科幻	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=kēhuàn|LTranslit=kēhuàn
 20	喜劇	喜劇	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=xǐjù|LTranslit=xǐjù
@@ -1671,8 +1671,8 @@
 # sent_id = test-s62
 # text = 20世紀50年代也是地貌學出現分支學科的時期，形成了河流地貌學、冰川地貌學、海岸地貌學和構造地貌學。
 # translit = 20shìjì50niándàiyěshìdemàoxuéchūxiànfēnzhīxuékēdeshíqī,xíngchénglehéliúdemàoxué,bīngchuāndemàoxué,hǎi'àndemàoxuéhégòuzàodemàoxué.
-1	20	20	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
-2	世紀	世紀	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
+1	20	20	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
+2	世紀	世紀	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
 3	50	50	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
 4	年代	年代	NOUN	NNB	_	12	nsubj	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 5	也是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
@@ -1735,8 +1735,8 @@
 27	在	在	VERB	VV	_	29	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 28	空間	空間	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=kōngjiān|LTranslit=kōngjiān
 29	產生	產生	VERB	VV	_	23	ccomp	_	SpaceAfter=No|Translit=chǎnshēng|LTranslit=chǎnshēng
-30	一	一	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-31	個	個	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+30	一	一	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+31	個	個	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 32	電場	電場	NOUN	NN	_	29	obj	_	SpaceAfter=No|Translit=diànchǎng|LTranslit=diànchǎng
 33	，	，	PUNCT	,	_	42	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	它	它	PRON	PRP	Person=3	42	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -1907,10 +1907,10 @@
 17	838	838	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=838|LTranslit=838
 18	人	人	NOUN	NN	_	4	parataxis	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 19	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-20	2011	2011	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-21	年	年	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-22	12	12	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
-23	月	月	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+20	2011	2011	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
+21	年	年	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+22	12	12	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
+23	月	月	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 24	31	31	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=31|LTranslit=31
 25	日	日	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 26	）	）	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -1938,8 +1938,8 @@
 10	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	厄客德娜	厄客德娜	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=厄kèdé娜|LTranslit=厄kèdé娜
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-14	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+13	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+14	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 15	別名	別名	NOUN	NN	_	20	advcl	_	SpaceAfter=No|Translit=biémíng|LTranslit=biémíng
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	兩	兩	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -1957,8 +1957,8 @@
 # translit = tāshìyīgèdiǎnxíngdezhànshì:gāodà,jiéshí,qiángzhuàngyǒulì.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-4	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+4	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	典型	典型	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=diǎnxíng|LTranslit=diǎnxíng
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	戰士	戰士	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=zhànshì|LTranslit=zhànshì
@@ -1981,8 +1981,8 @@
 5	梅葛	梅葛	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=méi葛|LTranslit=méi葛
 6	處死	處死	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chùsǐ|LTranslit=chùsǐ
 7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-8	三	三	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
-9	位	位	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+8	三	三	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
+9	位	位	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 10	大	大	PART	PFA	_	11	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 11	學士	學士	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=xuéshì|LTranslit=xuéshì
 12	；	；	PUNCT	:	_	15	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
@@ -2037,8 +2037,8 @@
 25	家系	家系	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=jiāxì|LTranslit=jiāxì
 26	中	中	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 27	的	的	PART	DEC	Case=Gen	25	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-28	第一	第一	NUM	CD	NumType=Ord	29	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-29	位	位	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+28	第一	第一	NUM	CD	NumType=Ord	30	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+29	位	位	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 30	女王	女王	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=nǚwáng|LTranslit=nǚwáng
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -2096,8 +2096,8 @@
 7	1950	1950	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=1950|LTranslit=1950
 8	年	年	NOUN	NNB	_	18	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 9	被	被	AUX	BB	Voice=Pass	18	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-11	家	家	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
+10	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+11	家	家	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 12	日本	日本	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
 13	公司	公司	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 14	打撈	打撈	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=dǎlāo|LTranslit=dǎlāo
@@ -2236,13 +2236,13 @@
 # sent_id = test-s82
 # text = 幾個月後的一次採訪，艾米說到：「如果我們沒有變化的話，是沒法做出第二張專輯的。」
 # translit = jǐgèyuèhòudeyīcìcǎifǎng,'àimǐshuōdào:‘rúguǒwǒmenméiyǒubiànhuàdehuà,shìméifǎzuòchūdì'èrzhāngzhuānjide.’
-1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
-2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	幾	幾	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
+2	個	個	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	月	月	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 4	後	後	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 5	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-7	次	次	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+6	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+7	次	次	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 8	採訪	採訪	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=cǎifǎng|LTranslit=cǎifǎng
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	艾米	艾米	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit='àimǐ|LTranslit='àimǐ
@@ -2258,8 +2258,8 @@
 20	是	是	VERB	VC	_	11	xcomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 21	沒法	法	VERB	VV	Polarity=Neg	20	xcomp	_	SpaceAfter=No|Translit=méifǎ|LTranslit=fǎ
 22	做出	做出	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=zuòchū|LTranslit=zuòchū
-23	第二	第二	NUM	CD	NumType=Ord	24	nummod	_	SpaceAfter=No|Translit=dì'èr|LTranslit=dì'èr
-24	張	張	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
+23	第二	第二	NUM	CD	NumType=Ord	25	nummod	_	SpaceAfter=No|Translit=dì'èr|LTranslit=dì'èr
+24	張	張	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 25	專輯	專輯	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=zhuānji|LTranslit=zhuānji
 26	的	的	PART	UH	_	20	discourse	_	SpaceAfter=No|Translit=de|LTranslit=de
 27	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -2322,8 +2322,8 @@
 10	也	也	SCONJ	RB	_	11	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 11	扣押	扣押	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=kòuyā|LTranslit=kòuyā
 12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-13	一百多	一百多	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yībǎiduō|LTranslit=yībǎiduō
-14	張	張	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
+13	一百多	一百多	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=yībǎiduō|LTranslit=yībǎiduō
+14	張	張	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 15	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 16	認為	為	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 17	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -2416,8 +2416,8 @@
 19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	進程	進程	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=jìnchéng|LTranslit=jìnchéng
 21	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-22	1919	1919	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=1919|LTranslit=1919
-23	年	年	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+22	1919	1919	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=1919|LTranslit=1919
+23	年	年	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 24	5	5	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 25	月	月	NOUN	NNB	_	29	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 26	的	的	PART	DEC	Case=Gen	25	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -2477,8 +2477,8 @@
 8	又	又	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 9	找	找	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=zhǎo|LTranslit=zhǎo
 10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-11	幾	幾	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
-12	任	任	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=rèn|LTranslit=rèn
+11	幾	幾	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
+12	任	任	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=rèn|LTranslit=rèn
 13	情人	情人	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=qíngrén|LTranslit=qíngrén
 14	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	並	並	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
@@ -2520,8 +2520,8 @@
 1	城東	城東	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=chéngdōng|LTranslit=chéngdōng
 2	湖	湖	PART	SFN	_	14	nsubj	_	SpaceAfter=No|Translit=hú|LTranslit=hú
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	位	位	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 7	於	於	VERB	VV	_	6	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 8	中國	中國	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
@@ -2720,8 +2720,8 @@
 4	觀點	觀點	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=guāndiǎn|LTranslit=guāndiǎn
 5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	兩	兩	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-8	種	種	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+7	兩	兩	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+8	種	種	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 9	複製	複製	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=fùzhì|LTranslit=fùzhì
 10	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	基因	基因	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=jīyīn|LTranslit=jīyīn
@@ -2804,8 +2804,8 @@
 # translit = 翌rì(9yuè16rì)yīzhīyīngjūnxiàngběizhēncháshíyǔměijūnjiāohuǒ,yǐnfāhālíngāodezhànyì.
 1	翌日	翌日	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No|Translit=翌rì|LTranslit=翌rì
 2	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-3	9	9	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+3	9	9	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	16	16	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=16|LTranslit=16
 6	日	日	NOUN	NNB	_	1	appos	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -2926,8 +2926,8 @@
 7	國家	國家	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 8	必須	必須	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=bìxū|LTranslit=bìxū
 9	提供	提供	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=tígōng|LTranslit=tígōng
-10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-11	套	套	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
+10	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+11	套	套	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
 12	制度	制度	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=zhìdù|LTranslit=zhìdù
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	例如	例如	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=lìrú|LTranslit=lìrú
@@ -2956,8 +2956,8 @@
 1	主	主	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=zhǔ|LTranslit=zhǔ
 2	武器	武器	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=wǔqì|LTranslit=wǔqì
 3	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	20	20	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
-5	枚	枚	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+4	20	20	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
+5	枚	枚	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 6	P-700	P-700	X	FW	_	14	nmod	_	SpaceAfter=No|Translit=P-700|LTranslit=P-700
 7	花崗	花崗	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=huāgǎng|LTranslit=huāgǎng
 8	岩	岩	PART	SFN	_	14	nmod	_	SpaceAfter=No|Translit=yán|LTranslit=yán
@@ -3017,8 +3017,8 @@
 9	是	是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 10	英國	英國	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
 11	牛津	牛津	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=niújīn|LTranslit=niújīn
-12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-13	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+12	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+13	個	個	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 14	著名	著名	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=zhemíng|LTranslit=zhemíng
 15	的	的	SCONJ	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	洪水	洪水	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=hóngshuǐ|LTranslit=hóngshuǐ
@@ -3046,8 +3046,8 @@
 8	者	者	PART	SFN	_	10	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	產生	產生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chǎnshēng|LTranslit=chǎnshēng
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	種	種	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+11	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	種	種	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 13	罪惡	罪惡	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=zuì'è|LTranslit=zuì'è
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	快感	快感	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=kuàigǎn|LTranslit=kuàigǎn
@@ -3257,8 +3257,8 @@
 2	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 3	阿齊茲	阿齊茲	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit='āqí茲|LTranslit='āqí茲
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	第一	第一	NUM	CD	NumType=Ord	6	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-6	項	項	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+5	第一	第一	NUM	CD	NumType=Ord	7	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+6	項	項	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 7	死刑	死刑	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=sǐxíng|LTranslit=sǐxíng
 8	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	他	他	PRON	PRP	Person=3	19	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -3266,14 +3266,14 @@
 11	1992	1992	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=1992|LTranslit=1992
 12	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 13	處死	處死	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=chùsǐ|LTranslit=chùsǐ
-14	42	42	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=42|LTranslit=42
-15	名	名	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+14	42	42	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=42|LTranslit=42
+15	名	名	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 16	商人	商人	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=shāngrén|LTranslit=shāngrén
 17	而	而	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 18	被	被	AUX	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 19	判	判	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=pàn|LTranslit=pàn
-20	15	15	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=15|LTranslit=15
-21	年	年	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+20	15	15	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=15|LTranslit=15
+21	年	年	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 22	有期	有期	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=yǒuqī|LTranslit=yǒuqī
 23	徒刑	徒刑	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=túxíng|LTranslit=túxíng
 24	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -3485,8 +3485,8 @@
 1	人們	人	NOUN	NN	Number=Plur	13	nsubj	_	SpaceAfter=No|Translit=rénmen|LTranslit=rén
 2	建造	建造	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=jiànzào|LTranslit=jiànzào
 3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	紀念	紀念	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=jìniàn|LTranslit=jìniàn
 7	公園	公園	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=gōngyuán|LTranslit=gōngyuán
 8	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -3587,8 +3587,8 @@
 3	議院	議院	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=yìyuàn|LTranslit=yìyuàn
 4	共	共	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=gòng|LTranslit=gòng
 5	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-6	59	59	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=59|LTranslit=59
-7	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+6	59	59	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=59|LTranslit=59
+7	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 8	議席	議席	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=yìxí|LTranslit=yìxí
 9	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	每	每	DET	DT	_	12	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
@@ -3706,8 +3706,8 @@
 10	迎來	迎來	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yínglái|LTranslit=yínglái
 11	自己	自己	PRON	PRD	_	15	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	160	160	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=160|LTranslit=160
-14	週年	週年	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=週nián|LTranslit=週nián
+13	160	160	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=160|LTranslit=160
+14	週年	週年	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=週nián|LTranslit=週nián
 15	校慶	校慶	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=xiàoqìng|LTranslit=xiàoqìng
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -3771,8 +3771,8 @@
 8	1979	1979	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=1979|LTranslit=1979
 9	年	年	NOUN	NNB	_	30	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 10	由	由	VERB	VV	_	30	advcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
-11	十三	十三	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=shísān|LTranslit=shísān
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	十三	十三	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=shísān|LTranslit=shísān
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	國家	國家	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 14	共同	共同	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=gòngtóng|LTranslit=gòngtóng
 15	成立	成立	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
@@ -3783,16 +3783,16 @@
 20	發展	發展	VERB	VV	_	19	conj	_	SpaceAfter=No|Translit=fāzhǎn|LTranslit=fāzhǎn
 21	下	下	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=xià|LTranslit=xià
 22	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-23	80	80	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
-24	年代	年代	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
+23	80	80	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
+24	年代	年代	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 25	早期	早期	NOUN	NN	_	30	nmod:tmod	_	SpaceAfter=No|Translit=zǎoqī|LTranslit=zǎoqī
 26	在	在	VERB	VV	_	30	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 27	五	五	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
 28	大洲	大洲	NOUN	NN	_	26	obj	_	SpaceAfter=No|Translit=dàzhōu|LTranslit=dàzhōu
 29	就	就	SCONJ	RB	_	30	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 30	超過	超過	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chāoguò|LTranslit=chāoguò
-31	80	80	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
-32	個	個	NOUN	NNB	_	33	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+31	80	80	NUM	CD	NumType=Card	33	nummod	_	SpaceAfter=No|Translit=80|LTranslit=80
+32	個	個	NOUN	NNB	_	31	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 33	國家	國家	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 34	參與	參與	VERB	VV	_	37	acl:relcl	_	SpaceAfter=No|Translit=cānyǔ|LTranslit=cānyǔ
 35	壁球	壁球	NOUN	NN	_	34	obj	_	SpaceAfter=No|Translit=bìqiú|LTranslit=bìqiú
@@ -3831,15 +3831,15 @@
 8	鑄件	鑄件	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=zhùjiàn|LTranslit=zhùjiàn
 9	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	由於	由於	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	模具	模具	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=mójù|LTranslit=mójù
 14	內	內	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
 15	可能	可能	AUX	MD	_	17	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 16	會	會	AUX	MD	_	17	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 17	有	有	VERB	VV	_	29	ccomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-18	多	多	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-19	個	個	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+18	多	多	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+19	個	個	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 20	模腔	模腔	NOUN	NN	_	17	obj	_	SpaceAfter=No|Translit=móqiāng|LTranslit=móqiāng
 21	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	所以	所以	SCONJ	RB	_	29	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
@@ -3850,8 +3850,8 @@
 27	可能	可能	AUX	MD	_	29	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 28	會	會	AUX	MD	_	29	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 29	產生	產生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chǎnshēng|LTranslit=chǎnshēng
-30	多	多	NUM	CD	NumType=Card	31	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-31	個	個	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+30	多	多	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+31	個	個	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 32	鑄件	鑄件	NOUN	NN	_	29	obj	_	SpaceAfter=No|Translit=zhùjiàn|LTranslit=zhùjiàn
 33	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -3895,8 +3895,8 @@
 1	因為	因為	ADP	IN	_	0	root	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 2	這裡	這裡	PRON	PRD	_	19	nsubj	_	SpaceAfter=No|Translit=zhèli|LTranslit=zhèli
 3	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	兩	兩	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-5	條	條	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
+4	兩	兩	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+5	條	條	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 6	河川	河川	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=héchuān|LTranslit=héchuān
 7	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 8	士別	士別	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=shìbié|LTranslit=shìbié
@@ -3918,8 +3918,8 @@
 # translit = zàigùyòngyīwèifǎyǔ嚮dǎohòu,lǚxíngzhějíqísuícóngjiùqiánwǎngbalí.
 1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	僱用	僱用	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=gùyòng|LTranslit=gùyòng
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-4	位	位	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+3	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+4	位	位	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 5	法	法	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=fǎ|LTranslit=fǎ
 6	語	語	PART	SFN	_	7	nmod	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 7	嚮導	嚮導	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=嚮dǎo|LTranslit=嚮dǎo
@@ -3941,8 +3941,8 @@
 1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit='ōuzhōu|LTranslit='ōuzhōu
 2	旅行	旅行	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=lǚxíng|LTranslit=lǚxíng
 3	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	件	件	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
+4	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	件	件	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 6	微不足道	微不足道	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=wēibùzúdào|LTranslit=wēibùzúdào
 7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	事	事	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -4133,8 +4133,8 @@
 11	他	他	PRON	PRP	Person=3	39	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 12	參與	參與	VERB	VV	_	39	advcl	_	SpaceAfter=No|Translit=cānyǔ|LTranslit=cānyǔ
 13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	場	場	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+14	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	場	場	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 16	預備	預備	VERB	VV	_	17	compound	_	SpaceAfter=No|Translit=yùbèi|LTranslit=yùbèi
 17	組	組	PART	SFN	_	18	nmod	_	SpaceAfter=No|Translit=zǔ|LTranslit=zǔ
 18	賽事	賽事	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=sàishì|LTranslit=sàishì
@@ -4243,10 +4243,10 @@
 # sent_id = test-s155
 # text = 1965年12月14日，夏繼泉在北京病逝。
 # translit = 1965nián12yuè14rì,xiàjìquánzàiběijīngbìngshì.
-1	1965	1965	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1965|LTranslit=1965
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	1965	1965	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1965|LTranslit=1965
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	12	12	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	14	14	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=14|LTranslit=14
 6	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4304,8 +4304,8 @@
 10	區	區	PART	SFN	_	11	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 11	下轄	下轄	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-14	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+13	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+14	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 15	鎮	鎮	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zhèn|LTranslit=zhèn
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -4324,8 +4324,8 @@
 10	科	科	PART	SFN	_	15	nmod	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 11	下	下	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=xià|LTranslit=xià
 12	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-14	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+13	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+14	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 15	屬	屬	NOUN	NN	_	22	acl	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	為	為	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -4717,8 +4717,8 @@
 # sent_id = test-s171
 # text = 2008年10月起，本作改編的動畫開始在TBS系電視台放映。
 # translit = 2008nián10yuèqǐ,běnzuògǎibiāndedònghuàkāishǐzàiTBSxìdiànshìtáifàngyìng.
-1	2008	2008	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2008|LTranslit=2008
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	2008	2008	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2008|LTranslit=2008
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	10	10	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
 4	月	月	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	起	起	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
@@ -4864,10 +4864,10 @@
 # translit = dàyì(1360niánwǔyuè-shí'èryuè)shìyuáncháoshíqīchényouliàngdeniánhào,gòngjì8gèyuè.
 1	大義	大義	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=dàyì|LTranslit=dàyì
 2	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-3	1360	1360	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1360|LTranslit=1360
-4	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-5	五	五	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
-6	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+3	1360	1360	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=1360|LTranslit=1360
+4	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+5	五	五	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
+6	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 7	-	-	PUNCT	HYPH	_	6	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 8	十二	十二	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=shí'èr|LTranslit=shí'èr
 9	月	月	NOUN	NNB	_	1	appos	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
@@ -4882,8 +4882,8 @@
 18	年號	年號	NOUN	NN	_	20	advcl	_	SpaceAfter=No|Translit=niánhào|LTranslit=niánhào
 19	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	共計	共計	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gòngjì|LTranslit=gòngjì
-21	8	8	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
-22	個	個	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+21	8	8	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
+22	個	個	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 23	月	月	NOUN	NN	_	20	obj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 24	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -4921,8 +4921,8 @@
 11	土地	土地	NOUN	NN	_	12	obl:patient	_	SpaceAfter=No|Translit=tǔde|LTranslit=tǔde
 12	劃分	劃分	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huàfēn|LTranslit=huàfēn
 13	為	為	VERB	VC	_	12	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-14	兩	兩	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-15	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	兩	兩	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+15	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	主要	主要	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=zhǔyào|LTranslit=zhǔyào
 17	部分	部分	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=bùfēn|LTranslit=bùfēn
 18	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4943,10 +4943,10 @@
 2	年	年	NOUN	NNB	_	10	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	後	後	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 4	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	1956	1956	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1956|LTranslit=1956
-6	年	年	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-7	3	3	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-8	月	月	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+5	1956	1956	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1956|LTranslit=1956
+6	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+7	3	3	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+8	月	月	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 9	8	8	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
 10	日	日	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 11	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5012,8 +5012,8 @@
 5	區	區	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 6	議會	議會	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=yìhuì|LTranslit=yìhuì
 7	其中	其中	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
-8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-9	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+8	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+9	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 10	選區	選區	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=xuǎnqū|LTranslit=xuǎnqū
 11	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	現任	現任	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=xiànrèn|LTranslit=xiànrèn
@@ -5117,8 +5117,8 @@
 # text = 在3月30日，美軍軍機在呉軍港及廣島灣佈置了1,034個水雷，由於需要時間清除水雷，所以令返回呉軍港相當困難。
 # translit = zài3yuè30rì,měijūnjūnjīzài呉jūngǎngjíguǎngdǎowān佈zhìle1,034gèshuǐléi,yóuyúxūyàoshíjiānqīngchúshuǐléi,suǒyǐlìngfǎnhuí呉jūngǎngxiāngdāngkùnnán.
 1	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	3	3	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-3	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+2	3	3	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+3	月	月	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 4	30	30	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=30|LTranslit=30
 5	日	日	NOUN	NNB	_	16	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5133,8 +5133,8 @@
 15	灣	灣	PART	SFN	_	12	conj	_	SpaceAfter=No|Translit=wān|LTranslit=wān
 16	佈置	佈置	VERB	VV	_	29	advcl	_	SpaceAfter=No|Translit=佈zhì|LTranslit=佈zhì
 17	了	了	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-18	1,034	1,034	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=1,034|LTranslit=1,034
-19	個	個	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+18	1,034	1,034	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=1,034|LTranslit=1,034
+19	個	個	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 20	水雷	水雷	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=shuǐléi|LTranslit=shuǐléi
 21	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	由於	由於	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -5170,8 +5170,8 @@
 13	而	而	SCONJ	RB	_	14	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 14	中	中	VERB	VV	_	24	csubj	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-16	4	4	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
-17	枚	枚	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+16	4	4	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
+17	枚	枚	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 18	炸彈	炸彈	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=zhàdàn|LTranslit=zhàdàn
 19	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	但	但	SCONJ	RB	_	24	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -5328,8 +5328,8 @@
 13	路	路	PART	SFN	_	5	obj	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 14	上	上	NOUN	NN	_	13	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 15	的	的	SCONJ	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	幢	幢	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=幢|LTranslit=幢
+16	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+17	幢	幢	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=幢|LTranslit=幢
 18	摩天	摩天	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=mótiān|LTranslit=mótiān
 19	大樓	大樓	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dàlóu|LTranslit=dàlóu
 20	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5351,8 +5351,8 @@
 # sent_id = test-s193
 # text = 2005年12月，該劇在橫店開機，除保留了原製作班底，主要演員全部更換。
 # translit = 2005nián12yuè,gāijùzàihéngdiànkāijī,chúbǎoliúleyuánzhìzuòbāndǐ,zhǔyàoyǎnyuánquánbùgènghuàn.
-1	2005	2005	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2005|LTranslit=2005
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	2005	2005	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2005|LTranslit=2005
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
 4	月	月	NOUN	NNB	_	9	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5490,10 +5490,10 @@
 # sent_id = test-s198
 # text = 2011年7月21日，大津祐樹和德國足球甲級聯賽球隊門興格拉德巴赫簽約三年。
 # translit = 2011nián7yuè21rì,dàjīn祐shùhédéguózúqiújiǎjíliánsàiqiúduìménxìnggélādébahèqiānyuēsānnián.
-1	2011	2011	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	7	7	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	2011	2011	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	7	7	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	21	21	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=21|LTranslit=21
 6	日	日	NOUN	NNB	_	17	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5648,8 +5648,8 @@
 5	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	下轄	下轄	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-8	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-9	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+8	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+9	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 10	鄉鎮	鄉鎮	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=xiāngzhèn|LTranslit=xiāngzhèn
 11	級	級	PART	SFN	_	13	nmod	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 12	行政	行政	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=xíngzhèng|LTranslit=xíngzhèng
@@ -5661,8 +5661,8 @@
 # translit = dàtǒnghuáyōngyǒusìchùwùliúzhōngxīn,qízhōng3chùzàidàwēngēhuádeqū,1chùzàiduōlúnduō.
 1	大統華	大統華	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dàtǒnghuá|LTranslit=dàtǒnghuá
 2	擁有	擁有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
-3	四	四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
-4	處	處	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=chù|LTranslit=chù
+3	四	四	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+4	處	處	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=chù|LTranslit=chù
 5	物流	物流	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=wùliú|LTranslit=wùliú
 6	中心	中心	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=zhōngxīn|LTranslit=zhōngxīn
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5689,8 +5689,8 @@
 4	完全	完全	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=wánquán|LTranslit=wánquán
 5	成	成	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 6	為	為	VERB	VC	_	5	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-8	間	間	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=jiān|LTranslit=jiān
+7	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+8	間	間	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=jiān|LTranslit=jiān
 9	由	由	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 10	加拿大	加拿大	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=jiānádà|LTranslit=jiānádà
 11	資金	資金	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=zījīn|LTranslit=zījīn
@@ -5739,8 +5739,8 @@
 3	競爭	競爭	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
 4	不斷	斷	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùduàn|LTranslit=duàn
 5	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	四	四	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
-7	位	位	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+6	四	四	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+7	位	位	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 8	妻子	妻子	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=qīzi|LTranslit=qīzi
 9	不斷	斷	VERB	VV	Polarity=Neg	11	advcl	_	SpaceAfter=No|Translit=bùduàn|LTranslit=duàn
 10	去	去	SCONJ	RB	_	11	mark	_	SpaceAfter=No|Translit=qù|LTranslit=qù
@@ -5852,8 +5852,8 @@
 6	遊戲	遊戲	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 7	提供	提供	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=tígōng|LTranslit=tígōng
 8	的	的	SCONJ	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-9	兩	兩	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-10	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+9	兩	兩	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+10	個	個	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	虛擬	虛擬	ADJ	JJ	_	13	amod	_	SpaceAfter=No|Translit=xūnǐ|LTranslit=xūnǐ
 12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	主角	主角	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=zhǔjiǎo|LTranslit=zhǔjiǎo
@@ -6095,8 +6095,8 @@
 8	不	不	ADV	RB	Polarity=Neg	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 9	理想	理想	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No|Translit=lǐxiǎng|LTranslit=lǐxiǎng
 10	（	（	PUNCT	(	_	9	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-11	第一	第一	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-12	季	季	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=jì|LTranslit=jì
+11	第一	第一	NUM	CD	NumType=Ord	14	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+12	季	季	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=jì|LTranslit=jì
 13	全年	全年	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=quánnián|LTranslit=quánnián
 14	收視	收視	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=shōushì|LTranslit=shōushì
 15	排行	排行	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=páixíng|LTranslit=páixíng
@@ -6135,13 +6135,13 @@
 6	環繞	環繞	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huánrào|LTranslit=huánrào
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	南面	南面	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=nánmiàn|LTranslit=nánmiàn
-9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-10	棵	棵	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+9	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+10	棵	棵	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 11	松樹	松樹	NOUN	NN	_	6	parataxis	_	SpaceAfter=No|Translit=sōngshù|LTranslit=sōngshù
 12	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	北面	北面	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=běimiàn|LTranslit=běimiàn
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	棵	棵	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+14	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	棵	棵	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 16	柏樹	柏樹	NOUN	NN	_	6	parataxis	_	SpaceAfter=No|Translit=bǎishù|LTranslit=bǎishù
 17	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	松樹	松樹	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=sōngshù|LTranslit=sōngshù
@@ -6258,10 +6258,10 @@
 5	宣布	宣布	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xuānbù|LTranslit=xuānbù
 6	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	自	自	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zì|LTranslit=zì
-8	2006	2006	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2006|LTranslit=2006
-9	年	年	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-10	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
-11	月	月	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+8	2006	2006	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=2006|LTranslit=2006
+9	年	年	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+10	1	1	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
+11	月	月	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 12	1	1	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 13	日	日	NOUN	NNB	_	16	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 14	起	起	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
@@ -6316,8 +6316,8 @@
 21	月	月	NOUN	NNB	_	22	compound	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 22	號	號	PART	SFN	_	28	obl	_	SpaceAfter=No|Translit=hào|LTranslit=hào
 23	到	到	CCONJ	CC	_	27	cc	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-24	1981	1981	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=1981|LTranslit=1981
-25	年	年	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+24	1981	1981	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=1981|LTranslit=1981
+25	年	年	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 26	2	2	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
 27	月	月	NOUN	NNB	_	22	conj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 28	連載	連載	VERB	VV	_	45	acl	_	SpaceAfter=No|Translit=liánzài|LTranslit=liánzài
@@ -6343,8 +6343,8 @@
 # sent_id = test-s231
 # text = 3月1日在為高宗舉行國葬時，韓國民眾藉機在各地遊行，韓國獨立運動者在京城塔洞公園發表了獨立宣言，要求韓國獨立，是為「三一運動」。
 # translit = 3yuè1rìzàiwèigāozōngjǔxíngguózàngshí,韓guómínzhòng藉jīzàigèdeyóuxíng,韓guódúlìyùndòngzhězàijīngchéngtǎdònggōngyuánfābiǎoledúlìxuānyán,yàoqiú韓guódúlì,shìwèi‘sānyīyùndòng’.
-1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+2	月	月	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 4	日	日	NOUN	NNB	_	14	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 5	在	在	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -6506,12 +6506,12 @@
 5	54,942	54,942	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=54,942|LTranslit=54,942
 6	人	人	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 7	、	、	PUNCT	EC	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	廿一	廿一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=niànyī|LTranslit=niànyī
-9	個	個	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+8	廿一	廿一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=niànyī|LTranslit=niànyī
+9	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 10	堂區	堂區	NOUN	NN	_	4	conj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
 11	、	、	PUNCT	EC	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	廿九	廿九	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=niànjiǔ|LTranslit=niànjiǔ
-13	名	名	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+12	廿九	廿九	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=niànjiǔ|LTranslit=niànjiǔ
+13	名	名	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 14	司鐸	司鐸	NOUN	NN	_	4	conj	_	SpaceAfter=No|Translit=sī鐸|LTranslit=sī鐸
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6521,10 +6521,10 @@
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	1956	1956	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=1956|LTranslit=1956
-5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-6	12	12	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
-7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+4	1956	1956	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=1956|LTranslit=1956
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+6	12	12	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
+7	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	17	17	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=17|LTranslit=17
 9	日	日	NOUN	NNB	_	2	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -6548,10 +6548,10 @@
 4	教區	教區	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 5	是	是	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	中國	中國	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
-7	第一	第一	NUM	CD	NumType=Ord	8	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-8	批	批	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=pī|LTranslit=pī
-9	6	6	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
-10	個	個	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+7	第一	第一	NUM	CD	NumType=Ord	12	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+8	批	批	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=pī|LTranslit=pī
+9	6	6	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
+10	個	個	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	國籍	國籍	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=guójí|LTranslit=guójí
 12	教區	教區	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 13	中	中	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
@@ -6570,10 +6570,10 @@
 2	區	區	PART	SFN	_	14	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 3	成立	成立	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 4	於	於	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-5	1951	1951	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1951|LTranslit=1951
-6	年	年	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-7	11	11	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
-8	月	月	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+5	1951	1951	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1951|LTranslit=1951
+6	年	年	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+7	11	11	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
+8	月	月	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 9	14	14	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=14|LTranslit=14
 10	日	日	NOUN	NNB	_	3	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 11	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -6584,12 +6584,12 @@
 16	10,000	10,000	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=10,000|LTranslit=10,000
 17	人	人	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 18	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-19	四	四	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
-20	個	個	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+19	四	四	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+20	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 21	堂區	堂區	NOUN	NN	_	15	conj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
 22	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-23	五	五	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
-24	名	名	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+23	五	五	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
+24	名	名	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 25	司鐸	司鐸	NOUN	NN	_	15	conj	_	SpaceAfter=No|Translit=sī鐸|LTranslit=sī鐸
 26	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6598,13 +6598,13 @@
 # translit = jiàoqūxiàxiáqīshísìgètángqū,yǒubāshíqīmíngsī鐸.
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	下轄	下轄	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
-3	七十四	七十四	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=qīshísì|LTranslit=qīshísì
-4	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	七十四	七十四	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=qīshísì|LTranslit=qīshísì
+4	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	堂區	堂區	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-8	八十七	八十七	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=bāshíqī|LTranslit=bāshíqī
-9	名	名	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+8	八十七	八十七	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=bāshíqī|LTranslit=bāshíqī
+9	名	名	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 10	司鐸	司鐸	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=sī鐸|LTranslit=sī鐸
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6658,13 +6658,13 @@
 # translit = jiàoqūxiàxiá218gètángqū,yǒu327míngsī鐸.
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	下轄	下轄	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
-3	218	218	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=218|LTranslit=218
-4	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	218	218	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=218|LTranslit=218
+4	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	堂區	堂區	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tángqū|LTranslit=tángqū
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-8	327	327	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=327|LTranslit=327
-9	名	名	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+8	327	327	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=327|LTranslit=327
+9	名	名	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 10	司鐸	司鐸	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=sī鐸|LTranslit=sī鐸
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6674,10 +6674,10 @@
 1	教區	教區	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	成立	成立	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	2013	2013	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
-5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-6	2	2	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
-7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+4	2013	2013	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+6	2	2	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
+7	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	22	22	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=22|LTranslit=22
 9	日	日	NOUN	NNB	_	2	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -6693,10 +6693,10 @@
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
 2	成立	成立	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	1969	1969	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=1969|LTranslit=1969
-5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-6	7	7	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
-7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+4	1969	1969	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=1969|LTranslit=1969
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+6	7	7	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
+7	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	18	18	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=18|LTranslit=18
 9	日	日	NOUN	NNB	_	2	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -6985,8 +6985,8 @@
 # translit = dàole2004nián5yuè,tiānshuǐwéiběiwéiyīsīrénwū苑huìjǐng軒zhèngshìrùhuǒ.
 1	到	到	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 2	了	了	AUX	AS	Aspect=Perf	1	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-3	2004	2004	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2004|LTranslit=2004
-4	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	2004	2004	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2004|LTranslit=2004
+4	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 5	5	5	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 6	月	月	NOUN	NNB	_	1	obj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 7	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7046,8 +7046,8 @@
 7	市	市	PART	SFN	_	14	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 8	歷史	歷史	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 9	上	上	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-10	第一	第一	NUM	CD	NumType=Ord	11	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-11	家	家	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
+10	第一	第一	NUM	CD	NumType=Ord	14	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+11	家	家	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 12	外資	外資	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=wàizī|LTranslit=wàizī
 13	大	大	PART	PFA	_	14	case	_	SpaceAfter=No|Translit=dà|LTranslit=dà
 14	飯店	飯店	NOUN	NN	_	26	acl	_	SpaceAfter=No|Translit=fàndiàn|LTranslit=fàndiàn
@@ -7163,8 +7163,8 @@
 74	生態	生態	NOUN	NN	_	76	nmod	_	SpaceAfter=No|Translit=shēngtài|LTranslit=shēngtài
 75	農業	農業	NOUN	NN	_	76	compound	_	SpaceAfter=No|Translit=nóngyè|LTranslit=nóngyè
 76	區	區	PART	SFN	_	56	conj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
-77	四	四	NUM	CD	NumType=Card	78	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
-78	個	個	NOUN	NNB	_	80	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+77	四	四	NUM	CD	NumType=Card	80	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
+78	個	個	NOUN	NNB	_	77	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 79	農業	農業	NOUN	NN	_	80	nmod	_	SpaceAfter=No|Translit=nóngyè|LTranslit=nóngyè
 80	區劃	區劃	NOUN	NN	_	56	appos	_	SpaceAfter=No|Translit=qūhuà|LTranslit=qūhuà
 81	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -7187,8 +7187,8 @@
 13	省	省	PART	SFN	_	14	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 14	涉縣	涉縣	PROPN	NNP	_	10	obj	_	SpaceAfter=No|Translit=shèxiàn|LTranslit=shèxiàn
 15	的	的	SCONJ	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-17	塊	塊	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
+16	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+17	塊	塊	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=kuài|LTranslit=kuài
 18	飛地	飛地	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=fēide|LTranslit=fēide
 19	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	即	即	VERB	VC	_	9	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
@@ -7262,13 +7262,13 @@
 1	歷史	歷史	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 2	上	上	ADP	IN	_	1	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 3	，	，	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	1982	1982	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=1982|LTranslit=1982
-5	年	年	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+4	1982	1982	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=1982|LTranslit=1982
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 6	11	11	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 7	月	月	NOUN	NNB	_	13	nmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	至	至	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
-9	1994	1994	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1994|LTranslit=1994
-10	年	年	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+9	1994	1994	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=1994|LTranslit=1994
+10	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 11	10	10	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
 12	月	月	NOUN	NNB	_	7	conj	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 13	期間	期間	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No|Translit=qījiān|LTranslit=qījiān
@@ -7310,8 +7310,8 @@
 # translit = 1959nián3yuè13rì,yǒngjiǔ沽chǎnggǎiwèilìshǔyúhéběishěnghuàxuéshíyóugōngyètīng.
 1	1959	1959	NUM	CD	NumType=Card	2	nmod	_	SpaceAfter=No|Translit=1959|LTranslit=1959
 2	年	年	NOUN	NNB	_	6	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+3	3	3	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	13	13	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=13|LTranslit=13
 6	日	日	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7349,8 +7349,8 @@
 # translit = wěishìyīmíngguójūnkōngjūnfēixíngshǎo尉,shìláizìyúyīgèxiǎnhèjiāzúde'èrshǎoye.
 1	偉	偉	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=wěi|LTranslit=wěi
 2	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-4	名	名	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+3	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+4	名	名	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 5	國軍	國軍	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=guójūn|LTranslit=guójūn
 6	空軍	空軍	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=kōngjūn|LTranslit=kōngjūn
 7	飛行	飛行	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=fēixíng|LTranslit=fēixíng
@@ -7360,8 +7360,8 @@
 11	來	來	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 12	自	自	VERB	VV	_	11	mark	_	SpaceAfter=No|Translit=zì|LTranslit=zì
 13	於	於	VERB	VV	_	11	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	顯赫	顯赫	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=xiǎnhè|LTranslit=xiǎnhè
 17	家族	家族	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=jiāzú|LTranslit=jiāzú
 18	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7399,8 +7399,8 @@
 5	眾多	眾多	ADJ	JJ	_	6	nmod	_	SpaceAfter=No|Translit=zhòngduō|LTranslit=zhòngduō
 6	支派	支派	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=zhīpài|LTranslit=zhīpài
 7	經	經	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=jīng|LTranslit=jīng
-8	幾	幾	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
-9	番	番	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=fān|LTranslit=fān
+8	幾	幾	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
+9	番	番	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=fān|LTranslit=fān
 10	整合	整合	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=zhěnghé|LTranslit=zhěnghé
 11	於	於	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 12	西元	西元	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=xiyuán|LTranslit=xiyuán
@@ -7460,10 +7460,10 @@
 1	觀景	觀景	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=guānjǐng|LTranslit=guānjǐng
 2	台	台	PART	SFN	_	11	nsubj	_	SpaceAfter=No|Translit=tái|LTranslit=tái
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	2011	2011	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-6	4	4	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
-7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+4	2011	2011	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+6	4	4	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
+7	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	17	17	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=17|LTranslit=17
 9	日	日	NOUN	NNB	_	11	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	起	起	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
@@ -7543,8 +7543,8 @@
 # sent_id = test-s275
 # text = 1939年4月，日軍攻佔太平島，並將其更名為長島，納入高雄州管理。
 # translit = 1939nián4yuè,rìjūngōngzhàntàipíngdǎo,bìngjiāngqígèngmíngwèizhǎngdǎo,nàrùgāoxióngzhōuguǎnlǐ.
-1	1939	1939	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1939|LTranslit=1939
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1939	1939	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1939|LTranslit=1939
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 4	月	月	NOUN	NNB	_	19	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7749,14 +7749,14 @@
 52	進行	進行	VERB	VV	_	11	parataxis	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
 53	會議	會議	NOUN	NN	_	52	obj	_	SpaceAfter=No|Translit=huìyì|LTranslit=huìyì
 54	，	，	PUNCT	,	_	67	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-55	第17	第17	NUM	CD	NumType=Ord	56	nummod	_	SpaceAfter=No|Translit=dì17|LTranslit=dì17
-56	屆	屆	NOUN	NNB	_	59	clf	_	SpaceAfter=No|Translit=jiè|LTranslit=jiè
+55	第17	第17	NUM	CD	NumType=Ord	59	nummod	_	SpaceAfter=No|Translit=dì17|LTranslit=dì17
+56	屆	屆	NOUN	NNB	_	55	clf	_	SpaceAfter=No|Translit=jiè|LTranslit=jiè
 57	部長	部長	NOUN	NN	_	58	compound	_	SpaceAfter=No|Translit=bùzhǎng|LTranslit=bùzhǎng
 58	級	級	PART	SFN	_	59	nmod	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 59	會議	會議	NOUN	NN	_	67	nsubj	_	SpaceAfter=No|Translit=huìyì|LTranslit=huìyì
 60	在	在	ADP	IN	_	64	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-61	2005	2005	NUM	CD	NumType=Card	62	nummod	_	SpaceAfter=No|Translit=2005|LTranslit=2005
-62	年	年	NOUN	NNB	_	64	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+61	2005	2005	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No|Translit=2005|LTranslit=2005
+62	年	年	NOUN	NNB	_	61	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 63	11	11	NUM	CD	NumType=Card	64	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 64	月	月	NOUN	NNB	_	67	obl	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 65	澳洲	澳洲	PROPN	NNP	_	66	nmod	_	SpaceAfter=No|Translit='àozhōu|LTranslit='àozhōu
@@ -7768,8 +7768,8 @@
 # text = 根據1984年大選前的民意調查，百分之五十八的民眾明確反對美國軍艦的訪問。
 # translit = gēnjù1984niándàxuǎnqiándemínyìdiàochá,bǎifēnzhīwǔshíbādemínzhòngmíngquèfǎnduìměiguójūnjiàndefǎngwèn.
 1	根據	根據	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
-2	1984	1984	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1984|LTranslit=1984
-3	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+2	1984	1984	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1984|LTranslit=1984
+3	年	年	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 4	大選	大選	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=dàxuǎn|LTranslit=dàxuǎn
 5	前	前	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=qián|LTranslit=qián
 6	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -7846,8 +7846,8 @@
 9	下轄	下轄	VERB	VV	_	10	compound	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 10	鄉	鄉	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=xiāng|LTranslit=xiāng
 11	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	2012	2012	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
-13	年	年	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+12	2012	2012	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
+13	年	年	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 14	4	4	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 15	月	月	NOUN	NNB	_	16	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 16	撤銷	撤銷	VERB	VV	_	24	advcl	_	SpaceAfter=No|Translit=chèxiāo|LTranslit=chèxiāo
@@ -7907,17 +7907,17 @@
 1	太極	太極	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No|Translit=tàijí|LTranslit=tàijí
 2	分別	分別	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=fēnbié|LTranslit=fēnbié
 3	於	於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-4	2012	2012	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
-5	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-6	5	5	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
-7	月	月	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+4	2012	2012	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
+5	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+6	5	5	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
+7	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 8	4	4	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 9	日	日	NOUN	NNB	_	21	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 10	及	及	CCONJ	CC	_	16	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-11	2012	2012	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
-12	年	年	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-13	8	8	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
-14	月	月	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+11	2012	2012	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
+12	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+13	8	8	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
+14	月	月	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 15	11	11	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 16	日	日	NOUN	NNB	_	9	conj	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 17	在	在	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -8089,8 +8089,8 @@
 1	夸克	夸克	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=kuākè|LTranslit=kuākè
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 3	著	著	AUX	AS	Aspect=Prog	2	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
-4	多	多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-5	種	種	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+4	多	多	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+5	種	種	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 6	不同	不同	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	內在	內在	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=nèizài|LTranslit=nèizài
@@ -8113,8 +8113,8 @@
 1	夸克	夸克	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=kuākè|LTranslit=kuākè
 2	新星	新星	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=xīnxīng|LTranslit=xīnxīng
 3	是	是	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	種	種	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+4	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	種	種	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 6	假設	假設	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=jiǎshè|LTranslit=jiǎshè
 7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	超	超	PART	PFA	_	9	case	_	SpaceAfter=No|Translit=chāo|LTranslit=chāo
@@ -8139,8 +8139,8 @@
 # sent_id = test-s294
 # text = 12月4日奇爾沙治號離開艦隊，在6日抵達橫須賀休假。
 # translit = 12yuè4rìqí'ěrshāzhìhàolíkāijiànduì,zài6rìdǐdáhéngxūhèxiūjiǎ.
-1	12	12	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
-2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
+2	月	月	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 4	日	日	NOUN	NNB	_	7	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 5	奇爾沙治	奇爾沙治	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=qí'ěrshāzhì|LTranslit=qí'ěrshāzhì
@@ -8242,8 +8242,8 @@
 11	杭錦後旗	杭錦後旗	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=杭jǐnhòuqí|LTranslit=杭jǐnhòuqí
 12	設立	設立	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=shèlì|LTranslit=shèlì
 13	的	的	SCONJ	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	高級	高級	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=gāojí|LTranslit=gāojí
 17	中學	中學	NOUN	NN	_	19	advcl	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
 18	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8269,8 +8269,8 @@
 38	也是	是	AUX	VC	_	43	cop	_	SpaceAfter=No|Translit=yěshì|LTranslit=shì
 39	內	內	NOUN	NN	_	43	nmod	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
 40	蒙古	蒙古	PROPN	NNP	_	43	nmod	_	SpaceAfter=No|Translit=ménggǔ|LTranslit=ménggǔ
-41	第一	第一	NUM	CD	NumType=Ord	42	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-42	所	所	NOUN	NNB	_	43	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+41	第一	第一	NUM	CD	NumType=Ord	43	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+42	所	所	NOUN	NNB	_	41	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 43	中學	中學	NOUN	NN	_	19	parataxis	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
 44	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -8306,8 +8306,8 @@
 # translit = yuánnèiyōngyǒu19wànpíngfāng呎tiānránshùlín,dāngzhōngdàxiǎoshùmùduōdáqiānyúkē.
 1	園內	園內	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=yuánnèi|LTranslit=yuánnèi
 2	擁有	擁有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
-3	19萬	19萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=19wàn|LTranslit=19wàn
-4	平方呎	平方呎	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=píngfāng呎|LTranslit=píngfāng呎
+3	19萬	19萬	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=19wàn|LTranslit=19wàn
+4	平方呎	平方呎	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=píngfāng呎|LTranslit=píngfāng呎
 5	天然	天然	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=tiānrán|LTranslit=tiānrán
 6	樹林	樹林	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=shùlín|LTranslit=shùlín
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8399,8 +8399,8 @@
 # translit = tādeyīgèrziLunahòuláichénglezhemíngshuǐwénxuéjiāhéjiāzhōudàxuébókèlìfēnxiàodedezhìxuéjiàoshòu.
 1	他	他	PRON	PRP	Person=3	5	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-4	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+4	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	兒子	兒子	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=rzi|LTranslit=rzi
 6	Luna	Luna	X	FW	_	5	appos	_	SpaceAfter=No|Translit=Luna|LTranslit=Luna
 7	後來	後來	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
@@ -8469,8 +8469,8 @@
 # sent_id = test-s307
 # text = 1945年3月，蘇軍攻打柯尼斯堡。
 # translit = 1945nián3yuè,sūjūngōngdǎ柯nísībǎo.
-1	1945	1945	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1945|LTranslit=1945
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1945	1945	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1945|LTranslit=1945
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -8559,10 +8559,10 @@
 3	3630	3630	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3630|LTranslit=3630
 4	人口	人口	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=rénkǒu|LTranslit=rénkǒu
 5	（	（	PUNCT	(	_	11	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	2010	2010	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=2010|LTranslit=2010
-7	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-8	1	1	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
-9	月	月	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+6	2010	2010	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=2010|LTranslit=2010
+7	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+8	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
+9	月	月	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 10	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 11	日	日	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 12	）	）	PUNCT	)	_	11	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -8670,8 +8670,8 @@
 3	是	是	VERB	VC	_	34	csubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	因為	因為	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 5	存在	存在	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=cúnzài|LTranslit=cúnzài
-6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-7	顆	顆	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
+6	一	一	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+7	顆	顆	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=kē|LTranslit=kē
 8	未知	未知	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=wèizhī|LTranslit=wèizhī
 9	行星	行星	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=xíngxīng|LTranslit=xíngxīng
 10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -8704,8 +8704,8 @@
 # sent_id = test-s314
 # text = 1980年代中期起奧林匹亞公司的經濟狀況開始變壞。
 # translit = 1980niándàizhōngqīqǐ'àolínpǐyàgōngsīdejīngjìzhuàngkuàngkāishǐbiànhuài.
-1	1980	1980	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1980|LTranslit=1980
-2	年代	年代	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
+1	1980	1980	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1980|LTranslit=1980
+2	年代	年代	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=niándài|LTranslit=niándài
 3	中期	中期	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No|Translit=zhōngqī|LTranslit=zhōngqī
 4	起	起	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
 5	奧林匹亞	奧林匹亞	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit='àolínpǐyà|LTranslit='àolínpǐyà
@@ -8793,8 +8793,8 @@
 34	又	又	SCONJ	RB	_	35	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 35	稱	稱	VERB	VV	_	53	advcl	_	SpaceAfter=No|Translit=chēng|LTranslit=chēng
 36	「	「	PUNCT	``	_	39	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
-37	九	九	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No|Translit=jiǔ|LTranslit=jiǔ
-38	年	年	NOUN	NNB	_	39	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+37	九	九	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No|Translit=jiǔ|LTranslit=jiǔ
+38	年	年	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 39	戰爭	戰爭	NOUN	NN	_	35	obl	_	SpaceAfter=No|Translit=zhànzhēng|LTranslit=zhànzhēng
 40	」	」	PUNCT	''	_	39	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 41	）	）	PUNCT	)	_	35	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -8876,8 +8876,8 @@
 11	現代	現代	NOUN	NN	_	13	nmod:tmod	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
 12	則	則	SCONJ	RB	_	13	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 13	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
-14	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-15	套	套	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
+14	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+15	套	套	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
 16	改良	改良	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No|Translit=gǎiliáng|LTranslit=gǎiliáng
 17	過	過	AUX	AS	Aspect=Perf	16	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 18	的	的	SCONJ	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -8939,8 +8939,8 @@
 26	因	因	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 27	此	此	PRON	PRD	_	38	obl	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
 28	直至	直至	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=zhízhì|LTranslit=zhízhì
-29	1864	1864	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=1864|LTranslit=1864
-30	年	年	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+29	1864	1864	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=1864|LTranslit=1864
+30	年	年	NOUN	NNB	_	29	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 31	2	2	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=2|LTranslit=2
 32	月	月	NOUN	NNB	_	38	obl	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 33	都	都	SCONJ	RB	_	38	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
@@ -9041,8 +9041,8 @@
 7	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	辛德勒	辛德勒	PROPN	NNP	_	23	nsubj:pass	_	SpaceAfter=No|Translit=xīndélēi|LTranslit=xīndélēi
 9	進入	進入	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=jìnrù|LTranslit=jìnrù
-10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-11	所	所	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+10	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+11	所	所	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 12	技校	技校	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=jìxiào|LTranslit=jìxiào
 13	學習	學習	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=xuéxí|LTranslit=xuéxí
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -9087,8 +9087,8 @@
 10	中	中	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 11	也	也	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 12	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-14	支	支	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+13	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+14	支	支	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 15	直掛	直掛	VERB	VV	_	20	acl:relcl	_	SpaceAfter=No|Translit=zhíguà|LTranslit=zhíguà
 16	的	的	SCONJ	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	奧蘭治	奧蘭治	PROPN	NNP	_	20	nmod	_	SpaceAfter=No|Translit='àolánzhì|LTranslit='àolánzhì
@@ -9142,8 +9142,8 @@
 31	的	的	SCONJ	DEC	_	30	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 32	弗魯埃拉	弗魯埃拉	PROPN	NNP	_	29	appos	_	SpaceAfter=No|Translit=fúlǔ'āilā|LTranslit=fúlǔ'āilā
 33	的	的	PART	DEC	Case=Gen	32	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-34	一	一	NUM	CD	NumType=Card	35	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-35	個	個	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+34	一	一	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+35	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 36	堂弟	堂弟	NOUN	NN	_	16	conj	_	SpaceAfter=No|Translit=tángdì|LTranslit=tángdì
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -9161,8 +9161,8 @@
 9	事蹟	事蹟	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=shì蹟|LTranslit=shì蹟
 10	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	鎮壓	鎮壓	VERB	VV	_	10	xcomp	_	SpaceAfter=No|Translit=zhènyā|LTranslit=zhènyā
-12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-13	起	起	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
+12	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+13	起	起	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=qǐ|LTranslit=qǐ
 14	農奴	農奴	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=nóngnú|LTranslit=nóngnú
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	動亂	動亂	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=dòngluàn|LTranslit=dòngluàn
@@ -9238,8 +9238,8 @@
 # translit = měiduànjièshàoliǎnggèwúlítóudexīnwénhòu,fāng芳芳yǔba戈jiùgǎnxièguānzhòngshōukàn<xīnwén砲>,xīnwénshèyǐngpéngdēngguāngdiào'àn,ba戈réngrányǔfāng芳芳jìnxíngyīxiǎoduànduìhuà;gēndìyīduànduǎnjùyīyàng,yǒushíhouba戈yòuhuìbèifāng芳芳dǎyībazhǎng.
 1	每段	每段	DET	DT	_	2	obl	_	SpaceAfter=No|Translit=měiduàn|LTranslit=měiduàn
 2	介紹	介紹	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=jièshào|LTranslit=jièshào
-3	兩	兩	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-4	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+3	兩	兩	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+4	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 5	無厘頭	無厘頭	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=wúlítóu|LTranslit=wúlítóu
 6	的	的	SCONJ	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	新聞	新聞	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=xīnwén|LTranslit=xīnwén
@@ -9272,13 +9272,13 @@
 34	方	方	PROPN	NNP	_	36	obl	_	SpaceAfter=No|Translit=fāng|LTranslit=fāng
 35	芳芳	芳芳	PROPN	NNP	_	34	flat:name	_	SpaceAfter=No|Translit=芳芳|LTranslit=芳芳
 36	進行	進行	VERB	VV	_	16	parataxis	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
-37	一	一	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-38	小段	小段	NOUN	NNB	_	39	clf	_	SpaceAfter=No|Translit=xiǎoduàn|LTranslit=xiǎoduàn
+37	一	一	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+38	小段	小段	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=xiǎoduàn|LTranslit=xiǎoduàn
 39	對話	對話	NOUN	NN	_	36	obj	_	SpaceAfter=No|Translit=duìhuà|LTranslit=duìhuà
 40	；	；	PUNCT	:	_	56	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 41	跟	跟	ADP	IN	_	44	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
-42	第一	第一	NUM	CD	NumType=Ord	43	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-43	段	段	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+42	第一	第一	NUM	CD	NumType=Ord	44	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+43	段	段	NOUN	NNB	_	42	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 44	短劇	短劇	NOUN	NN	_	45	nmod	_	SpaceAfter=No|Translit=duǎnjù|LTranslit=duǎnjù
 45	一樣	一樣	ADJ	JJ	_	56	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 46	，	，	PUNCT	,	_	45	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -9576,8 +9576,8 @@
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	他們	他	PRON	PRP	Number=Plur|Person=3	6	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 6	找到	找到	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhǎodào|LTranslit=zhǎodào
-7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-8	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+7	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+8	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 9	鄉村	鄉村	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=xiāngcūn|LTranslit=xiāngcūn
 10	小	小	PART	PFA	_	11	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 11	酒館	酒館	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=jiǔguǎn|LTranslit=jiǔguǎn
@@ -9775,8 +9775,8 @@
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	命名	命名	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mìngmíng|LTranslit=mìngmíng
 22	了	了	AUX	AS	Aspect=Perf	21	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-23	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-24	個	個	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+23	一	一	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+24	個	個	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 25	最新	最新	ADJ	JJ	_	27	amod	_	SpaceAfter=No|Translit=zuìxīn|LTranslit=zuìxīn
 26	的	的	SCONJ	DEC	_	25	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 27	種	種	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
@@ -9810,8 +9810,8 @@
 20	化石	化石	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=huàshí|LTranslit=huàshí
 21	屬	屬	VERB	VV	_	18	ccomp	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 22	於	於	VERB	VV	_	21	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-23	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-24	種	種	NOUN	NNB	_	30	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+23	一	一	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+24	種	種	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 25	比	比	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
 26	始祖鳥	始祖鳥	NOUN	NN	_	28	nmod	_	SpaceAfter=No|Translit=shǐzǔniǎo|LTranslit=shǐzǔniǎo
 27	更為	更為	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit=gèngwèi|LTranslit=gèngwèi
@@ -9839,10 +9839,10 @@
 14	辯論	辯論	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=biànlùn|LTranslit=biànlùn
 15	後	後	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 16	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-17	2011	2011	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-18	年	年	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-19	10	10	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
-20	月	月	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+17	2011	2011	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
+18	年	年	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+19	10	10	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
+20	月	月	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 21	3	3	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
 22	日	日	NOUN	NNB	_	26	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 23	倫敦	倫敦	PROPN	NNP	_	24	nmod	_	SpaceAfter=No|Translit=lún敦|LTranslit=lún敦
@@ -10077,10 +10077,10 @@
 # sent_id = test-s361
 # text = 1882年8月13日，傑文斯在黑斯廷斯城附近洗海水澡時溺水身亡。
 # translit = 1882nián8yuè13rì,傑wénsīzàihēisītíngsīchéngfùjìnxǐhǎishuǐzǎoshí溺shuǐshēnwáng.
-1	1882	1882	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1882|LTranslit=1882
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	8	8	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	1882	1882	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1882|LTranslit=1882
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	8	8	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	13	13	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=13|LTranslit=13
 6	日	日	NOUN	NNB	_	18	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10185,8 +10185,8 @@
 7	由於	由於	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 8	支持	支持	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=zhīchí|LTranslit=zhīchí
 9	了	了	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-11	場	場	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+10	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+11	場	場	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 12	違反	違反	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=wéifǎn|LTranslit=wéifǎn
 13	中立	中立	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=zhōnglì|LTranslit=zhōnglì
 14	法	法	PART	SFN	_	12	obj	_	SpaceAfter=No|Translit=fǎ|LTranslit=fǎ
@@ -10209,8 +10209,8 @@
 6	歐洲	歐洲	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No|Translit='ōuzhōu|LTranslit='ōuzhōu
 7	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
 8	了	了	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-9	1848	1848	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1848|LTranslit=1848
-10	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+9	1848	1848	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=1848|LTranslit=1848
+10	年	年	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 11	革命	革命	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=gémìng|LTranslit=gémìng
 12	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -10358,10 +10358,10 @@
 9	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	法例	法例	NOUN	NN	_	19	nsubj:pass	_	SpaceAfter=No|Translit=fǎlì|LTranslit=fǎlì
 11	於	於	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-12	1890	1890	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=1890|LTranslit=1890
-13	年	年	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-14	10	10	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
-15	月	月	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+12	1890	1890	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=1890|LTranslit=1890
+13	年	年	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+14	10	10	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
+15	月	月	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 16	1	1	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 17	日	日	NOUN	NNB	_	19	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 18	被	被	AUX	BB	Voice=Pass	19	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
@@ -10381,8 +10381,8 @@
 8	工作	工作	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=gōngzuò|LTranslit=gōngzuò
 9	關係	關係	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=guānxì|LTranslit=guānxì
 10	是	是	VERB	VC	_	3	ccomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	臣子	臣子	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=chénzi|LTranslit=chénzi
 14	對	對	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 15	他	他	PRON	PRP	Person=3	17	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -10406,8 +10406,8 @@
 # sent_id = test-s374
 # text = 2013年4月，威廉瑪麗校友瑪麗·喬·懷特（Mary Jo White）經美國參議院一致同意，擔任美國證監會主席。
 # translit = 2013nián4yuè,wēiliánmǎlìxiàoyoumǎlì·喬·huáitè(Mary Jo White)jīngměiguócānyìyuànyīzhìtóngyì,dānrènměiguózhèngjiānhuìzhǔxí.
-1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	2013	2013	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	4	4	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
 4	月	月	NOUN	NNB	_	25	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10463,21 +10463,21 @@
 21	者	者	PART	SFN	_	23	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 22	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	包括	包括	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=bāokuò|LTranslit=bāokuò
-24	5	5	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
-25	位	位	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+24	5	5	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
+25	位	位	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 26	美國	美國	PROPN	NNP	_	27	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 27	總統	總統	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=zǒngtǒng|LTranslit=zǒngtǒng
 28	和	和	CCONJ	CC	_	34	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-29	12	12	NUM	CD	NumType=Card	30	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
-30	位	位	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+29	12	12	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
+30	位	位	NOUN	NNB	_	29	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 31	獨立	獨立	NOUN	NN	_	34	nmod	_	SpaceAfter=No|Translit=dúlì|LTranslit=dúlì
 32	宣言	宣言	NOUN	NN	_	34	nmod	_	SpaceAfter=No|Translit=xuānyán|LTranslit=xuānyán
 33	簽署	簽署	VERB	VV	_	34	compound	_	SpaceAfter=No|Translit=qiānshǔ|LTranslit=qiānshǔ
 34	者	者	PART	SFN	_	27	conj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 35	（	（	PUNCT	(	_	40	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 36	總共	總共	ADV	RB	_	40	advmod	_	SpaceAfter=No|Translit=zǒnggòng|LTranslit=zǒnggòng
-37	56	56	NUM	CD	NumType=Card	38	nummod	_	SpaceAfter=No|Translit=56|LTranslit=56
-38	位	位	NOUN	NNB	_	40	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+37	56	56	NUM	CD	NumType=Card	40	nummod	_	SpaceAfter=No|Translit=56|LTranslit=56
+38	位	位	NOUN	NNB	_	37	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 39	簽字	簽字	VERB	VV	_	40	compound	_	SpaceAfter=No|Translit=qiānzì|LTranslit=qiānzì
 40	人	人	PART	SFN	_	27	parataxis	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 41	，	，	PUNCT	,	_	47	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10511,8 +10511,8 @@
 69	美國	美國	PROPN	NNP	_	75	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
 70	最初	最初	NOUN	NN	_	75	nmod	_	SpaceAfter=No|Translit=zuìchū|LTranslit=zuìchū
 71	的	的	PART	DEC	Case=Gen	70	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-72	10	10	NUM	CD	NumType=Card	73	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
-73	位	位	NOUN	NNB	_	75	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+72	10	10	NUM	CD	NumType=Card	75	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
+73	位	位	NOUN	NNB	_	72	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 74	國務	國務	NOUN	NN	_	75	compound	_	SpaceAfter=No|Translit=guówu|LTranslit=guówu
 75	卿	卿	PART	SFN	_	78	nsubj	_	SpaceAfter=No|Translit=卿|LTranslit=卿
 76	，	，	PUNCT	,	_	75	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10737,8 +10737,8 @@
 6	住房	住房	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhùfáng|LTranslit=zhùfáng
 7	均	均	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 8	為	為	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-9	一	一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-10	位	位	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+9	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+10	位	位	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 11	老	老	PART	PFA	_	12	case	_	SpaceAfter=No|Translit=lǎo|LTranslit=lǎo
 12	阿媽	阿媽	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit='āmā|LTranslit='āmā
 13	家	家	PART	SFN	_	15	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
@@ -10773,10 +10773,10 @@
 3	特急	特急	ADJ	JJ	_	15	nsubj	_	SpaceAfter=No|Translit=tèjí|LTranslit=tèjí
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 5	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	2011	2011	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
-7	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-8	4	4	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
-9	月	月	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+6	2011	2011	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
+7	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+8	4	4	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
+9	月	月	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 10	1	1	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 11	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 12	上映	上映	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=shàngyìng|LTranslit=shàngyìng
@@ -11034,8 +11034,8 @@
 1	1929	1929	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1929|LTranslit=1929
 2	年	年	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	十三	十三	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=shísān|LTranslit=shísān
-5	世	世	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+4	十三	十三	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=shísān|LTranslit=shísān
+5	世	世	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	達賴	達賴	X	FW	_	7	nmod	_	SpaceAfter=No|Translit=dálài|LTranslit=dálài
 7	喇嘛	喇嘛	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=lǎma|LTranslit=lǎma
 8	和	和	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
@@ -11107,8 +11107,8 @@
 # sent_id = test-s396
 # text = 1925年1月至5月，孫雲鵬擔任正太鐵路總工會會長（委員長）。
 # translit = 1925nián1yuèzhì5yuè,sūn雲鵬dānrènzhèngtàitiělùzǒnggōnghuìhuìzhǎng(wěiyuánzhǎng).
-1	1925	1925	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1925|LTranslit=1925
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1925	1925	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1925|LTranslit=1925
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	1	1	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 4	月	月	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	至	至	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -11142,8 +11142,8 @@
 8	平方米	平方米	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=píngfāngmǐ|LTranslit=píngfāngmǐ
 9	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	是	是	AUX	VC	_	20	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	座	座	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+11	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	座	座	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 13	三	三	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=sān|LTranslit=sān
 14	層	層	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 15	磚木	磚木	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=zhuānmù|LTranslit=zhuānmù
@@ -11220,8 +11220,8 @@
 22	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	成	成	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chéng|LTranslit=chéng
 24	為	為	VERB	VC	_	23	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-25	第一	第一	NUM	CD	NumType=Ord	26	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
-26	個	個	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+25	第一	第一	NUM	CD	NumType=Ord	32	nummod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
+26	個	個	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 27	在	在	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 28	NBA	NBA	X	FW	_	29	obl	_	SpaceAfter=No|Translit=NBA|LTranslit=NBA
 29	首發	首發	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No|Translit=shǒufā|LTranslit=shǒufā
@@ -11259,8 +11259,8 @@
 # sent_id = test-s402
 # text = 884年秋，在李克用要求下，僖宗任李克脩為昭義節度使，使得昭義鎮出現了兩位節度使。
 # translit = 884niánqiū,zàilikèyòngyàoqiúxià,僖zōngrènlikè脩wèi昭yìjiédùshǐ,shǐde昭yìzhènchūxiànleliǎngwèijiédùshǐ.
-1	884	884	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=884|LTranslit=884
-2	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	884	884	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=884|LTranslit=884
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	秋	秋	NOUN	NN	_	12	nmod:tmod	_	SpaceAfter=No|Translit=qiū|LTranslit=qiū
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	在	在	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -11320,8 +11320,8 @@
 7	攻佔	攻佔	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gōngzhàn|LTranslit=gōngzhàn
 8	澎湖	澎湖	PROPN	NNP	_	7	obj	_	SpaceAfter=No|Translit=pēnghú|LTranslit=pēnghú
 9	；	；	PUNCT	:	_	18	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
-10	6	6	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
-11	月	月	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+10	6	6	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
+11	月	月	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 12	11	11	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
 13	日	日	NOUN	NNB	_	18	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -11340,8 +11340,8 @@
 1	孤子	孤子	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=gūzi|LTranslit=gūzi
 2	波	波	PART	SFN	_	12	nsubj	_	SpaceAfter=No|Translit=bō|LTranslit=bō
 3	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	類	類	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
+4	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	類	類	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 6	由於	由於	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 7	非	非	VERB	VC	_	9	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
 8	線性	線性	NOUN	NN	_	7	xcomp	_	SpaceAfter=No|Translit=xiànxìng|LTranslit=xiànxìng
@@ -11588,8 +11588,8 @@
 19	所	所	SCONJ	RB	_	20	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 20	轄	轄	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=xiá|LTranslit=xiá
 21	的	的	SCONJ	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-23	個	個	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+22	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+23	個	個	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 24	縣	縣	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 25	。	。	PUNCT	:	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -11742,8 +11742,8 @@
 2	效實	效實	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=xiàoshí|LTranslit=xiàoshí
 3	中學	中學	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
 4	是	是	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-6	所	所	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+5	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+6	所	所	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 7	位	位	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 8	於	於	VERB	VV	_	7	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 9	中國	中國	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
@@ -11756,8 +11756,8 @@
 16	中學	中學	NOUN	NN	_	27	acl	_	SpaceAfter=No|Translit=zhōngxué|LTranslit=zhōngxué
 17	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	有	有	VERB	VV	_	27	acl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-19	100餘	100餘	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=100yú|LTranslit=100yú
-20	年	年	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+19	100餘	100餘	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=100yú|LTranslit=100yú
+20	年	年	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 21	歷史	歷史	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 22	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	原	原	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=yuán|LTranslit=yuán
@@ -11831,8 +11831,8 @@
 37	又	又	SCONJ	RB	_	38	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 38	帶來	帶來	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=dàilái|LTranslit=dàilái
 39	了	了	AUX	AS	Aspect=Perf	38	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-40	多	多	NUM	CD	NumType=Card	41	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-41	首	首	NOUN	NNB	_	46	clf	_	SpaceAfter=No|Translit=shǒu|LTranslit=shǒu
+40	多	多	NUM	CD	NumType=Card	46	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+41	首	首	NOUN	NNB	_	40	clf	_	SpaceAfter=No|Translit=shǒu|LTranslit=shǒu
 42	獨特	獨特	ADJ	JJ	_	43	advcl	_	SpaceAfter=No|Translit=dútè|LTranslit=dútè
 43	清新	清新	ADJ	JJ	_	46	amod	_	SpaceAfter=No|Translit=qīngxīn|LTranslit=qīngxīn
 44	的	的	SCONJ	DEC	_	43	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -12152,8 +12152,8 @@
 # sent_id = test-s434
 # text = 1941年夏天，安妮姐妹倆因此不得不轉入猶太人學校就讀，在此期間安妮開始寫日記。
 # translit = 1941niánxiàtiān,'ān妮jiemèiliǎyīncǐbùdebùzhuǎnrùyóutàirénxuéxiàojiùdú,zàicǐqījiān'ān妮kāishǐxiěrìjì.
-1	1941	1941	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1941|LTranslit=1941
-2	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1941	1941	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1941|LTranslit=1941
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	夏天	夏天	NOUN	NN	_	16	nmod:tmod	_	SpaceAfter=No|Translit=xiàtiān|LTranslit=xiàtiān
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	安妮	安妮	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit='ān妮|LTranslit='ān妮
@@ -12276,10 +12276,10 @@
 # sent_id = test-s438
 # text = 8月25日下午1時，國民黨成立大會在湖廣會館召開。
 # translit = 8yuè25rìxiàwǔ1shí,guómíndǎngchénglìdàhuìzàihúguǎnghuìguǎnzhàokāi.
-1	8	8	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
-2	月	月	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
-3	25	25	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=25|LTranslit=25
-4	日	日	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=rì|LTranslit=rì
+1	8	8	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
+2	月	月	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+3	25	25	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=25|LTranslit=25
+4	日	日	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 5	下午	下午	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=xiàwǔ|LTranslit=xiàwǔ
 6	1	1	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 7	時	時	NOUN	NNB	_	16	nmod:tmod	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -12300,8 +12300,8 @@
 1	在	在	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	丹麥	丹麥	PROPN	NNP	_	1	obj	_	SpaceAfter=No|Translit=dānmài|LTranslit=dānmài
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-5	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+4	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	人	人	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	姓名	姓名	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=xìngmíng|LTranslit=xìngmíng
@@ -12343,8 +12343,8 @@
 3	邦	邦	PART	SFN	_	4	nsubj	_	SpaceAfter=No|Translit=bāng|LTranslit=bāng
 4	分	分	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
 5	為	為	VERB	VC	_	4	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-6	23	23	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=23|LTranslit=23
-7	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+6	23	23	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=23|LTranslit=23
+7	個	個	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 8	縣	縣	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 9	：	：	PUNCT	:	_	4	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 
@@ -12433,8 +12433,8 @@
 10	時間	時間	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
 11	拍攝	拍攝	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=pāishè|LTranslit=pāishè
 12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	3500	3500	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=3500|LTranslit=3500
-14	張	張	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
+13	3500	3500	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=3500|LTranslit=3500
+14	張	張	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
 15	底片	底片	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=dǐpiàn|LTranslit=dǐpiàn
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -12462,8 +12462,8 @@
 19	底片	底片	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=dǐpiàn|LTranslit=dǐpiàn
 20	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	經過	經過	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=jīngguò|LTranslit=jīngguò
-22	一	一	NUM	CD	NumType=Card	23	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-23	番	番	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=fān|LTranslit=fān
+22	一	一	NUM	CD	NumType=Card	24	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+23	番	番	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=fān|LTranslit=fān
 24	努力	努力	NOUN	NN	_	26	obl	_	SpaceAfter=No|Translit=nǔlì|LTranslit=nǔlì
 25	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	搶救	搶救	VERB	VV	_	14	parataxis	_	SpaceAfter=No|Translit=qiǎngjiù|LTranslit=qiǎngjiù
@@ -12498,10 +12498,10 @@
 # sent_id = test-s448
 # text = 1960年9月30日，安徽電視台開播，是中國最早建立的省級電視臺之一。
 # translit = 1960nián9yuè30rì,'ān徽diànshìtáikāibō,shìzhōngguózuìzǎojiànlìdeshěngjídiànshì臺zhīyī.
-1	1960	1960	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	9	9	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	1960	1960	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	9	9	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	30	30	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=30|LTranslit=30
 6	日	日	NOUN	NNB	_	11	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -12798,8 +12798,8 @@
 48	、	、	PUNCT	EC	_	49	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 49	日本	日本	PROPN	NNP	_	13	conj	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
 50	等	等	NOUN	NN	_	13	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
-51	40多	40多	NUM	CD	NumType=Card	52	nummod	_	SpaceAfter=No|Translit=40duō|LTranslit=40duō
-52	個	個	NOUN	NNB	_	53	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+51	40多	40多	NUM	CD	NumType=Card	53	nummod	_	SpaceAfter=No|Translit=40duō|LTranslit=40duō
+52	個	個	NOUN	NNB	_	51	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 53	國家	國家	NOUN	NN	_	13	appos	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
 54	也	也	SCONJ	RB	_	55	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 55	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -12834,8 +12834,8 @@
 5	球會	球會	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=qiúhuì|LTranslit=qiúhuì
 6	佐加頓斯	佐加頓斯	PROPN	NNP	_	2	obl	_	SpaceAfter=No|Translit=佐jiādùnsī|LTranslit=佐jiādùnsī
 7	至	至	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
-8	2009	2009	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
-9	年	年	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+8	2009	2009	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
+9	年	年	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 10	6	6	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
 11	月	月	NOUN	NNB	_	13	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 12	合約	合約	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=héyuē|LTranslit=héyuē
@@ -12859,8 +12859,8 @@
 12	曾	曾	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 13	引起	引起	VERB	VV	Voice=Cau	4	parataxis	_	SpaceAfter=No|Translit=yǐnqǐ|LTranslit=yǐnqǐ
 14	了	了	AUX	AS	Aspect=Perf	13	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-15	多	多	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-16	間	間	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=jiān|LTranslit=jiān
+15	多	多	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+16	間	間	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=jiān|LTranslit=jiān
 17	球會	球會	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=qiúhuì|LTranslit=qiúhuì
 18	注意	注意	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=zhùyì|LTranslit=zhùyì
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -13026,8 +13026,8 @@
 8	市	市	PART	SFN	_	9	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 9	下轄	下轄	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=xiàxiá|LTranslit=xiàxiá
 10	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	縣	縣	NOUN	NN	_	15	advcl	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	位	位	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -13059,11 +13059,11 @@
 2	每層	每層	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=měicéng|LTranslit=měicéng
 3	都	都	SCONJ	RB	_	4	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 4	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-6	道	道	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+5	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+6	道	道	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 7	寬	寬	ADJ	JJ	_	12	advcl	_	SpaceAfter=No|Translit=kuān|LTranslit=kuān
-8	6	6	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
-9	尺	尺	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=chǐ|LTranslit=chǐ
+8	6	6	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=6|LTranslit=6
+9	尺	尺	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=chǐ|LTranslit=chǐ
 10	寬	寬	ADJ	JJ	_	12	amod	_	SpaceAfter=No|Translit=kuān|LTranslit=kuān
 11	的	的	SCONJ	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	走廊	走廊	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=zǒu廊|LTranslit=zǒu廊
@@ -13100,8 +13100,8 @@
 # sent_id = test-s470
 # text = 1952年12月美國總統艾森豪威爾訪問韓國，他擔任檢閱主管。
 # translit = 1952nián12yuèměiguózǒngtǒng'àisēnháowēi'ěrfǎngwèn韓guó,tādānrènjiǎnyuèzhǔguǎn.
-1	1952	1952	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1952|LTranslit=1952
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1952	1952	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1952|LTranslit=1952
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
 4	月	月	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	美國	美國	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
@@ -13119,8 +13119,8 @@
 # sent_id = test-s471
 # text = 1960年3·15選舉舞弊引發群眾抗議示威，學生示威擴大為4·19學運，他任戒嚴司令官，1960年5月辭去陸軍參謀長職務，並在美國留學1年，1961年5月在華盛頓DC訪問時得知5.16軍事政變的消息。
 # translit = 1960nián3·15xuǎnjǔwǔ弊yǐnfāqúnzhòngkàngyìshìwēi,xuéshēngshìwēikuòdàwèi4·19xuéyùn,tārènjièyánsīlìngguān,1960nián5yuècíqùlùjūncānmóuzhǎngzhíwu,bìngzàiměiguóliúxué1nián,1961nián5yuèzàihuáshèngdùnDCfǎngwènshídezhī5.16jūnshìzhèngbiàndexiāoxi.
-1	1960	1960	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
-2	年	年	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	1960	1960	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	3·15	3·15	NUM	CD	NumType=Card	4	nmod	_	SpaceAfter=No|Translit=3·15|LTranslit=3·15
 4	選舉	選舉	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=xuǎnjǔ|LTranslit=xuǎnjǔ
 5	舞弊	舞弊	VERB	VV	_	6	csubj	_	SpaceAfter=No|Translit=wǔ弊|LTranslit=wǔ弊
@@ -13142,8 +13142,8 @@
 21	司令	司令	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=sīlìng|LTranslit=sīlìng
 22	官	官	PART	SFN	_	19	obj	_	SpaceAfter=No|Translit=guān|LTranslit=guān
 23	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-24	1960	1960	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
-25	年	年	NOUN	NNB	_	27	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+24	1960	1960	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
+25	年	年	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 26	5	5	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 27	月	月	NOUN	NNB	_	28	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 28	辭去	辭去	VERB	VV	_	50	advcl	_	SpaceAfter=No|Translit=cíqù|LTranslit=cíqù
@@ -13159,8 +13159,8 @@
 38	1	1	NUM	CD	NumType=Card	39	nummod	_	SpaceAfter=No|Translit=1|LTranslit=1
 39	年	年	NOUN	NNB	_	37	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 40	，	，	PUNCT	,	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-41	1961	1961	NUM	CD	NumType=Card	42	nummod	_	SpaceAfter=No|Translit=1961|LTranslit=1961
-42	年	年	NOUN	NNB	_	44	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+41	1961	1961	NUM	CD	NumType=Card	44	nummod	_	SpaceAfter=No|Translit=1961|LTranslit=1961
+42	年	年	NOUN	NNB	_	41	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 43	5	5	NUM	CD	NumType=Card	44	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 44	月	月	NOUN	NNB	_	50	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 45	在	在	VERB	VV	_	48	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -13294,8 +13294,8 @@
 12	從句	從句	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	即	即	VERB	VC	_	10	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-15	多	多	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-16	重	重	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=zhòng|LTranslit=zhòng
+15	多	多	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+16	重	重	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=zhòng|LTranslit=zhòng
 17	定語	定語	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=dìngyǔ|LTranslit=dìngyǔ
 18	從句	從句	NOUN	NN	_	14	xcomp	_	SpaceAfter=No|Translit=cóngjù|LTranslit=cóngjù
 19	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -13441,8 +13441,8 @@
 25	傾斜	傾斜	VERB	VV	_	34	acl	_	SpaceAfter=No|Translit=qīngxié|LTranslit=qīngxié
 26	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 27	是	是	AUX	VC	_	34	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-28	一	一	NUM	CD	NumType=Card	29	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-29	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+28	一	一	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+29	個	個	NOUN	NNB	_	28	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 30	丘陵	丘陵	NOUN	NN	_	31	nsubj	_	SpaceAfter=No|Translit=qiūlíng|LTranslit=qiūlíng
 31	起伏	起伏	VERB	VV	_	34	acl:relcl	_	SpaceAfter=No|Translit=qǐfú|LTranslit=qǐfú
 32	的	的	SCONJ	DEC	_	31	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -13453,10 +13453,10 @@
 # sent_id = test-s481
 # text = 2012年3月15日，徐明遭到了中紀委調查，大連實德集團表示徐明已失去聯絡半個月。
 # translit = 2012nián3yuè15rì,xúmíngzāodàolezhōngjìwěidiàochá,dàliánshídéjítuánbiǎoshìxúmíngyǐshīqùliánluòbàngèyuè.
-1	2012	2012	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	2012	2012	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	3	3	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	15	15	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=15|LTranslit=15
 6	日	日	NOUN	NNB	_	10	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -13476,8 +13476,8 @@
 21	已	已	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 22	失去	失去	VERB	VV	_	18	ccomp	_	SpaceAfter=No|Translit=shīqù|LTranslit=shīqù
 23	聯絡	聯絡	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=liánluò|LTranslit=liánluò
-24	半	半	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=bàn|LTranslit=bàn
-25	個	個	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+24	半	半	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=bàn|LTranslit=bàn
+25	個	個	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 26	月	月	NOUN	NN	_	22	nmod:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -13490,8 +13490,8 @@
 4	大連	大連	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=dàlián|LTranslit=dàlián
 5	市	市	PART	SFN	_	11	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	的	的	PART	DEC	Case=Gen	5	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-8	家	家	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
+7	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+8	家	家	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 9	民	民	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=mín|LTranslit=mín
 10	營	營	VERB	VV	_	11	amod	_	SpaceAfter=No|Translit=yíng|LTranslit=yíng
 11	企業	企業	NOUN	NN	_	13	advcl	_	SpaceAfter=No|Translit=qǐyè|LTranslit=qǐyè
@@ -13592,8 +13592,8 @@
 # sent_id = test-s487
 # text = 10日上午在陸軍省的會議中，青年軍官們要求阿南惟幾辭職，從而逼迫內閣總辭職，以達到阻止無條件投降的目的。
 # translit = 10rìshàngwǔzàilùjūnshěngdehuìyìzhōng,qīngniánjūnguānmenyàoqiú'ānánwéijǐcízhí,cóng'érbīpònèi閣zǒngcízhí,yǐdádàozǔzhǐwútiáojiàntóujiàngdemùde.
-1	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
-2	日	日	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=rì|LTranslit=rì
+1	10	10	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
+2	日	日	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 3	上午	上午	NOUN	NN	_	20	nmod:tmod	_	SpaceAfter=No|Translit=shàngwǔ|LTranslit=shàngwǔ
 4	在	在	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 5	陸軍	陸軍	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=lùjūn|LTranslit=lùjūn
@@ -13683,8 +13683,8 @@
 10	壽	壽	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No|Translit=shòu|LTranslit=shòu
 11	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 12	過	過	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
-13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-14	段	段	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+13	一	一	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+14	段	段	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 15	私人	私人	ADJ	JJ	_	16	amod	_	SpaceAfter=No|Translit=sīrén|LTranslit=sīrén
 16	恩怨	恩怨	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit='ēnyuàn|LTranslit='ēnyuàn
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -13978,8 +13978,8 @@
 7	分別	分別	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=fēnbié|LTranslit=fēnbié
 8	和	和	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 9	前述	前述	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=qiánshù|LTranslit=qiánshù
-10	兩	兩	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-11	句	句	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=jù|LTranslit=jù
+10	兩	兩	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
+11	句	句	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=jù|LTranslit=jù
 12	話	話	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=huà|LTranslit=huà
 13	意義	意義	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yìyì|LTranslit=yìyì
 14	相同	相同	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=xiāngtóng|LTranslit=xiāngtóng
@@ -14005,8 +14005,8 @@
 15	小說	小說	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=xiǎoshuō|LTranslit=xiǎoshuō
 16	常見	常見	ADJ	JJ	_	20	acl:relcl	_	SpaceAfter=No|Translit=chángjiàn|LTranslit=chángjiàn
 17	的	的	SCONJ	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-18	一	一	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-19	種	種	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+18	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+19	種	種	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 20	類型	類型	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=lèixíng|LTranslit=lèixíng
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
