@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Chinese-GSD:
-commit 3bd683461b41ed8b7fc52f3ee2affa7c52309602
-Merge: a77f543 c4738ef
+commit 034b1e93109b1072ee14ad86ef3cbe3812c75ef1
+Merge: 7e49237 a7cb427
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 123291 of 123291 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62909482961094.
@@ -13,15 +13,15 @@ Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.5.
-Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 13784 out of 123291 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      23886
-Udapi: found 23886 bugs.
+               TOTAL      21853
+Udapi: found 21853 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 123291 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
@@ -72,9 +72,9 @@ Validity: 0.01
 (weight=0.0769230769230769) * (score{lemmas}=0.5) = 0.0384615384615385
 (weight=0.256410256410256) * (score{size}=0.696977125037194) = 0.17871208334287
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
+(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.395117040336063) * (availability=1) * (validity=0.01) = 0.00395117040336063
+(TOTAL score=0.398736949838325) * (availability=1) * (validity=0.01) = 0.00398736949838325
 STARS = 0
-UD_Chinese-GSD	0.00395117040336063	0
+UD_Chinese-GSD	0.00398736949838325	0
