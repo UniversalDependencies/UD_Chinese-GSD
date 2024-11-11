@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Chinese-GSD:
-commit 1f7ae57cbf413d92972957c9607561f31e5bb6b6
+commit d24a30bbb72c135d5bc07f8f531db5822a6e1198
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:35:49 2023 +0100
+Date:   Sun May 5 11:58:51 2024 +0200
 Size: counted 123291 of 123291 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.62909482961094.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -48,13 +48,14 @@ Genres: found 1 out of 17 known.
 [Line 10951 Sent dev-s374 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [1, 15] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 11
-Warnings: 48
+Warnings: 69
 *** FAILED *** with 11 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
 [Line 107 Sent test-s5 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [4, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 183 Sent test-s7 Node 28]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 182 Sent test-s7 Node 27]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 434 Sent test-s15 Node 19]: [L3 Warning leaf-clf] 'clf' not expected to have children (19:種:clf --> 18:這:det)
 [Line 701 Sent test-s24 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
 [Line 719 Sent test-s25 Node 5]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 718 Sent test-s25 Node 4]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
@@ -63,7 +64,6 @@ Exit code: 1
 [Line 721 Sent test-s25 Node 7]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 718 Sent test-s25 Node 4]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 1105 Sent test-s42 Node 6]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1104 Sent test-s42 Node 5]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 ...suppressing further errors regarding Warning
 [Line 3333 Sent test-s121 Node 50]: [L3 Syntax too-many-subjects] Multiple subjects [43, 48] not subtyped as ':outer'.
 [Line 4289 Sent test-s156 Node 27]: [L3 Syntax too-many-subjects] Multiple subjects [14, 25] not subtyped as ':outer'.
@@ -74,25 +74,25 @@ Exit code: 1
 [Line 9294 Sent test-s334 Node 56]: [L3 Syntax too-many-subjects] Multiple subjects [49, 54] not subtyped as ':outer'.
 [Line 12860 Sent test-s460 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [11, 18] not subtyped as ':outer'.
 Syntax errors: 10
-Warnings: 54
+Warnings: 76
 *** FAILED *** with 10 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 [Line 57 Sent train-s2 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 81 Sent train-s3 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
+[Line 260 Sent train-s9 Node 7]: [L3 Warning leaf-clf] 'clf' not expected to have children (7:個:clf --> 6:這:det)
+[Line 565 Sent train-s16 Node 6]: [L3 Warning leaf-clf] 'clf' not expected to have children (6:個:clf --> 5:這:det)
 [Line 622 Sent train-s16 Node 62]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 621 Sent train-s16 Node 61]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 1036 Sent train-s31 Node 22]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 1035 Sent train-s31 Node 21]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 1037 Sent train-s31 Node 23]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 1035 Sent train-s31 Node 21]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 1735 Sent train-s57 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:個:clf --> 2:這:det)
+...suppressing further errors regarding Warning
 [Line 3294 Sent train-s114 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [5, 9] not subtyped as ':outer'.
-[Line 3719 Sent train-s131 Node 11]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3718 Sent train-s131 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3720 Sent train-s131 Node 12]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3718 Sent train-s131 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 [Line 3891 Sent train-s138 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 7] not subtyped as ':outer'.
 [Line 4112 Sent train-s145 Node 30]: [L3 Syntax too-many-subjects] Multiple subjects [2, 20] not subtyped as ':outer'.
-...suppressing further errors regarding Warning
 [Line 8211 Sent train-s294 Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [6, 20] not subtyped as ':outer'.
 [Line 9036 Sent train-s330 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [7, 15] not subtyped as ':outer'.
 [Line 11904 Sent train-s438 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [3, 19] not subtyped as ':outer'.
@@ -101,7 +101,7 @@ Exit code: 1
 [Line 16958 Sent train-s617 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [1, 15] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 73
-Warnings: 548
+Warnings: 742
 *** FAILED *** with 73 errors
 Exit code: 1
 Validity: 0.01
