@@ -6,6 +6,8 @@ Google.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Fixed attachment clf+det according to the guidelines.
 * 2023-11-15 v2.13
   * Some PART/ADV should be SCONJ (see https://github.com/UniversalDependencies/docs/issues/460 and https://github.com/slavpetrov/parallel-treebanks/issues/30).
   * Fixed attachment clf+nummod according to the guidelines.

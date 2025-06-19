@@ -3260,8 +3260,8 @@
 14	南北國	南北國	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=nánběiguó|LTranslit=nánběiguó
 15	時代	時代	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shídài|LTranslit=shídài
 16	」	」	PUNCT	''	_	15	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
-17	這	這	DET	DT	_	18	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-18	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+17	這	這	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+18	個	個	NOUN	NNB	_	17	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 19	詞匯	詞匯	NOUN	NN	_	15	appos	_	SpaceAfter=No|Translit=cíhuì|LTranslit=cíhuì
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -4932,8 +4932,8 @@
 # sent_id = dev-s164
 # text = 這類動畫較多以手繪的平面圖片進行拍攝，通常具有連續或單元劇情，且大部份是以孩童為主要受眾的動畫作品。
 # translit = zhèlèidònghuàjiàoduōyǐshǒuhuìdepíngmiàntúpiànjìnxíngpāishè,tōngchángjùyǒuliánxùhuòdānyuánjùqíng,qiědàbùfènshìyǐháitóngwèizhǔyàoshòuzhòngdedònghuàzuòpǐn.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	類	類	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	類	類	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=lèi|LTranslit=lèi
 3	動畫	動畫	NOUN	NN	_	32	nsubj	_	SpaceAfter=No|Translit=dònghuà|LTranslit=dònghuà
 4	較多	較多	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=jiàoduō|LTranslit=jiàoduō
 5	以	以	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
@@ -5991,8 +5991,8 @@
 29	「	「	PUNCT	``	_	30	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 30	知道	知道	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
 31	」	」	PUNCT	''	_	30	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
-32	這	這	DET	DT	_	33	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-33	個	個	NOUN	NNB	_	34	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+32	這	這	DET	DT	_	34	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+33	個	個	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 34	概念	概念	NOUN	NN	_	30	appos	_	SpaceAfter=No|Translit=gàiniàn|LTranslit=gàiniàn
 35	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6021,8 +6021,8 @@
 20	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	以	以	SCONJ	RB	_	22	mark	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 22	說明	說明	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuōmíng|LTranslit=shuōmíng
-23	這	這	DET	DT	_	24	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-24	個	個	NOUN	NNB	_	25	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+23	這	這	DET	DT	_	25	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+24	個	個	NOUN	NNB	_	23	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 25	猜想	猜想	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=cāixiǎng|LTranslit=cāixiǎng
 26	是	是	AUX	VC	_	27	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 27	錯誤	錯誤	ADJ	JJ	_	22	ccomp	_	SpaceAfter=No|Translit=cuòwù|LTranslit=cuòwù
@@ -6081,8 +6081,8 @@
 # text = 但這個聯盟在1797年因聯軍被拿破崙所率領的法國義大利方面軍打敗，最後兩方議和，聯盟瓦解。
 # translit = dànzhègèliánméngzài1797niányīnliánjūnbèinápò崙suǒlǜlǐngdefǎguóyìdàlìfāngmiànjūndǎbài,zuìhòuliǎngfāngyìhé,liánméngwǎjiě.
 1	但	但	SCONJ	RB	_	4	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-2	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+2	這	這	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	個	個	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 4	聯盟	聯盟	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=liánméng|LTranslit=liánméng
 5	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 6	1797	1797	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=1797|LTranslit=1797
@@ -6539,8 +6539,8 @@
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	貴族	貴族	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=guìzú|LTranslit=guìzú
 11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-12	那	那	DET	DT	_	13	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
-13	套	套	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
+12	那	那	DET	DT	_	15	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+13	套	套	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=tào|LTranslit=tào
 14	追求	追求	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=zhuīqiú|LTranslit=zhuīqiú
 15	方法	方法	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=fāngfǎ|LTranslit=fāngfǎ
 16	太	太	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=tài|LTranslit=tài
@@ -7545,8 +7545,8 @@
 # sent_id = dev-s255
 # text = 這個轉變，可能和義勇軍開赴內地推翻清朝，以及原本領導游擊戰的前台灣民主國軍務大臣李秉瑞殉職有關。
 # translit = zhègèzhuǎnbiàn,kěnénghéyìyǒngjūnkāifùnèidetuīfānqīngcháo,yǐjíyuánběnlǐngdǎoyóujīzhàndeqiántáiwānmínzhǔguójūnwudàchénli秉ruì殉zhíyǒuguān.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	個	個	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	轉變	轉變	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=zhuǎnbiàn|LTranslit=zhuǎnbiàn
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	可能	可能	AUX	MD	_	29	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
@@ -8010,8 +8010,8 @@
 2	協助	協助	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiézhù|LTranslit=xiézhù
 3	利物浦	利物浦	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=lìwù浦|LTranslit=lìwù浦
 4	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	這	這	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	個	個	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+5	這	這	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	賽季	賽季	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=sàijì|LTranslit=sàijì
 8	取得	取得	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=qǔde|LTranslit=qǔde
 9	英超	英超	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=yīngchāo|LTranslit=yīngchāo
@@ -8370,8 +8370,8 @@
 11	他	他	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 12	相當	相當	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=xiāngdāng|LTranslit=xiāngdāng
 13	喜愛	喜愛	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=xǐ'ài|LTranslit=xǐ'ài
-14	這	這	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+14	這	這	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+15	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	地方	地方	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 17	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	在	在	ADP	IN	_	25	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -9283,8 +9283,8 @@
 # sent_id = dev-s315
 # text = 這種行為本身造成了一種對後現代理解的偏激和錯位。
 # translit = zhèzhǒngxíngwèiběnshēnzàochéngleyīzhǒngduìhòuxiàndàilǐjiědepiānjīhécuòwèi.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	種	種	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	種	種	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 3	行為	行為	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=xíngwèi|LTranslit=xíngwèi
 4	本身	本身	PRON	PRD	_	3	appos	_	SpaceAfter=No|Translit=běnshēn|LTranslit=běnshēn
 5	造成	造成	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zàochéng|LTranslit=zàochéng
@@ -9590,8 +9590,8 @@
 # sent_id = dev-s326
 # text = 這次叛亂大大削弱了帝國在巴爾幹地區的防禦力量，導致1048年佩切涅格人入侵該地區，並在此後5年多次進行劫掠，造成很大破壞。
 # translit = zhècìpànluàndàdàxuēruòledìguózàiba'ěr幹deqūdefáng禦lìliàng,dǎozhì1048niánpèiqiè涅gérénrùqīngāideqū,bìngzàicǐhòu5niánduōcìjìnxíng劫'è,zàochénghěndàpòhuài.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	次	次	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	次	次	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 3	叛亂	叛亂	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=pànluàn|LTranslit=pànluàn
 4	大大	大大	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=dàdà|LTranslit=dàdà
 5	削弱	削弱	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=xuēruò|LTranslit=xuēruò
@@ -10153,8 +10153,8 @@
 9	節目	節目	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=jiémù|LTranslit=jiémù
 10	中	中	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 11	羅森博格	羅森博格	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=luósēnbógé|LTranslit=luósēnbógé
-12	這	這	DET	DT	_	13	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-13	個	個	NOUN	NNB	_	14	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+12	這	這	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+13	個	個	NOUN	NNB	_	12	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 14	角色	角色	NOUN	NN	_	11	appos	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 15	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	讓	讓	VERB	VV	Voice=Cau	15	xcomp	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
@@ -10177,8 +10177,8 @@
 33	參加	參加	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=cānjiā|LTranslit=cānjiā
 34	了	了	AUX	AS	Aspect=Perf	33	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 35	羅森博格	羅森博格	PROPN	NNP	_	40	nmod	_	SpaceAfter=No|Translit=luósēnbógé|LTranslit=luósēnbógé
-36	這	這	DET	DT	_	37	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-37	個	個	NOUN	NNB	_	38	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+36	這	這	DET	DT	_	38	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+37	個	個	NOUN	NNB	_	36	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 38	角色	角色	NOUN	NN	_	35	appos	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 39	的	的	PART	DEC	Case=Gen	35	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 40	徵選	徵選	NOUN	NN	_	33	obj	_	SpaceAfter=No|Translit=徵xuǎn|LTranslit=徵xuǎn
@@ -10213,8 +10213,8 @@
 2	·	·	PUNCT	/	_	3	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 3	克林姆	克林姆	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=kèlínmǔ|LTranslit=kèlínmǔ
 4	創作	創作	VERB	VV	_	11	acl	_	SpaceAfter=No|Translit=chuàngzuò|LTranslit=chuàngzuò
-5	這	這	DET	DT	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-6	幅	幅	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=fú|LTranslit=fú
+5	這	這	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+6	幅	幅	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=fú|LTranslit=fú
 7	畫	畫	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=huà|LTranslit=huà
 8	時	時	ADP	IN	_	4	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 9	為	為	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -11157,8 +11157,8 @@
 12	相反	相反	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=xiāngfǎn|LTranslit=xiāngfǎn
 13	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	比起	比起	VERB	VV	_	31	advcl	_	SpaceAfter=No|Translit=bǐqǐ|LTranslit=bǐqǐ
-15	這	這	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+15	這	這	DET	DT	_	19	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+16	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 17	同母	同母	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=tóngmǔ|LTranslit=tóngmǔ
 18	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	妹妹	妹妹	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=mèimèi|LTranslit=mèimèi
@@ -12199,8 +12199,8 @@
 # sent_id = dev-s414
 # text = 這個結果來自於次文化成員多樣化的喜好。
 # translit = zhègèjiéguǒláizìyúcìwénhuàchéngyuánduōyànghuàdexǐhǎo.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	個	個	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	個	個	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	結果	結果	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=jiéguǒ|LTranslit=jiéguǒ
 4	來	來	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 5	自	自	VERB	VV	_	4	mark	_	SpaceAfter=No|Translit=zì|LTranslit=zì
@@ -12945,8 +12945,8 @@
 17	的	的	SCONJ	DEC	_	15	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 18	電影	電影	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 19	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-20	這	這	DET	DT	_	21	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-21	部	部	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+20	這	這	DET	DT	_	22	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+21	部	部	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 22	電影	電影	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 23	講述	講述	VERB	VV	_	33	csubj	_	SpaceAfter=No|Translit=jiǎngshù|LTranslit=jiǎngshù
 24	的	的	SCONJ	DEC	_	23	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -13936,8 +13936,8 @@
 # sent_id = dev-s478
 # text = 這場戰役於1553年12月25日發生在智利圖卡佩爾。
 # translit = zhèchǎngzhànyìyú1553nián12yuè25rìfāshēngzàizhìlìtúkǎpèi'ěr.
-1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-2	場	場	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
+1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	場	場	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=chǎng|LTranslit=chǎng
 3	戰役	戰役	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=zhànyì|LTranslit=zhànyì
 4	於	於	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 5	1553	1553	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1553|LTranslit=1553
@@ -14461,8 +14461,8 @@
 # text = 在這段期間內，有許多球員獲選加入國家青年代表隊，畢業後也陸續加入各甲組足球隊，成為國家代表隊的重要來源。
 # translit = zàizhèduànqījiānnèi,yǒuxǔduōqiúyuánhuòxuǎnjiārùguójiāqīngniándàibiǎoduì,bìyèhòuyělùxùjiārùgèjiǎzǔzúqiúduì,chéngwèiguójiādàibiǎoduìdezhòngyàoláiyuán.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-3	段	段	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
+2	這	這	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+3	段	段	NOUN	NNB	_	2	clf	_	SpaceAfter=No|Translit=duàn|LTranslit=duàn
 4	期間	期間	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=qījiān|LTranslit=qījiān
 5	內	內	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=nèi|LTranslit=nèi
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
