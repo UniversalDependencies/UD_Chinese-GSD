@@ -4760,7 +4760,7 @@
 21	（	（	PUNCT	(	_	26	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 22	1665	1665	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=1665|LTranslit=1665
 23	年	年	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-24	-	-	PUNCT	HYPH	_	23	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
+24	-	-	PUNCT	HYPH	_	22	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 25	1678	1678	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=1678|LTranslit=1678
 26	年	年	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 27	）	）	PUNCT	)	_	26	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -4770,7 +4770,7 @@
 31	（	（	PUNCT	(	_	36	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 32	1665	1665	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No|Translit=1665|LTranslit=1665
 33	年	年	NOUN	NNB	_	32	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-34	-	-	PUNCT	HYPH	_	33	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
+34	-	-	PUNCT	HYPH	_	32	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 35	1684	1684	NUM	CD	NumType=Card	36	nummod	_	SpaceAfter=No|Translit=1684|LTranslit=1684
 36	年	年	NOUN	NNB	_	4	parataxis	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 37	）	）	PUNCT	)	_	36	punct	_	SpaceAfter=No|Translit=)|LTranslit=)

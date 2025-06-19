@@ -4868,7 +4868,7 @@
 4	年	年	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 5	五	五	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
 6	月	月	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
-7	-	-	PUNCT	HYPH	_	6	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
+7	-	-	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No|Translit=-|LTranslit=-
 8	十二	十二	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=shí'èr|LTranslit=shí'èr
 9	月	月	NOUN	NNB	_	1	appos	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 10	）	）	PUNCT	)	_	9	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
