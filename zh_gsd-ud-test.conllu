@@ -697,7 +697,7 @@
 9	教堂	教堂	NOUN	NN	_	13	nsubj:pass	_	SpaceAfter=No|Translit=jiàotáng|LTranslit=jiàotáng
 10	被	被	AUX	BB	Voice=Pass	13	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 11	馬來西亞	馬來西亞	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=mǎláixiyà|LTranslit=mǎláixiyà
-12	政府	政府	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
+12	政府	政府	NOUN	NN	_	13	obl:agent	_	SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 13	列	列	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=liè|LTranslit=liè
 14	為	為	VERB	VC	_	13	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 15	50	50	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=50|LTranslit=50
@@ -3328,7 +3328,7 @@
 45	強大	強大	ADJ	JJ	_	48	amod	_	SpaceAfter=No|Translit=qiángdà|LTranslit=qiángdà
 46	的	的	SCONJ	DEC	_	45	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 47	流動	流動	NOUN	NN	_	48	nmod	_	SpaceAfter=No|Translit=liúdòng|LTranslit=liúdòng
-48	沙丘	沙丘	NOUN	NN	_	50	nsubj	_	SpaceAfter=No|Translit=shāqiū|LTranslit=shāqiū
+48	沙丘	沙丘	NOUN	NN	_	50	obl:agent	_	SpaceAfter=No|Translit=shāqiū|LTranslit=shāqiū
 49	所	所	SCONJ	RB	_	50	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 50	淹沒	淹沒	VERB	VV	_	52	csubj	_	SpaceAfter=No|Translit=yānméi|LTranslit=yānméi
 51	，	，	PUNCT	,	_	50	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4837,7 +4837,7 @@
 9	老三	老三	PROPN	NNP	_	8	flat:name	_	SpaceAfter=No|Translit=lǎosān|LTranslit=lǎosān
 10	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	被	被	AUX	BB	Voice=Pass	15	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-12	知縣	知縣	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=zhīxiàn|LTranslit=zhīxiàn
+12	知縣	知縣	NOUN	NN	_	15	obl:agent	_	SpaceAfter=No|Translit=zhīxiàn|LTranslit=zhīxiàn
 13	蕭	蕭	PROPN	NNP	_	12	appos	_	SpaceAfter=No|Translit=蕭|LTranslit=蕭
 14	汝章	汝章	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No|Translit=汝zhāng|LTranslit=汝zhāng
 15	利用	利用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lìyòng|LTranslit=lìyòng
@@ -5261,7 +5261,7 @@
 7	廣東	廣東	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=guǎngdōng|LTranslit=guǎngdōng
 8	省	省	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
 9	文化	文化	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=wénhuà|LTranslit=wénhuà
-10	廳	廳	PART	SFN	_	11	nsubj	_	SpaceAfter=No|Translit=tīng|LTranslit=tīng
+10	廳	廳	PART	SFN	_	11	obl:agent	_	SpaceAfter=No|Translit=tīng|LTranslit=tīng
 11	授予	授予	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shòuyǔ|LTranslit=shòuyǔ
 12	廣東	廣東	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=guǎngdōng|LTranslit=guǎngdōng
 13	省	省	PART	SFN	_	18	nmod	_	SpaceAfter=No|Translit=shěng|LTranslit=shěng
@@ -9289,7 +9289,7 @@
 51	又	又	SCONJ	RB	_	56	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 52	會	會	AUX	MD	_	56	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 53	被	被	AUX	BB	Voice=Pass	56	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-54	方	方	PROPN	NNP	_	56	nsubj	_	SpaceAfter=No|Translit=fāng|LTranslit=fāng
+54	方	方	PROPN	NNP	_	56	obl:agent	_	SpaceAfter=No|Translit=fāng|LTranslit=fāng
 55	芳芳	芳芳	PROPN	NNP	_	54	flat:name	_	SpaceAfter=No|Translit=芳芳|LTranslit=芳芳
 56	打	打	VERB	VV	_	16	parataxis	_	SpaceAfter=No|Translit=dǎ|LTranslit=dǎ
 57	一	一	NUM	CD	NumType=Card	58	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī

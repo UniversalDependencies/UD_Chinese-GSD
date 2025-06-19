@@ -262,7 +262,7 @@
 6	神聖	神聖	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=shénshèng|LTranslit=shénshèng
 7	羅馬	羅馬	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=luómǎ|LTranslit=luómǎ
 8	帝國	帝國	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
-9	皇帝	皇帝	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
+9	皇帝	皇帝	NOUN	NN	_	12	obl:agent	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
 10	查理	查理	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=chálǐ|LTranslit=chálǐ
 11	四世	四世	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=sìshì|LTranslit=sìshì
 12	升	升	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shēng|LTranslit=shēng
@@ -1735,7 +1735,7 @@
 11	亦	亦	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 12	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 13	投機	投機	VERB	VV	_	14	compound	_	SpaceAfter=No|Translit=tóujī|LTranslit=tóujī
-14	者	者	PART	SFN	_	16	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
+14	者	者	PART	SFN	_	16	obl:agent	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
 15	所	所	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 16	覬覦	覬覦	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=覬覦|LTranslit=覬覦
 17	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -2429,7 +2429,7 @@
 4	帳戶	帳戶	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No|Translit=zhànghù|LTranslit=zhànghù
 5	最後	最後	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No|Translit=zuìhòu|LTranslit=zuìhòu
 6	被	被	AUX	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-7	半澤	半澤	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=bàn澤|LTranslit=bàn澤
+7	半澤	半澤	PROPN	NNP	_	8	obl:agent	_	SpaceAfter=No|Translit=bàn澤|LTranslit=bàn澤
 8	查獲	查獲	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=cháhuò|LTranslit=cháhuò
 9	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	資產	資產	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=zīchǎn|LTranslit=zīchǎn
@@ -4568,7 +4568,7 @@
 23	統治	統治	NOUN	NN	_	27	nsubj:pass	_	SpaceAfter=No|Translit=tǒngzhì|LTranslit=tǒngzhì
 24	被	被	AUX	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 25	帖木兒	帖木兒	PROPN	NNP	_	26	nmod	_	SpaceAfter=No|Translit=帖mùr|LTranslit=帖mùr
-26	帝國	帝國	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
+26	帝國	帝國	NOUN	NN	_	27	obl:agent	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
 27	中斷	中斷	VERB	VV	_	5	parataxis	_	SpaceAfter=No|Translit=zhōngduàn|LTranslit=zhōngduàn
 28	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -6097,7 +6097,7 @@
 15	法國	法國	PROPN	NNP	_	18	nmod	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
 16	義大利	義大利	PROPN	NNP	_	18	nmod	_	SpaceAfter=No|Translit=yìdàlì|LTranslit=yìdàlì
 17	方面	方面	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=fāngmiàn|LTranslit=fāngmiàn
-18	軍	軍	PART	SFN	_	19	nsubj	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
+18	軍	軍	PART	SFN	_	19	obl:agent	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 19	打敗	打敗	VERB	VV	_	27	advcl	_	SpaceAfter=No|Translit=dǎbài|LTranslit=dǎbài
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	最後	最後	NOUN	NN	_	27	nmod:tmod	_	SpaceAfter=No|Translit=zuìhòu|LTranslit=zuìhòu
@@ -7168,7 +7168,7 @@
 23	前	前	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=qián|LTranslit=qián
 24	已	已	ADV	RB	_	31	advmod	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 25	被	被	AUX	BB	Voice=Pass	31	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-26	蘇格拉底	蘇格拉底	PROPN	NNP	_	31	nsubj	_	SpaceAfter=No|Translit=sūgélādǐ|LTranslit=sūgélādǐ
+26	蘇格拉底	蘇格拉底	PROPN	NNP	_	31	obl:agent	_	SpaceAfter=No|Translit=sūgélādǐ|LTranslit=sūgélādǐ
 27	和	和	CCONJ	CC	_	30	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 28	他	他	PRON	PRP	Person=3	30	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 29	的	的	PART	DEC	Case=Gen	28	case	_	SpaceAfter=No|Translit=de|LTranslit=de
