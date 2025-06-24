@@ -9730,13 +9730,13 @@
 11	高中	高中	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=gāozhōng|LTranslit=gāozhōng
 12	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	但	但	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-14	他	他	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+14	他	他	PRON	PRP	Person=3	21	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 15	又	又	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 16	因	因	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 17	偷竊	偷竊	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=tōuqiè|LTranslit=tōuqiè
 18	而	而	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 19	被	被	AUX	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-20	學校	學校	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
+20	學校	學校	NOUN	NN	_	21	obl:agent	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
 21	開除	開除	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=kāichú|LTranslit=kāichú
 22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -10622,11 +10622,11 @@
 4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	19	19	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=19|LTranslit=19
 6	日	日	NOUN	NNB	_	12	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
-7	他	他	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+7	他	他	PRON	PRP	Person=3	12	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 8	被	被	AUX	BB	Voice=Pass	12	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 9	首都	首都	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=shǒudōu|LTranslit=shǒudōu
 10	高等	高等	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=gāoděng|LTranslit=gāoděng
-11	法院	法院	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=fǎyuàn|LTranslit=fǎyuàn
+11	法院	法院	NOUN	NN	_	12	obl:agent	_	SpaceAfter=No|Translit=fǎyuàn|LTranslit=fǎyuàn
 12	判處	判處	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pànchù|LTranslit=pànchù
 13	死刑	死刑	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=sǐxíng|LTranslit=sǐxíng
 14	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
