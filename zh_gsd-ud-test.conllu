@@ -98,13 +98,13 @@
 1	樓頂	樓頂	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=lóudǐng|LTranslit=lóudǐng
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 3	天文	天文	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=tiānwén|LTranslit=tiānwén
-4	台	台	PART	SFN	_	10	nsubj:pass	_	SpaceAfter=No|Translit=tái|LTranslit=tái
+4	台	台	PART	SFN	_	2	obj	_	SpaceAfter=No|Translit=tái|LTranslit=tái
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	現	現	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 7	為	為	AUX	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 8	天文	天文	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=tiānwén|LTranslit=tiānwén
-9	社	社	PART	SFN	_	10	nsubj	_	SpaceAfter=No|Translit=shè|LTranslit=shè
-10	使用	使用	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
+9	社	社	PART	SFN	_	10	obl:agent	_	SpaceAfter=No|Translit=shè|LTranslit=shè
+10	使用	使用	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
 11	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s6
