@@ -12862,7 +12862,7 @@
 15	多	多	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 16	間	間	NOUN	NNB	_	15	clf	_	SpaceAfter=No|Translit=jiān|LTranslit=jiān
 17	球會	球會	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=qiúhuì|LTranslit=qiúhuì
-18	注意	注意	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=zhùyì|LTranslit=zhùyì
+18	注意	注意	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=zhùyì|LTranslit=zhùyì
 19	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	如	如	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=rú|LTranslit=rú
 21	士砵亭	士砵亭	PROPN	NNP	_	20	obj	_	SpaceAfter=No|Translit=shì砵tíng|LTranslit=shì砵tíng
