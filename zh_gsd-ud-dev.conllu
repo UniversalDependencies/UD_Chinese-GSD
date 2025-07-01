@@ -6239,11 +6239,11 @@
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	風險	風險	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=fēngxiǎn|LTranslit=fēngxiǎn
 22	，	，	PUNCT	,	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-23	家長	家長	NOUN	NN	_	30	nsubj	_	SpaceAfter=No|Translit=jiāzhǎng|LTranslit=jiāzhǎng
-24	在	在	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-25	這	這	PRON	PRD	_	26	nmod	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-26	其中	其中	NOUN	NN	_	24	obj	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
-27	的	的	SCONJ	DEC	_	24	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+23	家長	家長	NOUN	NN	_	28	nmod	_	SpaceAfter=No|Translit=jiāzhǎng|LTranslit=jiāzhǎng
+24	在	在	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+25	這	這	DET	DT	_	26	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+26	其中	其中	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
+27	的	的	PART	DEC	_	23	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 28	角色	角色	NOUN	NN	_	30	nsubj:pass	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 29	被	被	AUX	BB	Voice=Pass	30	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 30	削弱	削弱	VERB	VV	_	5	parataxis	_	SpaceAfter=No|Translit=xuēruò|LTranslit=xuēruò
