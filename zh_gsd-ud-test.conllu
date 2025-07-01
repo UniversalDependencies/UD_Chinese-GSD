@@ -6567,7 +6567,7 @@
 # text = 教長區成立於1951年11月14日，1997年有教友10,000人、四個堂區、五名司鐸。
 # translit = jiàozhǎngqūchénglìyú1951nián11yuè14rì,1997niányǒujiàoyou10,000rén,sìgètángqū,wǔmíngsī鐸.
 1	教長	教長	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=jiàozhǎng|LTranslit=jiàozhǎng
-2	區	區	PART	SFN	_	14	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
+2	區	區	PART	SFN	_	3	nsubj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 3	成立	成立	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=chénglì|LTranslit=chénglì
 4	於	於	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 5	1951	1951	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=1951|LTranslit=1951
