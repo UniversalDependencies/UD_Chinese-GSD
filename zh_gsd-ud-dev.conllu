@@ -3246,7 +3246,7 @@
 # translit = cháoxiānsuīránrènwèi渤hǎiguóshìběnguólìshǐ,dànbùshǐyòng‘nánběiguóshídài’zhègècíhuì.
 1	朝鮮	朝鮮	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 2	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-3	認為	為	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+3	認為	認為	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 4	渤海	渤海	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=渤hǎi|LTranslit=渤hǎi
 5	國	國	PART	SFN	_	8	nsubj	_	SpaceAfter=No|Translit=guó|LTranslit=guó
 6	是	是	AUX	VC	_	8	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -7130,7 +7130,7 @@
 2	譯名	譯名	NOUN	NN	_	5	nsubj:pass	_	SpaceAfter=No|Translit=yìmíng|LTranslit=yìmíng
 3	被	被	AUX	BB	Voice=Pass	5	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 4	普遍	普遍	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
-5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 6	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	最	最	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 8	經典	經典	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=jīngdiǎn|LTranslit=jīngdiǎn
@@ -11098,7 +11098,7 @@
 5	社會	社會	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=shèhuì|LTranslit=shèhuì
 6	根源	根源	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=gēnyuán|LTranslit=gēnyuán
 7	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+8	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 9	通過	通過	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
 10	和平	和平	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=hépíng|LTranslit=hépíng
 11	談判	談判	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=tánpàn|LTranslit=tánpàn
@@ -12591,7 +12591,7 @@
 7	論	論	PART	SFN	_	4	obj	_	SpaceAfter=No|Translit=lùn|LTranslit=lùn
 8	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	後者	後者	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=hòuzhě|LTranslit=hòuzhě
-10	認為	為	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+10	認為	認為	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 11	世界	世界	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	基本	基本	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=jīběn|LTranslit=jīběn
@@ -13454,7 +13454,7 @@
 # translit = 蕭瑜rènwèiyánguāngbàifǎngguāngwǔdì,biǎomíngqí'àimùxūróng.
 1	蕭	蕭	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=蕭|LTranslit=蕭
 2	瑜	瑜	PROPN	NNP	_	1	flat:name	_	SpaceAfter=No|Translit=瑜|LTranslit=瑜
-3	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
+3	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 4	嚴	嚴	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=yán|LTranslit=yán
 5	光	光	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=guāng|LTranslit=guāng
 6	拜訪	拜訪	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=bàifǎng|LTranslit=bàifǎng
