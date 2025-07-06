@@ -6131,7 +6131,7 @@
 2	舍利	舍利	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=shělì|LTranslit=shělì
 3	塔	塔	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No|Translit=tǎ|LTranslit=tǎ
 4	為	為	AUX	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-5	松柏	松柏	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=sōngbǎi|LTranslit=sōngbǎi
+5	松柏	松柏	NOUN	NN	_	6	obl:agent	_	SpaceAfter=No|Translit=sōngbǎi|LTranslit=sōngbǎi
 6	環繞	環繞	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=huánrào|LTranslit=huánrào
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	南面	南面	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=nánmiàn|LTranslit=nánmiàn
