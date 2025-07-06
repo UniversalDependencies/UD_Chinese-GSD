@@ -4284,7 +4284,7 @@
 22	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	均	均	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 24	被	被	AUX	BB	Voice=Pass	27	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-25	夏	夏	PROPN	NNP	_	27	nsubj	_	SpaceAfter=No|Translit=xià|LTranslit=xià
+25	夏	夏	PROPN	NNP	_	27	obl:agent	_	SpaceAfter=No|Translit=xià|LTranslit=xià
 26	繼泉	繼泉	PROPN	NNP	_	25	flat:name	_	SpaceAfter=No|Translit=jìquán|LTranslit=jìquán
 27	拒絕	拒絕	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jùjué|LTranslit=jùjué
 28	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
