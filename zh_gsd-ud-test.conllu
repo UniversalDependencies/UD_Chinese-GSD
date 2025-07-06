@@ -2680,11 +2680,11 @@
 5	仰韶	仰韶	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=yǎng韶|LTranslit=yǎng韶
 6	遺址	遺址	NOUN	NN	_	3	conj	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
 7	出土	出土	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=chūtǔ|LTranslit=chūtǔ
-8	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-9	認為	認為	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	被	被	AUX	BB	Voice=Pass	9	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+9	認為	認為	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
-11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
-12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	原始	原始	ADJ	JJ	_	9	xcomp	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
+12	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	陶塤	陶塤	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=táo塤|LTranslit=táo塤
 14	均	均	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 15	只有	只有	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
