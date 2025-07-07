@@ -7935,7 +7935,7 @@
 8	影迷	影迷	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=yǐngmí|LTranslit=yǐngmí
 9	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	在	在	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-11	自己	自己	PRON	PRD	_	13	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+11	自己	自己	PRON	PRD	_	13	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	事業	事業	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=shìyè|LTranslit=shìyè
 14	上	上	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
@@ -9833,7 +9833,7 @@
 25	吳	吳	PROPN	NNP	_	45	nsubj	_	SpaceAfter=No|Translit=吳|LTranslit=吳
 26	三桂	三桂	PROPN	NNP	_	25	flat:name	_	SpaceAfter=No|Translit=sān桂|LTranslit=sān桂
 27	在	在	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-28	自己	自己	PRON	PRD	_	30	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+28	自己	自己	PRON	PRD	_	30	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 29	的	的	PART	DEC	Case=Gen	28	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 30	靴筒	靴筒	NOUN	NN	_	32	obl	_	SpaceAfter=No|Translit=xuētǒng|LTranslit=xuētǒng
 31	上	上	NOUN	NN	_	30	acl	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
@@ -10534,7 +10534,7 @@
 8	他們	他	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 9	有	有	VERB	VV	_	7	ccomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 10	了	了	AUX	AS	Aspect=Perf	9	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-11	自己	自己	PRON	PRD	_	15	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+11	自己	自己	PRON	PRD	_	15	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	獨有	獨有	VERB	VV	_	15	amod	_	SpaceAfter=No|Translit=dúyǒu|LTranslit=dúyǒu
 14	的	的	SCONJ	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de

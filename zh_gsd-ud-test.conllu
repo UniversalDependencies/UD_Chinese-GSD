@@ -3704,7 +3704,7 @@
 8	大學	大學	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=dàxué|LTranslit=dàxué
 9	即將	即將	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=jíjiāng|LTranslit=jíjiāng
 10	迎來	迎來	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yínglái|LTranslit=yínglái
-11	自己	自己	PRON	PRD	_	15	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+11	自己	自己	PRON	PRD	_	15	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	160	160	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=160|LTranslit=160
 14	週年	週年	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=週nián|LTranslit=週nián
@@ -10760,7 +10760,7 @@
 29	八廓	八廓	PROPN	NNP	_	30	nmod	_	SpaceAfter=No|Translit=bākuò|LTranslit=bākuò
 30	附近	附近	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=fùjìn|LTranslit=fùjìn
 31	有	有	VERB	VV	_	8	parataxis	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-32	自己	自己	PRON	PRD	_	34	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+32	自己	自己	PRON	PRD	_	34	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 33	的	的	PART	DEC	Case=Gen	32	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 34	生意	生意	NOUN	NN	_	31	obj	_	SpaceAfter=No|Translit=shēngyì|LTranslit=shēngyì
 35	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
