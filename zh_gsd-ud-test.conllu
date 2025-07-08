@@ -2673,27 +2673,26 @@
 # sent_id = test-s97
 # text = 河姆渡遺址和仰韶遺址出土被認為最原始的陶塤均只有吹孔，而無音孔。
 # translit = hémǔdùyízhǐhéyǎng韶yízhǐchūtǔbèirènwèizuìyuánshǐdetáo塤jūnzhǐyǒuchuīkǒng,'érwúyīnkǒng.
-1	河姆	河姆	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=hémǔ|LTranslit=hémǔ
-2	渡	渡	PART	SFN	_	3	nmod	_	SpaceAfter=No|Translit=dù|LTranslit=dù
-3	遺址	遺址	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
-4	和	和	CCONJ	CC	_	6	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
-5	仰韶	仰韶	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=yǎng韶|LTranslit=yǎng韶
-6	遺址	遺址	NOUN	NN	_	3	conj	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
-7	出土	出土	VERB	VV	_	13	amod	_	SpaceAfter=No|Translit=chūtǔ|LTranslit=chūtǔ
-8	被	被	AUX	BB	Voice=Pass	9	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-9	認為	認為	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
-10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
-11	原始	原始	ADJ	JJ	_	9	xcomp	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
-12	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	陶塤	陶塤	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=táo塤|LTranslit=táo塤
-14	均	均	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
-15	只有	只有	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
-16	吹孔	吹孔	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=chuīkǒng|LTranslit=chuīkǒng
-17	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	而	而	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-19	無	無	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wú|LTranslit=wú
-20	音孔	音孔	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=yīnkǒng|LTranslit=yīnkǒng
-21	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+1	河姆渡	河姆渡	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=dù|LTranslit=dù
+2	遺址	遺址	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
+3	和	和	CCONJ	CC	_	5	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
+4	仰韶	仰韶	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=yǎng韶|LTranslit=yǎng韶
+5	遺址	遺址	NOUN	NN	_	2	conj	_	SpaceAfter=No|Translit=yízhǐ|LTranslit=yízhǐ
+6	出土	出土	VERB	VV	_	12	amod	_	SpaceAfter=No|Translit=chūtǔ|LTranslit=chūtǔ
+7	被	被	AUX	BB	Voice=Pass	8	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+8	認為	認為	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	最	最	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
+10	原始	原始	ADJ	JJ	_	8	xcomp	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
+11	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	陶塤	陶塤	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=táo塤|LTranslit=táo塤
+13	均	均	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
+14	只有	只有	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
+15	吹孔	吹孔	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=chuīkǒng|LTranslit=chuīkǒng
+16	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+17	而	而	SCONJ	RB	_	18	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+18	無	無	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wú|LTranslit=wú
+19	音孔	音孔	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=yīnkǒng|LTranslit=yīnkǒng
+20	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s98
 # text = 我們已經提及了連續偏序集合和代數偏序集合。
