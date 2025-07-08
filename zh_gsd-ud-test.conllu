@@ -9489,7 +9489,7 @@
 15	世界	世界	NOUN	NN	_	22	obl:patient	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
 16	連同	連同	CCONJ	CC	_	20	cc	_	SpaceAfter=No|Translit=liántóng|LTranslit=liántóng
 17	他	他	PRON	PRP	Person=3	20	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-18	自己	自己	PRON	PRD	_	17	obl:unmarked	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+18	自己	自己	PRON	PRD	_	17	appos	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 19	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	壽命	壽命	NOUN	NN	_	15	conj	_	SpaceAfter=No|Translit=shòumìng|LTranslit=shòumìng
 21	一起	一起	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=yīqǐ|LTranslit=yīqǐ
