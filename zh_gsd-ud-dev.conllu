@@ -12935,7 +12935,7 @@
 7	了	了	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 8	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 9	部	部	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=bù|LTranslit=bù
-10	名	名	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=míng|LTranslit=míng
+10	名	名	NOUN	NN	_	15	nsubj:outer	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 11	為	為	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 12	《	《	PUNCT	(	_	15	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 13	我們	我	PRON	PRP	Number=Plur|Person=1	15	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
