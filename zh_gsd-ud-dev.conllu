@@ -12457,7 +12457,7 @@
 3	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 4	發動	發動	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=fādòng|LTranslit=fādòng
 5	過	過	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
-6	像	像	VERB	VV	_	14	acl	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
+6	像	像	VERB	VV	_	21	acl	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 7	唐	唐	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=táng|LTranslit=táng
 8	太宗	太宗	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=tàizōng|LTranslit=tàizōng
 9	、	、	PUNCT	EC	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
