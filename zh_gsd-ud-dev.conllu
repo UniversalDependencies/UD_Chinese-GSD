@@ -85,7 +85,7 @@
 2	冒險	冒險	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=màoxiǎn|LTranslit=màoxiǎn
 3	遊戲	遊戲	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 4	（	（	PUNCT	(	_	5	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-5	A-AVG	A-AVG	X	FW	_	3	appos	_	SpaceAfter=No|Translit=A-AVG|LTranslit=A-AVG
+5	A-AVG	A-AVG	X	FW	Foreign=Yes	3	appos	_	SpaceAfter=No|Translit=A-AVG|LTranslit=A-AVG
 6	）	）	PUNCT	)	_	5	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 7	：	：	PUNCT	:	_	3	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 8	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -397,8 +397,8 @@
 # translit = dāng«Game Informer»tídàoyóuxìzàirìběndezhīmíngdùshíshénzhìshuō‘sìbǎiwànrìběnrénkěnéngcuòle’.
 1	當	當	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-3	Game	Game	X	FW	_	6	nsubj	_	Translit=Game|LTranslit=Game
-4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
+3	Game	Game	X	FW	Foreign=Yes	6	nsubj	_	Translit=Game|LTranslit=Game
+4	Informer	Informer	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
 5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=tídào|LTranslit=tídào
 7	遊戲	遊戲	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
@@ -452,7 +452,7 @@
 # text = 日本FC平台的前兩作通過密碼記憶系統記錄進度。
 # translit = rìběnFCpíngtáideqiánliǎngzuòtōngguòmìmǎjìyìxìtǒngjìlùjìndù.
 1	日本	日本	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
-2	FC	FC	X	FW	_	3	nmod	_	SpaceAfter=No|Translit=FC|LTranslit=FC
+2	FC	FC	X	FW	Foreign=Yes	3	nmod	_	SpaceAfter=No|Translit=FC|LTranslit=FC
 3	平台	平台	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=píngtái|LTranslit=píngtái
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	前	前	DET	DT	_	7	det	_	SpaceAfter=No|Translit=qián|LTranslit=qián
@@ -1384,9 +1384,9 @@
 29	編號	編號	NOUN	NN	_	36	nsubj	_	SpaceAfter=No|Translit=biānhào|LTranslit=biānhào
 30	都	都	SCONJ	RB	_	36	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 31	以	以	ADP	IN	_	35	case	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
-32	A	A	X	FW	_	35	nmod	_	SpaceAfter=No|Translit=A|LTranslit=A
+32	A	A	X	FW	Foreign=Yes	35	nmod	_	SpaceAfter=No|Translit=A|LTranslit=A
 33	/	/	SYM	/	_	32	nmod	_	SpaceAfter=No|Translit=/|LTranslit=/
-34	B	B	X	FW	_	32	flat:foreign	_	SpaceAfter=No|Translit=B|LTranslit=B
+34	B	B	X	FW	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No|Translit=B|LTranslit=B
 35	字母	字母	NOUN	NN	_	36	obl	_	SpaceAfter=No|Translit=zìmǔ|LTranslit=zìmǔ
 36	作結	作結	VERB	VV	_	9	parataxis	_	SpaceAfter=No|Translit=zuòjié|LTranslit=zuòjié
 37	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -2080,7 +2080,7 @@
 20	雲端	雲端	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=雲duān|LTranslit=雲duān
 21	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	通過	通過	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
-23	app	app	X	FW	_	43	obl	_	SpaceAfter=No|Translit=app|LTranslit=app
+23	app	app	X	FW	Foreign=Yes	43	obl	_	SpaceAfter=No|Translit=app|LTranslit=app
 24	、	、	PUNCT	EC	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 25	官網	官網	NOUN	NN	_	23	conj	_	SpaceAfter=No|Translit=guānwǎng|LTranslit=guānwǎng
 26	等	等	NOUN	NN	_	23	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
@@ -2287,8 +2287,8 @@
 21	海軍	海軍	PROPN	NNP	_	22	nmod	_	SpaceAfter=No|Translit=hǎijūn|LTranslit=hǎijūn
 22	碼頭	碼頭	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=mǎtóu|LTranslit=mǎtóu
 23	（	（	PUNCT	(	_	24	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-24	Navy's	Navy's	X	FW	_	22	appos	_	Translit=Navy's|LTranslit=Navy's
-25	Pier	Pier	X	FW	_	24	flat:foreign	_	SpaceAfter=No|Translit=Pier|LTranslit=Pier
+24	Navy's	Navy's	X	FW	Foreign=Yes	22	appos	_	Translit=Navy's|LTranslit=Navy's
+25	Pier	Pier	X	FW	Foreign=Yes	24	flat:foreign	_	SpaceAfter=No|Translit=Pier|LTranslit=Pier
 26	）	）	PUNCT	)	_	24	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 27	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -2340,14 +2340,14 @@
 # text = 升A小調是一個於升A音開始的音樂的小調，組成的音有#A、#B（C）、#C、#D、#E（F）、#F、#G及#A（和聲小調）。
 # translit = shēngAxiǎodiàoshìyīgèyúshēngAyīnkāishǐdeyīnlèdexiǎodiào,zǔchéngdeyīnyǒu#A,#B(C),#C,#D,#E(F),#F,#Gjí#A(héshēngxiǎodiào).
 1	升	升	VERB	VV	_	3	amod	_	SpaceAfter=No|Translit=shēng|LTranslit=shēng
-2	A	A	X	FW	_	1	obj	_	SpaceAfter=No|Translit=A|LTranslit=A
+2	A	A	X	FW	Foreign=Yes	1	obj	_	SpaceAfter=No|Translit=A|LTranslit=A
 3	小調	小調	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=xiǎodiào|LTranslit=xiǎodiào
 4	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 5	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 6	個	個	NOUN	NNB	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	於	於	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 8	升	升	VERB	VV	_	10	amod	_	SpaceAfter=No|Translit=shēng|LTranslit=shēng
-9	A	A	X	FW	_	8	obj	_	SpaceAfter=No|Translit=A|LTranslit=A
+9	A	A	X	FW	Foreign=Yes	8	obj	_	SpaceAfter=No|Translit=A|LTranslit=A
 10	音	音	PART	SFN	_	11	obl	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 11	開始	開始	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -2359,27 +2359,27 @@
 18	的	的	SCONJ	DEC	_	17	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	音	音	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 20	有	有	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-21	#A	#A	X	FW	_	20	obj	_	SpaceAfter=No|Translit=#A|LTranslit=#A
+21	#A	#A	X	FW	Foreign=Yes	20	obj	_	SpaceAfter=No|Translit=#A|LTranslit=#A
 22	、	、	PUNCT	EC	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-23	#B	#B	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#B|LTranslit=#B
+23	#B	#B	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#B|LTranslit=#B
 24	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-25	C	C	X	FW	_	23	flat:foreign	_	SpaceAfter=No|Translit=C|LTranslit=C
+25	C	C	X	FW	Foreign=Yes	23	flat:foreign	_	SpaceAfter=No|Translit=C|LTranslit=C
 26	）	）	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 27	、	、	PUNCT	EC	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-28	#C	#C	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#C|LTranslit=#C
+28	#C	#C	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#C|LTranslit=#C
 29	、	、	PUNCT	EC	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-30	#D	#D	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#D|LTranslit=#D
+30	#D	#D	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#D|LTranslit=#D
 31	、	、	PUNCT	EC	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-32	#E	#E	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#E|LTranslit=#E
+32	#E	#E	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#E|LTranslit=#E
 33	（	（	PUNCT	(	_	34	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-34	F	F	X	FW	_	32	flat:foreign	_	SpaceAfter=No|Translit=F|LTranslit=F
+34	F	F	X	FW	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No|Translit=F|LTranslit=F
 35	）	）	PUNCT	)	_	34	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 36	、	、	PUNCT	EC	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-37	#F	#F	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#F|LTranslit=#F
+37	#F	#F	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#F|LTranslit=#F
 38	、	、	PUNCT	EC	_	39	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-39	#G	#G	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#G|LTranslit=#G
+39	#G	#G	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#G|LTranslit=#G
 40	及	及	CCONJ	CC	_	41	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-41	#A	#A	X	FW	_	21	conj	_	SpaceAfter=No|Translit=#A|LTranslit=#A
+41	#A	#A	X	FW	Foreign=Yes	21	conj	_	SpaceAfter=No|Translit=#A|LTranslit=#A
 42	（	（	PUNCT	(	_	44	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 43	和聲	和聲	NOUN	NN	_	44	nmod	_	SpaceAfter=No|Translit=héshēng|LTranslit=héshēng
 44	小調	小調	NOUN	NN	_	15	parataxis	_	SpaceAfter=No|Translit=xiǎodiào|LTranslit=xiǎodiào
@@ -2525,8 +2525,8 @@
 2	（	（	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 3	學名	學名	NOUN	NN	_	1	appos	_	SpaceAfter=No|Translit=xuémíng|LTranslit=xuémíng
 4	：	：	PUNCT	:	_	5	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-5	Pinus	Pinus	X	FW	_	3	appos	_	Translit=Pinus|LTranslit=Pinus
-6	armandii	armandii	X	FW	_	5	flat:foreign	_	SpaceAfter=No|Translit=armandii|LTranslit=armandii
+5	Pinus	Pinus	X	FW	Foreign=Yes	3	appos	_	Translit=Pinus|LTranslit=Pinus
+6	armandii	armandii	X	FW	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No|Translit=armandii|LTranslit=armandii
 7	）	）	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 8	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -2572,8 +2572,8 @@
 11	俄	俄	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit='é|LTranslit='é
 12	軍	軍	PART	SFN	_	13	nmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
 13	將領	將領	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=jiānglǐng|LTranslit=jiānglǐng
-14	Ivan	Ivan	X	FW	_	13	appos	_	Translit=Ivan|LTranslit=Ivan
-15	Paskievich	Paskievich	X	FW	_	14	flat:foreign	_	SpaceAfter=No|Translit=Paskievich|LTranslit=Paskievich
+14	Ivan	Ivan	X	FW	Foreign=Yes	13	appos	_	Translit=Ivan|LTranslit=Ivan
+15	Paskievich	Paskievich	X	FW	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No|Translit=Paskievich|LTranslit=Paskievich
 16	在	在	ADP	IN	_	23	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 17	1831	1831	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No|Translit=1831|LTranslit=1831
 18	年	年	NOUN	NNB	_	23	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -3293,9 +3293,9 @@
 3	‧	‧	PUNCT	/	_	4	punct	_	SpaceAfter=No|Translit=‧|LTranslit=‧
 4	陸斯佛得	陸斯佛得	PROPN	NNP	_	2	flat:name	_	SpaceAfter=No|Translit=lùsīfúde|LTranslit=lùsīfúde
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	William	William	X	FW	_	2	appos	_	Translit=William|LTranslit=William
-7	Drayton	Drayton	X	FW	_	6	flat:foreign	_	Translit=Drayton|LTranslit=Drayton
-8	Rutherford	Rutherford	X	FW	_	6	flat:foreign	_	SpaceAfter=No|Translit=Rutherford|LTranslit=Rutherford
+6	William	William	X	FW	Foreign=Yes	2	appos	_	Translit=William|LTranslit=William
+7	Drayton	Drayton	X	FW	Foreign=Yes	6	flat:foreign	_	Translit=Drayton|LTranslit=Drayton
+8	Rutherford	Rutherford	X	FW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No|Translit=Rutherford|LTranslit=Rutherford
 9	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 10	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	此	此	DET	DT	_	13	det	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
@@ -4185,7 +4185,7 @@
 # translit = 梵yǔjambu,wèishùmíng,jí閻fúshù,shìyīzhǒngshēngzhǎngzàiyìndùnánfāngdedàxíng喬mù.
 1	梵	梵	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=梵|LTranslit=梵
 2	語	語	PART	SFN	_	3	nmod	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-3	jambu	jambu	X	FW	_	20	nsubj	_	SpaceAfter=No|Translit=jambu|LTranslit=jambu
+3	jambu	jambu	X	FW	Foreign=Yes	20	nsubj	_	SpaceAfter=No|Translit=jambu|LTranslit=jambu
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	為	為	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 6	樹名	樹名	NOUN	NN	_	20	acl	_	SpaceAfter=No|Translit=shùmíng|LTranslit=shùmíng
@@ -4490,7 +4490,7 @@
 9	製藥	製藥	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=zhìyào|LTranslit=zhìyào
 10	企業	企業	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=qǐyè|LTranslit=qǐyè
 11	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	GMP	GMP	X	FW	_	13	nmod	_	SpaceAfter=No|Translit=GMP|LTranslit=GMP
+12	GMP	GMP	X	FW	Foreign=Yes	13	nmod	_	SpaceAfter=No|Translit=GMP|LTranslit=GMP
 13	工廠	工廠	NOUN	NN	_	10	appos	_	SpaceAfter=No|Translit=gōngchǎng|LTranslit=gōngchǎng
 14	提供	提供	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=tígōng|LTranslit=tígōng
 15	合格	合格	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit=hégé|LTranslit=hégé
@@ -4583,11 +4583,11 @@
 6	分設	分設	VERB	VV	_	43	advcl	_	SpaceAfter=No|Translit=fēnshè|LTranslit=fēnshè
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 8	種	種	NOUN	NNB	_	9	nmod	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
-9	1134A	1134A	X	FW	_	15	nmod	_	SpaceAfter=No|Translit=1134A|LTranslit=1134A
+9	1134A	1134A	X	FW	Foreign=Yes	15	nmod	_	SpaceAfter=No|Translit=1134A|LTranslit=1134A
 10	和	和	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 12	種	種	NOUN	NNB	_	13	nmod	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
-13	1134B	1134B	X	FW	_	9	conj	_	SpaceAfter=No|Translit=1134B|LTranslit=1134B
+13	1134B	1134B	X	FW	Foreign=Yes	9	conj	_	SpaceAfter=No|Translit=1134B|LTranslit=1134B
 14	反潛	反潛	VERB	VV	_	15	compound	_	SpaceAfter=No|Translit=fǎnqián|LTranslit=fǎnqián
 15	艦	艦	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 16	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4665,8 +4665,8 @@
 1	卡斯科奎姆	卡斯科奎姆	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=kǎsīkē奎mǔ|LTranslit=kǎsīkē奎mǔ
 2	河	河	PART	SFN	_	15	nsubj	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-4	Kuskokwim	Kuskokwim	X	FW	_	2	appos	_	Translit=Kuskokwim|LTranslit=Kuskokwim
-5	River	River	X	FW	_	4	flat:foreign	_	SpaceAfter=No|Translit=River|LTranslit=River
+4	Kuskokwim	Kuskokwim	X	FW	Foreign=Yes	2	appos	_	Translit=Kuskokwim|LTranslit=Kuskokwim
+5	River	River	X	FW	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No|Translit=River|LTranslit=River
 6	）	）	PUNCT	)	_	4	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 7	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 8	美國	美國	PROPN	NNP	_	11	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
@@ -5238,7 +5238,7 @@
 1	法國	法國	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=fǎguó|LTranslit=fǎguó
 2	地質	地質	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=dezhì|LTranslit=dezhì
 3	學家	學家	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=xuéjiā|LTranslit=xuéjiā
-4	Gromaget	Gromaget	X	FW	_	3	appos	_	SpaceAfter=No|Translit=Gromaget|LTranslit=Gromaget
+4	Gromaget	Gromaget	X	FW	Foreign=Yes	3	appos	_	SpaceAfter=No|Translit=Gromaget|LTranslit=Gromaget
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 6	1934	1934	NUM	CD	NumType=Card	16	nmod:tmod	_	SpaceAfter=No|Translit=1934|LTranslit=1934
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
@@ -5446,7 +5446,7 @@
 3	（	（	PUNCT	(	_	4	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 4	學名	學名	NOUN	NN	_	2	appos	_	SpaceAfter=No|Translit=xuémíng|LTranslit=xuémíng
 5	：	：	PUNCT	:	_	6	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-6	Scorpiothyrsus	Scorpiothyrsus	X	FW	_	4	appos	_	SpaceAfter=No|Translit=Scorpiothyrsus|LTranslit=Scorpiothyrsus
+6	Scorpiothyrsus	Scorpiothyrsus	X	FW	Foreign=Yes	4	appos	_	SpaceAfter=No|Translit=Scorpiothyrsus|LTranslit=Scorpiothyrsus
 7	）	）	PUNCT	)	_	4	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 8	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 9	野牡丹	野牡丹	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=yěmǔdān|LTranslit=yěmǔdān
@@ -5981,7 +5981,7 @@
 19	額外	額外	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit='éwài|LTranslit='éwài
 20	要求	要求	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=yàoqiú|LTranslit=yàoqiú
 21	的	的	SCONJ	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-22	JTB	JTB	X	FW	_	23	nmod	_	SpaceAfter=No|Translit=JTB|LTranslit=JTB
+22	JTB	JTB	X	FW	Foreign=Yes	23	nmod	_	SpaceAfter=No|Translit=JTB|LTranslit=JTB
 23	理論	理論	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=lǐlùn|LTranslit=lǐlùn
 24	仍然	仍然	ADV	RB	_	25	advmod	_	SpaceAfter=No|Translit=réngrán|LTranslit=réngrán
 25	無法	無法	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=wúfǎ|LTranslit=wúfǎ
@@ -7061,7 +7061,7 @@
 3	能源	能源	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=néngyuán|LTranslit=néngyuán
 4	署	署	PART	SFN	_	15	nmod	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	IEA	IEA	X	FW	_	4	appos	_	SpaceAfter=No|Translit=IEA|LTranslit=IEA
+6	IEA	IEA	X	FW	Foreign=Yes	4	appos	_	SpaceAfter=No|Translit=IEA|LTranslit=IEA
 7	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 8	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	一	一	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -8298,9 +8298,9 @@
 3	故事	故事	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 4	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	West	West	X	FW	_	3	appos	_	Translit=West|LTranslit=West
-7	Side	Side	X	FW	_	6	flat:foreign	_	Translit=Side|LTranslit=Side
-8	Story	Story	X	FW	_	6	flat:foreign	_	SpaceAfter=No|Translit=Story|LTranslit=Story
+6	West	West	X	FW	Foreign=Yes	3	appos	_	Translit=West|LTranslit=West
+7	Side	Side	X	FW	Foreign=Yes	6	flat:foreign	_	Translit=Side|LTranslit=Side
+8	Story	Story	X	FW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No|Translit=Story|LTranslit=Story
 9	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 10	是	是	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	桑坦	桑坦	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=sāngtǎn|LTranslit=sāngtǎn
@@ -9090,7 +9090,7 @@
 24	放緩	放緩	VERB	VV	_	22	xcomp	_	SpaceAfter=No|Translit=fànghuǎn|LTranslit=fànghuǎn
 25	，	，	PUNCT	,	_	38	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	但	但	SCONJ	RB	_	38	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-27	M	M	X	FW	_	38	nsubj	_	Translit=M|LTranslit=M
+27	M	M	X	FW	Foreign=Yes	38	nsubj	_	Translit=M|LTranslit=M
 28	17	17	NUM	CD	NumType=Card	27	nummod	_	SpaceAfter=No|Translit=17|LTranslit=17
 29	卻	卻	SCONJ	RB	_	31	mark	_	SpaceAfter=No|Translit=què|LTranslit=què
 30	依然	依然	ADV	RB	_	31	advmod	_	SpaceAfter=No|Translit=yīrán|LTranslit=yīrán
@@ -9419,7 +9419,7 @@
 # text = 向島TB（向島本線料金所）是位於廣島縣尾道市的西瀨戶自動車道（瀨戶內島波海道）之收費站。
 # translit = xiàngdǎoTB(xiàngdǎoběnxiànliàojīnsuǒ)shìwèiyúguǎngdǎoxiànwěidàoshìdexi瀨hùzìdòngchēdào(瀨hùnèidǎobōhǎidào)zhīshōufèizhàn.
 1	向島	向島	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=xiàngdǎo|LTranslit=xiàngdǎo
-2	TB	TB	X	FW	_	29	nsubj	_	SpaceAfter=No|Translit=TB|LTranslit=TB
+2	TB	TB	X	FW	Foreign=Yes	29	nsubj	_	SpaceAfter=No|Translit=TB|LTranslit=TB
 3	（	（	PUNCT	(	_	7	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 4	向島	向島	PROPN	NNP	_	7	nmod	_	SpaceAfter=No|Translit=xiàngdǎo|LTranslit=xiàngdǎo
 5	本線	本線	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=běnxiàn|LTranslit=běnxiàn
@@ -10097,10 +10097,10 @@
 # sent_id = dev-s343
 # text = Elijah之後由Elena取回匕首，重新立規則對付Klaus。
 # translit = ElijahzhīhòuyóuElenaqǔhuí匕shǒu,zhòngxīnlìguīzéduìfùKlaus.
-1	Elijah	Elijah	X	FW	_	11	nsubj	_	SpaceAfter=No|Translit=Elijah|LTranslit=Elijah
+1	Elijah	Elijah	X	FW	Foreign=Yes	11	nsubj	_	SpaceAfter=No|Translit=Elijah|LTranslit=Elijah
 2	之後	之後	NOUN	NN	_	11	nmod:tmod	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 3	由	由	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
-4	Elena	Elena	X	FW	_	5	obl	_	SpaceAfter=No|Translit=Elena|LTranslit=Elena
+4	Elena	Elena	X	FW	Foreign=Yes	5	obl	_	SpaceAfter=No|Translit=Elena|LTranslit=Elena
 5	取回	取回	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=qǔhuí|LTranslit=qǔhuí
 6	匕首	匕首	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=匕shǒu|LTranslit=匕shǒu
 7	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -10108,13 +10108,13 @@
 9	立	立	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=lì|LTranslit=lì
 10	規則	規則	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=guīzé|LTranslit=guīzé
 11	對付	對付	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=duìfù|LTranslit=duìfù
-12	Klaus	Klaus	X	FW	_	11	obj	_	SpaceAfter=No|Translit=Klaus|LTranslit=Klaus
+12	Klaus	Klaus	X	FW	Foreign=Yes	11	obj	_	SpaceAfter=No|Translit=Klaus|LTranslit=Klaus
 13	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s344
 # text = Katherine自殺，因此成了吸血鬼。
 # translit = Katherinezìshā,yīncǐchénglexīxuèguǐ.
-1	Katherine	Katherine	X	FW	_	6	nsubj	_	SpaceAfter=No|Translit=Katherine|LTranslit=Katherine
+1	Katherine	Katherine	X	FW	Foreign=Yes	6	nsubj	_	SpaceAfter=No|Translit=Katherine|LTranslit=Katherine
 2	自殺	自殺	VERB	VV	_	6	advcl	_	SpaceAfter=No|Translit=zìshā|LTranslit=zìshā
 3	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	因	因	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
@@ -10128,7 +10128,7 @@
 # sent_id = dev-s345
 # text = Lucy在月光石上施咒，交給Katherine。
 # translit = Lucyzàiyuèguāngshíshàngshīzhòu,jiāogěiKatherine.
-1	Lucy	Lucy	X	FW	_	8	nsubj	_	SpaceAfter=No|Translit=Lucy|LTranslit=Lucy
+1	Lucy	Lucy	X	FW	Foreign=Yes	8	nsubj	_	SpaceAfter=No|Translit=Lucy|LTranslit=Lucy
 2	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	月光	月光	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=yuèguāng|LTranslit=yuèguāng
 4	石	石	PART	SFN	_	6	obl	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -10136,7 +10136,7 @@
 6	施咒	施咒	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=shīzhòu|LTranslit=shīzhòu
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	交給	交給	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jiāogěi|LTranslit=jiāogěi
-9	Katherine	Katherine	X	FW	_	8	obj	_	SpaceAfter=No|Translit=Katherine|LTranslit=Katherine
+9	Katherine	Katherine	X	FW	Foreign=Yes	8	obj	_	SpaceAfter=No|Translit=Katherine|LTranslit=Katherine
 10	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s346
@@ -10158,8 +10158,8 @@
 14	角色	角色	NOUN	NN	_	11	appos	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 15	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	讓	讓	VERB	VV	Voice=Cau	15	xcomp	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
-17	Riff	Riff	X	FW	_	19	nsubj	_	Translit=Riff|LTranslit=Riff
-18	Regan	Regan	X	FW	_	17	flat:foreign	_	SpaceAfter=No|Translit=Regan|LTranslit=Regan
+17	Riff	Riff	X	FW	Foreign=Yes	19	nsubj	_	Translit=Riff|LTranslit=Riff
+18	Regan	Regan	X	FW	Foreign=Yes	17	flat:foreign	_	SpaceAfter=No|Translit=Regan|LTranslit=Regan
 19	飾演	飾演	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=shìyǎn|LTranslit=shìyǎn
 20	，	，	PUNCT	,	_	33	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 21	但	但	SCONJ	RB	_	33	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -10173,7 +10173,7 @@
 29	角色	角色	NOUN	NN	_	28	obj	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
 30	後	後	ADP	IN	_	23	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 31	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-32	Hannigan	Hannigan	X	FW	_	33	nsubj	_	SpaceAfter=No|Translit=Hannigan|LTranslit=Hannigan
+32	Hannigan	Hannigan	X	FW	Foreign=Yes	33	nsubj	_	SpaceAfter=No|Translit=Hannigan|LTranslit=Hannigan
 33	參加	參加	VERB	VV	_	15	parataxis	_	SpaceAfter=No|Translit=cānjiā|LTranslit=cānjiā
 34	了	了	AUX	AS	Aspect=Perf	33	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 35	羅森博格	羅森博格	PROPN	NNP	_	40	nmod	_	SpaceAfter=No|Translit=luósēnbógé|LTranslit=luósēnbógé
@@ -11504,8 +11504,8 @@
 7	（	（	PUNCT	(	_	8	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 8	由	由	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
 9	演員	演員	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=yǎnyuán|LTranslit=yǎnyuán
-10	Randy	Randy	X	FW	_	9	appos	_	Translit=Randy|LTranslit=Randy
-11	Quaid	Quaid	X	FW	_	10	flat:foreign	_	SpaceAfter=No|Translit=Quaid|LTranslit=Quaid
+10	Randy	Randy	X	FW	Foreign=Yes	9	appos	_	Translit=Randy|LTranslit=Randy
+11	Quaid	Quaid	X	FW	Foreign=Yes	10	flat:foreign	_	SpaceAfter=No|Translit=Quaid|LTranslit=Quaid
 12	配音	配音	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=pèiyīn|LTranslit=pèiyīn
 13	）	）	PUNCT	)	_	8	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 14	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -11701,9 +11701,9 @@
 # translit = hādéxùn(Hudson,Ohio)shìměiguó'é亥'ézhōusàmǐtèxiàndeyīgèchéngshì.
 1	哈德遜	哈德遜	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit=hādéxùn|LTranslit=hādéxùn
 2	（	（	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-3	Hudson	Hudson	X	FW	_	1	appos	_	SpaceAfter=No|Translit=Hudson|LTranslit=Hudson
+3	Hudson	Hudson	X	FW	Foreign=Yes	1	appos	_	SpaceAfter=No|Translit=Hudson|LTranslit=Hudson
 4	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	Ohio	Ohio	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Ohio|LTranslit=Ohio
+5	Ohio	Ohio	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Ohio|LTranslit=Ohio
 6	）	）	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 7	是	是	AUX	VC	_	16	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 8	美國	美國	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=měiguó|LTranslit=měiguó
@@ -11803,8 +11803,8 @@
 22	·	·	PUNCT	/	_	23	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 23	班納	班納	PROPN	NNP	_	21	flat:name	_	SpaceAfter=No|Translit=bānnà|LTranslit=bānnà
 24	（	（	PUNCT	(	_	25	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-25	Gamal	Gamal	X	FW	_	21	appos	_	Translit=Gamal|LTranslit=Gamal
-26	al-Banna	al-Banna	X	FW	_	25	flat:foreign	_	SpaceAfter=No|Translit=al-Banna|LTranslit=al-Banna
+25	Gamal	Gamal	X	FW	Foreign=Yes	21	appos	_	Translit=Gamal|LTranslit=Gamal
+26	al-Banna	al-Banna	X	FW	Foreign=Yes	25	flat:foreign	_	SpaceAfter=No|Translit=al-Banna|LTranslit=al-Banna
 27	）	）	PUNCT	)	_	25	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 28	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 29	哥哥	哥哥	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=gēgē|LTranslit=gēgē
@@ -12536,7 +12536,7 @@
 20	《	《	PUNCT	(	_	23	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 21	青春	青春	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=qīngchūn|LTranslit=qīngchūn
 22	@	@	PUNCT	/	_	21	punct	_	SpaceAfter=No|Translit=@|LTranslit=@
-23	Y2K	Y2K	X	FW	_	19	appos	_	SpaceAfter=No|Translit=Y2K|LTranslit=Y2K
+23	Y2K	Y2K	X	FW	Foreign=Yes	19	appos	_	SpaceAfter=No|Translit=Y2K|LTranslit=Y2K
 24	》	》	PUNCT	)	_	23	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 25	同期	同期	NOUN	NN	_	26	nmod	_	SpaceAfter=No|Translit=tóngqī|LTranslit=tóngqī
 26	演員	演員	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=yǎnyuán|LTranslit=yǎnyuán
@@ -13152,7 +13152,7 @@
 1	40	40	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=40|LTranslit=40
 2	樓	樓	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=lóu|LTranslit=lóu
 3	為	為	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-4	Penthouse	Penthouse	X	FW	_	6	advcl	_	SpaceAfter=No|Translit=Penthouse|LTranslit=Penthouse
+4	Penthouse	Penthouse	X	FW	Foreign=Yes	6	advcl	_	SpaceAfter=No|Translit=Penthouse|LTranslit=Penthouse
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	設	設	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shè|LTranslit=shè
 7	4	4	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4
@@ -13228,9 +13228,9 @@
 16	青年	青年	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=qīngnián|LTranslit=qīngnián
 17	團	團	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=tuán|LTranslit=tuán
 18	（	（	PUNCT	(	_	19	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-19	Youth	Youth	X	FW	_	17	appos	_	Translit=Youth|LTranslit=Youth
-20	Unit	Unit	X	FW	_	19	flat:foreign	_	Translit=Unit|LTranslit=Unit
-21	One	One	X	FW	_	19	flat:foreign	_	SpaceAfter=No|Translit=One|LTranslit=One
+19	Youth	Youth	X	FW	Foreign=Yes	17	appos	_	Translit=Youth|LTranslit=Youth
+20	Unit	Unit	X	FW	Foreign=Yes	19	flat:foreign	_	Translit=Unit|LTranslit=Unit
+21	One	One	X	FW	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No|Translit=One|LTranslit=One
 22	）	）	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 23	，	，	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	其後	其後	NOUN	NN	_	26	nmod:tmod	_	SpaceAfter=No|Translit=qíhòu|LTranslit=qíhòu
@@ -13303,7 +13303,7 @@
 12	圖森	圖森	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=túsēn|LTranslit=túsēn
 13	市	市	PART	SFN	_	17	nmod	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-15	Safeway	Safeway	X	FW	_	17	nmod	_	SpaceAfter=No|Translit=Safeway|LTranslit=Safeway
+15	Safeway	Safeway	X	FW	Foreign=Yes	17	nmod	_	SpaceAfter=No|Translit=Safeway|LTranslit=Safeway
 16	超級	超級	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=chāojí|LTranslit=chāojí
 17	市場	市場	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=shìchǎng|LTranslit=shìchǎng
 18	外	外	NOUN	NN	_	17	acl	_	SpaceAfter=No|Translit=wài|LTranslit=wài
@@ -13317,10 +13317,10 @@
 26	街角	街角	NOUN	NN	_	23	obj	_	SpaceAfter=No|Translit=jiējiǎo|LTranslit=jiējiǎo
 27	」	」	PUNCT	''	_	23	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 28	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-29	Congress	Congress	X	FW	_	23	appos	_	Translit=Congress|LTranslit=Congress
-30	on	on	X	FW	_	29	flat:foreign	_	Translit=on|LTranslit=on
-31	Your	Your	X	FW	_	29	flat:foreign	_	Translit=Your|LTranslit=Your
-32	Corner	Corner	X	FW	_	29	flat:foreign	_	SpaceAfter=No|Translit=Corner|LTranslit=Corner
+29	Congress	Congress	X	FW	Foreign=Yes	23	appos	_	Translit=Congress|LTranslit=Congress
+30	on	on	X	FW	Foreign=Yes	29	flat:foreign	_	Translit=on|LTranslit=on
+31	Your	Your	X	FW	Foreign=Yes	29	flat:foreign	_	Translit=Your|LTranslit=Your
+32	Corner	Corner	X	FW	Foreign=Yes	29	flat:foreign	_	SpaceAfter=No|Translit=Corner|LTranslit=Corner
 33	）	）	PUNCT	)	_	29	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 34	活動	活動	NOUN	NN	_	23	appos	_	SpaceAfter=No|Translit=huódòng|LTranslit=huódòng
 35	時	時	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
@@ -13429,7 +13429,7 @@
 11	加上	加上	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=jiāshàng|LTranslit=jiāshàng
 12	後綴	後綴	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=hòuzhui|LTranslit=hòuzhui
 13	/	/	SYM	/	_	14	nmod	_	SpaceAfter=No|Translit=/|LTranslit=/
-14	-an	-an	X	FW	_	12	appos	_	SpaceAfter=No|Translit=-an|LTranslit=-an
+14	-an	-an	X	FW	Foreign=Yes	12	appos	_	SpaceAfter=No|Translit=-an|LTranslit=-an
 15	/	/	SYM	/	_	14	nmod	_	SpaceAfter=No|Translit=/|LTranslit=/
 16	等	等	NOUN	NN	_	14	acl	_	SpaceAfter=No|Translit=děng|LTranslit=děng
 17	表示	表示	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biǎoshì|LTranslit=biǎoshì
@@ -13444,7 +13444,7 @@
 26	動態	動態	NOUN	NN	_	31	nmod	_	SpaceAfter=No|Translit=dòngtài|LTranslit=dòngtài
 27	語義	語義	NOUN	NN	_	31	nmod	_	SpaceAfter=No|Translit=yǔyì|LTranslit=yǔyì
 28	（	（	PUNCT	(	_	29	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-29	active	active	X	FW	_	31	nmod	_	SpaceAfter=No|Translit=active|LTranslit=active
+29	active	active	X	FW	Foreign=Yes	31	nmod	_	SpaceAfter=No|Translit=active|LTranslit=active
 30	）	）	PUNCT	)	_	29	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 31	連繫	連繫	NOUN	NN	_	25	obj	_	SpaceAfter=No|Translit=lián繫|LTranslit=lián繫
 32	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -13589,7 +13589,7 @@
 2	天文	天文	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=tiānwén|LTranslit=tiānwén
 3	聯會	聯會	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=liánhuì|LTranslit=liánhuì
 4	（	（	PUNCT	(	_	5	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-5	IAU	IAU	X	FW	_	3	appos	_	SpaceAfter=No|Translit=IAU|LTranslit=IAU
+5	IAU	IAU	X	FW	Foreign=Yes	3	appos	_	SpaceAfter=No|Translit=IAU|LTranslit=IAU
 6	）	）	PUNCT	)	_	5	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 7	將	將	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 8	為	為	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -13676,7 +13676,7 @@
 2	季後	季後	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=jìhòu|LTranslit=jìhòu
 3	賽	賽	PART	SFN	_	13	nsubj	_	SpaceAfter=No|Translit=sài|LTranslit=sài
 4	在	在	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	NFC	NFC	X	FW	_	7	nmod	_	SpaceAfter=No|Translit=NFC|LTranslit=NFC
+5	NFC	NFC	X	FW	Foreign=Yes	7	nmod	_	SpaceAfter=No|Translit=NFC|LTranslit=NFC
 6	冠軍	冠軍	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=guānjūn|LTranslit=guānjūn
 7	賽	賽	PART	SFN	_	10	advmod	_	SpaceAfter=No|Translit=sài|LTranslit=sài
 8	兩	兩	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -13982,7 +13982,7 @@
 7	噴氣	噴氣	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=pēnqì|LTranslit=pēnqì
 8	動力	動力	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=dònglì|LTranslit=dònglì
 9	的	的	PART	DEC	Case=Gen	8	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-10	Tu-16	Tu-16	X	FW	_	12	nmod	_	SpaceAfter=No|Translit=Tu-16|LTranslit=Tu-16
+10	Tu-16	Tu-16	X	FW	Foreign=Yes	12	nmod	_	SpaceAfter=No|Translit=Tu-16|LTranslit=Tu-16
 11	轟炸	轟炸	VERB	VV	_	12	compound	_	SpaceAfter=No|Translit=hōngzhà|LTranslit=hōngzhà
 12	機	機	PART	SFN	_	5	obj	_	SpaceAfter=No|Translit=jī|LTranslit=jī
 13	（	（	PUNCT	(	_	19	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -13994,7 +13994,7 @@
 19	命名	命名	NOUN	NN	_	5	parataxis	_	SpaceAfter=No|Translit=mìngmíng|LTranslit=mìngmíng
 20	：	：	PUNCT	:	_	21	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 21	獾	獾	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=獾|LTranslit=獾
-22	Badger	Badger	X	FW	_	21	appos	_	SpaceAfter=No|Translit=Badger|LTranslit=Badger
+22	Badger	Badger	X	FW	Foreign=Yes	21	appos	_	SpaceAfter=No|Translit=Badger|LTranslit=Badger
 23	）	）	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 24	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -14103,10 +14103,10 @@
 3	博物	博物	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=bówù|LTranslit=bówù
 4	館	館	PART	SFN	_	17	nsubj	_	SpaceAfter=No|Translit=guǎn|LTranslit=guǎn
 5	（	（	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-6	The	The	X	FW	_	4	appos	_	Translit=The|LTranslit=The
-7	National	National	X	FW	_	6	flat:foreign	_	Translit=National|LTranslit=National
-8	Football	Football	X	FW	_	6	flat:foreign	_	Translit=Football|LTranslit=Football
-9	Museum	Museum	X	FW	_	6	flat:foreign	_	SpaceAfter=No|Translit=Museum|LTranslit=Museum
+6	The	The	X	FW	Foreign=Yes	4	appos	_	Translit=The|LTranslit=The
+7	National	National	X	FW	Foreign=Yes	6	flat:foreign	_	Translit=National|LTranslit=National
+8	Football	Football	X	FW	Foreign=Yes	6	flat:foreign	_	Translit=Football|LTranslit=Football
+9	Museum	Museum	X	FW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No|Translit=Museum|LTranslit=Museum
 10	）	）	PUNCT	)	_	6	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 11	是	是	AUX	VC	_	17	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 12	英國	英國	PROPN	NNP	_	17	nmod	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
@@ -14555,7 +14555,7 @@
 5	學生	學生	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=xuéshēng|LTranslit=xuéshēng
 6	自習	自習	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=zìxí|LTranslit=zìxí
 7	的	的	SCONJ	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-8	K	K	X	FW	_	9	compound	_	SpaceAfter=No|Translit=K|LTranslit=K
+8	K	K	X	FW	Foreign=Yes	9	compound	_	SpaceAfter=No|Translit=K|LTranslit=K
 9	書	書	PART	SFN	_	10	nmod	_	SpaceAfter=No|Translit=shū|LTranslit=shū
 10	中心	中心	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zhōngxīn|LTranslit=zhōngxīn
 11	，	，	PUNCT	,	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
