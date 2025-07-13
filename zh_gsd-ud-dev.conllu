@@ -10933,7 +10933,7 @@
 # sent_id = dev-s374
 # text = 玩家以地下軍新成員與達夏取得聯絡，從達夏那玩家得知為針對盟軍的抵抗活動已經就緒，但為我們研發新武器的蘇聯首席科學家卻神秘失蹤。
 # translit = wánjiāyǐdexiàjūnxīnchéngyuányǔdáxiàqǔdeliánluò,cóngdáxiànàwánjiādezhīwèizhēnduìméngjūndedǐkànghuódòngyǐjīngjiùxù,dànwèiwǒmenyánfāxīnwǔqìdesūliánshǒuxíkēxuéjiāquèshénmìshīzōng.
-1	玩家	玩家	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=wánjiā|LTranslit=wánjiā
+1	玩家	玩家	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=wánjiā|LTranslit=wánjiā
 2	以	以	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
 3	地下	地下	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=dexià|LTranslit=dexià
 4	軍	軍	PART	SFN	_	6	nmod	_	SpaceAfter=No|Translit=jūn|LTranslit=jūn
@@ -10941,22 +10941,22 @@
 6	成員	成員	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=chéngyuán|LTranslit=chéngyuán
 7	與	與	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 8	達夏	達夏	PROPN	NNP	_	9	obl	_	SpaceAfter=No|Translit=dáxià|LTranslit=dáxià
-9	取得	取得	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=qǔde|LTranslit=qǔde
+9	取得	取得	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=qǔde|LTranslit=qǔde
 10	聯絡	聯絡	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=liánluò|LTranslit=liánluò
 11	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	從	從	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 13	達夏	達夏	PROPN	NNP	_	16	obl	_	SpaceAfter=No|Translit=dáxià|LTranslit=dáxià
-14	那	那	PRON	PRD	_	13	appos	_	SpaceAfter=No|Translit=nà|LTranslit=nà
+14	那	那	PRON	PRD	_	15	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 15	玩家	玩家	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=wánjiā|LTranslit=wánjiā
-16	得知	得知	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dezhī|LTranslit=dezhī
+16	得知	得知	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=dezhī|LTranslit=dezhī
 17	為	為	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-18	針對	針對	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=zhēnduì|LTranslit=zhēnduì
-19	盟軍	盟軍	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=méngjūn|LTranslit=méngjūn
+18	針對	針對	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=zhēnduì|LTranslit=zhēnduì
+19	盟軍	盟軍	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=méngjūn|LTranslit=méngjūn
 20	的	的	SCONJ	DEC	_	18	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 21	抵抗	抵抗	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=dǐkàng|LTranslit=dǐkàng
 22	活動	活動	NOUN	NN	_	24	nsubj	_	SpaceAfter=No|Translit=huódòng|LTranslit=huódòng
 23	已經	已經	ADV	RB	_	24	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
-24	就緒	就緒	VERB	VV	_	39	advcl	_	SpaceAfter=No|Translit=jiùxù|LTranslit=jiùxù
+24	就緒	就緒	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=jiùxù|LTranslit=jiùxù
 25	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	但	但	SCONJ	RB	_	39	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 27	為	為	ADP	IN	_	28	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -10971,8 +10971,8 @@
 36	家	家	PART	SFN	_	39	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
 37	卻	卻	SCONJ	RB	_	39	mark	_	SpaceAfter=No|Translit=què|LTranslit=què
 38	神秘	神秘	ADV	RB	_	39	advmod	_	SpaceAfter=No|Translit=shénmì|LTranslit=shénmì
-39	失蹤	失蹤	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=shīzōng|LTranslit=shīzōng
-40	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+39	失蹤	失蹤	VERB	VV	_	9	conj	_	SpaceAfter=No|Translit=shīzōng|LTranslit=shīzōng
+40	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s375
 # text = 所以，在現在的圖形使用者介面的操作系統中，通常都保留著可選的命令列介面。
