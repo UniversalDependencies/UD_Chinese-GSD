@@ -5530,13 +5530,15 @@
 14	就	就	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 15	構成	構成	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gòuchéng|LTranslit=gòuchéng
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-17	《	《	PUNCT	(	_	19	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-18	朝花	朝花	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=cháohuā|LTranslit=cháohuā
-19	夕拾	夕拾	DET	VV	_	22	det	_	SpaceAfter=No|Translit=xīshi|LTranslit=xīshi
-20	》	》	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
-21	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-22	全部	全部	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=quánbù|LTranslit=quánbù
-23	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+17	《	《	PUNCT	(	_	21	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
+18	朝	朝	ADJ	JJ	_	19	amod	_	SpaceAfter=No|Translit=zhāo|LTranslit=zhāo
+19	花	花	NOUN	NN	_	21	obj	_	SpaceAfter=No|Translit=huā|LTranslit=huā
+20	夕	夕	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=xī|LTranslit=xī
+21	拾	拾	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=shí|LTranslit=shí
+22	》	》	PUNCT	)	_	21	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
+23	的	的	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
+24	全部	全部	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=quánbù|LTranslit=quánbù
+25	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = dev-s187
 # text = 2011年廈門高崎國際機場年旅客吞吐量突破1575萬人次，列世界百強機場第93位；旅客吞吐量列國內民航機場第11位，貨郵吞吐量列國內民航機場第9位。
