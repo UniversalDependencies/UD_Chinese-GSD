@@ -8321,7 +8321,7 @@
 5	被	被	AUX	BB	Voice=Pass	9	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 6	當年	當年	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=dāngnián|LTranslit=dāngnián
 7	時代	時代	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=shídài|LTranslit=shídài
-8	雜誌	雜誌	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=zá誌|LTranslit=zá誌
+8	雜誌	雜誌	NOUN	NN	_	9	obl:agent	_	SpaceAfter=No|Translit=zá誌|LTranslit=zá誌
 9	評	評	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=píng|LTranslit=píng
 10	為	為	VERB	VC	_	9	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 11	桑坦	桑坦	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit=sāngtǎn|LTranslit=sāngtǎn
