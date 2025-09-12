@@ -6,6 +6,9 @@ Google.
 
 # Changelog
 
+ * 2025-09-12 v2.16
+  * add parallel corpus information to machine-readable metadata
+  * add parallel data support with parallel_id metadata
 * 2025-11-15 v2.17
   * Fixed attachment clf+det according to the guidelines.
 * 2023-11-15 v2.13
@@ -55,7 +58,7 @@ Google.
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: zhgsd
 Genre: wiki
 Lemmas: automatic with corrections
 UPOS: converted from manual

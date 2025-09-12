@@ -1,4 +1,5 @@
 # sent_id = test-s1
+# parallel_id = zhgsd/test1
 # text = 然而，這樣的處理也衍生了一些問題。
 # translit = rán'ér,zhèyàngdechùlǐyěyǎnshēngleyīxiēwèntí.
 1	然而	然而	SCONJ	RB	_	7	mark	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
@@ -14,6 +15,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s2
+# parallel_id = zhgsd/test2
 # text = 自從2004年提出了興建人文大樓的構想，企業界陸續有人提供捐款。
 # translit = zìcóng2004niántíchūlexìngjiànrénwéndàlóudegòuxiǎng,qǐyèjièlùxùyǒuréntígōngjuānkuǎn.
 1	自從	自從	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zìcóng|LTranslit=zìcóng
@@ -37,6 +39,7 @@
 19	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s3
+# parallel_id = zhgsd/test3
 # text = 杜鵑花為溫帶植物，台北雖然在亞熱帶，但冬季的東北季風卻使得杜鵑花在臺大宜然自得。
 # translit = dùjuānhuāwèiwēndàizhíwù,táiběisuīránzàiyàrèdài,dàndōngjìdedōngběijìfēngquèshǐdedùjuānhuāzài臺dàyiránzìde.
 1	杜鵑花	杜鵑花	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=dùjuānhuā|LTranslit=dùjuānhuā
@@ -64,6 +67,7 @@
 23	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s4
+# parallel_id = zhgsd/test4
 # text = 臺大醫學人文博物館是一棟兩層樓的建築，沿中山南路與仁愛路成L型。
 # translit = 臺dàyīxuérénwénbówùguǎnshìyī棟liǎngcénglóudejiànzhú,yánzhōngshānnánlùyǔrén'àilùchéngLxíng.
 1	臺大	臺大	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=臺dà|LTranslit=臺dà
@@ -93,6 +97,7 @@
 25	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s5
+# parallel_id = zhgsd/test5
 # text = 樓頂有天文台，現為天文社使用。
 # translit = lóudǐngyǒutiānwéntái,xiànwèitiānwénshèshǐyòng.
 1	樓頂	樓頂	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=lóudǐng|LTranslit=lóudǐng
@@ -108,6 +113,7 @@
 11	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s6
+# parallel_id = zhgsd/test6
 # text = 國際北極研究中心的主要夥伴是日本和美國，參與會務的還有來自加拿大、中國、丹麥、德國、日本、挪威、俄羅斯、英國和美國的代表。
 # translit = guójìběijíyánjiūzhōngxīndezhǔyào夥bànshìrìběnhéměiguó,cānyǔhuìwudeháiyǒuláizìjiānádà,zhōngguó,dānmài,déguó,rìběn,挪wēi,'éluósī,yīngguóhéměiguódedàibiǎo.
 1	國際	國際	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
@@ -151,6 +157,7 @@
 39	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s7
+# parallel_id = zhgsd/test7
 # text = 其中參賽者年齡不可超過18歲（以當年7月1日為準），且必須就讀於中學校（Secondary School）。
 # translit = qízhōngcānsàizhěniánlíngbùkěchāoguò18suì(yǐdāngnián7yuè1rìwèizhǔn),qiěbìxūjiùdúyúzhōngxuéxiào(Secondary School).
 1	其中	其中	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
@@ -185,6 +192,7 @@
 30	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s8
+# parallel_id = zhgsd/test8
 # text = 同年9月7日，亞奧理事會主席薩巴赫親王為國際射擊中心主持銅像揭幕儀式。
 # translit = tóngnián9yuè7rì,yà'àolǐshìhuìzhǔxísàbahèqīnwángwèiguójìshèjīzhōngxīnzhǔchítóngxiàngjiēmùyíshì.
 1	同年	同年	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
@@ -210,6 +218,7 @@
 21	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s9
+# parallel_id = zhgsd/test9
 # text = 這些電話經交換機處理，使用的媒介包括海底電纜、人造衛星、無線電、光纖及IP電話（VOIP）。
 # translit = zhèxiēdiànhuàjīngjiāohuànjīchùlǐ,shǐyòngdeméijièbāokuòhǎidǐdiàn纜,rénzàowèixīng,wúxiàndiàn,guāngxiānjíIPdiànhuà(VOIP).
 1	這些	這些	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
@@ -243,6 +252,7 @@
 29	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s10
+# parallel_id = zhgsd/test10
 # text = 《圓月彎刀》為古龍晚期作品，1976年6月至1978年5月，香港〈武俠春秋〉282至348期斷續連載，原名《刀神》，1978年漢麟出版改名《圓月彎刀》。
 # translit = «yuányuèwāndāo»wèigǔlóngwǎnqīzuòpǐn,1976nián6yuèzhì1978nián5yuè,xiānggǎng<wǔ俠chūnqiū>282zhì348qīduànxùliánzài,yuánmíng«dāoshén»,1978niánhàn麟chūbǎngǎimíng«yuányuèwāndāo».
 1	《	《	PUNCT	(	_	5	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -297,6 +307,7 @@
 50	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s11
+# parallel_id = zhgsd/test11
 # text = 圓齒龍（Globidens）意為「球狀牙齒」，是滄龍科的一個屬。
 # translit = yuánchǐlóng(Globidens)yìwèi‘qiúzhuàngyáchǐ’,shì滄lóngkēdeyīgèshǔ.
 1	圓齒龍	圓齒龍	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=yuánchǐlóng|LTranslit=yuánchǐlóng
@@ -320,6 +331,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s12
+# parallel_id = zhgsd/test12
 # text = 圖波列夫設計局在1960年代末期推出圖-154客機後，圖波列夫便成為社會主義國家民航飛機的主要供應商。
 # translit = túbōlièfushèjìjúzài1960niándàimòqītuīchūtú-154kèjīhòu,túbōlièfubiànchéngwèishèhuìzhǔyìguójiāmínhángfēijīdezhǔyàogōngyīngshāng.
 1	圖波列夫	圖波列夫	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=túbōlièfu|LTranslit=túbōlièfu
@@ -351,6 +363,7 @@
 27	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s13
+# parallel_id = zhgsd/test13
 # text = 事實上，團購網站的產品原價和購買數量經常被「注水」，而產品和服務的品質則經常「縮水」。
 # translit = shìshíshàng,tuángòuwǎngzhàndechǎnpǐnyuánjiàhégòumǎishùliàngjīngchángbèi‘zhùshuǐ’,'érchǎnpǐnhéfúwudepǐnzhìzéjīngcháng‘suōshuǐ’.
 1	事實	事實	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=shìshí|LTranslit=shìshí
@@ -384,6 +397,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s14
+# parallel_id = zhgsd/test14
 # text = 團購網站的主要產品分為家居類、日用品類、旅遊優惠、機票、酒店及郵輪等。
 # translit = tuángòuwǎngzhàndezhǔyàochǎnpǐnfēnwèijiājūlèi,rìyòngpǐnlèi,lǚyóuyōu惠,jīpiào,jiǔdiànjíyóulúnděng.
 1	團購	團購	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=tuángòu|LTranslit=tuángòu
@@ -412,6 +426,7 @@
 24	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s15
+# parallel_id = zhgsd/test15
 # text = 可是，魔牛肝菌的菌肉在被切割或撞傷後會變成藍色的，而這種菌的菌肉無論如何都是白色的，因此透過切割菌肉便能分辨二者。
 # translit = kěshì,móniúgānjūndejūnròuzàibèiqiègēhuòzhuàngshānghòuhuìbiànchénglánsède,'érzhèzhǒngjūndejūnròuwúlùnrúhédōushìbáisède,yīncǐtòuguòqiègējūnròubiànnéngfēnbiàn'èrzhě.
 1	可是	可是	SCONJ	RB	_	13	mark	_	SpaceAfter=No|Translit=kěshì|LTranslit=kěshì
@@ -454,6 +469,7 @@
 38	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s16
+# parallel_id = zhgsd/test16
 # text = 站牌上標示著「浪漫和傳奇的入野松原」。
 # translit = zhànpáishàngbiāoshìzhe‘làngmànhéchuánqíderùyěsōngyuán’.
 1	站牌	站牌	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=zhànpái|LTranslit=zhànpái
@@ -470,6 +486,7 @@
 12	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s17
+# parallel_id = zhgsd/test17
 # text = 自然界的土是由岩石經風化、搬運、堆積而形成的。
 # translit = zìránjièdetǔshìyóuyánshíjīngfēnghuà,bānyùn,duījī'érxíngchéngde.
 1	自然	自然	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=zìrán|LTranslit=zìrán
@@ -491,6 +508,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s18
+# parallel_id = zhgsd/test18
 # text = 毛澤東早在1949年3月中共七屆二中全會的報告中就明確地說：「占國民經濟總產值90%的分散的個體的農業經濟和手工業經濟，是可能和必須謹慎地、逐步地而又積極地引導它們向著現代化和集體化的方向發展的，任其自流的觀點是錯誤的。」
 # translit = máo澤dōngzǎozài1949nián3yuèzhōnggòngqījiè'èrzhōngquánhuìdebàogàozhōngjiùmíngquèdeshuō:‘zhànguómínjīngjìzǒngchǎnzhí90%defēnsàndegètǐdenóngyèjīngjìhéshǒugōngyèjīngjì,shìkěnénghébìxūjǐnshènde,zhúbùde'éryòujījídeyǐndǎotāmenxiàngzhexiàndàihuàhéjítǐhuàdefāngxiàngfāzhǎnde,rènqízìliúdeguāndiǎnshìcuòwùde.’
 1	毛	毛	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No|Translit=máo|LTranslit=máo
@@ -569,6 +587,7 @@
 74	」	」	PUNCT	''	_	71	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = test-s19
+# parallel_id = zhgsd/test19
 # text = 它主要分布在表土層或耕層中，深受耕作施肥等人為因素的影響而極不穩定。
 # translit = tāzhǔyàofēnbùzàibiǎotǔcénghuògēngcéngzhōng,shēnshòugēngzuòshīféiděngrénwèiyīnsùdeyǐngxiǎng'érjíbùwěndìng.
 1	它	它	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -596,6 +615,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s20
+# parallel_id = zhgsd/test20
 # text = 土壤是重要的自然資源和生產資料，土壤的植物生產能力是衡量土壤資源質量的標誌。
 # translit = tǔrǎngshìzhòngyàodezìránzīyuánhéshēngchǎnzīliào,tǔrǎngdezhíwùshēngchǎnnénglìshìhéngliàngtǔrǎngzīyuánzhìliàngdebiāo誌.
 1	土壤	土壤	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=tǔrǎng|LTranslit=tǔrǎng
@@ -623,6 +643,7 @@
 23	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s21
+# parallel_id = zhgsd/test21
 # text = 一些土星1號儀錶組中的部分也被用在土星1B中了。
 # translit = yīxiētǔxīng1hàoyí錶zǔzhōngdebùfēnyěbèiyòngzàitǔxīng1Bzhōngle.
 1	一些	一些	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
@@ -645,6 +666,7 @@
 18	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s22
+# parallel_id = zhgsd/test22
 # text = 它在位於亨茨維爾的空間系統中心建造。
 # translit = tāzàiwèiyú亨茨wéi'ěrdekōngjiānxìtǒngzhōngxīnjiànzào.
 1	它	它	PRON	PRP	Person=3	10	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -660,6 +682,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s23
+# parallel_id = zhgsd/test23
 # text = 這個計算機控制了火箭從起飛前一直到拋棄S-IVB推進器的操作過程。
 # translit = zhègèjìsuànjīkòngzhìlehuǒjiàncóngqǐfēiqiányīzhídàopāoqìS-IVBtuījìnqìdecāozuòguòchéng.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -684,6 +707,7 @@
 20	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s24
+# parallel_id = zhgsd/test24
 # text = 2007年7月6日，聖喬治教堂被馬來西亞政府列為50個馬來西亞國家寶藏之一。
 # translit = 2007nián7yuè6rì,shèng喬zhìjiàotángbèimǎláixiyàzhèngfǔlièwèi50gèmǎláixiyàguójiābǎocángzhīyī.
 1	2007	2007	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
@@ -710,6 +734,7 @@
 22	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s25
+# parallel_id = zhgsd/test25
 # text = 聖伯多祿堂（Iglesia de San Pedro）是西班牙南部城市科爾多瓦的一座羅馬天主教教堂，供奉聖伯多祿，位於同名的廣場上。
 # translit = shèngbóduō祿táng(Iglesia de San Pedro)shìxibānyánánbùchéngshìkē'ěrduōwǎdeyīzuòluómǎtiānzhǔjiàojiàotáng,gōngfèngshèngbóduō祿,wèiyútóngmíngdeguǎngchǎngshàng.
 1	聖伯多祿	聖伯多祿	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngbóduō祿|LTranslit=shèngbóduō祿
@@ -745,6 +770,7 @@
 31	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s26
+# parallel_id = zhgsd/test26
 # text = 該市鎮總面積11.61平方公里，2009年時的人口為323人。
 # translit = gāishìzhènzǒngmiànjī11.61píngfānggōnglǐ,2009niánshíderénkǒuwèi323rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -765,6 +791,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s27
+# parallel_id = zhgsd/test27
 # text = 該市鎮總面積38.28平方公里，2009年時的人口為696人。
 # translit = gāishìzhènzǒngmiànjī38.28píngfānggōnglǐ,2009niánshíderénkǒuwèi696rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -785,6 +812,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s28
+# parallel_id = zhgsd/test28
 # text = 總面積14平方公里，人口268人，人口密度19.1人/平方公里（2009年）。
 # translit = zǒngmiànjī14píngfānggōnglǐ,rénkǒu268rén,rénkǒumìdù19.1rén/píngfānggōnglǐ(2009nián).
 1	總	總	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
@@ -809,6 +837,7 @@
 20	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s29
+# parallel_id = zhgsd/test29
 # text = 該市鎮總面積28.59平方公里，2009年時的人口為617人。
 # translit = gāishìzhènzǒngmiànjī28.59píngfānggōnglǐ,2009niánshíderénkǒuwèi617rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -829,6 +858,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s30
+# parallel_id = zhgsd/test30
 # text = 除了在1900年到1950年間人口上升了大約25%，在此後人口一直下降，現在聖奧斯瓦爾德鄉的居民總數比2005年還要少大約35%。
 # translit = chúlezài1900niándào1950niánjiānrénkǒushàngshēngledàyuē25%,zàicǐhòurénkǒuyīzhíxiàjiàng,xiànzàishèng'àosīwǎ'ěrdéxiāngdejūmínzǒngshùbǐ2005niánháiyàoshǎodàyuē35%.
 1	除	除	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chú|LTranslit=chú
@@ -869,6 +899,7 @@
 36	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s31
+# parallel_id = zhgsd/test31
 # text = 2007年，教堂完成了主體大修工程，工程包括內部結構的調整。
 # translit = 2007nián,jiàotángwánchénglezhǔtǐdàxiūgōngchéng,gōngchéngbāokuònèibùjiégòudediàozhěng.
 1	2007	2007	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2007|LTranslit=2007
@@ -890,6 +921,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s32
+# parallel_id = zhgsd/test32
 # text = 1907年到1911年，教堂立面改建為目前的巴伐利亞巴洛克式。
 # translit = 1907niándào1911nián,jiàotánglìmiàngǎijiànwèimùqiándebafálìyàbaluòkèshì.
 1	1907	1907	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1907|LTranslit=1907
@@ -910,6 +942,7 @@
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s33
+# parallel_id = zhgsd/test33
 # text = 該市鎮總面積16.71平方公里，2009年時的人口為2070人。
 # translit = gāishìzhènzǒngmiànjī16.71píngfānggōnglǐ,2009niánshíderénkǒuwèi2070rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -930,6 +963,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s34
+# parallel_id = zhgsd/test34
 # text = 島嶼長度約為11公里，寬度6公里。
 # translit = dǎoyǔzhǎngdùyuēwèi11gōnglǐ,kuāndù6gōnglǐ.
 1	島嶼	島嶼	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=dǎoyǔ|LTranslit=dǎoyǔ
@@ -945,6 +979,7 @@
 11	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s35
+# parallel_id = zhgsd/test35
 # text = 該島還設有8個網球場和1個環繞安娜費雷拉峰的馬術中心。
 # translit = gāidǎoháishèyǒu8gèwǎngqiúchǎnghé1gèhuánrào'ān娜fèiléilāfēngdemǎshùzhōngxīn.
 1	該島	該島	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=gāidǎo|LTranslit=gāidǎo
@@ -966,6 +1001,7 @@
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s36
+# parallel_id = zhgsd/test36
 # text = 翻譯時，除使用原文外，參考的考古文獻則多以法、德兩文記載和教會用的拉丁文。
 # translit = fānyìshí,chúshǐyòngyuánwénwài,cānkǎodekǎogǔwénxiànzéduōyǐfǎ,déliǎngwénjìzàihéjiàohuìyòngdelādīngwén.
 1	翻譯	翻譯	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=fānyì|LTranslit=fānyì
@@ -998,6 +1034,7 @@
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s37
+# parallel_id = zhgsd/test37
 # text = 後來他重回橋樑道路學院教學，並繼續他的研究工作。
 # translit = hòuláitāzhònghuíqiáo樑dàolùxuéyuànjiàoxué,bìngjìxùtādeyánjiūgōngzuò.
 1	後來	後來	NOUN	NN	_	10	nmod:tmod	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
@@ -1017,6 +1054,7 @@
 15	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s38
+# parallel_id = zhgsd/test38
 # text = 最古老的是安德里亞·皮薩諾的作品，作於1330年到1336年。
 # translit = zuìgǔlǎodeshì'āndélǐyà·písànuòdezuòpǐn,zuòyú1330niándào1336nián.
 1	最	最	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
@@ -1039,6 +1077,7 @@
 18	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s39
+# parallel_id = zhgsd/test39
 # text = 該市鎮總面積2.92平方公里，2009年時的人口為1097人。
 # translit = gāishìzhènzǒngmiànjī2.92píngfānggōnglǐ,2009niánshíderénkǒuwèi1097rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -1059,6 +1098,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s40
+# parallel_id = zhgsd/test40
 # text = 1914年，政府允諾減少在南非對印度人的歧視。
 # translit = 1914nián,zhèngfǔyǔnnuòjiǎnshǎozàinánfēiduìyìndùrénde歧shì.
 1	1914	1914	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1914|LTranslit=1914
@@ -1077,6 +1117,7 @@
 14	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s41
+# parallel_id = zhgsd/test41
 # text = 但是甘地更相信尼赫魯能建立保障印度人民自由的政府。
 # translit = dànshìgāndegèngxiāngxìnníhèlǔnéngjiànlìbǎozhàngyìndùrénmínzìyóudezhèngfǔ.
 1	但是	但是	SCONJ	RB	_	4	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
@@ -1095,6 +1136,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s42
+# parallel_id = zhgsd/test42
 # text = 在艾哈邁達巴德建立了Sabarmati Ashram（高僧修行所），還有報紙「年輕的印度」（Young India）。
 # translit = zài'àihāmàidábadéjiànlìleSabarmati Ashram(gāo僧xiūxíngsuǒ),háiyǒubàozhǐ‘niánqīngdeyìndù’(Young India).
 1	在	在	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -1124,6 +1166,7 @@
 25	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s43
+# parallel_id = zhgsd/test43
 # text = 除了抵制英國產品外，甘地還極力鼓勵人們抵制英國學校，法律機構，辭退政府工作，拒絕繳稅，拋棄英國給的稱號和榮譽。
 # translit = chúledǐzhìyīngguóchǎnpǐnwài,gāndeháijílìgǔlìrénmendǐzhìyīngguóxuéxiào,fǎlǜjīgòu,cítuìzhèngfǔgōngzuò,jùjuéjiǎoshuì,pāoqìyīngguógěidechēnghàohéróngyù.
 1	除	除	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=chú|LTranslit=chú
@@ -1162,6 +1205,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s44
+# parallel_id = zhgsd/test44
 # text = 1941年，一些反法西斯的社會黨和民主黨成員再度進入聖馬利諾大議會，他們秘密組建了一個反法西斯的政治運動，這個運動越來越嚴密、壯大，到1943年時已經成為一支可觀的政治力量。
 # translit = 1941nián,yīxiēfǎnfǎxisīdeshèhuìdǎnghémínzhǔdǎngchéngyuánzàidùjìnrùshèngmǎlìnuòdàyìhuì,tāmenmìmìzǔjiànleyīgèfǎnfǎxisīdezhèngzhìyùndòng,zhègèyùndòngyuèláiyuèyánmì,zhuàngdà,dào1943niánshíyǐjīngchéngwèiyīzhīkěguāndezhèngzhìlìliàng.
 1	1941	1941	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1941|LTranslit=1941
@@ -1219,6 +1263,7 @@
 53	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s45
+# parallel_id = zhgsd/test45
 # text = 國家博物館和圖書館收藏的文物和書籍轉移到山洞裡，以為難民騰出住宿空間。
 # translit = guójiābówùguǎnhétúshūguǎnshōucángdewénwùhéshūjízhuǎnyídàoshāndòngli,yǐwèinánmínténgchūzhùsùkōngjiān.
 1	國家	國家	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
@@ -1246,6 +1291,7 @@
 23	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s46
+# parallel_id = zhgsd/test46
 # text = 面對南下的德國大軍，聖馬利諾共和國再度陷入驚慌之中。
 # translit = miànduìnánxiàdedéguódàjūn,shèngmǎlìnuògònghéguózàidùxiànrùjīnghuāngzhīzhōng.
 1	面對	面對	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=miànduì|LTranslit=miànduì
@@ -1264,6 +1310,7 @@
 14	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s47
+# parallel_id = zhgsd/test47
 # text = 聖馬洛區轄有9個縣，共有63個市鎮。
 # translit = shèngmǎluòqūxiáyǒu9gèxiàn,gòngyǒu63gèshìzhèn.
 1	聖馬洛	聖馬洛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=shèngmǎluò|LTranslit=shèngmǎluò
@@ -1281,6 +1328,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s48
+# parallel_id = zhgsd/test48
 # text = 20世紀後，飛機被發明，航空測繪地圖興起。
 # translit = 20shìjìhòu,fēijībèifāmíng,hángkōngcèhuìdetúxìngqǐ.
 1	20	20	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
@@ -1298,6 +1346,7 @@
 13	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s49
+# parallel_id = zhgsd/test49
 # text = 但在2006年由於公眾反對，這一計劃受到擱淺。
 # translit = dànzài2006niányóuyúgōngzhòngfǎnduì,zhèyījìhuàshòudàogēqiǎn.
 1	但	但	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -1316,6 +1365,7 @@
 14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s50
+# parallel_id = zhgsd/test50
 # text = 在此之後，地形圖集也成為了現代化國家在規劃基礎設施和礦產探測中的基礎國家資源。
 # translit = zàicǐzhīhòu,dexíngtújíyěchéngwèilexiàndàihuàguójiāzàiguīhuàjīchǔshèshīhékuàngchǎntàncèzhōngdejīchǔguójiāzīyuán.
 1	在此	在此	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=zàicǐ|LTranslit=zàicǐ
@@ -1345,6 +1395,7 @@
 25	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s51
+# parallel_id = zhgsd/test51
 # text = 換句話說，如果每個標註的點都在100米的高度，這條線代表的就是100米海拔。
 # translit = huànjùhuàshuō,rúguǒměigèbiāo註dediǎndōuzài100mǐdegāodù,zhètiáoxiàndàibiǎodejiùshì100mǐhǎibá.
 1	換	換	VERB	VV	_	4	advcl	_	SpaceAfter=No|Translit=huàn|LTranslit=huàn
@@ -1376,6 +1427,7 @@
 27	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s52
+# parallel_id = zhgsd/test52
 # text = 滾球的球主要分為兩類，一種由金屬制，另一種則塑質所造，前者稱金屬滾球，後者名為塑質滾球，在這兩大類中，再有小金屬滾球、草滾球、桌擲球（又稱沙狐球）。
 # translit = gǔnqiúdeqiúzhǔyàofēnwèiliǎnglèi,yīzhǒngyóujīnshǔzhì,lìngyīzhǒngzésùzhìsuǒzào,qiánzhěchēngjīnshǔgǔnqiú,hòuzhěmíngwèisùzhìgǔnqiú,zàizhèliǎngdàlèizhōng,zàiyǒuxiǎojīnshǔgǔnqiú,cǎogǔnqiú,zhuōzhìqiú(yòuchēngshāhúqiú).
 1	滾球	滾球	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=gǔnqiú|LTranslit=gǔnqiú
@@ -1438,6 +1490,7 @@
 58	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s53
+# parallel_id = zhgsd/test53
 # text = 地灣城遺址，位於中國甘肅省金塔縣，為一個省級文物保護單位，類型為古遺址。
 # translit = dewānchéngyízhǐ,wèiyúzhōngguógānsùshěngjīntǎxiàn,wèiyīgèshěngjíwénwùbǎohùdānwèi,lèixíngwèigǔyízhǐ.
 1	地灣	地灣	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dewān|LTranslit=dewān
@@ -1467,6 +1520,7 @@
 25	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s54
+# parallel_id = zhgsd/test54
 # text = 與其他胰島素相比較，本品引起夜間低血糖的風險較低，因而可以進行更為積極的劑量調整以實現血糖達標。
 # translit = yǔqítā胰dǎosùxiāngbǐjiào,běnpǐnyǐnqǐyèjiāndīxuètángdefēngxiǎnjiàodī,yīn'érkěyǐjìnxínggèngwèijījídejìliàngdiàozhěngyǐshíxiànxuètángdábiāo.
 1	與	與	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
@@ -1500,6 +1554,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s55
+# parallel_id = zhgsd/test55
 # text = 長期血糖水平控制良好可以降低糖尿病視網膜病變的風險。
 # translit = zhǎngqīxuètángshuǐpíngkòngzhìliánghǎokěyǐjiàngdītángniàobìngshìwǎngmóbìngbiàndefēngxiǎn.
 1	長期	長期	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=zhǎngqī|LTranslit=zhǎngqī
@@ -1519,6 +1574,7 @@
 15	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s56
+# parallel_id = zhgsd/test56
 # text = 《進化特區》（英文：Evolution）是2001年首映的一部美國科幻喜劇電影。
 # translit = «jìnhuàtèqū»(yīngwén:Evolution)shì2001niánshǒuyìngdeyībùměiguókēhuànxǐjùdiànyǐng.
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -1545,6 +1601,7 @@
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s57
+# parallel_id = zhgsd/test57
 # text = 遊戲的任務重心就是「自由」。
 # translit = yóuxìderènwuzhòngxīnjiùshì‘zìyóu’.
 1	遊戲	遊戲	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
@@ -1558,6 +1615,7 @@
 9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s58
+# parallel_id = zhgsd/test58
 # text = NX-01最初的武器裝備只有等離子炮與氚核魚雷，並由電磁極化船甲保護。
 # translit = NX-01zuìchūdewǔqìzhuāngbèizhǐyǒuděnglízipàoyǔ氚héyúléi,bìngyóudiàncíjíhuàchuánjiǎbǎohù.
 1	NX-01	NX-01	X	FW	Foreign=Yes	5	nmod	_	SpaceAfter=No|Translit=NX-01|LTranslit=NX-01
@@ -1582,6 +1640,7 @@
 20	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s59
+# parallel_id = zhgsd/test59
 # text = 但在另一方面，少數變化使得分子的複製變得更快或更佳；這些「品系」的數量較多也較「成功」。
 # translit = dànzàilìngyīfāngmiàn,shǎoshùbiànhuàshǐdefēnzidefùzhìbiàndegèngkuàihuògèngjiā;zhèxiē‘pǐnxì’deshùliàngjiàoduōyějiào‘chénggōng’.
 1	但	但	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -1617,6 +1676,7 @@
 31	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s60
+# parallel_id = zhgsd/test60
 # text = 1788年，他來到了所羅門聖克魯斯群島的，之後便杳無蹤跡。
 # translit = 1788nián,tāláidàolesuǒluóménshèngkèlǔsīqúndǎode,zhīhòubiàn杳wúzōngjī.
 1	1788	1788	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1788|LTranslit=1788
@@ -1636,6 +1696,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s61
+# parallel_id = zhgsd/test61
 # text = 18世紀到19世紀是現代地質學和地理學的創立時期，兩者的交叉領域則為地貌學提供了空間。
 # translit = 18shìjìdào19shìjìshìxiàndàidezhìxuéhédelǐxuédechuànglìshíqī,liǎngzhědejiāo叉lǐngyùzéwèidemàoxuétígōnglekōngjiān.
 1	18	18	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=18|LTranslit=18
@@ -1669,6 +1730,7 @@
 29	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s62
+# parallel_id = zhgsd/test62
 # text = 20世紀50年代也是地貌學出現分支學科的時期，形成了河流地貌學、冰川地貌學、海岸地貌學和構造地貌學。
 # translit = 20shìjì50niándàiyěshìdemàoxuéchūxiànfēnzhīxuékēdeshíqī,xíngchénglehéliúdemàoxué,bīngchuāndemàoxué,hǎi'àndemàoxuéhégòuzàodemàoxué.
 1	20	20	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=20|LTranslit=20
@@ -1704,6 +1766,7 @@
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s63
+# parallel_id = zhgsd/test63
 # text = 化學中的場效應（Field effect，記作F）是指通過空間的分子內靜電作用，即某取代基在空間產生一個電場，它對另一處的反應中心發生影響。
 # translit = huàxuézhōngdechǎngxiàoyīng(Field effect,jìzuòF)shìzhǐtōngguòkōngjiāndefēnzinèijìngdiànzuòyòng,jímǒuqǔdàijīzàikōngjiānchǎnshēngyīgèdiànchǎng,tāduìlìngyīchùdefǎnyīngzhōngxīnfāshēngyǐngxiǎng.
 1	化學	化學	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=huàxué|LTranslit=huàxué
@@ -1752,6 +1815,7 @@
 44	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s64
+# parallel_id = zhgsd/test64
 # text = 她並不十分擅長為唱片封面拍攝，每當攝影師把鏡頭對準她，說道：「好，開始拍」時，或者是在確定拍攝場景後，需要根據攝影師的想法去調整姿勢時，她總是顯得不自在。
 # translit = tābìngbùshífēn擅zhǎngwèichàngpiànfēngmiànpāishè,měidāngshèyǐngshībǎjìngtóuduìzhǔntā,shuōdào:‘hǎo,kāishǐpāi’shí,huòzhěshìzàiquèdìngpāishèchǎngjǐnghòu,xūyàogēnjùshèyǐngshīdexiǎngfǎqùdiàozhěngzīshìshí,tāzǒngshìxiǎndebùzìzài.
 1	她	她	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -1811,6 +1875,7 @@
 55	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s65
+# parallel_id = zhgsd/test65
 # text = 總之她對顏色的要求非常嚴格。
 # translit = zǒngzhītāduìyánsèdeyàoqiúfēichángyángé.
 1	總之	總之	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=zǒngzhī|LTranslit=zǒngzhī
@@ -1824,6 +1889,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s66
+# parallel_id = zhgsd/test66
 # text = 此法既能解決運費高昂的問題，又可調節物價。
 # translit = cǐfǎjìnéngjiějuéyùnfèigāo'ángdewèntí,yòukědiàojiéwùjià.
 1	此法	此法	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=cǐfǎ|LTranslit=cǐfǎ
@@ -1842,6 +1908,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s67
+# parallel_id = zhgsd/test67
 # text = 波利比奧斯記述道：「當其被不斷切割，生還者被逼站在原地引頸就戮。」
 # translit = bōlìbǐ'àosījìshùdào:‘dāngqíbèibùduànqiègē,shēngháizhěbèibīzhànzàiyuándeyǐnjǐngjiù戮.’
 1	波利比奧斯	波利比奧斯	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=bōlìbǐ'àosī|LTranslit=bōlìbǐ'àosī
@@ -1867,6 +1934,7 @@
 21	」	」	PUNCT	''	_	19	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = test-s68
+# parallel_id = zhgsd/test68
 # text = 總括而言，整場戰役的總傷亡人數大約為八萬人。
 # translit = zǒngkuò'éryán,zhěngchǎngzhànyìdezǒngshāngwángrénshùdàyuēwèibāwànrén.
 1	總括	總括	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=zǒngkuò|LTranslit=zǒngkuò
@@ -1886,6 +1954,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s69
+# parallel_id = zhgsd/test69
 # text = 總面積11.37平方公里，總人口1579人，其中男性741人，女性838人（2011年12月31日），人口密度139人/平方公里。
 # translit = zǒngmiànjī11.37píngfānggōnglǐ,zǒngrénkǒu1579rén,qízhōngnánxìng741rén,nǚxìng838rén(2011nián12yuè31rì),rénkǒumìdù139rén/píngfānggōnglǐ.
 1	總	總	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
@@ -1924,6 +1993,7 @@
 34	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s70
+# parallel_id = zhgsd/test70
 # text = 有些現代神話學家認為，坎珀實際是厄客德娜的一個別名，兩者之間有很多相似之處。
 # translit = yǒuxiēxiàndàishénhuàxuéjiārènwèi,kǎn珀shíjìshì厄kèdé娜deyīgèbiémíng,liǎngzhězhījiānyǒuhěnduōxiāngshìzhīchù.
 1	有些	有些	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒuxiē|LTranslit=yǒuxiē
@@ -1953,6 +2023,7 @@
 25	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s71
+# parallel_id = zhgsd/test71
 # text = 他是一個典型的戰士：高大，結實，強壯有力。
 # translit = tāshìyīgèdiǎnxíngdezhànshì:gāodà,jiéshí,qiángzhuàngyǒulì.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -1972,6 +2043,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s72
+# parallel_id = zhgsd/test72
 # text = 統治期內，梅葛處死了三位大學士；他還擁有為數眾多的妻子，每個時期通常都不止一個，因此臭名遠揚。
 # translit = tǒngzhìqīnèi,méi葛chùsǐlesānwèidàxuéshì;tāháiyōngyǒuwèishùzhòngduōdeqīzi,měigèshíqītōngchángdōubùzhǐyīgè,yīncǐchòumíngyuǎnyáng.
 1	統治	統治	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=tǒngzhì|LTranslit=tǒngzhì
@@ -2008,6 +2080,7 @@
 32	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s73
+# parallel_id = zhgsd/test73
 # text = 雷妮拉的母親沒有生下男性繼承人就死了，所以韋賽里斯一世準備讓雷妮拉繼承王位，成為坦格利安家系中的第一位女王。
 # translit = léi妮lādemǔqīnméiyǒushēngxiànánxìngjìchéngrénjiùsǐle,suǒyǐ韋sàilǐsīyīshìzhǔnbèiràngléi妮lājìchéngwángwèi,chéngwèitǎngélì'ānjiāxìzhōngdedìyīwèinǚwáng.
 1	雷妮拉	雷妮拉	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=léi妮lā|LTranslit=léi妮lā
@@ -2043,6 +2116,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s74
+# parallel_id = zhgsd/test74
 # text = 由節目來賓各自抽籤選定主持人當助手後分成兩隊比賽
 # translit = yóujiémùláibīngèzìchōu籤xuǎndìngzhǔchíréndāngzhùshǒuhòufēnchéngliǎngduìbǐsài
 1	由	由	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=yóu|LTranslit=yóu
@@ -2062,6 +2136,7 @@
 15	比賽	比賽	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bǐsài|LTranslit=bǐsài
 
 # sent_id = test-s75
+# parallel_id = zhgsd/test75
 # text = 他亦曾代表過阿根廷國家隊出賽，但並未參與任何世界盃賽事。
 # translit = tāyìcéngdàibiǎoguò'āgēntíngguójiāduìchūsài,dànbìngwèicānyǔrènhéshìjiè盃sàishì.
 1	他	他	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -2085,6 +2160,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s76
+# parallel_id = zhgsd/test76
 # text = 而埃姆登號的殘骸在1950年被一家日本公司打撈上來作廢鐵處理，但仍有部分殘骸未被打撈上來。
 # translit = 'ér'āimǔdēnghàodecán骸zài1950niánbèiyījiārìběngōngsīdǎlāoshàngláizuòfèitiěchùlǐ,dànréngyǒubùfēncán骸wèibèidǎlāoshànglái.
 1	而	而	SCONJ	RB	_	18	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -2118,6 +2194,7 @@
 29	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s77
+# parallel_id = zhgsd/test77
 # text = 根據美國輿論調查指出，當時隆美爾是美國僅次於希特勒的知名度最高的德國人。
 # translit = gēnjùměiguóyúlùndiàocházhǐchū,dāngshílóngměi'ěrshìměiguójǐncìyúxītèlēidezhīmíngdùzuìgāodedéguórén.
 1	根據	根據	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
@@ -2144,6 +2221,7 @@
 22	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s78
+# parallel_id = zhgsd/test78
 # text = 此處不需要保護補給線的安全而持續控制。
 # translit = cǐchùbùxūyàobǎohùbǔgěixiànde'ānquán'érchíxùkòngzhì.
 1	此處	此處	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=cǐchù|LTranslit=cǐchù
@@ -2160,6 +2238,7 @@
 12	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s79
+# parallel_id = zhgsd/test79
 # text = 由於認為德義軍隊戰力已就緒，隆美爾決定再發動攻勢。
 # translit = yóuyúrènwèidéyìjūnduìzhànlìyǐjiùxù,lóngměi'ěrjuédìngzàifādònggōngshì.
 1	由於	由於	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -2179,6 +2258,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s80
+# parallel_id = zhgsd/test80
 # text = 起初隆美爾對此決定甚為惱怒，但回到司令部後重新考慮過後，隆美爾認為魏斯法爾的判斷是正確的，中止了攻勢。
 # translit = qǐchūlóngměi'ěrduìcǐjuédìngshénwèinǎonù,dànhuídàosīlìngbùhòuzhòngxīnkǎolǜguòhòu,lóngměi'ěrrènwèi魏sīfǎ'ěrdepànduànshìzhèngquède,zhōngzhǐlegōngshì.
 1	起初	起初	NOUN	NN	_	7	nmod:tmod	_	SpaceAfter=No|Translit=qǐchū|LTranslit=qǐchū
@@ -2214,6 +2294,7 @@
 31	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s81
+# parallel_id = zhgsd/test81
 # text = 該市鎮總面積10.94平方公里，2009年時的人口為600人。
 # translit = gāishìzhènzǒngmiànjī10.94píngfānggōnglǐ,2009niánshíderénkǒuwèi600rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -2234,6 +2315,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s82
+# parallel_id = zhgsd/test82
 # text = 幾個月後的一次採訪，艾米說到：「如果我們沒有變化的話，是沒法做出第二張專輯的。」
 # translit = jǐgèyuèhòudeyīcìcǎifǎng,'àimǐshuōdào:‘rúguǒwǒmenméiyǒubiànhuàdehuà,shìméifǎzuòchūdì'èrzhāngzhuānjide.’
 1	幾	幾	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
@@ -2266,6 +2348,7 @@
 28	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = test-s83
+# parallel_id = zhgsd/test83
 # text = 埃薩河是白俄羅斯的河流，由明斯克州和維捷布斯克州負責管轄，屬於道加瓦河的一部分，該湖長84公里，面積1,040平方公里，最終注入列佩利湖。
 # translit = 'āisàhéshìbái'éluósīdehéliú,yóumíngsīkèzhōuhéwéijiébùsīkèzhōufùzéguǎnxiá,shǔyúdàojiāwǎhédeyībùfēn,gāihúzhǎng84gōnglǐ,miànjī1,040píngfānggōnglǐ,zuìzhōngzhùrùlièpèilìhú.
 1	埃薩	埃薩	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit='āisà|LTranslit='āisà
@@ -2308,6 +2391,7 @@
 38	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s84
+# parallel_id = zhgsd/test84
 # text = 警方前往工作坊逮捕席勒的同時，也扣押了一百多張被認為是色情物品的畫作。
 # translit = jǐngfāngqiánwǎnggōngzuòfangdǎibǔxílēidetóngshí,yěkòuyāleyībǎiduōzhāngbèirènwèishìsèqíngwùpǐndehuàzuò.
 1	警方	警方	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jǐngfāng|LTranslit=jǐngfāng
@@ -2334,6 +2418,7 @@
 22	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s85
+# parallel_id = zhgsd/test85
 # text = 卡斯特羅出現在了埃連與同學在一起的生日派對視頻中。
 # translit = kǎsītèluóchūxiànzàile'āiliányǔtóngxuézàiyīqǐdeshēngrìpàiduìshìpínzhōng.
 1	卡斯特羅	卡斯特羅	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=kǎsītèluó|LTranslit=kǎsītèluó
@@ -2353,6 +2438,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s86
+# parallel_id = zhgsd/test86
 # text = 1916年至1917年，他在美國巡迴演講，之後的1920年，他被派任蘇門答臘瑞典領事，1921年至1925年，他又來到美國學習。
 # translit = 1916niánzhì1917nián,tāzàiměiguóxún迴yǎnjiǎng,zhīhòude1920nián,tābèipàirènsūméndá臘ruìdiǎnlǐngshì,1921niánzhì1925nián,tāyòuláidàoměiguóxuéxí.
 1	1916	1916	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1916|LTranslit=1916
@@ -2393,6 +2479,7 @@
 36	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s87
+# parallel_id = zhgsd/test87
 # text = 曼施坦因戰後繼續留在軍隊，在1920年代，他參與了創建德國國防軍的進程，1919年5月的《凡爾賽條約》限定魏瑪共和國只能擁有最多10萬人的軍隊。
 # translit = mànshītǎnyīnzhànhòujìxùliúzàijūnduì,zài1920niándài,tācānyǔlechuàngjiàndéguóguófángjūndejìnchéng,1919nián5yuède«fán'ěrsàitiáoyuē»xiàndìng魏mǎgònghéguózhǐnéngyōngyǒuzuìduō10wànréndejūnduì.
 1	曼施坦因	曼施坦因	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=mànshītǎnyīn|LTranslit=mànshītǎnyīn
@@ -2440,6 +2527,7 @@
 43	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s88
+# parallel_id = zhgsd/test88
 # text = 1918年，他被派去指揮佔領白俄羅斯的第十軍，在那裡他一直待到戰爭結束。
 # translit = 1918nián,tābèipàiqùzhǐhuīzhànlǐngbái'éluósīdedìshíjūn,zàinàlitāyīzhídàidàozhànzhēngjiéshù.
 1	1918	1918	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1918|LTranslit=1918
@@ -2465,6 +2553,7 @@
 21	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s89
+# parallel_id = zhgsd/test89
 # text = 雖然她從來沒有再婚，她又找了幾任情人，並於1882年去世。
 # translit = suīrántācóngláiméiyǒuzàihūn,tāyòuzhǎolejǐrènqíngrén,bìngyú1882niánqùshì.
 1	雖然	雖然	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -2489,6 +2578,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s90
+# parallel_id = zhgsd/test90
 # text = 這個長廊頂部覆蓋著拱形的玻璃和鑄鐵屋頂，這是19世紀流行的商場設計。
 # translit = zhègèzhǎng廊dǐngbùfùgàizhegǒngxíngdebōlíhézhùtiěwūdǐng,zhèshì19shìjìliúxíngdeshāngchǎngshèjì.
 1	這	這	DET	DT	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -2515,6 +2605,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s91
+# parallel_id = zhgsd/test91
 # text = 城東湖是一個位於中國安徽省霍丘縣的湖泊，面積約為115平方千米。
 # translit = chéngdōnghúshìyīgèwèiyúzhōngguó'ān徽shěng霍qiūxiàndehúpō,miànjīyuēwèi115píngfāngqiānmǐ.
 1	城東	城東	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=chéngdōng|LTranslit=chéngdōng
@@ -2540,6 +2631,7 @@
 21	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s92
+# parallel_id = zhgsd/test92
 # text = 評論家們特別讚賞了阿弗萊克對於搶劫場景的導演手法。
 # translit = pínglùnjiāmentèbié讚shǎngle'āfúláikèduìyúqiǎng劫chǎngjǐngdedǎoyǎnshǒufǎ.
 1	評論	評論	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=pínglùn|LTranslit=pínglùn
@@ -2558,6 +2650,7 @@
 14	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s93
+# parallel_id = zhgsd/test93
 # text = 隨著年代的變遷，城堡設計的美學因素越來越重要，城堡的外觀和規模開始體現它的居住者的威望和權力。
 # translit = suízheniándàidebiànqiān,chéngbǎoshèjìdeměixuéyīnsùyuèláiyuèzhòngyào,chéngbǎodewàiguānhéguīmókāishǐtǐxiàntādejūzhùzhědewēiwànghéquánlì.
 1	隨	隨	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=suí|LTranslit=suí
@@ -2592,6 +2685,7 @@
 30	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s94
+# parallel_id = zhgsd/test94
 # text = 以下資料以2008年清明節為準。
 # translit = yǐxiàzīliàoyǐ2008niánqīngmíngjiéwèizhǔn.
 1	以下	以下	DET	DT	_	2	det	_	SpaceAfter=No|Translit=yǐxià|LTranslit=yǐxià
@@ -2606,6 +2700,7 @@
 10	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s95
+# parallel_id = zhgsd/test95
 # text = 每日0515-0545班次到達石排灣道後，繞經華富道及華富（南）巴士總站，再返回石排灣道原有路線。
 # translit = měirì0515-0545bāncìdàodáshípáiwāndàohòu,ràojīnghuáfùdàojíhuáfù(nán)bashìzǒngzhàn,zàifǎnhuíshípáiwāndàoyuányǒulùxiàn.
 1	每日	每日	DET	DT	_	5	det	_	SpaceAfter=No|Translit=měirì|LTranslit=měirì
@@ -2640,6 +2735,7 @@
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s96
+# parallel_id = zhgsd/test96
 # text = 教會每週有許多不同的聚會，分別有英文、中文、福建話、廣東話、與印尼文聚會。
 # translit = jiàohuìměi週yǒuxǔduōbùtóngdejùhuì,fēnbiéyǒuyīngwén,zhōngwén,fújiànhuà,guǎngdōnghuà,yǔyìnníwénjùhuì.
 1	教會	教會	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=jiàohuì|LTranslit=jiàohuì
@@ -2671,6 +2767,7 @@
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s97
+# parallel_id = zhgsd/test97
 # text = 河姆渡遺址和仰韶遺址出土被認為最原始的陶塤均只有吹孔，而無音孔。
 # translit = hémǔdùyízhǐhéyǎng韶yízhǐchūtǔbèirènwèizuìyuánshǐdetáo塤jūnzhǐyǒuchuīkǒng,'érwúyīnkǒng.
 1	河姆渡	河姆渡	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=dù|LTranslit=dù
@@ -2695,6 +2792,7 @@
 20	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s98
+# parallel_id = zhgsd/test98
 # text = 我們已經提及了連續偏序集合和代數偏序集合。
 # translit = wǒmenyǐjīngtíjíleliánxùpiānxùjíhéhédàishùpiānxùjíhé.
 1	我們	我	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
@@ -2711,6 +2809,7 @@
 12	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s99
+# parallel_id = zhgsd/test99
 # text = 另一種觀點認為，兩種複製的基因同樣都會累積退化的突變，基因重複的缺陷也能相輔相成。
 # translit = lìngyīzhǒngguāndiǎnrènwèi,liǎngzhǒngfùzhìdejīyīntóngyàngdōuhuìlèijītuìhuàdetūbiàn,jīyīnzhòngfùdequēxiànyěnéngxiāngfǔxiāngchéng.
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No|Translit=lìng|LTranslit=lìng
@@ -2742,6 +2841,7 @@
 27	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s100
+# parallel_id = zhgsd/test100
 # text = 他感到自責，認為這樣的復仇超過了應有的界限。
 # translit = tāgǎndàozìzé,rènwèizhèyàngdefùchóuchāoguòleyīngyǒudejièxiàn.
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -2761,6 +2861,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s101
+# parallel_id = zhgsd/test101
 # text = 在格連推動之下，大陸軍在12日決議即時撤出紐約，優先把傷兵及補給送到哈林高地，並由以色列·普特南的4,000人殿後。
 # translit = zàigéliántuīdòngzhīxià,dàlùjūnzài12rìjuéyìjíshíchèchūniǔyuē,yōuxiānbǎshāngbīngjíbǔgěisòngdàohālíngāode,bìngyóuyǐsèliè·pǔtènánde4,000réndiànhòu.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -2799,6 +2900,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s102
+# parallel_id = zhgsd/test102
 # text = 翌日（9月16日）一支英軍向北偵察時與美軍交火，引發哈林高地戰役。
 # translit = 翌rì(9yuè16rì)yīzhīyīngjūnxiàngběizhēncháshíyǔměijūnjiāohuǒ,yǐnfāhālíngāodezhànyì.
 1	翌日	翌日	NOUN	NN	_	19	nmod:tmod	_	SpaceAfter=No|Translit=翌rì|LTranslit=翌rì
@@ -2828,6 +2930,7 @@
 25	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s103
+# parallel_id = zhgsd/test103
 # text = 英軍軍艦向基普灣狂轟濫炸近一小時，使灘頭濃煙密佈。
 # translit = yīngjūnjūnjiànxiàngjīpǔwānkuánghōnglànzhàjìnyīxiǎoshí,shǐtāntóunóngyānmì佈.
 1	英	英	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=yīng|LTranslit=yīng
@@ -2848,6 +2951,7 @@
 16	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s104
+# parallel_id = zhgsd/test104
 # text = 華盛頓希望先獲得大陸議會准許撤退，然後把紐約市徹底焚毀；部分將軍則主張死守紐約，等待英軍正面進攻，以重演邦克山戰役的戰果。
 # translit = huáshèngdùnxīwàngxiānhuòdedàlùyìhuìzhǔnxǔchètuì,ránhòubǎniǔyuēshìchèdǐ焚huǐ;bùfēnjiāngjūnzézhǔzhāngsǐshǒuniǔyuē,děngdàiyīngjūnzhèngmiànjìngōng,yǐzhòngyǎnbāngkèshānzhànyìdezhànguǒ.
 1	華盛頓	華盛頓	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=huáshèngdùn|LTranslit=huáshèngdùn
@@ -2889,6 +2993,7 @@
 37	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s105
+# parallel_id = zhgsd/test105
 # text = 長島會戰後，大陸軍撤回曼哈頓島，但在撤離紐約市一事上仍然猶豫不決。
 # translit = zhǎngdǎohuìzhànhòu,dàlùjūnchèhuímànhādùndǎo,dànzàichèlíniǔyuēshìyīshìshàngréngrányóuyùbùjué.
 1	長島	長島	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=zhǎngdǎo|LTranslit=zhǎngdǎo
@@ -2914,6 +3019,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s106
+# parallel_id = zhgsd/test106
 # text = 程序性給付是在要求國家必須提供一套制度，例如考試制度和選舉制度等，其也與正當法律程序條款的要求有關。
 # translit = chéngxùxìnggěifùshìzàiyàoqiúguójiābìxūtígōngyītàozhìdù,lìrúkǎoshìzhìdùhéxuǎnjǔzhìdùděng,qíyěyǔzhèngdāngfǎlǜchéngxùtiáokuǎndeyàoqiúyǒuguān.
 1	程序	程序	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=chéngxù|LTranslit=chéngxù
@@ -2950,6 +3056,7 @@
 32	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s107
+# parallel_id = zhgsd/test107
 # text = 主武器是20枚P-700花崗岩（廠號3M45）反艦飛彈（分裝在20座垂直發射器裡），可以擊沉大型水面艦。
 # translit = zhǔwǔqìshì20méiP-700huāgǎngyán(chǎnghào3M45)fǎnjiànfēidàn(fēnzhuāngzài20zuòchuízhífāshèqìli),kěyǐjīchéndàxíngshuǐmiànjiàn.
 1	主	主	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=zhǔ|LTranslit=zhǔ
@@ -2985,6 +3092,7 @@
 31	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s108
+# parallel_id = zhgsd/test108
 # text = 根據分析它和德國209型艇的靜音性能在伯仲之間。
 # translit = gēnjùfēnxītāhédéguó209xíngtǐngdejìngyīnxìngnéngzàibó仲zhījiān.
 1	根據	根據	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
@@ -3003,6 +3111,7 @@
 14	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s109
+# parallel_id = zhgsd/test109
 # text = 基督堂草坪（Christ Church Meadow）是英國牛津一個著名的洪水草甸，和著名的步行和野餐地點。
 # translit = jīdūtángcǎo坪(Christ Church Meadow)shìyīngguóniújīnyīgèzhemíngdehóngshuǐcǎodiān,hézhemíngdebùxínghéyěcāndediǎn.
 1	基督	基督	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=jīdū|LTranslit=jīdū
@@ -3033,6 +3142,7 @@
 26	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s110
+# parallel_id = zhgsd/test110
 # text = 在報復的過程中，報復者會產生一種罪惡的快感。
 # translit = zàibàofùdeguòchéngzhōng,bàofùzhěhuìchǎnshēngyīzhǒngzuì'èdekuàigǎn.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -3053,6 +3163,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s111
+# parallel_id = zhgsd/test111
 # text = 該事件被稱為睿問魔謀殺案。
 # translit = gāishìjiànbèichēngwèi睿wènmómóushā'àn.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -3066,6 +3177,7 @@
 9	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s112
+# parallel_id = zhgsd/test112
 # text = 塔爾卡受地中海氣候影響，有乾燥的夏天和潮濕的冬天，每年平均降雨量749毫米，平均溫度攝氏13度。
 # translit = tǎ'ěrkǎshòudezhōnghǎiqìhouyǐngxiǎng,yǒu乾zàodexiàtiānhécháoshīdedōngtiān,měiniánpíngjūnjiàngyǔliàng749háomǐ,píngjūnwēndùshèshì13dù.
 1	塔爾卡	塔爾卡	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=tǎ'ěrkǎ|LTranslit=tǎ'ěrkǎ
@@ -3099,6 +3211,7 @@
 29	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s113
+# parallel_id = zhgsd/test113
 # text = 她出生的日期已無法確定，因為她的出生記錄已在處決時被銷毀。
 # translit = tāchūshēngderìqīyǐwúfǎquèdìng,yīnwèitādechūshēngjìlùyǐzàichùjuéshíbèixiāohuǐ.
 1	她	她	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -3123,6 +3236,7 @@
 20	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s114
+# parallel_id = zhgsd/test114
 # text = 她是伊朗的巴比教有影響力的詩人和神學家。
 # translit = tāshìyīlǎngdebabǐjiàoyǒuyǐngxiǎnglìdeshīrénhéshénxuéjiā.
 1	她	她	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -3142,6 +3256,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s115
+# parallel_id = zhgsd/test115
 # text = 很快，她就因為熱情地傳播信仰和「無畏的忠信」同時贏得了聲望和惡名。
 # translit = hěnkuài,tājiùyīnwèirèqíngdechuánbōxìnyǎnghé‘wúwèidezhōngxìn’tóngshí贏deleshēngwànghé'èmíng.
 1	很快	很快	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=hěnkuài|LTranslit=hěnkuài
@@ -3168,6 +3283,7 @@
 22	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s116
+# parallel_id = zhgsd/test116
 # text = 查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕這一觀點。
 # translit = chá'ěrsī·kèlākèzàiqítóngniánchūbǎndezhuānzhe«sūméndá臘dǎoyǔximǎláixiyàdezhūlóngcǎo»zhōngjùjuézhèyīguāndiǎn.
 1	查爾斯	查爾斯	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=chá'ěrsī|LTranslit=chá'ěrsī
@@ -3196,6 +3312,7 @@
 24	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s117
+# parallel_id = zhgsd/test117
 # text = 他先在印度西姆拉上學，後來畢業於加州帕薩迪納的藝術設計中心學院。
 # translit = tāxiānzàiyìndùximǔlāshàngxué,hòuláibìyèyújiāzhōupàsàdínàdeyìshùshèjìzhōngxīnxuéyuàn.
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -3218,6 +3335,7 @@
 18	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s118
+# parallel_id = zhgsd/test118
 # text = 1553年，太美斯普一世抵禦了奧斯曼帝國蘇丹蘇里曼一世的進攻。
 # translit = 1553nián,tàiměisīpǔyīshìdǐ禦le'àosīmàndìguósūdānsūlǐmànyīshìdejìngōng.
 1	1553	1553	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1553|LTranslit=1553
@@ -3237,6 +3355,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s119
+# parallel_id = zhgsd/test119
 # text = 2003年，阿齊茲向美軍投降。
 # translit = 2003nián,'āqí茲xiàngměijūntóujiàng.
 1	2003	2003	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2003|LTranslit=2003
@@ -3250,6 +3369,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s120
+# parallel_id = zhgsd/test120
 # text = 這是阿齊茲的第一項死刑，他因1992年處死42名商人而被判15年有期徒刑。
 # translit = zhèshì'āqí茲dedìyīxiàngsǐxíng,tāyīn1992niánchùsǐ42míngshāngrén'érbèipàn15niányǒuqītúxíng.
 1	這	這	PRON	PRD	_	7	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -3278,6 +3398,7 @@
 24	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s121
+# parallel_id = zhgsd/test121
 # text = 塔里木盆地的塔克拉瑪干沙漠流沙嚴重，從谷歌衛星圖片可以清晰看到，沙漠腹地有些已建成的公路由於固沙措施不力，導致公路抵禦流沙的力度不夠，許多連接油田基地的瀝青路面被強大的流動沙丘所淹沒，阻斷交通。
 # translit = tǎlǐmùpéndedetǎkèlāmǎgànshāmòliúshāyánzhòng,cónggǔgēwèixīngtúpiànkěyǐqīngxīkàndào,shāmòfùdeyǒuxiēyǐjiànchéngdegōnglùyóuyúgùshācuòshībùlì,dǎozhìgōnglùdǐ禦liúshādelìdùbùgòu,xǔduōliánjiēyóutiánjīdedelìqīnglùmiànbèiqiángdàdeliúdòngshāqiūsuǒyānméi,zǔduànjiāotōng.
 1	塔里木	塔里木	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=tǎlǐmù|LTranslit=tǎlǐmù
@@ -3336,6 +3457,7 @@
 54	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s122
+# parallel_id = zhgsd/test122
 # text = 其中一處甚至塗有「小心惡犬」的標語。
 # translit = qízhōngyīchùshénzhì塗yǒu‘xiǎoxīn'èquǎn’debiāoyǔ.
 1	其中	其中	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=qízhōng|LTranslit=qízhōng
@@ -3352,6 +3474,7 @@
 12	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s123
+# parallel_id = zhgsd/test123
 # text = 任何人類的法則倘若與此法則相矛盾，便喪失其效力；而具有效力的法律，其全部法力、效力和權威則都是間接地或直接地從這一根源産生的。
 # translit = rènhérénlèidefǎzétǎngruòyǔcǐfǎzéxiāngmáodùn,biànsàngshīqíxiàolì;'érjùyǒuxiàolìdefǎlǜ,qíquánbùfǎlì,xiàolìhéquánwēizédōushìjiānjiēdehuòzhíjiēdecóngzhèyīgēnyuán産shēngde.
 1	任何	任何	DET	DT	_	4	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
@@ -3399,6 +3522,7 @@
 43	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s124
+# parallel_id = zhgsd/test124
 # text = 男人宣稱，根據使徒教義，婦女不得任牧師，除了個別例外的，婦女還不得在公共場合參與宗教事務。
 # translit = nánrénxuānchēng,gēnjùshǐtújiàoyì,fùnǚbùderènmùshī,chúlegèbiélìwàide,fùnǚháibùdezàigōnggòngchǎnghécānyǔzōngjiàoshìwu.
 1	男人	男人	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=nánrén|LTranslit=nánrén
@@ -3431,6 +3555,7 @@
 28	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s125
+# parallel_id = zhgsd/test125
 # text = 男人強迫婦女服從那些她無權參與制定的法律。
 # translit = nánrénqiángpòfùnǚfúcóngnàxiētāwúquáncānyǔzhìdìngdefǎlǜ.
 1	男人	男人	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=nánrén|LTranslit=nánrén
@@ -3447,6 +3572,7 @@
 12	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s126
+# parallel_id = zhgsd/test126
 # text = 詹姆斯和莫特對這項權益持相反的態度。
 # translit = 詹mǔsīhémòtèduìzhèxiàngquányìchíxiāngfǎndetàidù.
 1	詹姆斯	詹姆斯	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=詹mǔsī|LTranslit=詹mǔsī
@@ -3463,6 +3589,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s127
+# parallel_id = zhgsd/test127
 # text = 1896年至1973年間，該站為地上車站。
 # translit = 1896niánzhì1973niánjiān,gāizhànwèideshàngchēzhàn.
 1	1896	1896	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1896|LTranslit=1896
@@ -3479,6 +3606,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s128
+# parallel_id = zhgsd/test128
 # text = 人們建造了一個紀念公園，並且為受害者放置了紀念石凳。
 # translit = rénmenjiànzàoleyīgèjìniàngōngyuán,bìngqiěwèishòuhàizhěfàngzhìlejìniànshídèng.
 1	人們	人	NOUN	NN	Number=Plur	13	nsubj	_	SpaceAfter=No|Translit=rénmen|LTranslit=rén
@@ -3500,6 +3628,7 @@
 17	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s129
+# parallel_id = zhgsd/test129
 # text = 古羅馬人利用拱結構來支撐橋身石材與水流的重量。
 # translit = gǔluómǎrénlìyònggǒngjiégòuláizhīchēngqiáoshēnshícáiyǔshuǐliúdezhòngliàng.
 1	古	古	PART	PFA	_	2	case	_	SpaceAfter=No|Translit=gǔ|LTranslit=gǔ
@@ -3519,6 +3648,7 @@
 15	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s130
+# parallel_id = zhgsd/test130
 # text = 不過有些會影響到玩家的遊戲體驗的老版程序錯誤，我們不得不修復了它們，所以有些原版《時之笛》存在的bug將不復存在。
 # translit = bùguòyǒuxiēhuìyǐngxiǎngdàowánjiādeyóuxìtǐyàndelǎobǎnchéngxùcuòwù,wǒmenbùdebùxiūfùletāmen,suǒyǐyǒuxiēyuánbǎn«shízhīdí»cúnzàidebugjiāngbùfùcúnzài.
 1	不過	不過	SCONJ	RB	_	2	mark	_	SpaceAfter=No|Translit=bùguò|LTranslit=bùguò
@@ -3559,6 +3689,7 @@
 36	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s131
+# parallel_id = zhgsd/test131
 # text = 該市鎮總面積9.58平方公里，2009年時的人口為81人。
 # translit = gāishìzhènzǒngmiànjī9.58píngfānggōnglǐ,2009niánshíderénkǒuwèi81rén.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -3579,6 +3710,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s132
+# parallel_id = zhgsd/test132
 # text = 塞普勒斯眾議院共有59個議席，每5年改選一屆。
 # translit = sāipǔlēisīzhòngyìyuàngòngyǒu59gèyìxí,měi5niángǎixuǎnyījiè.
 1	塞普勒斯	塞普勒斯	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=sāipǔlēisī|LTranslit=sāipǔlēisī
@@ -3599,6 +3731,7 @@
 16	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s133
+# parallel_id = zhgsd/test133
 # text = 自1960年代以後塞維亞實力每況愈下，只能在低組別聯賽打滾，至1990年代末才升上甲組。
 # translit = zì1960niándàiyǐhòusāiwéiyàshílìměikuàngyùxià,zhǐnéngzàidīzǔbiéliánsàidǎgǔn,zhì1990niándàimòcáishēngshàngjiǎzǔ.
 1	自	自	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zì|LTranslit=zì
@@ -3627,6 +3760,7 @@
 24	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s134
+# parallel_id = zhgsd/test134
 # text = 2000年代九廣鐵路計劃興建落馬洲支線經過該地，引起了對該處生態影響的關注。
 # translit = 2000niándàijiǔguǎngtiělùjìhuàxìngjiànluòmǎzhōuzhīxiànjīngguògāide,yǐnqǐleduìgāichùshēngtàiyǐngxiǎngdeguānzhù.
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2000|LTranslit=2000
@@ -3653,6 +3787,7 @@
 22	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s135
+# parallel_id = zhgsd/test135
 # text = 墨爾本在服飾、藝術、音樂、電視製作、電影及舞蹈等潮流文化領域引領澳洲，甚至於全球該領域範圍都具備一定的影響力。
 # translit = mò'ěrběnzàifúshì,yìshù,yīnlè,diànshìzhìzuò,diànyǐngjíwǔdǎoděngcháoliúwénhuàlǐngyùyǐnlǐng'àozhōu,shénzhìyúquánqiúgāilǐngyùfànwéidōujùbèiyīdìngdeyǐngxiǎnglì.
 1	墨爾本	墨爾本	PROPN	NNP	_	29	nsubj	_	SpaceAfter=No|Translit=mò'ěrběn|LTranslit=mò'ěrběn
@@ -3691,6 +3826,7 @@
 34	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s136
+# parallel_id = zhgsd/test136
 # text = 2013年，歷史悠久的墨爾本大學即將迎來自己的160週年校慶。
 # translit = 2013nián,lìshǐyōujiǔdemò'ěrběndàxuéjíjiāngyíngláizìjǐde160週niánxiàoqìng.
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
@@ -3711,6 +3847,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s137
+# parallel_id = zhgsd/test137
 # text = 1932年（昭和7年）北部成立向島區。
 # translit = 1932nián(昭hé7nián)běibùchénglìxiàngdǎoqū.
 1	1932	1932	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1932|LTranslit=1932
@@ -3727,6 +3864,7 @@
 12	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s138
+# parallel_id = zhgsd/test138
 # text = 雖然這些小吃一般不被視作正餐，但即使作為前菜，有時它的豐膩也令人吃得很飽肚。
 # translit = suīránzhèxiēxiǎochīyībānbùbèishìzuòzhèngcān,dànjíshǐzuòwèiqiáncài,yǒushítāde豐膩yělìngrénchīdehěnbǎodù.
 1	雖然	雖然	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -3758,6 +3896,7 @@
 27	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s139
+# parallel_id = zhgsd/test139
 # text = 國際壁球聯盟（IRF）於1979年由十三個國家共同成立，在努力推廣發展下，80年代早期在五大洲就超過80個國家參與壁球的活動。
 # translit = guójìbìqiúliánméng(IRF)yú1979niányóushísāngèguójiāgòngtóngchénglì,zàinǔlìtuīguǎngfāzhǎnxià,80niándàizǎoqīzàiwǔdàzhōujiùchāoguò80gèguójiācānyǔbìqiúdehuódòng.
 1	國際	國際	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=guójì|LTranslit=guójì
@@ -3800,6 +3939,7 @@
 38	。	。	PUNCT	.	_	30	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s140
+# parallel_id = zhgsd/test140
 # text = 潤滑劑中加入其它物質可以控制乳液粘度以及熱學性能。
 # translit = rùnhuájìzhōngjiārùqítāwùzhìkěyǐkòngzhìrǔyèzhāndùyǐjírèxuéxìngnéng.
 1	潤滑	潤滑	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=rùnhuá|LTranslit=rùnhuá
@@ -3818,6 +3958,7 @@
 14	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s141
+# parallel_id = zhgsd/test141
 # text = 然後推桿就會推出所有的鑄件，由於一個模具內可能會有多個模腔，所以每次鑄造過程中可能會產生多個鑄件。
 # translit = ránhòutuī桿jiùhuìtuīchūsuǒyǒudezhùjiàn,yóuyúyīgèmójùnèikěnénghuìyǒuduōgèmóqiāng,suǒyǐměicìzhùzàoguòchéngzhōngkěnénghuìchǎnshēngduōgèzhùjiàn.
 1	然後	然後	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=ránhòu|LTranslit=ránhòu
@@ -3855,6 +3996,7 @@
 33	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s142
+# parallel_id = zhgsd/test142
 # text = 熔融金屬可以從這裡進入模具，這個部位的形狀同熱室壓鑄中的注射嘴或是冷室壓鑄中的注射室相匹配。
 # translit = róngróngjīnshǔkěyǐcóngzhèlijìnrùmójù,zhègèbùwèidexíngzhuàngtóngrèshìyāzhùzhōngdezhùshèzuǐhuòshìlěngshìyāzhùzhōngdezhùshèshìxiāngpǐpèi.
 1	熔融	熔融	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=róngróng|LTranslit=róngróng
@@ -3889,6 +4031,7 @@
 30	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s143
+# parallel_id = zhgsd/test143
 # text = 因為這裡是兩條河川（士別川、劍淵川）匯合至天鹽川的地方。
 # translit = yīnwèizhèlishìliǎngtiáohéchuān(shìbiéchuān,jiàn淵chuān)huìhézhìtiānyánchuāndedefāng.
 1	因為	因為	ADP	IN	_	0	root	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
@@ -3913,6 +4056,7 @@
 20	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s144
+# parallel_id = zhgsd/test144
 # text = 在僱用一位法語嚮導後，旅行者及其隨從就前往巴黎。
 # translit = zàigùyòngyīwèifǎyǔ嚮dǎohòu,lǚxíngzhějíqísuícóngjiùqiánwǎngbalí.
 1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -3935,6 +4079,7 @@
 18	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s145
+# parallel_id = zhgsd/test145
 # text = 歐洲旅行是一件微不足道的事，景色乏味、清一色、缺少變化」。
 # translit = 'ōuzhōulǚxíngshìyījiànwēibùzúdàodeshì,jǐngsèfáwèi,qīngyīsè,quēshǎobiànhuà’.
 1	歐洲	歐洲	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit='ōuzhōu|LTranslit='ōuzhōu
@@ -3959,6 +4104,7 @@
 20	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s146
+# parallel_id = zhgsd/test146
 # text = 此理論既避免了濁送氣音的不對稱，也可以在一定程度上解釋同源詞在各派生語中的詞形差異。
 # translit = cǐlǐlùnjìbìmiǎnlezhuósòngqìyīndebùduìchēng,yěkěyǐzàiyīdìngchéngdùshàngjiěshìtóngyuáncízàigèpàishēngyǔzhōngdecíxíngchàyì.
 1	此	此	DET	DT	_	2	det	_	SpaceAfter=No|Translit=cǐ|LTranslit=cǐ
@@ -3993,6 +4139,7 @@
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s147
+# parallel_id = zhgsd/test147
 # text = 這個原理有時叫做弗雷格原理，因為普遍認為弗雷格首先公式化了它。
 # translit = zhègèyuánlǐyǒushíjiàozuòfúléigéyuánlǐ,yīnwèipǔbiànrènwèifúléigéshǒuxiāngōngshìhuàletā.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -4015,6 +4162,7 @@
 18	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s148
+# parallel_id = zhgsd/test148
 # text = 1915年，時任校長李登輝改革課程體系，課程分成八大部類，其中哲學部為首，並親自講授哲學類課程；復旦大學逐漸建立起由邏輯、倫理、性理（包括心理學與形而上學）組成的哲學教學體系。
 # translit = 1915nián,shírènxiàozhǎnglidēnghuīgǎigékèchéngtǐxì,kèchéngfēnchéngbādàbùlèi,qízhōngzhéxuébùwèishǒu,bìngqīnzìjiǎngshòuzhéxuélèikèchéng;fùdàndàxuézhújiànjiànlìqǐyóuluóji,lúnlǐ,xìnglǐ(bāokuòxīnlǐxuéyǔxíng'érshàngxué)zǔchéngdezhéxuéjiàoxuétǐxì.
 1	1915	1915	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1915|LTranslit=1915
@@ -4074,6 +4222,7 @@
 55	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s149
+# parallel_id = zhgsd/test149
 # text = 2000年，成立復旦大學科學技術與社會發展研究中心。
 # translit = 2000nián,chénglìfùdàndàxuékēxuéjìshùyǔshèhuìfāzhǎnyánjiūzhōngxīn.
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2000|LTranslit=2000
@@ -4092,6 +4241,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s150
+# parallel_id = zhgsd/test150
 # text = 2009年，貝拉克·奧巴馬正式地邀請同性配偶及其子女出席復活節滾彩蛋活動。
 # translit = 2009nián,bèilākè·'àobamǎzhèngshìdeyāoqǐngtóngxìngpèi'ǒujíqízinǚchūxífùhuójiégǔncǎidànhuódòng.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
@@ -4117,6 +4267,7 @@
 21	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s151
+# parallel_id = zhgsd/test151
 # text = 後來，夏志明被伯明翰邀請接受測試，他參與了一場預備組賽事後，得知不會獲得合約後決定於英國停學，於同年12月返回香港跟隨傑志參與操練。
 # translit = hòulái,xiàzhìmíngbèibómíng翰yāoqǐngjiēshòucèshì,tācānyǔleyīchǎngyùbèizǔsàishìhòu,dezhībùhuìhuòdehéyuēhòujuédìngyúyīngguótíngxué,yútóngnián12yuèfǎnhuíxiānggǎnggēnsuí傑zhìcānyǔcāoliàn.
 1	後來	後來	NOUN	NN	_	8	nmod:tmod	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
@@ -4162,6 +4313,7 @@
 41	。	。	PUNCT	.	_	39	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s152
+# parallel_id = zhgsd/test152
 # text = 影片也從田納西·威廉斯的《熱鐵皮屋頂上的貓》中汲取了靈感。
 # translit = yǐngpiànyěcóngtiánnàxi·wēiliánsīde«rètiěpíwūdǐngshàngdemāo»zhōng汲qǔlelínggǎn.
 1	影片	影片	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=yǐngpiàn|LTranslit=yǐngpiàn
@@ -4186,6 +4338,7 @@
 20	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s153
+# parallel_id = zhgsd/test153
 # text = 太康只顧遊玩，不理政事，在位期間，夏部族權威削弱，東夷族太昊與少昊部落趁機西進。
 # translit = tàikāngzhǐgùyóuwán,bùlǐzhèngshì,zàiwèiqījiān,xiàbùzúquánwēixuēruò,dōng夷zútài昊yǔshǎo昊bùluòchènjīxijìn.
 1	太康	太康	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=tàikāng|LTranslit=tàikāng
@@ -4215,6 +4368,7 @@
 25	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s154
+# parallel_id = zhgsd/test154
 # text = 夏綠蒂從1839年開始在約克郡擔任許多家庭的女教師，直到1841年為止。
 # translit = xiàlǜdìcóng1839niánkāishǐzàiyuēkè郡dānrènxǔduōjiātíngdenǚjiàoshī,zhídào1841niánwèizhǐ.
 1	夏綠蒂	夏綠蒂	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=xiàlǜdì|LTranslit=xiàlǜdì
@@ -4240,6 +4394,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s155
+# parallel_id = zhgsd/test155
 # text = 1965年12月14日，夏繼泉在北京病逝。
 # translit = 1965nián12yuè14rì,xiàjìquánzàiběijīngbìngshì.
 1	1965	1965	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1965|LTranslit=1965
@@ -4257,6 +4412,7 @@
 13	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s156
+# parallel_id = zhgsd/test156
 # text = 日本人提出請夏繼泉出任山東省省長，後來又提出請他任教育督辦等職務，均被夏繼泉拒絕。
 # translit = rìběnréntíchūqǐngxiàjìquánchūrènshāndōngshěngshěngzhǎng,hòuláiyòutíchūqǐngtārènjiàoyùdūbànděngzhíwu,jūnbèixiàjìquánjùjué.
 1	日本	日本	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
@@ -4289,6 +4445,7 @@
 28	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s157
+# parallel_id = zhgsd/test157
 # text = 夏道鎮是中國福建省南平市延平區下轄的一個鎮。
 # translit = xiàdàozhènshìzhōngguófújiànshěngnánpíngshìyánpíngqūxiàxiádeyīgèzhèn.
 1	夏道	夏道	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=xiàdào|LTranslit=xiàdào
@@ -4309,6 +4466,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s158
+# parallel_id = zhgsd/test158
 # text = 夏須草屬（學名：Theropogon）是百合科下的一個屬，為多年生草本植物。
 # translit = xiàxūcǎoshǔ(xuémíng:Theropogon)shìbǎihékēxiàdeyīgèshǔ,wèiduōniánshēngcǎoběnzhíwù.
 1	夏須草	夏須草	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=xiàxūcǎo|LTranslit=xiàxūcǎo
@@ -4336,6 +4494,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s159
+# parallel_id = zhgsd/test159
 # text = 一般來說，制定外交政策是由政府首腦及外長負責。
 # translit = yībānláishuō,zhìdìngwàijiāozhèngcèshìyóuzhèngfǔshǒunǎojíwàizhǎngfùzé.
 1	一般	一般	ADJ	JJ	_	3	advmod	_	SpaceAfter=No|Translit=yībān|LTranslit=yībān
@@ -4355,6 +4514,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s160
+# parallel_id = zhgsd/test160
 # text = 這項設計主要是當人體或是金屬物體碰觸到觸控式外出開關面板時，觸控式外出開關會啟動內部設計的NC接點切換到NC接點，門就會自動開啟。
 # translit = zhèxiàngshèjìzhǔyàoshìdāngréntǐhuòshìjīnshǔwùtǐpèngchùdàochùkòngshìwàichūkāiguānmiànbǎnshí,chùkòngshìwàichūkāiguānhuìqǐdòngnèibùshèjìdeNCjiēdiǎnqièhuàndàoNCjiēdiǎn,ménjiùhuìzìdòngkāiqǐ.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -4400,6 +4560,7 @@
 41	。	。	PUNCT	.	_	40	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s161
+# parallel_id = zhgsd/test161
 # text = 科學家認為生命可能曾經存在過或者依然存在的地方包括金星、火星、木星的衛星（如木衛二、木衛六）、土星的衛星（如土衛六和土衛二）。
 # translit = kēxuéjiārènwèishēngmìngkěnéngcéngjīngcúnzàiguòhuòzhěyīráncúnzàidedefāngbāokuòjīnxīng,huǒxīng,mùxīngdewèixīng(rúmùwèi'èr,mùwèiliù),tǔxīngdewèixīng(rútǔwèiliùhétǔwèi'èr).
 1	科學	科學	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=kēxué|LTranslit=kēxué
@@ -4446,6 +4607,7 @@
 42	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s162
+# parallel_id = zhgsd/test162
 # text = 你可以應用這種邏輯系統作為模糊集合論的理論基礎。
 # translit = nǐkěyǐyīngyòngzhèzhǒngluójixìtǒngzuòwèimóhujíhélùndelǐlùnjīchǔ.
 1	你	你	PRON	PRP	Person=2	3	nsubj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
@@ -4466,6 +4628,7 @@
 16	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s163
+# parallel_id = zhgsd/test163
 # text = 多利納是烏克蘭的城市，位於該國西南部，距離伊萬諾-弗蘭科夫斯克州58公里，由伊萬諾-弗蘭科夫斯克州負責管轄，始建於979年，面積27平方公里，2011年人口20,453。
 # translit = duōlìnàshìwūkèlándechéngshì,wèiyúgāiguóxinánbù,jùlíyīwànnuò-fúlánkēfusīkèzhōu58gōnglǐ,yóuyīwànnuò-fúlánkēfusīkèzhōufùzéguǎnxiá,shǐjiànyú979nián,miànjī27píngfānggōnglǐ,2011niánrénkǒu20,453.
 1	多利納	多利納	PROPN	NNP	_	19	nsubj	_	SpaceAfter=No|Translit=duōlìnà|LTranslit=duōlìnà
@@ -4512,6 +4675,7 @@
 42	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s164
+# parallel_id = zhgsd/test164
 # text = MS也常見於歐洲北部族群分佈區域，但是在這些MS常見的區域，某些種族群體發病風險較低。
 # translit = MSyěchángjiànyú'ōuzhōuběibùzúqúnfēn佈qūyù,dànshìzàizhèxiēMSchángjiàndeqūyù,mǒuxiēzhǒngzúqúntǐfābìngfēngxiǎnjiàodī.
 1	MS	MS	X	FW	Foreign=Yes	3	nsubj	_	SpaceAfter=No|Translit=MS|LTranslit=MS
@@ -4541,6 +4705,7 @@
 25	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s165
+# parallel_id = zhgsd/test165
 # text = 神經元傳遞信息，形成思維和感覺，以使大腦控制身體。
 # translit = shénjīngyuánchuándìxìnxi,xíngchéngsīwéihégǎnjué,yǐshǐdànǎokòngzhìshēntǐ.
 1	神經	神經	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=shénjīng|LTranslit=shénjīng
@@ -4561,6 +4726,7 @@
 16	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s166
+# parallel_id = zhgsd/test166
 # text = 杜篤瑪屬半乾旱氣候，全年氣候相對溫暖，全年平均降雨量約570毫米，降雨主要集中於12月至翌年3月的雨季，其他月份屬相對乾燥的旱季。
 # translit = dù篤mǎshǔbàn乾hànqìhou,quánniánqìhouxiāngduìwēnnuǎn,quánniánpíngjūnjiàngyǔliàngyuē570háomǐ,jiàngyǔzhǔyàojízhōngyú12yuèzhì翌nián3yuèdeyǔjì,qítāyuèfènshǔxiāngduì乾zàodehànjì.
 1	杜篤瑪	杜篤瑪	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dù篤mǎ|LTranslit=dù篤mǎ
@@ -4605,6 +4771,7 @@
 40	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s167
+# parallel_id = zhgsd/test167
 # text = 次日，近衛首相宣言「不以蔣中正為談判對手」。
 # translit = cìrì,jìnwèishǒuxiāngxuānyán‘bùyǐ蔣zhōngzhèngwèitánpànduìshǒu’.
 1	次日	次日	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=cìrì|LTranslit=cìrì
@@ -4624,6 +4791,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s168
+# parallel_id = zhgsd/test168
 # text = 結合起來的火箭稱為運載火箭。
 # translit = jiéhéqǐláidehuǒjiànchēngwèiyùnzàihuǒjiàn.
 1	結合	結合	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No|Translit=jiéhé|LTranslit=jiéhé
@@ -4637,6 +4805,7 @@
 9	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s169
+# parallel_id = zhgsd/test169
 # text = 此套電影引起了一位名叫馬徐維邦的中國人興趣，他把此電影拍成華語版，不單引起更大的轟動，而且更為中國電影史上第一部恐怖片。
 # translit = cǐtàodiànyǐngyǐnqǐleyīwèimíngjiàomǎxúwéibāngdezhōngguórénxìngqù,tābǎcǐdiànyǐngpāichénghuáyǔbǎn,bùdānyǐnqǐgèngdàdehōngdòng,'érqiěgèngwèizhōngguódiànyǐngshǐshàngdìyībùkǒngbùpiàn.
 1	此套	此套	DET	DT	_	2	det	_	SpaceAfter=No|Translit=cǐtào|LTranslit=cǐtào
@@ -4683,6 +4852,7 @@
 42	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s170
+# parallel_id = zhgsd/test170
 # text = 達哉的表姊，由於親生父母夫妻不合且家庭亂七八糟的關係，於是在達哉父母的考量下被收養為養女。
 # translit = dá哉debiǎozǐ,yóuyúqīnshēngfùmǔfuqībùhéqiějiātíngluànqībāzāodeguānxì,yúshìzàidá哉fùmǔdekǎoliàngxiàbèishōuyǎngwèiyǎngnǚ.
 1	達哉	達哉	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=dá哉|LTranslit=dá哉
@@ -4714,6 +4884,7 @@
 27	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s171
+# parallel_id = zhgsd/test171
 # text = 2008年10月起，本作改編的動畫開始在TBS系電視台放映。
 # translit = 2008nián10yuèqǐ,běnzuògǎibiāndedònghuàkāishǐzàiTBSxìdiànshìtáifàngyìng.
 1	2008	2008	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2008|LTranslit=2008
@@ -4736,6 +4907,7 @@
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s172
+# parallel_id = zhgsd/test172
 # text = 《夜行神龍》（Gargoyles）是美國迪士尼公司推出的動畫影集，從1994年到1997年播出，共78集，每集30分鐘（含廣告的時間）。
 # translit = «yèxíngshénlóng»(Gargoyles)shìměiguódíshìnígōngsītuīchūdedònghuàyǐngjí,cóng1994niándào1997niánbōchū,gòng78jí,měijí30fēnzhōng(hánguǎnggàodeshíjiān).
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -4778,6 +4950,7 @@
 38	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s173
+# parallel_id = zhgsd/test173
 # text = 他們也需保守有關他們關係的秘密，相較美朱在第一集跟鬼宿表白，這種關係顯得比較成熟。
 # translit = tāmenyěxūbǎoshǒuyǒuguāntāmenguānxìdemìmì,xiāngjiàoměi朱zàidìyījígēnguǐsùbiǎobái,zhèzhǒngguānxìxiǎndebǐjiàochéngshú.
 1	他們	他	PRON	PRP	Number=Plur|Person=3	4	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
@@ -4808,6 +4981,7 @@
 26	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s174
+# parallel_id = zhgsd/test174
 # text = 頭上髮飾的皇冠就是宮廷蛋糕師的印記。
 # translit = tóushàng髮shìdehuángguānjiùshìgōngtíngdàngāoshīdeyìnjì.
 1	頭上	頭上	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=tóushàng|LTranslit=tóushàng
@@ -4823,6 +4997,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s175
+# parallel_id = zhgsd/test175
 # text = 秦月香為保護女兒采青誤殺桑老三，被知縣蕭汝章利用，將月香的舊主子、采青生父青城富商沈淵捲入是非漩渦。
 # translit = 秦yuèxiāngwèibǎohùnǚrcǎiqīngwùshāsānglǎosān,bèizhīxiàn蕭汝zhānglìyòng,jiāngyuèxiāngdejiùzhǔzi,cǎiqīngshēngfùqīngchéngfùshāng沈淵捲rùshìfēixuánwō.
 1	秦	秦	PROPN	NNP	_	15	nsubj:pass	_	SpaceAfter=No|Translit=秦|LTranslit=秦
@@ -4859,6 +5034,7 @@
 32	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s176
+# parallel_id = zhgsd/test176
 # text = 大義（1360年五月-十二月）是元朝時期陳友諒的年號，共計8個月。
 # translit = dàyì(1360niánwǔyuè-shí'èryuè)shìyuáncháoshíqīchényouliàngdeniánhào,gòngjì8gèyuè.
 1	大義	大義	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=dàyì|LTranslit=dàyì
@@ -4887,6 +5063,7 @@
 24	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s177
+# parallel_id = zhgsd/test177
 # text = 中國的塔什庫爾干塔吉克自治縣有波斯人聚居，流行波斯文化。
 # translit = zhōngguódetǎshénkù'ěrgàntǎjíkèzìzhìxiànyǒubōsīrénjùjū,liúxíngbōsīwénhuà.
 1	中國	中國	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
@@ -4905,6 +5082,7 @@
 14	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s178
+# parallel_id = zhgsd/test178
 # text = 在前伊斯蘭時期，伊朗人將他們的土地劃分為兩個主要部分，分別是伊朗及安勒尼蘭（Aniran）。
 # translit = zàiqiányīsīlánshíqī,yīlǎngrénjiāngtāmendetǔdehuàfēnwèiliǎnggèzhǔyàobùfēn,fēnbiéshìyīlǎngjí'ānlēinílán(Aniran).
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -4936,6 +5114,7 @@
 27	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s179
+# parallel_id = zhgsd/test179
 # text = 六年後的1956年3月8日，位於德國漢諾威新建成的福斯商用車工廠正式啟用，原狼堡工廠停止生產福斯廂型車。
 # translit = liùniánhòude1956nián3yuè8rì,wèiyúdéguóhànnuòwēixīnjiànchéngdefúsīshāngyòngchēgōngchǎngzhèngshìqǐyòng,yuánlángbǎogōngchǎngtíngzhǐshēngchǎnfúsīxiāngxíngchē.
 1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=liù|LTranslit=liù
@@ -4975,6 +5154,7 @@
 35	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s180
+# parallel_id = zhgsd/test180
 # text = 通過將原型的不斷完善，其具有了更低的風阻係數、更佳的操控性和耐用度。
 # translit = tōngguòjiāngyuánxíngdebùduànwánshàn,qíjùyǒulegèngdīdefēngzǔxìshù,gèngjiādecāokòngxìnghénàiyòngdù.
 1	通過	通過	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=tōngguò|LTranslit=tōngguò
@@ -5002,6 +5182,7 @@
 23	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s181
+# parallel_id = zhgsd/test181
 # text = 大佛口亦為灣仔區議會其中一個選區，現任議員為親建制的民建聯成員李勻頤。
 # translit = dàfúkǒuyìwèiwānzǐqūyìhuìqízhōngyīgèxuǎnqū,xiànrènyìyuánwèiqīnjiànzhìdemínjiànliánchéngyuánliyún頤.
 1	大佛	大佛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàfú|LTranslit=dàfú
@@ -5028,6 +5209,7 @@
 22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s182
+# parallel_id = zhgsd/test182
 # text = 大興邨位於今天和平區桂林路與衡陽路之間的重慶道上，總建築面積為5900平方米，其中佔地面積為6100平方米。
 # translit = dàxìng邨wèiyújīntiānhépíngqū桂línlùyǔhéngyánglùzhījiāndezhòngqìngdàoshàng,zǒngjiànzhúmiànjīwèi5900píngfāngmǐ,qízhōngzhàndemiànjīwèi6100píngfāngmǐ.
 1	大興	大興	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàxìng|LTranslit=dàxìng
@@ -5064,6 +5246,7 @@
 32	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s183
+# parallel_id = zhgsd/test183
 # text = 大同寶寶是台灣的大同公司於1969年推出的吉祥物。
 # translit = dàtóngbǎobǎoshìtáiwāndedàtónggōngsīyú1969niántuīchūdejíxiángwù.
 1	大同	大同	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=dàtóng|LTranslit=dàtóng
@@ -5083,6 +5266,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s184
+# parallel_id = zhgsd/test184
 # text = 也就是說，該航程主要吸引美海軍戰鬥機向大和攻擊隊迎戰，緩和對日本特攻機的攻擊。
 # translit = yějiùshìshuō,gāihángchéngzhǔyàoxīyǐnměihǎijūnzhàndòujīxiàngdàhégōngjīduìyíngzhàn,huǎnhéduìrìběntègōngjīdegōngjī.
 1	也	也	SCONJ	RB	_	3	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -5113,6 +5297,7 @@
 26	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s185
+# parallel_id = zhgsd/test185
 # text = 在3月30日，美軍軍機在呉軍港及廣島灣佈置了1,034個水雷，由於需要時間清除水雷，所以令返回呉軍港相當困難。
 # translit = zài3yuè30rì,měijūnjūnjīzài呉jūngǎngjíguǎngdǎowān佈zhìle1,034gèshuǐléi,yóuyúxūyàoshíjiānqīngchúshuǐléi,suǒyǐlìngfǎnhuí呉jūngǎngxiāngdāngkùnnán.
 1	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -5152,6 +5337,7 @@
 35	。	。	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s186
+# parallel_id = zhgsd/test186
 # text = 往返的航程中，第一砲塔因美軍的轟炸而中了4枚炸彈，但對後續戰鬥沒有影響。
 # translit = wǎngfǎndehángchéngzhōng,dìyī砲tǎyīnměijūndehōngzhà'érzhōngle4méizhàdàn,dànduìhòuxùzhàndòuméiyǒuyǐngxiǎng.
 1	往返	往返	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|Translit=wǎngfǎn|LTranslit=wǎngfǎn
@@ -5182,6 +5368,7 @@
 26	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s187
+# parallel_id = zhgsd/test187
 # text = 唯一出現的人類角色，也是養育大嘴鳥的人，角色原型是凡爾納的小說環遊世界八十天中名為「萬事通」的助手。
 # translit = wéiyīchūxiànderénlèijiǎosè,yěshìyǎngyùdàzuǐniǎoderén,jiǎosèyuánxíngshìfán'ěrnàdexiǎoshuōhuányóushìjièbāshítiānzhōngmíngwèi‘wànshìtōng’dezhùshǒu.
 1	唯一	唯一	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=wéiyī|LTranslit=wéiyī
@@ -5219,6 +5406,7 @@
 33	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s188
+# parallel_id = zhgsd/test188
 # text = 龍頭由藤條屈曲為骨架；龍牙以鋸齒的鐵片造成；雙眼是手電筒；舌頭是漆紅的木片。
 # translit = lóngtóuyóuténgtiáoqūqūwèigǔjià;lóngyáyǐjùchǐdetiěpiànzàochéng;shuāngyǎnshìshǒudiàntǒng;shétóushìqīhóngdemùpiàn.
 1	龍頭	龍頭	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=lóngtóu|LTranslit=lóngtóu
@@ -5249,6 +5437,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s189
+# parallel_id = zhgsd/test189
 # text = 在活動期間，該縣被廣東省文化廳授予廣東省「漢樂之鄉」稱號。
 # translit = zàihuódòngqījiān,gāixiànbèiguǎngdōngshěngwénhuàtīngshòuyǔguǎngdōngshěng‘hànlèzhīxiāng’chēnghào.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -5274,6 +5463,7 @@
 21	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s190
+# parallel_id = zhgsd/test190
 # text = 此作也被改編成真人電影、小說、動畫等。
 # translit = cǐzuòyěbèigǎibiānchéngzhēnréndiànyǐng,xiǎoshuō,dònghuàděng.
 1	此作	此作	NOUN	NN	_	4	nsubj:pass	_	SpaceAfter=No|Translit=cǐzuò|LTranslit=cǐzuò
@@ -5291,6 +5481,7 @@
 13	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s191
+# parallel_id = zhgsd/test191
 # text = 大孔多孔菌，屬多孔菌科一種，是木棲腐生的中小型菇類。
 # translit = dàkǒngduōkǒngjūn,shǔduōkǒngjūnkēyīzhǒng,shìmù棲fǔshēngdezhōngxiǎoxínggulèi.
 1	大孔多孔菌	大孔多孔菌	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=dàkǒngduōkǒngjūn|LTranslit=dàkǒngduōkǒngjūn
@@ -5310,6 +5501,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s192
+# parallel_id = zhgsd/test192
 # text = 大安國際大樓是位於臺灣臺中市南區忠明南路上的一幢摩天大樓，樓高151.2米，共地上42層，地下4層。
 # translit = dà'ānguójìdàlóushìwèiyú臺wān臺zhōngshìnánqūzhōngmíngnánlùshàngdeyī幢mótiāndàlóu,lóugāo151.2mǐ,gòngdeshàng42céng,dexià4céng.
 1	大安	大安	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=dà'ān|LTranslit=dà'ān
@@ -5348,6 +5540,7 @@
 34	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s193
+# parallel_id = zhgsd/test193
 # text = 2005年12月，該劇在橫店開機，除保留了原製作班底，主要演員全部更換。
 # translit = 2005nián12yuè,gāijùzàihéngdiànkāijī,chúbǎoliúleyuánzhìzuòbāndǐ,zhǔyàoyǎnyuánquánbùgènghuàn.
 1	2005	2005	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2005|LTranslit=2005
@@ -5374,6 +5567,7 @@
 22	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s194
+# parallel_id = zhgsd/test194
 # text = 據媒體引述，共約1500名國立大學教員涉案，檢調單位陸續約談了其中約700人。
 # translit = jùméitǐyǐnshù,gòngyuē1500míngguólìdàxuéjiàoyuánshè'àn,jiǎndiàodānwèilùxùyuētánleqízhōngyuē700rén.
 1	據	據	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=jù|LTranslit=jù
@@ -5402,6 +5596,7 @@
 24	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s195
+# parallel_id = zhgsd/test195
 # text = 黃昏時，夕陽照在山脈上，石頭反射著通紅色，像著了火一樣，蔚為奇觀。
 # translit = huánghūnshí,xīyángzhàozàishānmàishàng,shítóufǎnshèzhetōnghóngsè,xiàngzhelehuǒyīyàng,蔚wèiqíguān.
 1	黃昏	黃昏	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=huánghūn|LTranslit=huánghūn
@@ -5431,6 +5626,7 @@
 25	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s196
+# parallel_id = zhgsd/test196
 # text = 最大振幅的大氣潮產生於日間太陽輻射對對流層的水蒸氣和平流層的臭氧周期性加熱。
 # translit = zuìdàzhènfúdedàqìcháochǎnshēngyúrìjiāntàiyángfúshèduìduìliúcéngdeshuǐzhēngqìhépíngliúcéngdechòuyǎngzhōuqīxìngjiārè.
 1	最大	最大	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=zuìdà|LTranslit=zuìdà
@@ -5460,6 +5656,7 @@
 25	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s197
+# parallel_id = zhgsd/test197
 # text = 1949年之後，廣州地區鐵路運量逐年增大，廣州鐵路分局也對鐵路及站場進行整體改造。
 # translit = 1949niánzhīhòu,guǎngzhōudeqūtiělùyùnliàngzhúniánzēngdà,guǎngzhōutiělùfēnjúyěduìtiělùjízhànchǎngjìnxíngzhěngtǐgǎizào.
 1	1949	1949	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1949|LTranslit=1949
@@ -5487,6 +5684,7 @@
 23	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s198
+# parallel_id = zhgsd/test198
 # text = 2011年7月21日，大津祐樹和德國足球甲級聯賽球隊門興格拉德巴赫簽約三年。
 # translit = 2011nián7yuè21rì,dàjīn祐shùhédéguózúqiújiǎjíliánsàiqiúduìménxìnggélādébahèqiānyuēsānnián.
 1	2011	2011	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2011|LTranslit=2011
@@ -5511,6 +5709,7 @@
 20	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s199
+# parallel_id = zhgsd/test199
 # text = 這些人大量捕殺大海牛，吃牠們的肉、用牠們的皮來製造與修補船隻。
 # translit = zhèxiēréndàliàngbǔshādàhǎiniú,chī牠menderòu,yòng牠mendepíláizhìzàoyǔxiūbǔchuán隻.
 1	這些	這些	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
@@ -5536,6 +5735,7 @@
 21	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s200
+# parallel_id = zhgsd/test200
 # text = 2006年，桃園縣政府結合蔣公行館、角板山行館、慈湖陵寢、大溪陵寢、慈湖雕塑紀念公園為「兩蔣文化園區」。
 # translit = 2006nián,táoyuánxiànzhèngfǔjiéhé蔣gōngxíngguǎn,jiǎobǎnshānxíngguǎn,cíhúlíng寢,dàxīlíng寢,cíhúdiāosùjìniàngōngyuánwèi‘liǎng蔣wénhuàyuánqū’.
 1	2006	2006	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2006|LTranslit=2006
@@ -5573,6 +5773,7 @@
 33	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s201
+# parallel_id = zhgsd/test201
 # text = 海域東北處有一島嶼名為塔門，形成連接大赤門的海域及連接大鵬灣的塔門口。
 # translit = hǎiyùdōngběichùyǒuyīdǎoyǔmíngwèitǎmén,xíngchéngliánjiēdàchìméndehǎiyùjíliánjiēdà鵬wāndetǎménkǒu.
 1	海域	海域	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=hǎiyù|LTranslit=hǎiyù
@@ -5601,6 +5802,7 @@
 24	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s202
+# parallel_id = zhgsd/test202
 # text = 車站建於1928年，有蒙寶鐵路經過該站，現僅辦理貨運，不辦理客運業務，車站及其上下行區間均未電氣化。
 # translit = chēzhànjiànyú1928nián,yǒuméngbǎotiělùjīngguògāizhàn,xiànjǐnbànlǐhuòyùn,bùbànlǐkèyùnyèwu,chēzhànjíqíshàngxiàxíngqūjiānjūnwèidiànqìhuà.
 1	車站	車站	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=chēzhàn|LTranslit=chēzhàn
@@ -5638,6 +5840,7 @@
 33	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s203
+# parallel_id = zhgsd/test203
 # text = 大石橋鄉，是下轄的一個鄉鎮級行政單位。
 # translit = dàshíqiáoxiāng,shìxiàxiádeyīgèxiāngzhènjíxíngzhèngdānwèi.
 1	大石	大石	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dàshí|LTranslit=dàshí
@@ -5656,6 +5859,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s204
+# parallel_id = zhgsd/test204
 # text = 大統華擁有四處物流中心，其中3處在大溫哥華地區，1處在多倫多。
 # translit = dàtǒnghuáyōngyǒusìchùwùliúzhōngxīn,qízhōng3chùzàidàwēngēhuádeqū,1chùzàiduōlúnduō.
 1	大統華	大統華	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dàtǒnghuá|LTranslit=dàtǒnghuá
@@ -5680,6 +5884,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s205
+# parallel_id = zhgsd/test205
 # text = 從此大統華便完全成為一間由加拿大資金經營的本地公司。
 # translit = cóngcǐdàtǒnghuábiànwánquánchéngwèiyījiānyóujiānádàzījīnjīngyíngdeběndegōngsī.
 1	從此	從此	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=cóngcǐ|LTranslit=cóngcǐ
@@ -5700,6 +5905,7 @@
 16	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s206
+# parallel_id = zhgsd/test206
 # text = 1933年，李吟秋主持修建新橋，工程技術人員在加固護岸的同時還加大孔徑使橋長增加約20餘米。
 # translit = 1933nián,liyínqiūzhǔchíxiūjiànxīnqiáo,gōngchéngjìshùrényuánzàijiāgùhù'àndetóngshíháijiādàkǒngjìngshǐqiáozhǎngzēngjiāyuē20yúmǐ.
 1	1933	1933	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1933|LTranslit=1933
@@ -5731,6 +5937,7 @@
 27	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s207
+# parallel_id = zhgsd/test207
 # text = 這裡的競爭不斷，四位妻子不斷去爭奪丈夫對自己的注意和感情，雖然大太太的競爭沒有這麼多。
 # translit = zhèlidejìngzhēngbùduàn,sìwèiqīzibùduànqùzhēngduózhàngfuduìzìjǐdezhùyìhégǎnqíng,suīrándàtàitàidejìngzhēngméiyǒuzhèmeduō.
 1	這裡	這裡	PRON	PRD	_	3	det	_	SpaceAfter=No|Translit=zhèli|LTranslit=zhèli
@@ -5763,6 +5970,7 @@
 28	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s208
+# parallel_id = zhgsd/test208
 # text = 幾天以後，總經理李俊英在四川路上也被槍殺。
 # translit = jǐtiānyǐhòu,zǒngjīnglǐli俊yīngzàisìchuānlùshàngyěbèiqiāngshā.
 1	幾	幾	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
@@ -5782,6 +5990,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s209
+# parallel_id = zhgsd/test209
 # text = 該報以旅滬美國僑民為主要讀者對象，著重報道美國和其他西方僑民在中國的活動。
 # translit = gāibàoyǐlǚ滬měiguó僑mínwèizhǔyàodúzhěduìxiàng,zhezhòngbàodàoměiguóhéqítāxifāng僑mínzàizhōngguódehuódòng.
 1	該報	該報	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=gāibào|LTranslit=gāibào
@@ -5809,6 +6018,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s210
+# parallel_id = zhgsd/test210
 # text = 在2007年，耶茨將大腳類歸類於板龍類。
 # translit = zài2007nián,yé茨jiāngdàjiǎolèiguīlèiyúbǎnlónglèi.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -5826,6 +6036,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s211
+# parallel_id = zhgsd/test211
 # text = 大腳類包含大椎龍科與里奧哈龍科等科。
 # translit = dàjiǎolèibāohándà椎lóngkēyǔlǐ'àohālóngkēděngkē.
 1	大腳	大腳	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=dàjiǎo|LTranslit=dàjiǎo
@@ -5841,6 +6052,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s212
+# parallel_id = zhgsd/test212
 # text = 可自創主角或者選擇遊戲提供的兩個虛擬的主角（一為葡萄牙籍，另一為西班牙籍）。
 # translit = kězìchuàngzhǔjiǎohuòzhěxuǎnzéyóuxìtígōngdeliǎnggèxūnǐdezhǔjiǎo(yīwèipútáoyájí,lìngyīwèixibānyájí).
 1	可	可	AUX	MD	_	2	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
@@ -5871,6 +6083,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s213
+# parallel_id = zhgsd/test213
 # text = 大花蕙蘭的生產地主要是日本，韓國和中國，澳洲及美國等。
 # translit = dàhuā蕙lándeshēngchǎndezhǔyàoshìrìběn,韓guóhézhōngguó,'àozhōujíměiguóděng.
 1	大花蕙蘭	大花蕙蘭	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=dàhuā蕙lán|LTranslit=dàhuā蕙lán
@@ -5892,6 +6105,7 @@
 17	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s214
+# parallel_id = zhgsd/test214
 # text = 她受到野生動物保護官的父親的影響，使她也有很強的正義感。
 # translit = tāshòudàoyěshēngdòngwùbǎohùguāndefùqīndeyǐngxiǎng,shǐtāyěyǒuhěnqiángdezhèngyìgǎn.
 1	她	她	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -5916,6 +6130,7 @@
 20	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s215
+# parallel_id = zhgsd/test215
 # text = 另一種解釋來自奧地利經濟學派。
 # translit = lìngyīzhǒngjiěshìláizì'àodelìjīngjìxuépài.
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No|Translit=lìng|LTranslit=lìng
@@ -5930,6 +6145,7 @@
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s216
+# parallel_id = zhgsd/test216
 # text = 這項分析否定了存貸的作用，提出了股本衰退的假設。
 # translit = zhèxiàngfēnxīfǒudìnglecún貸dezuòyòng,tíchūlegǔběnshuāituìdejiǎshè.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -5950,6 +6166,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s217
+# parallel_id = zhgsd/test217
 # text = 大葆台站投入使用時是房山線市區一端的終點站，在本站設有臨1路公交車前往大興線新宮站並設置虛擬換乘，以解決房山線無法與其他線路換乘問題。
 # translit = dà葆táizhàntóurùshǐyòngshíshìfángshānxiànshìqūyīduāndezhōngdiǎnzhàn,zàiběnzhànshèyǒulín1lùgōngjiāochēqiánwǎngdàxìngxiànxīngōngzhànbìngshèzhìxūnǐhuànchéng,yǐjiějuéfángshānxiànwúfǎyǔqítāxiànlùhuànchéngwèntí.
 1	大葆台	大葆台	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=dà葆tái|LTranslit=dà葆tái
@@ -5998,6 +6215,7 @@
 44	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s218
+# parallel_id = zhgsd/test218
 # text = Rize在當年的聖丹斯電影節首映。
 # translit = Rizezàidāngniándeshèngdānsīdiànyǐngjiéshǒuyìng.
 1	Rize	Rize	X	FW	Foreign=Yes	8	nsubj	_	SpaceAfter=No|Translit=Rize|LTranslit=Rize
@@ -6011,6 +6229,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s219
+# parallel_id = zhgsd/test219
 # text = 他也參與了Courtney Love新專輯的製作。
 # translit = tāyěcānyǔleCourtney Lovexīnzhuānjidezhìzuò.
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -6026,6 +6245,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s220
+# parallel_id = zhgsd/test220
 # text = 這場秀大量使用了各種影片技術，舞台佈景中還包括了一面巨形LED螢幕牆。
 # translit = zhèchǎngxiùdàliàngshǐyònglegèzhǒngyǐngpiànjìshù,wǔtái佈jǐngzhōngháibāokuòleyīmiànjùxíngLEDyíngmùqiáng.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -6053,6 +6273,7 @@
 23	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s221
+# parallel_id = zhgsd/test221
 # text = 《紐約時報》認為本劇「深刻地揭示了現實生活中，野心與自省之間的無休止爭鬥」。
 # translit = «niǔyuēshíbào»rènwèiběnjù‘shēnkèdejiēshìlexiànshíshēnghuózhōng,yěxīnyǔzìshěngzhījiāndewúxiūzhǐzhēngdòu’.
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -6082,6 +6303,7 @@
 25	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s222
+# parallel_id = zhgsd/test222
 # text = 儘管本劇在收視率上並不理想（第一季全年收視排行第27名，第二季為第46名），但是並不妨礙本劇成為「艾美獎寵兒」。
 # translit = 儘guǎnběnjùzàishōushìlǜshàngbìngbùlǐxiǎng(dìyījìquánniánshōushìpáixíngdì27míng,dì'èrjìwèidì46míng),dànshìbìngbùfáng'àiběnjùchéngwèi‘'àiměijiǎng寵r’.
 1	儘管	儘管	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=儘guǎn|LTranslit=儘guǎn
@@ -6124,6 +6346,7 @@
 38	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s223
+# parallel_id = zhgsd/test223
 # text = 迦陵舍利塔為松柏環繞，南面一棵松樹，北面一棵柏樹，松樹和柏樹的枝條向白塔生長，似乎是要伸手將白塔抱住，因此得名松柏抱塔。
 # translit = 迦língshělìtǎwèisōngbǎihuánrào,nánmiànyīkēsōngshù,běimiànyīkēbǎishù,sōngshùhébǎishùdezhītiáoxiàngbáitǎshēngzhǎng,shìhushìyàoshēnshǒujiāngbáitǎbàozhù,yīncǐdemíngsōngbǎibàotǎ.
 1	迦陵	迦陵	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=迦líng|LTranslit=迦líng
@@ -6167,6 +6390,7 @@
 39	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s224
+# parallel_id = zhgsd/test224
 # text = 1920年（大正九年）8月，澤田俊郎歸國到仙台結婚，後偕新婚妻子再度回到滿洲。
 # translit = 1920nián(dàzhèngjiǔnián)8yuè,澤tián俊郎guīguódàoxiantáijiéhūn,hòu偕xīnhūnqīzizàidùhuídàomǎnzhōu.
 1	1920	1920	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1920|LTranslit=1920
@@ -6196,6 +6420,7 @@
 25	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s225
+# parallel_id = zhgsd/test225
 # text = 1921年（大正十年）6月，澤田俊郎的長男在滿洲出生。
 # translit = 1921nián(dàzhèngshínián)6yuè,澤tián俊郎dezhǎngnánzàimǎnzhōuchūshēng.
 1	1921	1921	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1921|LTranslit=1921
@@ -6218,6 +6443,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s226
+# parallel_id = zhgsd/test226
 # text = 哥特式建築，位於中山路和玉光街之間。
 # translit = gētèshìjiànzhú,wèiyúzhōngshānlùhéyùguāngjiēzhījiān.
 1	哥特	哥特	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=gētè|LTranslit=gētè
@@ -6235,6 +6461,7 @@
 13	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s227
+# parallel_id = zhgsd/test227
 # text = 最終沙俄戰敗，規劃未能實現。
 # translit = zuìzhōngshā'ézhànbài,guīhuàwèinéngshíxiàn.
 1	最終	最終	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No|Translit=zuìzhōng|LTranslit=zuìzhōng
@@ -6247,6 +6474,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s228
+# parallel_id = zhgsd/test228
 # text = 同年，該公司宣布，自2006年1月1日起大幅削減對全國的退休人員的衛生保健開銷。
 # translit = tóngnián,gāigōngsīxuānbù,zì2006nián1yuè1rìqǐdàfúxuējiǎnduìquánguódetuìxiūrényuándewèishēngbǎojiànkāixiāo.
 1	同年	同年	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
@@ -6277,6 +6505,7 @@
 26	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s229
+# parallel_id = zhgsd/test229
 # text = 該公司總部設在德國漢諾威。
 # translit = gāigōngsīzǒngbùshèzàidéguóhànnuòwēi.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -6289,6 +6518,7 @@
 8	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s230
+# parallel_id = zhgsd/test230
 # text = 《大雄的宇宙開拓史》，是藤子·F·不二雄執筆，於1980年9月號到1981年2月連載於《快樂快樂月刊》月刊，是《哆啦A夢》大長篇的一部分。
 # translit = «dàxióngdeyǔzhòukāi拓shǐ»,shìténgzi·F·bù'èrxióngzhíbǐ,yú1980nián9yuèhàodào1981nián2yuèliánzàiyú«kuàilèkuàilèyuèkān»yuèkān,shì«duōlaAmèng»dàzhǎngpiāndeyībùfēn.
 1	《	《	PUNCT	(	_	6	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -6339,6 +6569,7 @@
 46	。	。	PUNCT	.	_	45	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s231
+# parallel_id = zhgsd/test231
 # text = 3月1日在為高宗舉行國葬時，韓國民眾藉機在各地遊行，韓國獨立運動者在京城塔洞公園發表了獨立宣言，要求韓國獨立，是為「三一運動」。
 # translit = 3yuè1rìzàiwèigāozōngjǔxíngguózàngshí,韓guómínzhòng藉jīzàigèdeyóuxíng,韓guódúlìyùndòngzhězàijīngchéngtǎdònggōngyuánfābiǎoledúlìxuānyán,yàoqiú韓guódúlì,shìwèi‘sānyīyùndòng’.
 1	3	3	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
@@ -6385,6 +6616,7 @@
 42	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s232
+# parallel_id = zhgsd/test232
 # text = 朝韓分治後，大韓民國經歷了民主與獨裁統治的反覆交替。
 # translit = cháo韓fēnzhìhòu,dà韓mínguójīnglìlemínzhǔyǔdúcáitǒngzhìdefǎnfùjiāotì.
 1	朝	朝	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=cháo|LTranslit=cháo
@@ -6406,6 +6638,7 @@
 17	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s233
+# parallel_id = zhgsd/test233
 # text = 韓國氣候受東韓暖流影響，氣候相對溫暖濕潤，與日本氣候相似。
 # translit = 韓guóqìhoushòudōng韓nuǎnliúyǐngxiǎng,qìhouxiāngduìwēnnuǎnshīrùn,yǔrìběnqìhouxiāngshì.
 1	韓國	韓國	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=韓guó|LTranslit=韓guó
@@ -6428,6 +6661,7 @@
 18	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s234
+# parallel_id = zhgsd/test234
 # text = 大額蛇鰻，為輻鰭魚綱鰻鱺目糯鰻亞目蛇鰻科的其中一種，分布於中東太平洋區，從加利福尼亞灣中部至巴拿馬海域，棲息深度35-760公尺，體長可達86公分，棲息在沙泥底質海域，為底棲性魚類，屬肉食性，生活習性不明。
 # translit = dà'éshé鰻,wèifú鰭yúgāng鰻鱺mù糯鰻yàmùshé鰻kēdeqízhōngyīzhǒng,fēnbùyúzhōngdōngtàipíngyángqū,cóngjiālìfúníyàwānzhōngbùzhìbanámǎhǎiyù,棲xishēndù35-760gōngchǐ,tǐzhǎngkědá86gōngfēn,棲xizàishānídǐzhìhǎiyù,wèidǐ棲xìngyúlèi,shǔròushíxìng,shēnghuóxíxìngbùmíng.
 1	大額蛇鰻	大額蛇鰻	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=dà'éshé鰻|LTranslit=dà'éshé鰻
@@ -6495,6 +6729,7 @@
 63	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s235
+# parallel_id = zhgsd/test235
 # text = 2010年有教友54,942人、廿一個堂區、廿九名司鐸。
 # translit = 2010niányǒujiàoyou54,942rén,niànyīgètángqū,niànjiǔmíngsī鐸.
 1	2010	2010	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2010|LTranslit=2010
@@ -6514,6 +6749,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s236
+# parallel_id = zhgsd/test236
 # text = 教區成立於1956年12月17日，包括蘭巴耶克大區和卡哈馬卡大區的聖克魯斯省。
 # translit = jiàoqūchénglìyú1956nián12yuè17rì,bāokuòlánbayékèdàqūhékǎhāmǎkǎdàqūdeshèngkèlǔsīshěng.
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
@@ -6538,6 +6774,7 @@
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s237
+# parallel_id = zhgsd/test237
 # text = 天主教安國教區是中國第一批6個國籍教區中教友人數較多的一個。
 # translit = tiānzhǔjiào'ānguójiàoqūshìzhōngguódìyīpī6gèguójíjiàoqūzhōngjiàoyourénshùjiàoduōdeyīgè.
 1	天主	天主	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=tiānzhǔ|LTranslit=tiānzhǔ
@@ -6562,6 +6799,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s238
+# parallel_id = zhgsd/test238
 # text = 教長區成立於1951年11月14日，1997年有教友10,000人、四個堂區、五名司鐸。
 # translit = jiàozhǎngqūchénglìyú1951nián11yuè14rì,1997niányǒujiàoyou10,000rén,sìgètángqū,wǔmíngsī鐸.
 1	教長	教長	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=jiàozhǎng|LTranslit=jiàozhǎng
@@ -6592,6 +6830,7 @@
 26	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s239
+# parallel_id = zhgsd/test239
 # text = 教區下轄七十四個堂區，有八十七名司鐸。
 # translit = jiàoqūxiàxiáqīshísìgètángqū,yǒubāshíqīmíngsī鐸.
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
@@ -6607,6 +6846,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s240
+# parallel_id = zhgsd/test240
 # text = 現任主教為朱斯廷·蘇敏德。
 # translit = xiànrènzhǔjiàowèi朱sītíng·sūmǐndé.
 1	現任	現任	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xiànrèn|LTranslit=xiànrèn
@@ -6618,6 +6858,7 @@
 7	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s241
+# parallel_id = zhgsd/test241
 # text = 1815年，嘉慶皇帝強化禁教，將法國籍主教徐德新等11名傳教士，斬首於成都，並懸頭於城門三日。
 # translit = 1815nián,jiāqìnghuángdìqiánghuàjìnjiào,jiāngfǎguójízhǔjiàoxúdéxīnděng11míngchuánjiàoshì,斬shǒuyúchéngdōu,bìngxuántóuyúchéngménsānrì.
 1	1815	1815	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1815|LTranslit=1815
@@ -6652,6 +6893,7 @@
 30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s242
+# parallel_id = zhgsd/test242
 # text = 教區下轄218個堂區，有327名司鐸。
 # translit = jiàoqūxiàxiá218gètángqū,yǒu327míngsī鐸.
 1	教區	教區	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
@@ -6667,6 +6909,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s243
+# parallel_id = zhgsd/test243
 # text = 教區成立於2013年2月22日，範圍包括高原省。
 # translit = jiàoqūchénglìyú2013nián2yuè22rì,fànwéibāokuògāoyuánshěng.
 1	教區	教區	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
@@ -6686,6 +6929,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s244
+# parallel_id = zhgsd/test244
 # text = 教區成立於1969年7月18日，位於布宜諾斯艾利斯省馬坦薩縣。
 # translit = jiàoqūchénglìyú1969nián7yuè18rì,wèiyúbùyinuòsī'àilìsīshěngmǎtǎnsàxiàn.
 1	教區	教區	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàoqū|LTranslit=jiàoqū
@@ -6707,6 +6951,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s245
+# parallel_id = zhgsd/test245
 # text = 中國有35屬約206種，主要分佈在南方各地。
 # translit = zhōngguóyǒu35shǔyuē206zhǒng,zhǔyàofēn佈zàinánfānggède.
 1	中國	中國	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
@@ -6725,6 +6970,7 @@
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s246
+# parallel_id = zhgsd/test246
 # text = 那座天后廟位於天后廟道，建於1747年。
 # translit = nàzuòtiānhòumiàowèiyútiānhòumiàodào,jiànyú1747nián.
 1	那	那	DET	DT	_	2	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
@@ -6744,6 +6990,7 @@
 15	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s247
+# parallel_id = zhgsd/test247
 # text = 和其他動作作品中敵人的破壞不同，《天地創造》引入了創造主題，這也激發玩家想像他們行動可能帶來的效果。
 # translit = héqítādòngzuòzuòpǐnzhōngdíréndepòhuàibùtóng,«tiāndechuàngzào»yǐnrùlechuàngzàozhǔtí,zhèyějīfāwánjiāxiǎngxiàngtāmenxíngdòngkěnéngdàiláidexiàoguǒ.
 1	和	和	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
@@ -6779,6 +7026,7 @@
 31	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s248
+# parallel_id = zhgsd/test248
 # text = 在植物的幫助下，阿空穿過了基亞那山。
 # translit = zàizhíwùdebāngzhùxià,'ākōngchuānguòlejīyànàshān.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -6795,6 +7043,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s249
+# parallel_id = zhgsd/test249
 # text = 遊戲世界以俯視視角顯示，並使用動作制即時戰鬥系統，通過跑動、跳躍、攻擊，或將這些動作結合，玩家可使用不同的技能。
 # translit = yóuxìshìjièyǐfǔshìshìjiǎoxiǎnshì,bìngshǐyòngdòngzuòzhìjíshízhàndòuxìtǒng,tōngguòpǎodòng,tiàoyuè,gōngjī,huòjiāngzhèxiēdòngzuòjiéhé,wánjiākěshǐyòngbùtóngdejìnéng.
 1	遊戲	遊戲	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
@@ -6834,6 +7083,7 @@
 35	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s250
+# parallel_id = zhgsd/test250
 # text = 因為非常有威嚴，往往一般認為她是園長。
 # translit = yīnwèifēichángyǒuwēiyán,wǎngwǎngyībānrènwèitāshìyuánzhǎng.
 1	因為	因為	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
@@ -6850,6 +7100,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s251
+# parallel_id = zhgsd/test251
 # text = 添和李護士懷疑鄭明有寶物私藏著，乃引誘他吐露寶物所在。
 # translit = tiānhélihùshìhuáiyízhèngmíngyǒubǎowùsīcángzhe,nǎiyǐnyòutātǔlùbǎowùsuǒzài.
 1	添	添	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=tiān|LTranslit=tiān
@@ -6874,6 +7125,7 @@
 20	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s252
+# parallel_id = zhgsd/test252
 # text = 界人曾說過很喜歡她出的謎題。
 # translit = jièréncéngshuōguòhěnxǐhuantāchūde謎tí.
 1	界人	界人	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=jièrén|LTranslit=jièrén
@@ -6889,6 +7141,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s253
+# parallel_id = zhgsd/test253
 # text = 每出一題，探長會指定任一參賽者回答該題，答對者加50分。
 # translit = měichūyītí,tànzhǎnghuìzhǐdìngrènyīcānsàizhěhuídágāití,dáduìzhějiā50fēn.
 1	每	每	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=měi|LTranslit=měi
@@ -6914,6 +7167,7 @@
 21	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s254
+# parallel_id = zhgsd/test254
 # text = 每集統計兩隊總分，總分最高者即是該集的優勝隊，優勝隊隊員各獲得同一個獎品。
 # translit = měijítǒngjìliǎngduìzǒngfēn,zǒngfēnzuìgāozhějíshìgāijídeyōushèngduì,yōushèngduìduìyuángèhuòdetóngyīgèjiǎngpǐn.
 1	每集	每集	DET	DT	_	2	obl	_	SpaceAfter=No|Translit=měijí|LTranslit=měijí
@@ -6944,6 +7198,7 @@
 26	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s255
+# parallel_id = zhgsd/test255
 # text = 這和世界上其他的編號系統有所差異。
 # translit = zhèhéshìjièshàngqítādebiānhàoxìtǒngyǒusuǒchàyì.
 1	這	這	PRON	PRD	_	9	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -6960,6 +7215,7 @@
 12	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s256
+# parallel_id = zhgsd/test256
 # text = 河長176千米，流域面積3700平方千米，年均流量11立方米每秒。
 # translit = hézhǎng176qiānmǐ,liúyùmiànjī3700píngfāngqiānmǐ,niánjūnliúliàng11lìfāngmǐměimiǎo.
 1	河	河	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=hé|LTranslit=hé
@@ -6979,6 +7235,7 @@
 15	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s257
+# parallel_id = zhgsd/test257
 # text = 到了2004年5月，天水圍北唯一私人屋苑慧景軒正式入伙。
 # translit = dàole2004nián5yuè,tiānshuǐwéiběiwéiyīsīrénwū苑huìjǐng軒zhèngshìrùhuǒ.
 1	到	到	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
@@ -7001,6 +7258,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s258
+# parallel_id = zhgsd/test258
 # text = 為營造新一代新市鎮形象，當年所規劃屋邨均設有大量休憩用地，並且設有少量預留空間作日後發展。
 # translit = wèiyíngzàoxīnyīdàixīnshìzhènxíngxiàng,dāngniánsuǒguīhuàwū邨jūnshèyǒudàliàngxiū憩yòngde,bìngqiěshèyǒushǎoliàngyùliúkōngjiānzuòrìhòufāzhǎn.
 1	為	為	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -7033,6 +7291,7 @@
 28	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s259
+# parallel_id = zhgsd/test259
 # text = 天津利順德大飯店是天津市歷史上第一家外資大飯店，在近代史上曾是重要的外交活動場所，英國、美國、加拿大、日本等國家曾先後將領事館設於酒店內。
 # translit = tiānjīnlìshùndédàfàndiànshìtiānjīnshìlìshǐshàngdìyījiāwàizīdàfàndiàn,zàijìndàishǐshàngcéngshìzhòngyàodewàijiāohuódòngchǎngsuǒ,yīngguó,měiguó,jiānádà,rìběnděngguójiācéngxiānhòujiānglǐngshìguǎnshèyújiǔdiànnèi.
 1	天津	天津	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=tiānjīn|LTranslit=tiānjīn
@@ -7083,6 +7342,7 @@
 46	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s260
+# parallel_id = zhgsd/test260
 # text = 根據天津市地域內的地貌、氣候、土壤、植被等的自然條件的差異，以滿足城市需求為目標天津市的農業可分為都市型、濱海型和城郊型，據此天津市域的農業區劃可以劃分為都市型環城農業區、都市型濱海農業區、城郊型平原綜合農業區和城郊型山區生態農業區四個農業區劃。
 # translit = gēnjùtiānjīnshìdeyùnèidedemào,qìhou,tǔrǎng,zhíbèiděngdezìrántiáojiàndechàyì,yǐmǎnzúchéngshìxūqiúwèimùbiāotiānjīnshìdenóngyèkěfēnwèidōushìxíng,bīnhǎixínghéchéngjiāoxíng,jùcǐtiānjīnshìyùdenóngyèqūhuàkěyǐhuàfēnwèidōushìxínghuánchéngnóngyèqū,dōushìxíngbīnhǎinóngyèqū,chéngjiāoxíngpíngyuánzōnghénóngyèqūhéchéngjiāoxíngshānqūshēngtàinóngyèqūsìgènóngyèqūhuà.
 1	根據	根據	ADP	IN	_	19	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
@@ -7168,6 +7428,7 @@
 81	。	。	PUNCT	.	_	32	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s261
+# parallel_id = zhgsd/test261
 # text = 除此之外，天津市河東區還管轄位於河北省涉縣的一塊飛地，即天津鐵廠街道。
 # translit = chúcǐzhīwài,tiānjīnshìhédōngqūháiguǎnxiáwèiyúhéběishěngshèxiàndeyīkuàifēide,jítiānjīntiěchǎngjiēdào.
 1	除此	除此	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=chúcǐ|LTranslit=chúcǐ
@@ -7196,6 +7457,7 @@
 24	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s262
+# parallel_id = zhgsd/test262
 # text = 天津市人民政府駐烏魯木齊辦事處，是中華人民共和國天津市人民政府駐烏魯木齊市的辦事處，該辦事處負責領導聯絡協調、招商引資、信息調研、對外宣傳、接待服務以及服務駐烏魯木齊市天津企業等相關事項。
 # translit = tiānjīnshìrénmínzhèngfǔzhùwūlǔmùqíbànshìchù,shìzhōnghuárénmíngònghéguótiānjīnshìrénmínzhèngfǔzhùwūlǔmùqíshìdebànshìchù,gāibànshìchùfùzélǐngdǎoliánluòxiédiào,zhāoshāngyǐnzī,xìnxidiàoyán,duìwàixuānchuán,jiēdàifúwuyǐjífúwuzhùwūlǔmùqíshìtiānjīnqǐyèděngxiāngguānshìxiàng.
 1	天津	天津	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=tiānjīn|LTranslit=tiānjīn
@@ -7255,6 +7517,7 @@
 55	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s263
+# parallel_id = zhgsd/test263
 # text = 歷史上，1982年11月至1994年10月期間，天津市人民政府建立了駐福州和駐廈門辦事處。
 # translit = lìshǐshàng,1982nián11yuèzhì1994nián10yuèqījiān,tiānjīnshìrénmínzhèngfǔjiànlìlezhùfúzhōuhézhùshàménbànshìchù.
 1	歷史	歷史	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
@@ -7287,6 +7550,7 @@
 28	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s264
+# parallel_id = zhgsd/test264
 # text = 1919年擴建東廠後，年產量可達6萬2千多噸。
 # translit = 1919niánkuòjiàndōngchǎnghòu,niánchǎnliàngkědá6wàn2qiānduōdūn.
 1	1919	1919	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1919|LTranslit=1919
@@ -7304,6 +7568,7 @@
 13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s265
+# parallel_id = zhgsd/test265
 # text = 1959年3月13日，永久沽廠改為隸屬於河北省化學石油工業廳。
 # translit = 1959nián3yuè13rì,yǒngjiǔ沽chǎnggǎiwèilìshǔyúhéběishěnghuàxuéshíyóugōngyètīng.
 1	1959	1959	NUM	CD	NumType=Card	2	nmod	_	SpaceAfter=No|Translit=1959|LTranslit=1959
@@ -7328,6 +7593,7 @@
 20	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s266
+# parallel_id = zhgsd/test266
 # text = 參賽者於前三個提示可以允許失誤。
 # translit = cānsàizhěyúqiánsāngètíshìkěyǐyǔnxǔshīwù.
 1	參賽	參賽	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=cānsài|LTranslit=cānsài
@@ -7343,6 +7609,7 @@
 11	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s267
+# parallel_id = zhgsd/test267
 # text = 偉是一名國軍空軍飛行少尉，是來自於一個顯赫家族的二少爺。
 # translit = wěishìyīmíngguójūnkōngjūnfēixíngshǎo尉,shìláizìyúyīgèxiǎnhèjiāzúde'èrshǎoye.
 1	偉	偉	PROPN	NNP	_	20	nsubj	_	SpaceAfter=No|Translit=wěi|LTranslit=wěi
@@ -7368,6 +7635,7 @@
 21	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s268
+# parallel_id = zhgsd/test268
 # text = 牠們身體的顏色非常顯目，雄性為藍色，雌性則為綠色。
 # translit = 牠menshēntǐdeyánsèfēichángxiǎnmù,xióngxìngwèilánsè,cíxìngzéwèilǜsè.
 1	牠們	牠	PRON	PRP	Number=Plur|Person=3	2	nmod	_	SpaceAfter=No|Translit=牠men|LTranslit=牠
@@ -7388,6 +7656,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s269
+# parallel_id = zhgsd/test269
 # text = 因發展迅速，眾多支派經幾番整合於西元1988年正式成立社會團體「中華民國一貫道總會」，同時向台灣政府登記為「一貫道」。
 # translit = yīnfāzhǎnxùnsù,zhòngduōzhīpàijīngjǐfānzhěnghéyúxiyuán1988niánzhèngshìchénglìshèhuìtuántǐ‘zhōnghuámínguóyīguàndàozǒnghuì’,tóngshíxiàngtáiwānzhèngfǔdēngjìwèi‘yīguàndào’.
 1	因	因	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
@@ -7429,6 +7698,7 @@
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s270
+# parallel_id = zhgsd/test270
 # text = 他也寫了許多給管樂團的曲目，其作品有被東京佼成管樂團選作錄音。
 # translit = tāyěxiělexǔduōgěiguǎnlètuándeqūmù,qízuòpǐnyǒubèidōngjīng佼chéngguǎnlètuánxuǎnzuòlùyīn.
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -7453,6 +7723,7 @@
 20	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s271
+# parallel_id = zhgsd/test271
 # text = 觀景台於2011年4月17日起試業，開放時間為早上10時至晚上8時半。
 # translit = guānjǐngtáiyú2011nián4yuè17rìqǐshìyè,kāifàngshíjiānwèizǎoshàng10shízhìwǎnshàng8shíbàn.
 1	觀景	觀景	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=guānjǐng|LTranslit=guānjǐng
@@ -7481,6 +7752,7 @@
 24	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s272
+# parallel_id = zhgsd/test272
 # text = 這個時代的天皇是近衛天皇。
 # translit = zhègèshídàidetiānhuángshìjìnwèitiānhuáng.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -7494,6 +7766,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s273
+# parallel_id = zhgsd/test273
 # text = 此時，真正的中情局要員林奇把叛變的林奇帶走了。
 # translit = cǐshí,zhēnzhèngdezhōngqíngjúyàoyuánlínqíbǎpànbiàndelínqídàizǒule.
 1	此時	此時	NOUN	NN	_	15	nmod:tmod	_	SpaceAfter=No|Translit=cǐshí|LTranslit=cǐshí
@@ -7515,6 +7788,7 @@
 17	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s274
+# parallel_id = zhgsd/test274
 # text = 太平公主號的理賠問題等將交由保險公司、船公司與香港方面處理。
 # translit = tàipínggōngzhǔhàodelǐpéiwèntíděngjiāngjiāoyóubǎoxiǎngōngsī,chuángōngsīyǔxiānggǎngfāngmiànchùlǐ.
 1	太平	太平	PROPN	NNP	_	3	compound	_	SpaceAfter=No|Translit=tàipíng|LTranslit=tàipíng
@@ -7539,6 +7813,7 @@
 20	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s275
+# parallel_id = zhgsd/test275
 # text = 1939年4月，日軍攻佔太平島，並將其更名為長島，納入高雄州管理。
 # translit = 1939nián4yuè,rìjūngōngzhàntàipíngdǎo,bìngjiāngqígèngmíngwèizhǎngdǎo,nàrùgāoxióngzhōuguǎnlǐ.
 1	1939	1939	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1939|LTranslit=1939
@@ -7566,6 +7841,7 @@
 23	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s276
+# parallel_id = zhgsd/test276
 # text = 在島西南方的防波堤末端豎立起「太平島」石碑，並在島之東端，另立「南沙群島太平島」石碑。
 # translit = zàidǎoxinánfāngdefángbōdīmòduānshùlìqǐ‘tàipíngdǎo’shíbēi,bìngzàidǎozhīdōngduān,lìnglì‘nánshāqúndǎotàipíngdǎo’shíbēi.
 1	在	在	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -7601,6 +7877,7 @@
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s277
+# parallel_id = zhgsd/test277
 # text = 本島東部有一片熱帶海岸林，其樹高可達20公尺，主要以檄樹、欖仁樹、蓮葉桐、葛塔德木、草海桐、白水木、海檸檬、藤蟛蜞菊、長柄菊、長鞍藤、葛蕾草等喬木為主，林間雜有林投、可可椰子。
 # translit = běndǎodōngbùyǒuyīpiànrèdàihǎi'ànlín,qíshùgāokědá20gōngchǐ,zhǔyàoyǐ檄shù,欖rénshù,蓮yè桐,葛tǎdémù,cǎohǎi桐,báishuǐmù,hǎi檸檬,téng蟛蜞jú,zhǎngbǐngjú,zhǎng鞍téng,葛蕾cǎoděng喬mùwèizhǔ,línjiānzáyǒulíntóu,kěkě椰zi.
 1	本島	本島	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=běndǎo|LTranslit=běndǎo
@@ -7655,6 +7932,7 @@
 50	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s278
+# parallel_id = zhgsd/test278
 # text = 他對澳大利亞報紙談到：「與其在無核議題這種遺物上試圖說服對方，不如把精力集中於我們能夠合作的事情上。」
 # translit = tāduì'àodàlìyàbàozhǐtándào:‘yǔqízàiwúhéyìtízhèzhǒngyíwùshàngshìtúshuōfúduìfāng,bùrúbǎjīnglìjízhōngyúwǒmennénggòuhézuòdeshìqíngshàng.’
 1	他	他	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -7691,6 +7969,7 @@
 32	」	」	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 
 # sent_id = test-s279
+# parallel_id = zhgsd/test279
 # text = 在此條約之下的美澳同盟仍然完全有效，兩國的國防部長經常列席年度部長級會議，美國太平洋地區總司令和澳洲參謀總長也常進行咨商，美國國務卿和澳洲外交部長每年會就條約相關事務進行會議，第17屆部長級會議在2005年11月澳洲阿德萊德召開。
 # translit = zàicǐtiáoyuēzhīxiàdeměi'àotóngméngréngránwánquányǒuxiào,liǎngguódeguófángbùzhǎngjīngchánglièxíniándùbùzhǎngjíhuìyì,měiguótàipíngyángdeqūzǒngsīlìnghé'àozhōucānmóuzǒngzhǎngyěchángjìnxíng咨shāng,měiguóguówu卿hé'àozhōuwàijiāobùzhǎngměiniánhuìjiùtiáoyuēxiāngguānshìwujìnxínghuìyì,dì17jièbùzhǎngjíhuìyìzài2005nián11yuè'àozhōu'ādéláidézhàokāi.
 1	在	在	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -7763,6 +8042,7 @@
 68	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s280
+# parallel_id = zhgsd/test280
 # text = 根據1984年大選前的民意調查，百分之五十八的民眾明確反對美國軍艦的訪問。
 # translit = gēnjù1984niándàxuǎnqiándemínyìdiàochá,bǎifēnzhīwǔshíbādemínzhòngmíngquèfǎnduìměiguójūnjiàndefǎngwèn.
 1	根據	根據	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
@@ -7786,6 +8066,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s281
+# parallel_id = zhgsd/test281
 # text = 許多美國報紙因此在幾周內都以頭條批評美國內閣成員出賣盟友。
 # translit = xǔduōměiguóbàozhǐyīncǐzàijǐzhōunèidōuyǐtóutiáopīpíngměiguónèi閣chéngyuánchūmàiméngyou.
 1	許多	許多	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=xǔduō|LTranslit=xǔduō
@@ -7809,6 +8090,7 @@
 19	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s282
+# parallel_id = zhgsd/test282
 # text = 但是在本劇後半有關觀應之亂等故事，則是吉川原作沒有的創作。
 # translit = dànshìzàiběnjùhòubànyǒuguānguānyīngzhīluànděnggùshì,zéshìjíchuānyuánzuòméiyǒudechuàngzuò.
 1	但是	但是	SCONJ	RB	_	17	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
@@ -7831,6 +8113,7 @@
 18	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s283
+# parallel_id = zhgsd/test283
 # text = 太平里鄉原屬湖南省宜章縣下轄鄉，2012年4月撤銷，與沙坪鄉一起成建制合併至新設的五嶺鄉。
 # translit = tàipínglǐxiāngyuánshǔhúnánshěngyizhāngxiànxiàxiáxiāng,2012nián4yuèchèxiāo,yǔshā坪xiāngyīqǐchéngjiànzhìhé併zhìxīnshèdewǔlǐngxiāng.
 1	太平	太平	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=tàipíng|LTranslit=tàipíng
@@ -7865,6 +8148,7 @@
 30	。	。	PUNCT	.	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s284
+# parallel_id = zhgsd/test284
 # text = 太極劍的歷史雖不長，但很受太極愛好者歡迎，其流行程度實超過太極刀、槍、棍、桿等器械。
 # translit = tàijíjiàndelìshǐsuībùzhǎng,dànhěnshòutàijí'àihǎozhěhuanyíng,qíliúxíngchéngdùshíchāoguòtàijídāo,qiāng,gùn,桿děngqìxiè.
 1	太極	太極	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=tàijí|LTranslit=tàijí
@@ -7900,6 +8184,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s285
+# parallel_id = zhgsd/test285
 # text = 太極分別於2012年5月4日及2012年8月11日在紅磡體育館舉行入行27周年演唱會。
 # translit = tàijífēnbiéyú2012nián5yuè4rìjí2012nián8yuè11rìzàihóng磡tǐyùguǎnjǔxíngrùxíng27zhōuniányǎnchànghuì.
 1	太極	太極	PROPN	NNP	_	21	nsubj	_	SpaceAfter=No|Translit=tàijí|LTranslit=tàijí
@@ -7931,6 +8216,7 @@
 27	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s286
+# parallel_id = zhgsd/test286
 # text = 但是由於豐臣秀吉在日本人心中的影響，人們把平民出身的政要與豐太閤相比，稱為「今太閤」。
 # translit = dànshìyóuyú豐chénxiùjízàirìběnrénxīnzhōngdeyǐngxiǎng,rénmenbǎpíngmínchūshēndezhèngyàoyǔ豐tài閤xiāngbǐ,chēngwèi‘jīntài閤’.
 1	但是	但是	SCONJ	RB	_	23	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
@@ -7964,6 +8250,7 @@
 29	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s287
+# parallel_id = zhgsd/test287
 # text = 豐臣秀吉將關白之職讓給了外甥豐臣秀次後，自稱太閤。
 # translit = 豐chénxiùjíjiāngguānbáizhīzhírànggěilewài甥豐chénxiùcìhòu,zìchēngtài閤.
 1	豐臣	豐臣	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=豐chén|LTranslit=豐chén
@@ -7984,6 +8271,7 @@
 16	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s288
+# parallel_id = zhgsd/test288
 # text = 太陽能發電把陽光轉換成電能，可直接使用太陽能光伏（PV），或間接使用聚光太陽能熱發電（CSP）。
 # translit = tàiyángnéngfādiànbǎyángguāngzhuǎnhuànchéngdiànnéng,kězhíjiēshǐyòngtàiyángnéngguāngfú(PV),huòjiānjiēshǐyòngjùguāngtàiyángnéngrèfādiàn(CSP).
 1	太陽	太陽	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=tàiyáng|LTranslit=tàiyáng
@@ -8019,6 +8307,7 @@
 31	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s289
+# parallel_id = zhgsd/test289
 # text = 而宮內的每個房間門口，又各有幾名看門婦把守。
 # translit = 'érgōngnèideměigèfángjiānménkǒu,yòugèyǒujǐmíngkànménfùbǎshǒu.
 1	而	而	SCONJ	RB	_	10	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -8039,6 +8328,7 @@
 16	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s290
+# parallel_id = zhgsd/test290
 # text = 赫伯特的一些日記被送回英國，到了丹尼爾手裡。
 # translit = hèbótèdeyīxiērìjìbèisònghuíyīngguó,dàoledānní'ěrshǒuli.
 1	赫伯特	赫伯特	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=hèbótè|LTranslit=hèbótè
@@ -8056,6 +8346,7 @@
 13	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s291
+# parallel_id = zhgsd/test291
 # text = 同時，凌統騙曹仁誤信周瑜大營仍有大軍留守，未予以全力襲擊。
 # translit = tóngshí,凌tǒngpiàn曹rénwùxìnzhōu瑜dàyíngréngyǒudàjūnliúshǒu,wèiyǔyǐquánlìxíjī.
 1	同時	同時	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=tóngshí|LTranslit=tóngshí
@@ -8082,6 +8373,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s292
+# parallel_id = zhgsd/test292
 # text = 夸克有著多種不同的內在特性，包括電荷、色荷、自旋及質量等。
 # translit = kuākèyǒuzheduōzhǒngbùtóngdenèizàitèxìng,bāokuòdiànhé,sèhé,zìxuánjízhìliàngděng.
 1	夸克	夸克	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=kuākè|LTranslit=kuākè
@@ -8106,6 +8398,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s293
+# parallel_id = zhgsd/test293
 # text = 夸克新星是一種假設的超新星，當中子星發生自發性的塌縮變可能成為夸克星。
 # translit = kuākèxīnxīngshìyīzhǒngjiǎshèdechāoxīnxīng,dāngzhōngzixīngfāshēngzìfāxìngdetāsuōbiànkěnéngchéngwèikuākèxīng.
 1	夸克	夸克	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=kuākè|LTranslit=kuākè
@@ -8135,6 +8428,7 @@
 25	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s294
+# parallel_id = zhgsd/test294
 # text = 12月4日奇爾沙治號離開艦隊，在6日抵達橫須賀休假。
 # translit = 12yuè4rìqí'ěrshāzhìhàolíkāijiànduì,zài6rìdǐdáhéngxūhèxiūjiǎ.
 1	12	12	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=12|LTranslit=12
@@ -8155,6 +8449,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s295
+# parallel_id = zhgsd/test295
 # text = 1961年3月3日，奇爾沙治號再次前往西太平洋巡航。
 # translit = 1961nián3yuè3rì,qí'ěrshāzhìhàozàicìqiánwǎngxitàipíngyángxúnháng.
 1	1961	1961	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1961|LTranslit=1961
@@ -8175,6 +8470,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s296
+# parallel_id = zhgsd/test296
 # text = 轄區北部屬於中國山地，多為山林地，南部為日本原高原。
 # translit = xiáqūběibùshǔyúzhōngguóshānde,duōwèishānlínde,nánbùwèirìběnyuángāoyuán.
 1	轄區	轄區	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=xiáqū|LTranslit=xiáqū
@@ -8197,6 +8493,7 @@
 18	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s297
+# parallel_id = zhgsd/test297
 # text = 隨著香港社會的資訊逐漸流通，節目的需求也大為降低，因此於1996年停播。
 # translit = suízhexiānggǎngshèhuìdezīxùnzhújiànliútōng,jiémùdexūqiúyědàwèijiàngdī,yīncǐyú1996niántíngbō.
 1	隨	隨	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=suí|LTranslit=suí
@@ -8225,6 +8522,7 @@
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s298
+# parallel_id = zhgsd/test298
 # text = 奮鬥中學，是內蒙古自治區巴彥淖爾市杭錦後旗設立的一個高級中學，位於杭錦後旗陝壩鎮，學校成立於1942年，為愛國將領傅作義創建，也是內蒙古第一所中學。
 # translit = fèndòuzhōngxué,shìnèiménggǔzìzhìqūba彥淖'ěrshì杭jǐnhòuqíshèlìdeyīgègāojízhōngxué,wèiyú杭jǐnhòuqí陝bàzhèn,xuéxiàochénglìyú1942nián,wèi'àiguójiānglǐngfuzuòyìchuàngjiàn,yěshìnèiménggǔdìyīsuǒzhōngxué.
 1	奮鬥	奮鬥	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=fèndòu|LTranslit=fèndòu
@@ -8273,6 +8571,7 @@
 44	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s299
+# parallel_id = zhgsd/test299
 # text = 近代意義上的「契約自由原則」，可以追溯到1804年頒布的《法國民法典》。
 # translit = jìndàiyìyìshàngde‘契yuēzìyóuyuánzé’,kěyǐzhuī溯dào1804niánbānbùde«fǎguómínfǎdiǎn».
 1	近代	近代	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=jìndài|LTranslit=jìndài
@@ -8300,6 +8599,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s300
+# parallel_id = zhgsd/test300
 # text = 園內擁有19萬平方呎天然樹林，當中大小樹木多達千餘棵。
 # translit = yuánnèiyōngyǒu19wànpíngfāng呎tiānránshùlín,dāngzhōngdàxiǎoshùmùduōdáqiānyúkē.
 1	園內	園內	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=yuánnèi|LTranslit=yuánnèi
@@ -8318,6 +8618,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s301
+# parallel_id = zhgsd/test301
 # text = 中世紀的印度大哲學家商羯羅選出一些重要的奧義書作注，稱它們為「主要奧義書」（Mukhya Upanishad）。
 # translit = zhōngshìjìdeyìndùdàzhéxuéjiāshāng羯luóxuǎnchūyīxiēzhòngyàode'àoyìshūzuòzhù,chēngtāmenwèi‘zhǔyào'àoyìshū’(Mukhya Upanishad).
 1	中	中	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
@@ -8351,6 +8652,7 @@
 29	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s302
+# parallel_id = zhgsd/test302
 # text = 不過，吸引遊客的不只是這些主題公園。
 # translit = bùguò,xīyǐnyóukèdebùzhǐshìzhèxiēzhǔtígōngyuán.
 1	不過	不過	SCONJ	RB	_	11	mark	_	SpaceAfter=No|Translit=bùguò|LTranslit=bùguò
@@ -8367,6 +8669,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s303
+# parallel_id = zhgsd/test303
 # text = 城市地標為伊歐拉湖（Lake Eola），而奧蘭多市長為巴迪·戴爾（Buddy Dyer）。
 # translit = chéngshìdebiāowèiyī'ōulāhú(Lake Eola),'ér'àolánduōshìzhǎngwèibadí·dài'ěr(Buddy Dyer).
 1	城市	城市	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
@@ -8393,6 +8696,7 @@
 22	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s304
+# parallel_id = zhgsd/test304
 # text = 他的一個兒子Luna後來成了著名水文學家和加州大學伯克利分校的地質學教授。
 # translit = tādeyīgèrziLunahòuláichénglezhemíngshuǐwénxuéjiāhéjiāzhōudàxuébókèlìfēnxiàodedezhìxuéjiàoshòu.
 1	他	他	PRON	PRP	Person=3	5	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -8420,6 +8724,7 @@
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s305
+# parallel_id = zhgsd/test305
 # text = 他的自然寫作以其樸素直接而聞名。
 # translit = tādezìránxiězuòyǐqí樸sùzhíjiē'érwénmíng.
 1	他	他	PRON	PRP	Person=3	4	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -8435,6 +8740,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s306
+# parallel_id = zhgsd/test306
 # text = 離開本國很久的阿凱亞首領們紛紛回國，奧德修斯也帶著他的夥伴，乘船向他的故鄉伊塔克出發。
 # translit = líkāiběnguóhěnjiǔde'ā凱yàshǒulǐngmenfēnfēnhuíguó,'àodéxiūsīyědàizhetāde夥bàn,chéngchuánxiàngtādegùxiāngyītǎkèchūfā.
 1	離開	離開	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
@@ -8465,6 +8771,7 @@
 26	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s307
+# parallel_id = zhgsd/test307
 # text = 1945年3月，蘇軍攻打柯尼斯堡。
 # translit = 1945nián3yuè,sūjūngōngdǎ柯nísībǎo.
 1	1945	1945	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1945|LTranslit=1945
@@ -8479,6 +8786,7 @@
 10	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s308
+# parallel_id = zhgsd/test308
 # text = 絕大多數最佳影片是在美國以外拍攝的，這說明了電影製作國際化水平的提高，也模糊了所謂好萊塢電影的定義。
 # translit = juédàduōshùzuìjiāyǐngpiànshìzàiměiguóyǐwàipāishède,zhèshuōmínglediànyǐngzhìzuòguójìhuàshuǐpíngdetígāo,yěmóhulesuǒwèihǎolái塢diànyǐngdedìngyì.
 1	絕	絕	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=jué|LTranslit=jué
@@ -8516,6 +8824,7 @@
 33	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s309
+# parallel_id = zhgsd/test309
 # text = 奧斯曼旗幟是指奧斯曼王朝蘇丹使用的任何一面旗幟，包括奧斯曼帝國的各種旗幟，以及蘇丹在不同場合使用的旗幟。
 # translit = 'àosīmànqízhìshìzhǐ'àosīmànwángcháosūdānshǐyòngderènhéyīmiànqízhì,bāokuò'àosīmàndìguódegèzhǒngqízhì,yǐjísūdānzàibùtóngchǎnghéshǐyòngdeqízhì.
 1	奧斯曼	奧斯曼	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit='àosīmàn|LTranslit='àosīmàn
@@ -8550,6 +8859,7 @@
 30	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s310
+# parallel_id = zhgsd/test310
 # text = 鎮上有3630人口（2010年1月1日），一個火車站（由丹麥國有鐵路運營）和到歐登塞和斯文堡的公交車（由菲英公交公司運營）。
 # translit = zhènshàngyǒu3630rénkǒu(2010nián1yuè1rì),yīgèhuǒchēzhàn(yóudānmàiguóyǒutiělùyùnyíng)hédào'ōudēngsāihésīwénbǎodegōngjiāochē(yóufēiyīnggōngjiāogōngsīyùnyíng).
 1	鎮上	鎮上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=zhènshàng|LTranslit=zhènshàng
@@ -8595,6 +8905,7 @@
 41	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s311
+# parallel_id = zhgsd/test311
 # text = 2000年，挪威國會憲法委員會為此事件，召開一項公聽會，以聽取機場規劃時期所有可疑的不正當事件，並於2001年發表正式報告。
 # translit = 2000nián,挪wēiguóhuìxiànfǎwěiyuánhuìwèicǐshìjiàn,zhàokāiyīxiànggōngtīnghuì,yǐtīngqǔjīchǎngguīhuàshíqīsuǒyǒukěyídebùzhèngdāngshìjiàn,bìngyú2001niánfābiǎozhèngshìbàogào.
 1	2000	2000	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2000|LTranslit=2000
@@ -8637,6 +8948,7 @@
 38	。	。	PUNCT	.	_	35	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s312
+# parallel_id = zhgsd/test312
 # text = 機場所在區域，有一大型地下水地層，機場運作受質疑會污染水源。
 # translit = jīchǎngsuǒzàiqūyù,yǒuyīdàxíngdexiàshuǐdecéng,jīchǎngyùnzuòshòuzhìyíhuìwūrǎnshuǐyuán.
 1	機場	機場	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=jīchǎng|LTranslit=jīchǎng
@@ -8661,6 +8973,7 @@
 20	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s313
+# parallel_id = zhgsd/test313
 # text = 勒維耶推測是因為存在一顆未知行星的引力作用，使天王星的軌道運動受到干擾，也就是天文學上所謂的「攝動」影響。
 # translit = lēiwéiyétuīcèshìyīnwèicúnzàiyīkēwèizhīxíngxīngdeyǐnlìzuòyòng,shǐtiānwángxīngdeguǐdàoyùndòngshòudàogànrǎo,yějiùshìtiānwénxuéshàngsuǒwèide‘shèdòng’yǐngxiǎng.
 1	勒維耶	勒維耶	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=lēiwéiyé|LTranslit=lēiwéiyé
@@ -8700,6 +9013,7 @@
 35	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s314
+# parallel_id = zhgsd/test314
 # text = 1980年代中期起奧林匹亞公司的經濟狀況開始變壞。
 # translit = 1980niándàizhōngqīqǐ'àolínpǐyàgōngsīdejīngjìzhuàngkuàngkāishǐbiànhuài.
 1	1980	1980	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1980|LTranslit=1980
@@ -8717,6 +9031,7 @@
 13	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s315
+# parallel_id = zhgsd/test315
 # text = 工廠在德國西北部到處購置車床。
 # translit = gōngchǎngzàidéguóxiběibùdàochùgòuzhìchēchuáng.
 1	工廠	工廠	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=gōngchǎng|LTranslit=gōngchǎng
@@ -8730,6 +9045,7 @@
 9	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s316
+# parallel_id = zhgsd/test316
 # text = 2009年，希臘政府面對負債纍纍的奧林匹克航空公司，決定實行私有化計劃。
 # translit = 2009nián,xī臘zhèngfǔmiànduìfùzhài纍纍de'àolínpǐkèhángkōnggōngsī,juédìngshíxíngsīyǒuhuàjìhuà.
 1	2009	2009	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2009|LTranslit=2009
@@ -8753,6 +9069,7 @@
 19	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s317
+# parallel_id = zhgsd/test317
 # text = 1689年英國在光榮革命後加入同盟，奧格斯堡同盟改稱「大同盟」，此時與法國發生激烈的大同盟戰爭（1688-1697年，又稱「九年戰爭」），雖未能戰勝法國陸軍，但一定程度上維持住歐洲的勢力均衡。
 # translit = 1689niányīngguózàiguāngrónggémìnghòujiārùtóngméng,'àogésībǎotóngménggǎichēng‘dàtóngméng’,cǐshíyǔfǎguófāshēngjīlièdedàtóngméngzhànzhēng(1688-1697nián,yòuchēng‘jiǔniánzhànzhēng’),suīwèinéngzhànshèngfǎguólùjūn,dànyīdìngchéngdùshàngwéichízhù'ōuzhōudeshìlìjūnhéng.
 1	1689	1689	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1689|LTranslit=1689
@@ -8816,6 +9133,7 @@
 59	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s318
+# parallel_id = zhgsd/test318
 # text = 然而，他最終在2001年轉會的球隊卻是英超的阿斯頓維拉，轉會費為500萬英鎊。
 # translit = rán'ér,tāzuìzhōngzài2001niánzhuǎnhuìdeqiúduìquèshìyīngchāode'āsīdùnwéilā,zhuǎnhuìfèiwèi500wànyīng鎊.
 1	然而	然而	SCONJ	RB	_	14	mark	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
@@ -8842,6 +9160,7 @@
 22	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s319
+# parallel_id = zhgsd/test319
 # text = 該小鎮位於布萊克伍德河流入弗林德斯灣的河口旁。
 # translit = gāixiǎozhènwèiyúbùláikèwudéhéliúrùfúlíndésīwāndehékǒupáng.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -8859,6 +9178,7 @@
 13	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s320
+# parallel_id = zhgsd/test320
 # text = 古代，奧塞提亞語曾採用希臘字母拼寫，現代則使用一套改良過的西里爾字母。
 # translit = gǔdài,'àosāitíyàyǔcéngcǎiyòngxī臘zìmǔpīnxiě,xiàndàizéshǐyòngyītàogǎiliángguòdexilǐ'ěrzìmǔ.
 1	古代	古代	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No|Translit=gǔdài|LTranslit=gǔdài
@@ -8884,6 +9204,7 @@
 21	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s321
+# parallel_id = zhgsd/test321
 # text = 希拉蕊的得票率只有37%。
 # translit = xīlā蕊dedepiàolǜzhǐyǒu37%.
 1	希拉蕊	希拉蕊	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=xīlā蕊|LTranslit=xīlā蕊
@@ -8895,6 +9216,7 @@
 7	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s322
+# parallel_id = zhgsd/test322
 # text = 他目前效力於法甲球隊波爾多。
 # translit = tāmùqiánxiàolìyúfǎjiǎqiúduìbō'ěrduō.
 1	他	他	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -8907,6 +9229,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s323
+# parallel_id = zhgsd/test323
 # text = 儘管博伊西縣、內茲佩爾塞縣和肖肖尼縣與奧懷希縣同時成立，但是因它們是由華盛頓領地成立的，因此直至1864年2月都不被愛達荷領地承認。
 # translit = 儘guǎnbóyīxixiàn,nèi茲pèi'ěrsāixiànhéxiàoxiàoníxiànyǔ'àohuáixīxiàntóngshíchénglì,dànshìyīntāmenshìyóuhuáshèngdùnlǐngdechénglìde,yīncǐzhízhì1864nián2yuèdōubùbèi'àidáhélǐngdechéngrèn.
 1	儘管	儘管	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=儘guǎn|LTranslit=儘guǎn
@@ -8950,6 +9273,7 @@
 39	。	。	PUNCT	.	_	38	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s324
+# parallel_id = zhgsd/test324
 # text = 平均每戶有2.85人，而平均每個家庭則有3.35人。
 # translit = píngjūnměihùyǒu2.85rén,'érpíngjūnměigèjiātíngzéyǒu3.35rén.
 1	平均	平均	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=píngjūn|LTranslit=píngjūn
@@ -8969,6 +9293,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s325
+# parallel_id = zhgsd/test325
 # text = 他父親的農用機械廠也在這一時期倒閉，辛德勒為此失業了一年。
 # translit = tāfùqīndenóngyòngjīxièchǎngyězàizhèyīshíqīdàobì,xīndélēiwèicǐshīyèleyīnián.
 1	他	他	PRON	PRP	Person=3	2	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -8995,6 +9320,7 @@
 22	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s326
+# parallel_id = zhgsd/test326
 # text = 奧斯卡從少年時代就喜歡摩托車，他買下了一輛競速摩托車並在之後幾年裡參加山區的賽車比賽。
 # translit = 'àosīkǎcóngshǎoniánshídàijiùxǐhuanmótuōchē,tāmǎixiàleyīliàngjìngsùmótuōchēbìngzàizhīhòujǐniánlicānjiāshānqūdesàichēbǐsài.
 1	奧斯卡	奧斯卡	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit='àosīkǎ|LTranslit='àosīkǎ
@@ -9028,6 +9354,7 @@
 29	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s327
+# parallel_id = zhgsd/test327
 # text = 念完小學和初中後，辛德勒進入一所技校學習，但於1924年因偽造成績被開除。
 # translit = niànwánxiǎoxuéhéchūzhōnghòu,xīndélēijìnrùyīsuǒjìxiàoxuéxí,dànyú1924niányīnwěizàochéngjībèikāichú.
 1	念	念	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=niàn|LTranslit=niàn
@@ -9056,6 +9383,7 @@
 24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s328
+# parallel_id = zhgsd/test328
 # text = 莫里遜組過去是個多樣化的動物群。
 # translit = mòlǐxùnzǔguòqùshìgèduōyànghuàdedòngwùqún.
 1	莫里遜	莫里遜	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=mòlǐxùn|LTranslit=mòlǐxùn
@@ -9071,6 +9399,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s329
+# parallel_id = zhgsd/test329
 # text = 南非之前的國旗（1927-1994）中也有一支直掛的奧蘭治自由邦國旗，就在它中間的白色條紋裡。
 # translit = nánfēizhīqiándeguóqí(1927-1994)zhōngyěyǒuyīzhīzhíguàde'àolánzhìzìyóubāngguóqí,jiùzàitāzhōngjiāndebáisètiáowénli.
 1	南非	南非	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=nánfēi|LTranslit=nánfēi
@@ -9105,6 +9434,7 @@
 30	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s330
+# parallel_id = zhgsd/test330
 # text = 他出生於雷昂，是弗魯埃拉（父親為坎塔布里亞的佩德羅）的兒子；阿斯圖里亞斯的阿方索一世的姪子；並且是阿方索繼承人殘酷的弗魯埃拉的一個堂弟。
 # translit = tāchūshēngyúléi'áng,shìfúlǔ'āilā(fùqīnwèikǎntǎbùlǐyàdepèidéluó)derzi;'āsītúlǐyàsīde'āfāngsuǒyīshìde姪zi;bìngqiěshì'āfāngsuǒjìchéngréncánkùdefúlǔ'āilādeyīgètángdì.
 1	他	他	PRON	PRP	Person=3	16	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -9146,6 +9476,7 @@
 37	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s331
+# parallel_id = zhgsd/test331
 # text = 史書上唯一有記載的他的事蹟是鎮壓一起農奴的動亂。
 # translit = shǐshūshàngwéiyīyǒujìzàidetādeshì蹟shìzhènyāyīqǐnóngnúdedòngluàn.
 1	史書	史書	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=shǐshū|LTranslit=shǐshū
@@ -9167,6 +9498,7 @@
 17	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s332
+# parallel_id = zhgsd/test332
 # text = 結黨後，該黨即展開了「公認候選人公開募集」活動，但直至選舉公示之日，該黨也沒有公認任何一位通過這一方法的候選人。
 # translit = jiédǎnghòu,gāidǎngjízhǎnkāile‘gōngrènhouxuǎnréngōngkāi募jí’huódòng,dànzhízhìxuǎnjǔgōngshìzhīrì,gāidǎngyěméiyǒugōngrènrènhéyīwèitōngguòzhèyīfāngfǎdehouxuǎnrén.
 1	結黨	結黨	VERB	VV	_	6	advcl	_	SpaceAfter=No|Translit=jiédǎng|LTranslit=jiédǎng
@@ -9209,6 +9541,7 @@
 38	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s333
+# parallel_id = zhgsd/test333
 # text = 老街以紅檜建成，早年沒有街名，當地人僅以「街仔」稱之。
 # translit = lǎojiēyǐhóng檜jiànchéng,zǎoniánméiyǒujiēmíng,dāngderénjǐnyǐ‘jiēzǐ’chēngzhī.
 1	老街	老街	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=lǎojiē|LTranslit=lǎojiē
@@ -9232,6 +9565,7 @@
 19	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s334
+# parallel_id = zhgsd/test334
 # text = 每段介紹兩個無厘頭的新聞後，方芳芳與巴戈就感謝觀眾收看〈新聞砲〉，新聞攝影棚燈光調暗，巴戈仍然與方芳芳進行一小段對話；跟第一段短劇一樣，有時候巴戈又會被方芳芳打一巴掌。
 # translit = měiduànjièshàoliǎnggèwúlítóudexīnwénhòu,fāng芳芳yǔba戈jiùgǎnxièguānzhòngshōukàn<xīnwén砲>,xīnwénshèyǐngpéngdēngguāngdiào'àn,ba戈réngrányǔfāng芳芳jìnxíngyīxiǎoduànduìhuà;gēndìyīduànduǎnjùyīyàng,yǒushíhouba戈yòuhuìbèifāng芳芳dǎyībazhǎng.
 1	每段	每段	DET	DT	_	2	obl	_	SpaceAfter=No|Translit=měiduàn|LTranslit=měiduàn
@@ -9295,6 +9629,7 @@
 59	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s335
+# parallel_id = zhgsd/test335
 # text = 李妍采從小跟母親相依為命，多年來努力存錢，願望是找個好男人結婚，然後買房子給母親。
 # translit = li妍cǎicóngxiǎogēnmǔqīnxiāngyīwèimìng,duōniánláinǔlìcúnqián,願wàngshìzhǎogèhǎonánrénjiéhūn,ránhòumǎifángzigěimǔqīn.
 1	李	李	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=li|LTranslit=li
@@ -9327,6 +9662,7 @@
 28	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s336
+# parallel_id = zhgsd/test336
 # text = 由於客廳女僕主要負責接客，因此穿著比較注重外表而不重實用性。
 # translit = yóuyúkètīngnǚ僕zhǔyàofùzéjiēkè,yīncǐchuānzhebǐjiàozhùzhòngwàibiǎo'érbùzhòngshíyòngxìng.
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -9350,6 +9686,7 @@
 19	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s337
+# parallel_id = zhgsd/test337
 # text = 除了女管家和貼身女僕的高級女僕外，多數大宅第中女僕都必須穿著制服。
 # translit = chúlenǚguǎnjiāhétiēshēnnǚ僕degāojínǚ僕wài,duōshùdàzháidìzhōngnǚ僕dōubìxūchuānzhezhìfú.
 1	除	除	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=chú|LTranslit=chú
@@ -9376,6 +9713,7 @@
 22	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s338
+# parallel_id = zhgsd/test338
 # text = 雖然康守時在戰爭中途帶來了三萬人來援助地下軍，但對於敵方擁有五十五萬大軍的情況來說仍是杯水車薪。
 # translit = suīránkāngshǒushízàizhànzhēngzhōngtúdàiláilesānwànrénláiyuánzhùdexiàjūn,dànduìyúdífāngyōngyǒuwǔshíwǔwàndàjūndeqíngkuàngláishuōréngshìbēishuǐchēxīn.
 1	雖然	雖然	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -9409,6 +9747,7 @@
 29	。	。	PUNCT	.	_	28	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s339
+# parallel_id = zhgsd/test339
 # text = 因為用女性的角度來描寫戰國時代，不只吸引原本男性視角觀點出發的日本戰國迷，也廣泛受到家庭主婦的支持，創下平均收視率31.8%的紀錄。
 # translit = yīnwèiyòngnǚxìngdejiǎodùláimiáoxiězhànguóshídài,bùzhǐxīyǐnyuánběnnánxìngshìjiǎoguāndiǎnchūfāderìběnzhànguómí,yěguǎngfànshòudàojiātíngzhǔfùdezhīchí,chuàngxiàpíngjūnshōushìlǜ31.8%dejìlù.
 1	因為	因為	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
@@ -9452,6 +9791,7 @@
 39	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s340
+# parallel_id = zhgsd/test340
 # text = 女真語最初使用女真文，後來這種文字漸漸消亡。
 # translit = nǚzhēnyǔzuìchūshǐyòngnǚzhēnwén,hòuláizhèzhǒngwénzìjiànjiànxiāowáng.
 1	女真	女真	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=nǚzhēn|LTranslit=nǚzhēn
@@ -9470,6 +9810,7 @@
 14	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s341
+# parallel_id = zhgsd/test341
 # text = 由於隆也的壽命差不多已到盡頭，所以他希望看到將世界連同他自己的壽命一起結束。
 # translit = yóuyúlóngyědeshòumìngchàbùduōyǐdàojǐntóu,suǒyǐtāxīwàngkàndàojiāngshìjièliántóngtāzìjǐdeshòumìngyīqǐjiéshù.
 1	由於	由於	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -9497,6 +9838,7 @@
 23	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s342
+# parallel_id = zhgsd/test342
 # text = 雖然這種分期沒有嚴格的規則，但是解釋某些變化時很有用。
 # translit = suīránzhèzhǒngfēnqīméiyǒuyángédeguīzé,dànshìjiěshìmǒuxiēbiànhuàshíhěnyǒuyòng.
 1	雖然	雖然	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -9518,6 +9860,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s343
+# parallel_id = zhgsd/test343
 # text = 香會的歷史最早可溯至明朝。
 # translit = xiānghuìdelìshǐzuìzǎokě溯zhìmíngcháo.
 1	香會	香會	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=xiānghuì|LTranslit=xiānghuì
@@ -9531,6 +9874,7 @@
 9	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s344
+# parallel_id = zhgsd/test344
 # text = 由於喜歡花的緣故，羅賓還會用花來表達對別人與自己的評斷印象，千陽號也特別為她設置了花圃。
 # translit = yóuyúxǐhuanhuādeyuángù,luóbīnháihuìyònghuāláibiǎodáduìbiérényǔzìjǐdepíngduànyìnxiàng,qiānyánghàoyětèbiéwèitāshèzhìlehuā圃.
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -9566,6 +9910,7 @@
 31	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s345
+# parallel_id = zhgsd/test345
 # text = 在1963年，他們找到一個鄉村小酒館並在加泰隆尼亞期間作為他們的家和工作室。
 # translit = zài1963nián,tāmenzhǎodàoyīgèxiāngcūnxiǎojiǔguǎnbìngzàijiātàilóngníyàqījiānzuòwèitāmendejiāhégōngzuòshì.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -9594,6 +9939,7 @@
 24	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s346
+# parallel_id = zhgsd/test346
 # text = 至今為止他在國家隊最出名的舉動是在溫布利球場遠射破門3-2擊敗英格蘭，並將後者拒於2008年歐錦賽決賽圈之外。
 # translit = zhìjīnwèizhǐtāzàiguójiāduìzuìchūmíngdejǔdòngshìzàiwēnbùlìqiúchǎngyuǎnshèpòmén3-2jībàiyīnggélán,bìngjiānghòuzhějùyú2008nián'ōujǐnsàijuésàiquānzhīwài.
 1	至	至	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
@@ -9633,6 +9979,7 @@
 35	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s347
+# parallel_id = zhgsd/test347
 # text = 她亦曾在芬蘭、瑞典及法國學習油畫，並於1939年開始寫作。
 # translit = tāyìcéngzàifēnlán,ruìdiǎnjífǎguóxuéxíyóuhuà,bìngyú1939niánkāishǐxiězuò.
 1	她	她	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -9656,6 +10003,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s348
+# parallel_id = zhgsd/test348
 # text = 姆明小說系列英語版本及出版時間如下：
 # translit = mǔmíngxiǎoshuōxìlièyīngyǔbǎnběnjíchūbǎnshíjiānrúxià:
 1	姆明	姆明	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=mǔmíng|LTranslit=mǔmíng
@@ -9671,6 +10019,7 @@
 11	：	：	PUNCT	:	_	10	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 
 # sent_id = test-s349
+# parallel_id = zhgsd/test349
 # text = 始創中心前身為始創行、凱聲戲院及麗聲戲院，當中始創行的圓拱形頂為其建築特色，後來重建為商場及辦公室大廈，並設停車場，於1995年落成，由九龍建業有限公司發展。
 # translit = shǐchuàngzhōngxīnqiánshēnwèishǐchuàngxíng,凱shēngxìyuànjílìshēngxìyuàn,dāngzhōngshǐchuàngxíngdeyuángǒngxíngdǐngwèiqíjiànzhútèsè,hòuláizhòngjiànwèishāngchǎngjíbàngōngshìdàshà,bìngshètíngchēchǎng,yú1995niánluòchéng,yóujiǔlóngjiànyèyǒuxiàngōngsīfāzhǎn.
 1	始創	始創	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=shǐchuàng|LTranslit=shǐchuàng
@@ -9726,6 +10075,7 @@
 51	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s350
+# parallel_id = zhgsd/test350
 # text = 牠能夠快速的短跑，當捕捉獵物後，會用指爪及牙齒撕開獵物。
 # translit = 牠nénggòukuàisùdeduǎnpǎo,dāngbǔzhuōlièwùhòu,huìyòngzhǐzhǎojíyáchǐsīkāilièwù.
 1	牠	牠	PRON	PRP	Person=3	17	nsubj	_	SpaceAfter=No|Translit=牠|LTranslit=牠
@@ -9749,6 +10099,7 @@
 19	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s351
+# parallel_id = zhgsd/test351
 # text = 在2006年時，古生物學家根據在阿爾及利亞發現的始新世晚期的化石，命名了一個最新的種：Moeritherium chehbeurameuri。
 # translit = zài2006niánshí,gǔshēngwùxuéjiāgēnjùzài'ā'ěrjílìyàfāxiàndeshǐxīnshìwǎnqīdehuàshí,mìngmíngleyīgèzuìxīndezhǒng:Moeritherium chehbeurameuri.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -9784,6 +10135,7 @@
 31	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s352
+# parallel_id = zhgsd/test352
 # text = 於1984年，查吉特（Sankar Chatterjee）發現了化石，他於1991年指這些化石屬於一種比始祖鳥更為古老的鳥類。
 # translit = yú1984nián,chájítè(Sankar Chatterjee)fāxiànlehuàshí,tāyú1991niánzhǐzhèxiēhuàshíshǔyúyīzhǒngbǐshǐzǔniǎogèngwèigǔlǎodeniǎolèi.
 1	於	於	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
@@ -9819,6 +10171,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s353
+# parallel_id = zhgsd/test353
 # text = 這一建議在國際動物命名法委員會經過多年辯論後，2011年10月3日倫敦標本被指定為新模式標本。
 # translit = zhèyījiànyìzàiguójìdòngwùmìngmíngfǎwěiyuánhuìjīngguòduōniánbiànlùnhòu,2011nián10yuè3rìlún敦biāoběnbèizhǐdìngwèixīnmóshìbiāoběn.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -9854,6 +10207,7 @@
 31	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s354
+# parallel_id = zhgsd/test354
 # text = 始鏡猴科有可以抓住東西的手及腳，手指及腳趾有指甲而沒有爪。
 # translit = shǐjìnghóukēyǒukěyǐzhuāzhùdōngxideshǒujíjiǎo,shǒuzhǐjíjiǎo趾yǒuzhǐjiǎ'érméiyǒuzhǎo.
 1	始鏡猴	始鏡猴	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=shǐjìnghóu|LTranslit=shǐjìnghóu
@@ -9878,6 +10232,7 @@
 20	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s355
+# parallel_id = zhgsd/test355
 # text = 熟料聯賽開打前申花與聯城合併，姚立君又回到了熟悉的康橋基地，成為當年最富戲劇性的「轉會案例」。
 # translit = shúliàoliánsàikāidǎqiánshēnhuāyǔliánchénghé併,姚lìjūnyòuhuídàoleshúxīdekāngqiáojīde,chéngwèidāngniánzuìfùxìjùxìngde‘zhuǎnhuì'ànlì’.
 1	熟	熟	PRON	PRD	_	2	nsubj	_	SpaceAfter=No|Translit=shú|LTranslit=shú
@@ -9915,6 +10270,7 @@
 33	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s356
+# parallel_id = zhgsd/test356
 # text = 1991年，姚夏就入選四川隊。
 # translit = 1991nián,姚xiàjiùrùxuǎnsìchuānduì.
 1	1991	1991	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1991|LTranslit=1991
@@ -9929,6 +10285,7 @@
 10	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s357
+# parallel_id = zhgsd/test357
 # text = 2002年姚福信在遼陽市看守所拘留期間，受到了當地公安機關的嚴重虐待，導致姚福信的腿落下了抽搐的毛病。
 # translit = 2002nián姚fúxìnzàiliáoyángshìkànshǒusuǒjūliúqījiān,shòudàoledāngdegōng'ānjīguāndeyánzhòng虐dài,dǎozhì姚fúxìndetuǐluòxiàlechōu搐demáobìng.
 1	2002	2002	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2002|LTranslit=2002
@@ -9965,6 +10322,7 @@
 32	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s358
+# parallel_id = zhgsd/test358
 # text = 他擔任多媒體音樂劇《琥珀》以及兒童狂歡劇《魔山》的音樂總監。
 # translit = tādānrènduōméitǐyīnlèjù«琥珀»yǐjírtóngkuánghuanjù«móshān»deyīnlèzǒngjiān.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -9989,6 +10347,7 @@
 20	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s359
+# parallel_id = zhgsd/test359
 # text = 但這次風波並未將其打倒，在年底《Grazia》雜志評選的「十大最佳著裝人士」的評選中Kate Moss又一次獲得第一名，證明了其的人氣與在時尚界的地位。
 # translit = dànzhècìfēngbōbìngwèijiāngqídǎdào,zàiniándǐ«Grazia»zázhìpíngxuǎnde‘shídàzuìjiāzhezhuāngrénshì’depíngxuǎnzhōngKate Mossyòuyīcìhuòdedìyīmíng,zhèngmíngleqíderénqìyǔzàishíshàngjièdedewèi.
 1	但	但	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -10042,6 +10401,7 @@
 49	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s360
+# parallel_id = zhgsd/test360
 # text = 例如，獵戶座大星雲有單純的發射譜線，是典型的氣體特徵；仙女座星系的譜線特徵如同恆星。
 # translit = lìrú,lièhùzuòdàxīng雲yǒudānchúndefāshè譜xiàn,shìdiǎnxíngdeqìtǐtè徵;xiannǚzuòxīngxìde譜xiàntè徵rútónghéngxīng.
 1	例如	例如	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lìrú|LTranslit=lìrú
@@ -10073,6 +10433,7 @@
 27	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s361
+# parallel_id = zhgsd/test361
 # text = 1882年8月13日，傑文斯在黑斯廷斯城附近洗海水澡時溺水身亡。
 # translit = 1882nián8yuè13rì,傑wénsīzàihēisītíngsīchéngfùjìnxǐhǎishuǐzǎoshí溺shuǐshēnwáng.
 1	1882	1882	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1882|LTranslit=1882
@@ -10096,6 +10457,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s362
+# parallel_id = zhgsd/test362
 # text = 威廉·普拉格，是在德國出生的美國應用數學家。
 # translit = wēilián·pǔlāgé,shìzàidéguóchūshēngdeměiguóyīngyòngshùxuéjiā.
 1	威廉	威廉	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=wēilián|LTranslit=wēilián
@@ -10114,6 +10476,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s363
+# parallel_id = zhgsd/test363
 # text = 柏洛茲於青春期早期著手開始寫文章與報導。
 # translit = bǎiluò茲yúqīngchūnqīzǎoqīzheshǒukāishǐxiěwénzhāngyǔbàodǎo.
 1	柏洛茲	柏洛茲	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=bǎiluò茲|LTranslit=bǎiluò茲
@@ -10130,6 +10493,7 @@
 12	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s364
+# parallel_id = zhgsd/test364
 # text = 身為頹廢的一代的主要成員，他是影響流行文化以及文學的前衛作家。
 # translit = shēnwèi頹fèideyīdàidezhǔyàochéngyuán,tāshìyǐngxiǎngliúxíngwénhuàyǐjíwénxuédeqiánwèizuòjiā.
 1	身為	為	VERB	VV	_	19	acl	_	SpaceAfter=No|Translit=shēnwèi|LTranslit=wèi
@@ -10154,6 +10518,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s365
+# parallel_id = zhgsd/test365
 # text = 他宣布自己為共和國總統，同伴瓦特金斯為副總統。
 # translit = tāxuānbùzìjǐwèigònghéguózǒngtǒng,tóngbànwǎtèjīnsīwèifùzǒngtǒng.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -10172,6 +10537,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s366
+# parallel_id = zhgsd/test366
 # text = 回到加利福尼亞州後，他由於支持了一場違反中立法的戰爭而遭到法庭審判。
 # translit = huídàojiālìfúníyàzhōuhòu,tāyóuyúzhīchíleyīchǎngwéifǎnzhōnglìfǎdezhànzhēng'érzāodàofǎtíngshěnpàn.
 1	回到	回到	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=huídào|LTranslit=huídào
@@ -10197,6 +10563,7 @@
 21	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s367
+# parallel_id = zhgsd/test367
 # text = 在他留學期間，歐洲發生了1848年革命。
 # translit = zàitāliúxuéqījiān,'ōuzhōufāshēngle1848niángémìng.
 1	在	在	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -10213,6 +10580,7 @@
 12	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s368
+# parallel_id = zhgsd/test368
 # text = 在民主黨領袖卡斯特倫的同意下，沃克襲擊了位於里瓦斯的保守黨勢力。
 # translit = zàimínzhǔdǎnglǐngxiùkǎsītèlúndetóngyìxià,wòkèxíjīlewèiyúlǐwǎsīdebǎoshǒudǎngshìlì.
 1	在	在	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -10237,6 +10605,7 @@
 20	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s369
+# parallel_id = zhgsd/test369
 # text = 阿姆斯特朗結婚時買下了位於新堡西傑斯蒙丹尼的傑斯蒙丹尼樓，並開始裝修這個莊園。
 # translit = 'āmǔsītèlǎngjiéhūnshímǎixiàlewèiyúxīnbǎoxi傑sīméngdānníde傑sīméngdānnílóu,bìngkāishǐzhuāngxiūzhègèzhuāngyuán.
 1	阿姆斯特朗	阿姆斯特朗	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit='āmǔsītèlǎng|LTranslit='āmǔsītèlǎng
@@ -10261,6 +10630,7 @@
 20	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s370
+# parallel_id = zhgsd/test370
 # text = 兩國在1897年開始就這一問題進行談判，但沒有取得任何共識，因為西班牙不願賦予古巴獨立，而古巴也不願作出任何讓步。
 # translit = liǎngguózài1897niánkāishǐjiùzhèyīwèntíjìnxíngtánpàn,dànméiyǒuqǔderènhégòngshi,yīnwèixibānyábù願賦yǔgǔbadúlì,'érgǔbayěbù願zuòchūrènhéràngbù.
 1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -10299,6 +10669,7 @@
 34	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s371
+# parallel_id = zhgsd/test371
 # text = 科特柳的任期幾乎和麥金萊的任期一樣長，他在這段時間內，逐漸變成了麥金萊的重要助手，相當於出版秘書（Press secretary）和今日的幕僚長。
 # translit = kētèliǔderènqījǐhuhémàijīnláiderènqīyīyàngzhǎng,tāzàizhèduànshíjiānnèi,zhújiànbiànchénglemàijīnláidezhòngyàozhùshǒu,xiāngdāngyúchūbǎnmìshū(Press secretary)héjīnrìdemùliáozhǎng.
 1	科特柳	科特柳	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=kētèliǔ|LTranslit=kētèliǔ
@@ -10343,6 +10714,7 @@
 40	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s372
+# parallel_id = zhgsd/test372
 # text = 基於大量工人階級行動的壓力，法例於1890年10月1日被廢除。
 # translit = jīyúdàliànggōngrénjiējíxíngdòngdeyālì,fǎlìyú1890nián10yuè1rìbèifèichú.
 1	基	基	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=jī|LTranslit=jī
@@ -10367,6 +10739,7 @@
 20	。	。	PUNCT	.	_	19	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s373
+# parallel_id = zhgsd/test373
 # text = 雖然俾斯麥說他和威廉的工作關係是一個臣子對他的長官盡忠，實際上俾斯麥拿著管理內政和外交的實權。
 # translit = suīrán俾sīmàishuōtāhéwēiliándegōngzuòguānxìshìyīgèchénziduìtādezhǎngguānjǐnzhōng,shíjìshàng俾sīmàinázheguǎnlǐnèizhènghéwàijiāodeshíquán.
 1	雖然	雖然	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
@@ -10402,6 +10775,7 @@
 31	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s374
+# parallel_id = zhgsd/test374
 # text = 2013年4月，威廉瑪麗校友瑪麗·喬·懷特（Mary Jo White）經美國參議院一致同意，擔任美國證監會主席。
 # translit = 2013nián4yuè,wēiliánmǎlìxiàoyoumǎlì·喬·huáitè(Mary Jo White)jīngměiguócānyìyuànyīzhìtóngyì,dānrènměiguózhèngjiānhuìzhǔxí.
 1	2013	2013	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
@@ -10436,6 +10810,7 @@
 30	。	。	PUNCT	.	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s375
+# parallel_id = zhgsd/test375
 # text = 不少從威廉瑪麗學院畢業的學生，成為早期美國歷史中的重要政治任務的參與者，包括5位美國總統和12位獨立宣言簽署者（總共56位簽字人，威廉瑪麗學院的畢業生佔了將近四分之一，這些人創建了美國）和許許多多的美國國務卿（舉例來說，美國最初的10位國務卿，竟有6位畢業於威廉瑪麗學院，其餘的均畢業於哈佛大學和普林斯頓大學）。
 # translit = bùshǎocóngwēiliánmǎlìxuéyuànbìyèdexuéshēng,chéngwèizǎoqīměiguólìshǐzhōngdezhòngyàozhèngzhìrènwudecānyǔzhě,bāokuò5wèiměiguózǒngtǒnghé12wèidúlìxuānyánqiānshǔzhě(zǒnggòng56wèiqiānzìrén,wēiliánmǎlìxuéyuàndebìyèshēngzhànlejiāngjìnsìfēnzhīyī,zhèxiērénchuàngjiànleměiguó)héxǔxǔduōduōdeměiguóguówu卿(jǔlìláishuō,měiguózuìchūde10wèiguówu卿,jìngyǒu6wèibìyèyúwēiliánmǎlìxuéyuàn,qíyúdejūnbìyèyúhāfúdàxuéhépǔlínsīdùndàxué).
 1	不少	不少	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=bùshǎo|LTranslit=bùshǎo
@@ -10537,6 +10912,7 @@
 97	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s376
+# parallel_id = zhgsd/test376
 # text = 威廉瑪麗學院是全美第二歷史悠久的高等學府。
 # translit = wēiliánmǎlìxuéyuànshìquánměidì'èrlìshǐyōujiǔdegāoděngxuéfǔ.
 1	威廉瑪麗	威廉瑪麗	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=wēiliánmǎlì|LTranslit=wēiliánmǎlì
@@ -10553,6 +10929,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s377
+# parallel_id = zhgsd/test377
 # text = 學院於1776年與英國脫離關係，1906年成為公立大學，1918年男女合校，直到1967年才成為現代綜合性大學。
 # translit = xuéyuànyú1776niányǔyīngguótuōlíguānxì,1906niánchéngwèigōnglìdàxué,1918niánnánnǚhéxiào,zhídào1967niáncáichéngwèixiàndàizōnghéxìngdàxué.
 1	學院	學院	NOUN	NN	_	27	nsubj	_	SpaceAfter=No|Translit=xuéyuàn|LTranslit=xuéyuàn
@@ -10590,6 +10967,7 @@
 33	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s378
+# parallel_id = zhgsd/test378
 # text = 為了紀念威廉三世和瑪麗二世，學院被命名為威廉與瑪麗學院，更因皇家憲章而必須「永遠地」保留這校名。
 # translit = wèilejìniànwēiliánsānshìhémǎlì'èrshì,xuéyuànbèimìngmíngwèiwēiliányǔmǎlìxuéyuàn,gèngyīnhuángjiāxiànzhāng'érbìxū‘yǒngyuǎnde’bǎoliúzhèxiàomíng.
 1	為了	為了	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
@@ -10625,6 +11003,7 @@
 31	。	。	PUNCT	.	_	28	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s379
+# parallel_id = zhgsd/test379
 # text = 威斯康辛號在1941年按照11%擴充法案，於費城造船廠開始建造，在1943年下水，於1944年服役。
 # translit = wēisīkāngxīnhàozài1941nián'ànzhào11%kuòchōngfǎ'àn,yúfèichéngzàochuánchǎngkāishǐjiànzào,zài1943niánxiàshuǐ,yú1944niánfúyì.
 1	威斯康辛	威斯康辛	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=wēisīkāngxīn|LTranslit=wēisīkāngxīn
@@ -10656,6 +11035,7 @@
 27	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s380
+# parallel_id = zhgsd/test380
 # text = 在盾的四周是威斯特法倫的王冠和代表法國的大鷹。
 # translit = zàidùndesìzhōushìwēisītèfǎlúndewángguānhédàibiǎofǎguódedàyīng.
 1	在	在	VERB	VV	_	8	csubj	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -10675,6 +11055,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s381
+# parallel_id = zhgsd/test381
 # text = 較近期的說法是極權主義或君主專制更偏重於對於領袖的個人崇拜，前者是真正的獨裁政體，後者則是君權神授或政教合一的制度，常以世襲的方式固定下來。
 # translit = jiàojìnqīdeshuōfǎshìjíquánzhǔyìhuòjūnzhǔzhuānzhìgèngpiānzhòngyúduìyúlǐngxiùdegèrénchóngbài,qiánzhěshìzhēnzhèngdedúcáizhèngtǐ,hòuzhězéshìjūnquánshénshòuhuòzhèngjiàohéyīdezhìdù,chángyǐshìxídefāngshìgùdìngxiàlái.
 1	較	較	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
@@ -10725,6 +11106,7 @@
 46	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s382
+# parallel_id = zhgsd/test382
 # text = 21世紀初，這些住房均為一位老阿媽家所有，其餘人家均為租住戶，租住戶大都在八廓附近有自己的生意。
 # translit = 21shìjìchū,zhèxiēzhùfángjūnwèiyīwèilǎo'āmājiāsuǒyǒu,qíyúrénjiājūnwèizūzhùhù,zūzhùhùdàdōuzàibākuòfùjìnyǒuzìjǐdeshēngyì.
 1	21	21	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=21|LTranslit=21
@@ -10764,6 +11146,7 @@
 35	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s383
+# parallel_id = zhgsd/test383
 # text = 《婚前特急》，2011年4月1日上映的日本電影。
 # translit = «hūnqiántèjí»,2011nián4yuè1rìshàngyìngderìběndiànyǐng.
 1	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
@@ -10784,6 +11167,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s384
+# parallel_id = zhgsd/test384
 # text = 人類婚姻史的第二時期，婦女勞動範圍逐漸變小，財富及繼承問題日趨突出，於是關於個人至親骨肉的後代觀念便成了婚姻的主導動機。
 # translit = rénlèihūnyīnshǐdedì'èrshíqī,fùnǚláodòngfànwéizhújiànbiànxiǎo,cáifùjíjìchéngwèntírìqūtūchū,yúshìguānyúgèrénzhìqīngǔròudehòudàiguānniànbiànchénglehūnyīndezhǔdǎodòngjī.
 1	人類	人類	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=rénlèi|LTranslit=rénlèi
@@ -10824,6 +11208,7 @@
 36	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s385
+# parallel_id = zhgsd/test385
 # text = 通常，婚姻是組成家庭的基礎和根據，是家庭成立的標誌。
 # translit = tōngcháng,hūnyīnshìzǔchéngjiātíngdejīchǔhégēnjù,shìjiātíngchénglìdebiāo誌.
 1	通常	通常	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=tōngcháng|LTranslit=tōngcháng
@@ -10845,6 +11230,7 @@
 17	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s386
+# parallel_id = zhgsd/test386
 # text = 青島天后宮始建於明代成化三年，初稱「天妃宮」，是青島市區現存最古老的明清磚木結構建築群。
 # translit = qīngdǎotiānhòugōngshǐjiànyúmíngdàichénghuàsānnián,chūchēng‘tiān妃gōng’,shìqīngdǎoshìqūxiàncúnzuìgǔlǎodemíngqīngzhuānmùjiégòujiànzhúqún.
 1	青島	青島	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=qīngdǎo|LTranslit=qīngdǎo
@@ -10879,6 +11265,7 @@
 30	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s387
+# parallel_id = zhgsd/test387
 # text = 唐國的末期國君叫做唐叔虞。
 # translit = tángguódemòqīguójūnjiàozuòtángshū虞.
 1	唐國	唐國	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=tángguó|LTranslit=tángguó
@@ -10891,6 +11278,7 @@
 8	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s388
+# parallel_id = zhgsd/test388
 # text = 河南中部某些方言中的子變韻已經成為殘餘現象。
 # translit = hénánzhōngbùmǒuxiēfāngyánzhōngdezibiàn韻yǐjīngchéngwèicányúxiànxiàng.
 1	河南	河南	PROPN	NNP	_	4	nmod	_	SpaceAfter=No|Translit=hénán|LTranslit=hénán
@@ -10909,6 +11297,7 @@
 14	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s389
+# parallel_id = zhgsd/test389
 # text = 孔恩瀑布由兩部分組成，西邊的是「桑法尼瀑布」，地勢較高，枯水時斷流，東邊的名為「發芬瀑布」（Phapheng Falls），是孔恩主瀑，孔恩瀑布總寬9.7公里，落差15~24米，年均流量1.2萬立方米/秒，號稱世界上最寬的瀑布。
 # translit = kǒng'ēnpùbùyóuliǎngbùfēnzǔchéng,xibiāndeshì‘sāngfǎnípùbù’,deshìjiàogāo,kūshuǐshíduànliú,dōngbiāndemíngwèi‘fāfēnpùbù’(Phapheng Falls),shìkǒng'ēnzhǔpù,kǒng'ēnpùbùzǒngkuān9.7gōnglǐ,luòchà15~24mǐ,niánjūnliúliàng1.2wànlìfāngmǐ/miǎo,hàochēngshìjièshàngzuìkuāndepùbù.
 1	孔恩	孔恩	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=kǒng'ēn|LTranslit=kǒng'ēn
@@ -10978,6 +11367,7 @@
 65	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s390
+# parallel_id = zhgsd/test390
 # text = 孔雀石和藍銅礦，來自美國亞利桑那州。
 # translit = kǒngquèshíhélántóngkuàng,láizìměiguóyàlìsāngnàzhōu.
 1	孔雀石	孔雀石	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=kǒngquèshí|LTranslit=kǒngquèshí
@@ -10992,6 +11382,7 @@
 10	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s391
+# parallel_id = zhgsd/test391
 # text = 它們在歐洲是較為普遍的蝴蝶。
 # translit = tāmenzài'ōuzhōushìjiàowèipǔbiàndehúdié.
 1	它們	它	PRON	PRP	Number=Plur|Person=3	8	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
@@ -11005,6 +11396,7 @@
 9	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s392
+# parallel_id = zhgsd/test392
 # text = 翅膀底色是銹紅色，翅端上有黑色、藍色及黃色的眼狀斑點。
 # translit = chìbǎngdǐsèshì銹hóngsè,chìduānshàngyǒuhēisè,lánsèjíhuángsèdeyǎnzhuàng斑diǎn.
 1	翅膀	翅膀	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=chìbǎng|LTranslit=chìbǎng
@@ -11027,6 +11419,7 @@
 18	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s393
+# parallel_id = zhgsd/test393
 # text = 1929年，十三世達賴喇嘛和九世班禪額爾德尼發生鬥爭。
 # translit = 1929nián,shísānshìdálàilǎmahéjiǔshìbān禪'é'ěrdénífāshēngdòuzhēng.
 1	1929	1929	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1929|LTranslit=1929
@@ -11046,6 +11439,7 @@
 15	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s394
+# parallel_id = zhgsd/test394
 # text = 為便利使用，形碼輸入法大多設有容錯碼、萬用碼以增加輸入法對於異體字的處理能力，有些還設有簡碼以加快輸入速度。
 # translit = wèibiànlìshǐyòng,xíngmǎshūrùfǎdàduōshèyǒuróngcuòmǎ,wànyòngmǎyǐzēngjiāshūrùfǎduìyúyìtǐzìdechùlǐnénglì,yǒuxiēháishèyǒujiǎnmǎyǐjiākuàishūrùsùdù.
 1	為	為	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -11084,6 +11478,7 @@
 34	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s395
+# parallel_id = zhgsd/test395
 # text = 孫中山故居紀念館坐落於中國廣東省中山市翠亨村。
 # translit = sūnzhōngshāngùjūjìniànguǎnzuòluòyúzhōngguóguǎngdōngshěngzhōngshānshì翠亨cūn.
 1	孫	孫	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=sūn|LTranslit=sūn
@@ -11103,6 +11498,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s396
+# parallel_id = zhgsd/test396
 # text = 1925年1月至5月，孫雲鵬擔任正太鐵路總工會會長（委員長）。
 # translit = 1925nián1yuèzhì5yuè,sūn雲鵬dānrènzhèngtàitiělùzǒnggōnghuìhuìzhǎng(wěiyuánzhǎng).
 1	1925	1925	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1925|LTranslit=1925
@@ -11128,6 +11524,7 @@
 21	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s397
+# parallel_id = zhgsd/test397
 # text = 孫嘯南舊居建築面積為420平方米，是一座三層磚木結構英庭院式樓房。
 # translit = sūnxiàonánjiùjūjiànzhúmiànjīwèi420píngfāngmǐ,shìyīzuòsāncéngzhuānmùjiégòuyīngtíngyuànshìlóufáng.
 1	孫	孫	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=sūn|LTranslit=sūn
@@ -11153,6 +11550,7 @@
 21	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s398
+# parallel_id = zhgsd/test398
 # text = 教育部在教育系統開展了「向孟二冬學習」的活動。
 # translit = jiàoyùbùzàijiàoyùxìtǒngkāizhǎnle‘xiàng孟'èrdōngxuéxí’dehuódòng.
 1	教育	教育	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=jiàoyù|LTranslit=jiàoyù
@@ -11173,6 +11571,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s399
+# parallel_id = zhgsd/test399
 # text = 2013年第十二屆全國運動會上，巴特爾已簽約遼寧出戰。
 # translit = 2013niándìshí'èrjièquánguóyùndònghuìshàng,batè'ěryǐqiānyuēliáoníngchūzhàn.
 1	2013	2013	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2013|LTranslit=2013
@@ -11192,6 +11591,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s400
+# parallel_id = zhgsd/test400
 # text = 巴特爾作為第二位加盟NBA之中國籃球運動員，於2001年與丹佛掘金隊簽約，成為第一個在NBA首發的中國球員。
 # translit = batè'ěrzuòwèidì'èrwèijiāméngNBAzhīzhōngguólánqiúyùndòngyuán,yú2001niányǔdānfújuéjīnduìqiānyuē,chéngwèidìyīgèzàiNBAshǒufādezhōngguóqiúyuán.
 1	巴特爾	巴特爾	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=batè'ěr|LTranslit=batè'ěr
@@ -11229,6 +11629,7 @@
 33	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s401
+# parallel_id = zhgsd/test401
 # text = 孟加拉狐是較為細小的狐狸，吻較長，耳朵尖長，尾巴約是體長的50-60%。
 # translit = 孟jiālāhúshìjiàowèixìxiǎodehúli,wěnjiàozhǎng,'ěrduojiānzhǎng,wěibayuēshìtǐzhǎngde50-60%.
 1	孟加拉狐	孟加拉狐	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=孟jiālāhú|LTranslit=孟jiālāhú
@@ -11255,6 +11656,7 @@
 22	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s402
+# parallel_id = zhgsd/test402
 # text = 884年秋，在李克用要求下，僖宗任李克脩為昭義節度使，使得昭義鎮出現了兩位節度使。
 # translit = 884niánqiū,zàilikèyòngyàoqiúxià,僖zōngrènlikè脩wèi昭yìjiédùshǐ,shǐde昭yìzhènchūxiànleliǎngwèijiédùshǐ.
 1	884	884	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=884|LTranslit=884
@@ -11288,6 +11690,7 @@
 29	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s403
+# parallel_id = zhgsd/test403
 # text = 孟道，五代十國邢州龍岡人，為邢州郡校。
 # translit = 孟dào,wǔdàishíguó邢zhōulónggāngrén,wèi邢zhōu郡xiào.
 1	孟	孟	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=孟|LTranslit=孟
@@ -11307,6 +11710,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s404
+# parallel_id = zhgsd/test404
 # text = 3月底，法軍攻佔澎湖；6月11日，孤拔因病死於澎湖馬公。
 # translit = 3yuèdǐ,fǎjūngōngzhànpēnghú;6yuè11rì,gūbáyīnbìngsǐyúpēnghúmǎgōng.
 1	3	3	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=3|LTranslit=3
@@ -11333,6 +11737,7 @@
 22	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s405
+# parallel_id = zhgsd/test405
 # text = 孤子波是一類由於非線性作用引起的橫波，它在運動過程中形狀保持不變。
 # translit = gūzibōshìyīlèiyóuyúfēixiànxìngzuòyòngyǐnqǐdehéngbō,tāzàiyùndòngguòchéngzhōngxíngzhuàngbǎochíbùbiàn.
 1	孤子	孤子	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=gūzi|LTranslit=gūzi
@@ -11359,6 +11764,7 @@
 22	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s406
+# parallel_id = zhgsd/test406
 # text = 孤海浮燈（The Likes of Us）是名作曲家安德魯·洛伊·韋伯的音樂劇，原書由萊斯利·湯瑪斯基於慈善家湯瑪斯·約翰成立貧困兒童院的真實故事創作。
 # translit = gūhǎifúdēng(The Likes of Us)shìmíngzuòqūjiā'āndélǔ·luòyī·韋bódeyīnlèjù,yuánshūyóuláisīlì·tāngmǎsījīyúcíshànjiātāngmǎsī·yuē翰chénglìpínkùnrtóngyuàndezhēnshígùshìchuàngzuò.
 1	孤海	孤海	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=gūhǎi|LTranslit=gūhǎi
@@ -11404,6 +11810,7 @@
 41	。	。	PUNCT	.	_	20	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s407
+# parallel_id = zhgsd/test407
 # text = 有觀點認為，朝鮮語和日語也是孤立語言，它們跟目前世界上已知的語系可能都沒有關聯。
 # translit = yǒuguāndiǎnrènwèi,cháoxiānyǔhérìyǔyěshìgūlìyǔyán,tāmengēnmùqiánshìjièshàngyǐzhīdeyǔxìkěnéngdōuméiyǒuguānlián.
 1	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -11434,6 +11841,7 @@
 26	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s408
+# parallel_id = zhgsd/test408
 # text = 知名的孤立語言如蘇美爾語、巴斯克語、阿伊努語等。
 # translit = zhīmíngdegūlìyǔyánrúsūměi'ěryǔ,basīkèyǔ,'āyīnǔyǔděng.
 1	知名	知名	ADJ	JJ	_	4	amod	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
@@ -11453,6 +11861,7 @@
 15	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s409
+# parallel_id = zhgsd/test409
 # text = 後來，孫楚先後升任第六旅旅長及第二軍第六師師長，任內曾經到日本參觀秋操。
 # translit = hòulái,sūnchuxiānhòushēngrèndìliùlǚlǚzhǎngjídì'èrjūndìliùshīshīzhǎng,rènnèicéngjīngdàorìběncānguānqiūcāo.
 1	後來	後來	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
@@ -11480,6 +11889,7 @@
 23	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s410
+# parallel_id = zhgsd/test410
 # text = 全國警察前五名的射擊能手，為人十分豪爽，恐怖事件開始之後，在機場擔任著警備工作，負責維持機場的運作暢通。
 # translit = quánguójǐngcháqiánwǔmíngdeshèjīnéngshǒu,wèirénshífēnháoshuǎng,kǒngbùshìjiànkāishǐzhīhòu,zàijīchǎngdānrènzhejǐngbèigōngzuò,fùzéwéichíjīchǎngdeyùnzuòchàngtōng.
 1	全國	全國	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=quánguó|LTranslit=quánguó
@@ -11516,6 +11926,7 @@
 32	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s411
+# parallel_id = zhgsd/test411
 # text = 角色名字參考日本知名漫畫家永井豪。
 # translit = jiǎosèmíngzìcānkǎorìběnzhīmíngmànhuàjiāyǒngjǐngháo.
 1	角色	角色	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=jiǎosè|LTranslit=jiǎosè
@@ -11530,6 +11941,7 @@
 10	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s412
+# parallel_id = zhgsd/test412
 # text = 1860年簽訂的中俄北京條約中規定清政府須將此地大部份割予沙俄，今歸俄羅斯濱海邊疆區所管。
 # translit = 1860niánqiāndìngdezhōng'éběijīngtiáoyuēzhōngguīdìngqīngzhèngfǔxūjiāngcǐdedàbùfèngēyǔshā'é,jīnguī'éluósībīnhǎibiānjiāngqūsuǒguǎn.
 1	1860	1860	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1860|LTranslit=1860
@@ -11563,6 +11975,7 @@
 29	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s413
+# parallel_id = zhgsd/test413
 # text = 寧武縣在中國山西省西北部、汾河和桑乾河上游，是忻州市所轄的一個縣。
 # translit = níngwǔxiànzàizhōngguóshānxishěngxiběibù,汾héhésāng乾héshàngyóu,shì忻zhōushìsuǒxiádeyīgèxiàn.
 1	寧武	寧武	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=níngwǔ|LTranslit=níngwǔ
@@ -11592,6 +12005,7 @@
 25	。	。	PUNCT	:	_	24	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s414
+# parallel_id = zhgsd/test414
 # text = 1840年以後，由於戰亂頻發，寧波人口增長緩慢，特別是抗日戰爭時期，寧波人口減少了近20%。
 # translit = 1840niányǐhòu,yóuyúzhànluànpínfā,níngbōrénkǒuzēngzhǎnghuǎnmàn,tèbiéshìkàngrìzhànzhēngshíqī,níngbōrénkǒujiǎnshǎolejìn20%.
 1	1840	1840	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1840|LTranslit=1840
@@ -11623,6 +12037,7 @@
 27	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s415
+# parallel_id = zhgsd/test415
 # text = 外來人口在為寧波帶來勞動力和經濟發展的同時，也帶來了社會治安狀況的下降和社會資源緊缺。
 # translit = wàiláirénkǒuzàiwèiníngbōdàiláiláodònglìhéjīngjìfāzhǎndetóngshí,yědàiláileshèhuìzhì'ānzhuàngkuàngdexiàjiànghéshèhuìzīyuánjǐnquē.
 1	外來	外來	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=wàilái|LTranslit=wàilái
@@ -11654,6 +12069,7 @@
 27	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s416
+# parallel_id = zhgsd/test416
 # text = 寧波最早的廣播電台開辦於1932年，為愛好者開辦的業餘廣播電台。
 # translit = níngbōzuìzǎodeguǎngbōdiàntáikāibànyú1932nián,wèi'àihǎozhěkāibàndeyèyúguǎngbōdiàntái.
 1	寧波	寧波	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=níngbō|LTranslit=níngbō
@@ -11677,6 +12093,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s417
+# parallel_id = zhgsd/test417
 # text = 至少從宋代開始，明州即供奉紀信為城隍。
 # translit = zhìshǎocóng宋dàikāishǐ,míngzhōujígōngfèngjìxìnwèichéng隍.
 1	至少	至少	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zhìshǎo|LTranslit=zhìshǎo
@@ -11693,6 +12110,7 @@
 12	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s418
+# parallel_id = zhgsd/test418
 # text = 2004年起，原效實中學高中所轄「國際部」取消，其編製劃入寧波外國語學校編製內，稱為「寧波外國語學校高中部」。
 # translit = 2004niánqǐ,yuánxiàoshízhōngxuégāozhōngsuǒxiá‘guójìbù’qǔxiāo,qíbiānzhìhuàrùníngbōwàiguóyǔxuéxiàobiānzhìnèi,chēngwèi‘níngbōwàiguóyǔxuéxiàogāozhōngbù’.
 1	2004	2004	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=2004|LTranslit=2004
@@ -11734,6 +12152,7 @@
 37	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s419
+# parallel_id = zhgsd/test419
 # text = 寧波效實中學是一所位於中國浙江省寧波市的高級中學，有100餘年歷史，原為私立中學。
 # translit = níngbōxiàoshízhōngxuéshìyīsuǒwèiyúzhōngguó浙jiāngshěngníngbōshìdegāojízhōngxué,yǒu100yúniánlìshǐ,yuánwèisīlìzhōngxué.
 1	寧波	寧波	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=níngbō|LTranslit=níngbō
@@ -11766,6 +12185,7 @@
 28	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s420
+# parallel_id = zhgsd/test420
 # text = 但在動畫版中，由於得到JAXA的協助，得以使用真實姓名。
 # translit = dànzàidònghuàbǎnzhōng,yóuyúdedàoJAXAdexiézhù,deyǐshǐyòngzhēnshíxìngmíng.
 1	但	但	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
@@ -11788,6 +12208,7 @@
 18	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s421
+# parallel_id = zhgsd/test421
 # text = 天娛傳媒旗下「國民美女」楊洋，經過精心籌備即發行個人首張EP，歌曲頗具文藝氣質，配上楊洋乾淨聲線，為華語樂壇又帶來了多首獨特清新的民謠新作。
 # translit = tiānyúchuánméiqíxià‘guómínměinǚ’yángyáng,jīngguòjīngxīn籌bèijífāxínggèrénshǒuzhāngEP,gēqūpōjùwényìqìzhì,pèishàngyángyáng乾jìngshēngxiàn,wèihuáyǔlè壇yòudàiláileduōshǒudútèqīngxīndemínyáoxīnzuò.
 1	天娛	天娛	PROPN	NNP	_	6	nmod	_	SpaceAfter=No|Translit=tiānyú|LTranslit=tiānyú
@@ -11839,6 +12260,7 @@
 47	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s422
+# parallel_id = zhgsd/test422
 # text = 他還掌握了雷系查克拉的「狀態變化」，可以不藉助任何媒介使查克拉刀任意變化。
 # translit = tāháizhǎngwòleléixìchákèlāde‘zhuàngtàibiànhuà’,kěyǐbù藉zhùrènhéméijièshǐchákèlādāorènyìbiànhuà.
 1	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -11866,6 +12288,7 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s423
+# parallel_id = zhgsd/test423
 # text = 唯一的財源為青光石，由附近的鄰國以穀物來購買。
 # translit = wéiyīdecáiyuánwèiqīngguāngshí,yóufùjìndelínguóyǐ穀wùláigòumǎi.
 1	唯一	唯一	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=wéiyī|LTranslit=wéiyī
@@ -11886,6 +12309,7 @@
 16	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s424
+# parallel_id = zhgsd/test424
 # text = 觀察空中星宿位置的模様，以占卜未來「天道」的學問，來作為學習基礎的制度（不過問身份、只要擁有廣泛才能的人就能被選上）。
 # translit = guānchákōngzhōngxīngsùwèizhìdemó様,yǐzhànbowèilái‘tiāndào’dexuéwèn,láizuòwèixuéxíjīchǔdezhìdù(bùguòwènshēnfèn,zhǐyàoyōngyǒuguǎngfàncáinéngderénjiùnéngbèixuǎnshàng).
 1	觀察	觀察	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=guānchá|LTranslit=guānchá
@@ -11930,6 +12354,7 @@
 40	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s425
+# parallel_id = zhgsd/test425
 # text = 他在1990年友好運動會和1991年世界游泳錦標賽上也都奪得了金牌。
 # translit = tāzài1990niányouhǎoyùndònghuìhé1991niánshìjièyóuyǒngjǐnbiāosàishàngyědōuduódelejīnpái.
 1	他	他	PRON	PRP	Person=3	18	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -11955,6 +12380,7 @@
 21	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s426
+# parallel_id = zhgsd/test426
 # text = 他幾次搬家和轉學，同時尋找他可以充分發揮他才華的地方。
 # translit = tājǐcìbānjiāhézhuǎnxué,tóngshíxúnzhǎotākěyǐchōngfēnfāhuītācáihuádedefāng.
 1	他	他	PRON	PRP	Person=3	9	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -11977,6 +12403,7 @@
 18	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s427
+# parallel_id = zhgsd/test427
 # text = 他的繪畫作品已經開始被歐洲的不同私人收藏家收藏。
 # translit = tādehuìhuàzuòpǐnyǐjīngkāishǐbèi'ōuzhōudebùtóngsīrénshōucángjiāshōucáng.
 1	他	他	PRON	PRP	Person=3	4	det	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -11996,6 +12423,7 @@
 15	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s428
+# parallel_id = zhgsd/test428
 # text = 在一些城市中，每層的門窗都會安裝鐵柵欄，另有一些宅邸的每間房都會安裝安全門，為安全部隊的抵達爭取時間。
 # translit = zàiyīxiēchéngshìzhōng,měicéngdeménchuāngdōuhuì'ānzhuāngtiě柵lán,lìngyǒuyīxiēzhái邸deměijiānfángdōuhuì'ānzhuāng'ānquánmén,wèi'ānquánbùduìdedǐdázhēngqǔshíjiān.
 1	在	在	ADP	IN	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -12034,6 +12462,7 @@
 34	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s429
+# parallel_id = zhgsd/test429
 # text = 越來越多的輪船也開始提供安全室作為反海盜的手段。
 # translit = yuèláiyuèduōdelúnchuányěkāishǐtígōng'ānquánshìzuòwèifǎnhǎidàodeshǒuduàn.
 1	越來越	越來越	ADV	RB	_	2	advmod	_	SpaceAfter=No|Translit=yuèláiyuè|LTranslit=yuèláiyuè
@@ -12054,6 +12483,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s430
+# parallel_id = zhgsd/test430
 # text = 據阿卡德史詩《埃努瑪·埃利什》的記載，安努是安莎爾與吉莎爾之子。
 # translit = jù'ākǎdéshǐshī«'āinǔmǎ·'āilìshén»dejìzài,'ānnǔshì'ānshā'ěryǔjíshā'ěrzhīzi.
 1	據	據	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=jù|LTranslit=jù
@@ -12077,6 +12507,7 @@
 19	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s431
+# parallel_id = zhgsd/test431
 # text = 航空公司成立於1987年並完全由TAAG安哥拉航空擁有。
 # translit = hángkōnggōngsīchénglìyú1987niánbìngwánquányóuTAAG'āngēlāhángkōngyōngyǒu.
 1	航空	航空	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=hángkōng|LTranslit=hángkōng
@@ -12095,6 +12526,7 @@
 14	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s432
+# parallel_id = zhgsd/test432
 # text = 此外，他還創辦了北京市伊斯蘭教經學院，並曾任中國伊斯蘭教經學院與北京市伊斯蘭教經學院院長。
 # translit = cǐwài,tāháichuàngbànleběijīngshìyīsīlánjiàojīngxuéyuàn,bìngcéngrènzhōngguóyīsīlánjiàojīngxuéyuànyǔběijīngshìyīsīlánjiàojīngxuéyuànyuànzhǎng.
 1	此外	此外	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=cǐwài|LTranslit=cǐwài
@@ -12129,6 +12561,7 @@
 30	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s433
+# parallel_id = zhgsd/test433
 # text = 1989年到1994年，她擔任芝加哥大學法學院的教授。
 # translit = 1989niándào1994nián,tādānrènzhījiāgēdàxuéfǎxuéyuàndejiàoshòu.
 1	1989	1989	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1989|LTranslit=1989
@@ -12148,6 +12581,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s434
+# parallel_id = zhgsd/test434
 # text = 1941年夏天，安妮姐妹倆因此不得不轉入猶太人學校就讀，在此期間安妮開始寫日記。
 # translit = 1941niánxiàtiān,'ān妮jiemèiliǎyīncǐbùdebùzhuǎnrùyóutàirénxuéxiàojiùdú,zàicǐqījiān'ān妮kāishǐxiěrìjì.
 1	1941	1941	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=1941|LTranslit=1941
@@ -12177,6 +12611,7 @@
 25	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s435
+# parallel_id = zhgsd/test435
 # text = 同年接近年尾時，艾迪特帶著安妮與瑪戈到居於亞琛的外婆羅莎·霍德蘭的家中居住，而奧托則繼續留在法蘭克福，直至他收到在荷蘭阿姆斯特丹開設公司的邀請。
 # translit = tóngniánjiējìnniánwěishí,'àidítèdàizhe'ān妮yǔmǎ戈dàojūyúyà琛dewàipóluóshā·霍délándejiāzhōngjūzhù,'ér'àotuōzéjìxùliúzàifǎlánkèfú,zhízhìtāshōudàozàihélán'āmǔsītèdānkāishègōngsīdeyāoqǐng.
 1	同年	同年	NOUN	NN	_	2	nmod:tmod	_	SpaceAfter=No|Translit=tóngnián|LTranslit=tóngnián
@@ -12224,6 +12659,7 @@
 43	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s436
+# parallel_id = zhgsd/test436
 # text = 洛姬諾娃也是俄羅斯最有名的女保鏢之一。
 # translit = luò姬nuòwáyěshì'éluósīzuìyǒumíngdenǚbǎo鏢zhīyī.
 1	洛姬諾娃	洛姬諾娃	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=luò姬nuòwá|LTranslit=luò姬nuòwá
@@ -12239,6 +12675,7 @@
 11	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s437
+# parallel_id = zhgsd/test437
 # text = 根據台灣烏克蘭籍藝人瑞莎的說法，瑞紗與貝索諾娃在德里烏矜斯學校同時接受韻律體操的訓練，住在同一間寢室。
 # translit = gēnjùtáiwānwūkèlánjíyìrénruìshādeshuōfǎ,ruìshāyǔbèisuǒnuòwázàidélǐwū矜sīxuéxiàotóngshíjiēshòu韻lǜtǐcāodexunliàn,zhùzàitóngyījiān寢shì.
 1	根據	根據	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=gēnjù|LTranslit=gēnjù
@@ -12272,6 +12709,7 @@
 29	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s438
+# parallel_id = zhgsd/test438
 # text = 8月25日下午1時，國民黨成立大會在湖廣會館召開。
 # translit = 8yuè25rìxiàwǔ1shí,guómíndǎngchénglìdàhuìzàihúguǎnghuìguǎnzhàokāi.
 1	8	8	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=8|LTranslit=8
@@ -12293,6 +12731,7 @@
 17	。	。	PUNCT	.	_	16	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s439
+# parallel_id = zhgsd/test439
 # text = 在丹麥，一個人的姓名只用首字大寫字母表示是個被接受的慣例，正如美國人姓名的中間單詞用單詞的首字大寫字母代替。
 # translit = zàidānmài,yīgèréndexìngmíngzhǐyòngshǒuzìdàxiězìmǔbiǎoshìshìgèbèijiēshòudeguànlì,zhèngrúměiguórénxìngmíngdezhōngjiāndāncíyòngdāncídeshǒuzìdàxiězìmǔdàitì.
 1	在	在	VERB	VV	_	20	acl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -12334,6 +12773,7 @@
 37	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s440
+# parallel_id = zhgsd/test440
 # text = 印度安得拉邦分為23個縣：
 # translit = yìndù'āndelābāngfēnwèi23gèxiàn:
 1	印度	印度	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=yìndù|LTranslit=yìndù
@@ -12347,6 +12787,7 @@
 9	：	：	PUNCT	:	_	4	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 
 # sent_id = test-s441
+# parallel_id = zhgsd/test441
 # text = 考南德出生在巴黎，1930年移居美國，1941年加入美國國籍。
 # translit = kǎonándéchūshēngzàibalí,1930niányíjūměiguó,1941niánjiārùměiguóguójí.
 1	考南德	考南德	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=kǎonándé|LTranslit=kǎonándé
@@ -12367,6 +12808,7 @@
 16	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s442
+# parallel_id = zhgsd/test442
 # text = 1764年，馬塞納的父親去世，母親改嫁，他被送到親戚處寄養。
 # translit = 1764nián,mǎsāinàdefùqīnqùshì,mǔqīngǎijià,tābèisòngdàoqīnqichùjìyǎng.
 1	1764	1764	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1764|LTranslit=1764
@@ -12389,6 +12831,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s443
+# parallel_id = zhgsd/test443
 # text = 該文化的地理分布範圍和界限很難精確確定。
 # translit = gāiwénhuàdedelǐfēnbùfànwéihéjièxiànhěnnánjīngquèquèdìng.
 1	該	該	DET	DT	_	2	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
@@ -12405,6 +12848,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s444
+# parallel_id = zhgsd/test444
 # text = 目前他效力於德甲球隊美因茨。
 # translit = mùqiántāxiàolìyúdéjiǎqiúduìměiyīn茨.
 1	目前	目前	NOUN	NN	_	3	nmod:tmod	_	SpaceAfter=No|Translit=mùqián|LTranslit=mùqián
@@ -12417,6 +12861,7 @@
 8	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s445
+# parallel_id = zhgsd/test445
 # text = 手提箱載有的就是他在西班牙內戰時間拍攝的3500張底片。
 # translit = shǒutíxiāngzàiyǒudejiùshìtāzàixibānyánèizhànshíjiānpāishède3500zhāngdǐpiàn.
 1	手提	手提	VERB	VV	_	2	compound	_	SpaceAfter=No|Translit=shǒutí|LTranslit=shǒutí
@@ -12437,6 +12882,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s446
+# parallel_id = zhgsd/test446
 # text = 然而再回到倫敦的暗房沖洗時，工作人員的失誤毀掉了絕大多數底片，經過一番努力，搶救出了其中的11張。
 # translit = rán'érzàihuídàolún敦de'ànfángchōngxǐshí,gōngzuòrényuándeshīwùhuǐdiàolejuédàduōshùdǐpiàn,jīngguòyīfānnǔlì,qiǎngjiùchūleqízhōngde11zhāng.
 1	然而	然而	SCONJ	RB	_	14	mark	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
@@ -12474,6 +12920,7 @@
 33	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s447
+# parallel_id = zhgsd/test447
 # text = 就我所知，他是最不適合擔當此職者之一。
 # translit = jiùwǒsuǒzhī,tāshìzuìbùshìhédāndāngcǐzhízhězhīyī.
 1	就	就	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
@@ -12494,6 +12941,7 @@
 16	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s448
+# parallel_id = zhgsd/test448
 # text = 1960年9月30日，安徽電視台開播，是中國最早建立的省級電視臺之一。
 # translit = 1960nián9yuè30rì,'ān徽diànshìtáikāibō,shìzhōngguózuìzǎojiànlìdeshěngjídiànshì臺zhīyī.
 1	1960	1960	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
@@ -12521,6 +12969,7 @@
 23	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s449
+# parallel_id = zhgsd/test449
 # text = 這是繼CCTV電視劇頻道、湖南電視台衛星頻道之後，中國大陸第三家引進泰國電視劇的電視機構。
 # translit = zhèshìjìCCTVdiànshìjùpíndào,húnándiànshìtáiwèixīngpíndàozhīhòu,zhōngguódàlùdìsānjiāyǐnjìntàiguódiànshìjùdediànshìjīgòu.
 1	這	這	PRON	PRD	_	26	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -12552,6 +13001,7 @@
 27	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s450
+# parallel_id = zhgsd/test450
 # text = 當年冬，安徽省高等法院遷回安慶原址辦公。
 # translit = dāngniándōng,'ān徽shěnggāoděngfǎyuànqiānhuí'ānqìngyuánzhǐbàngōng.
 1	當年	當年	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=dāngnián|LTranslit=dāngnián
@@ -12568,6 +13018,7 @@
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s451
+# parallel_id = zhgsd/test451
 # text = 1917年，在巴埃薩，他認識了費德里克加西亞洛爾迦，他們建立了偉大的友誼。
 # translit = 1917nián,zàiba'āisà,tārènshilefèidélǐkèjiāxiyàluò'ěr迦,tāmenjiànlìlewěidàdeyouyì.
 1	1917	1917	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1917|LTranslit=1917
@@ -12592,6 +13043,7 @@
 20	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s452
+# parallel_id = zhgsd/test452
 # text = 依據《海巡勤務》所列，安檢所內一般勤務可分為幾種：值班、安檢、守望、監卸、巡邏、備勤。
 # translit = yījù«hǎixúnqínwu»suǒliè,'ānjiǎnsuǒnèiyībānqínwukěfēnwèijǐzhǒng:zhíbān,'ānjiǎn,shǒuwàng,jiānxiè,xúnluó,bèiqín.
 1	依據	依據	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=yījù|LTranslit=yījù
@@ -12627,6 +13079,7 @@
 31	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s453
+# parallel_id = zhgsd/test453
 # text = 進出港的船隻均需經過海巡人員的安檢，故安檢所均配合派員執行此一勤務。
 # translit = jìnchūgǎngdechuán隻jūnxūjīngguòhǎixúnrényuánde'ānjiǎn,gù'ānjiǎnsuǒjūnpèihépàiyuánzhíxíngcǐyīqínwu.
 1	進出港	進出港	VERB	VV	_	3	acl:relcl	_	SpaceAfter=No|Translit=jìnchūgǎng|LTranslit=jìnchūgǎng
@@ -12653,6 +13106,7 @@
 22	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s454
+# parallel_id = zhgsd/test454
 # text = 現時該公司市場遍佈香港、澳門、中國大陸、台灣、日本、馬來西亞、泰國、汶萊、印度等地。
 # translit = xiànshígāigōngsīshìchǎngbiàn佈xiānggǎng,'àomén,zhōngguódàlù,táiwān,rìběn,mǎláixiyà,tàiguó,汶lái,yìndùděngde.
 1	現時	現時	NOUN	NN	_	5	nmod:tmod	_	SpaceAfter=No|Translit=xiànshí|LTranslit=xiànshí
@@ -12683,6 +13137,7 @@
 26	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s455
+# parallel_id = zhgsd/test455
 # text = 安班加縣（Ambanja District）位於馬達加斯加北部，是安齊拉納納省的一部分，面積6,328平方公里（2,443平方英哩），2001年人口125,056，人口密度為每平方公里19.8人（每平方英哩2,443.3人）。
 # translit = 'ānbānjiāxiàn(Ambanja District)wèiyúmǎdájiāsījiāběibù,shì'ānqílānànàshěngdeyībùfēn,miànjī6,328píngfānggōnglǐ(2,443píngfāngyīngli),2001niánrénkǒu125,056,rénkǒumìdùwèiměipíngfānggōnglǐ19.8rén(měipíngfāngyīngli2,443.3rén).
 1	安班加	安班加	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit='ānbānjiā|LTranslit='ānbānjiā
@@ -12732,6 +13187,7 @@
 45	。	。	PUNCT	.	_	17	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s456
+# parallel_id = zhgsd/test456
 # text = 現時首席執行官為Stuart Harrison。
 # translit = xiànshíshǒuxízhíxíngguānwèiStuart Harrison.
 1	現時	現時	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No|Translit=xiànshí|LTranslit=xiànshí
@@ -12744,6 +13200,7 @@
 8	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s457
+# parallel_id = zhgsd/test457
 # text = Anggun是世界上最成功的亞裔歌手，在法國、美國、巴西、比利時、義大利、新加坡、印尼、馬來西亞、芬蘭、瑞士、西班牙、俄羅斯、德國、加拿大、荷蘭、希臘、菲律賓、汶萊、日本等40多個國家也有著高知名度。
 # translit = Anggunshìshìjièshàngzuìchénggōngdeyà裔gēshǒu,zàifǎguó,měiguó,baxi,bǐlìshí,yìdàlì,xīnjiāpō,yìnní,mǎláixiyà,fēnlán,ruìshì,xibānyá,'éluósī,déguó,jiānádà,hélán,xī臘,fēilǜbīn,汶lái,rìběnděng40duōgèguójiāyěyǒuzhegāozhīmíngdù.
 1	Anggun	Anggun	X	FW	Foreign=Yes	55	nsubj	_	SpaceAfter=No|Translit=Anggun|LTranslit=Anggun
@@ -12808,6 +13265,7 @@
 60	。	。	PUNCT	.	_	55	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s458
+# parallel_id = zhgsd/test458
 # text = 恆河和雅魯藏布江河口均流出至安達曼海。
 # translit = hénghéhé雅lǔcángbùjiānghékǒujūnliúchūzhì'āndámànhǎi.
 1	恆河	恆河	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=hénghé|LTranslit=hénghé
@@ -12823,6 +13281,7 @@
 11	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s459
+# parallel_id = zhgsd/test459
 # text = 他效力於瑞典球會佐加頓斯至2009年6月合約結束。
 # translit = tāxiàolìyúruìdiǎnqiúhuì佐jiādùnsīzhì2009nián6yuèhéyuējiéshù.
 1	他	他	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -12841,6 +13300,7 @@
 14	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s460
+# parallel_id = zhgsd/test460
 # text = 他還曾效力比摩治、奧林比查和馬利迪莫，他曾引起了多間球會注意，如士砵亭、紐卡素和多蒙特。
 # translit = tāháicéngxiàolìbǐmózhì,'àolínbǐcháhémǎlìdímò,tācéngyǐnqǐleduōjiānqiúhuìzhùyì,rúshì砵tíng,niǔkǎsùhéduōméngtè.
 1	他	他	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -12871,6 +13331,7 @@
 26	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s461
+# parallel_id = zhgsd/test461
 # text = 此外當局亦會研究興建垂直運輸系統，提供無障礙的便利連接，以及在岩洞提供商業設施，例如餐廳及咖啡廳。
 # translit = cǐwàidāngjúyìhuìyánjiūxìngjiànchuízhíyùnshūxìtǒng,tígōngwúzhàng'àidebiànlìliánjiē,yǐjízàiyándòngtígōngshāngyèshèshī,lìrúcāntīngjíkāfēitīng.
 1	此外	此外	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=cǐwài|LTranslit=cǐwài
@@ -12905,6 +13366,7 @@
 30	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s462
+# parallel_id = zhgsd/test462
 # text = 相關基建工程在2015年中完成後，將提供道路連接安達臣道及安達臣道石礦場發展計劃用地。
 # translit = xiāngguānjījiàngōngchéngzài2015niánzhōngwánchénghòu,jiāngtígōngdàolùliánjiē'āndáchéndàojí'āndáchéndàoshíkuàngchǎngfāzhǎnjìhuàyòngde.
 1	相關	相關	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=xiāngguān|LTranslit=xiāngguān
@@ -12934,6 +13396,7 @@
 25	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s463
+# parallel_id = zhgsd/test463
 # text = 而岩壁及石礦公園的設計及工程將會考慮採納早前在公眾參與活動中舉行概念設計比賽的參賽作品，由康樂及文化事務署所獲得的撥款進行。
 # translit = 'éryánbìjíshíkuànggōngyuándeshèjìjígōngchéngjiānghuìkǎolǜcǎinàzǎoqiánzàigōngzhòngcānyǔhuódòngzhōngjǔxínggàiniànshèjìbǐsàidecānsàizuòpǐn,yóukānglèjíwénhuàshìwushǔsuǒhuòdedebōkuǎnjìnxíng.
 1	而	而	SCONJ	RB	_	38	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -12977,6 +13440,7 @@
 39	。	。	PUNCT	.	_	38	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s464
+# parallel_id = zhgsd/test464
 # text = 冬天的高原更是特別的嚴峻。
 # translit = dōngtiāndegāoyuángèngshìtèbiédeyánjùn.
 1	冬天	冬天	NOUN	NN	_	3	nmod	_	SpaceAfter=No|Translit=dōngtiān|LTranslit=dōngtiān
@@ -12989,6 +13453,7 @@
 8	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s465
+# parallel_id = zhgsd/test465
 # text = 最熱的地區是科尼亞盆地和馬拉蒂亞盆地，年降雨量常常少於300毫米。
 # translit = zuìrèdedeqūshìkēníyàpéndehémǎlādìyàpénde,niánjiàngyǔliàngchángchángshǎoyú300háomǐ.
 1	最熱	最熱	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=zuìrè|LTranslit=zuìrè
@@ -13012,6 +13477,7 @@
 19	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s466
+# parallel_id = zhgsd/test466
 # text = 安陽縣是中國河南省安陽市下轄的一個縣，位於河南省北緣，安陽市北部。
 # translit = 'ānyángxiànshìzhōngguóhénánshěng'ānyángshìxiàxiádeyīgèxiàn,wèiyúhénánshěngběiyuán,'ānyángshìběibù.
 1	安陽	安陽	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit='ānyáng|LTranslit='ānyáng
@@ -13040,6 +13506,7 @@
 24	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s467
+# parallel_id = zhgsd/test467
 # text = 她其後更與Elite簽約。
 # translit = tāqíhòugèngyǔEliteqiānyuē.
 1	她	她	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -13051,6 +13518,7 @@
 7	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s468
+# parallel_id = zhgsd/test468
 # text = 塔內每層都有一道寬6尺寬的走廊，遊客可到走廊欣賞安順市的景色。
 # translit = tǎnèiměicéngdōuyǒuyīdàokuān6chǐkuāndezǒu廊,yóukèkědàozǒu廊xīnshǎng'ānshùnshìdejǐngsè.
 1	塔內	塔內	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=tǎnèi|LTranslit=tǎnèi
@@ -13078,6 +13546,7 @@
 23	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s469
+# parallel_id = zhgsd/test469
 # text = 由於宋軍人數太少，劉平、石元孫被俘。
 # translit = yóuyú宋jūnrénshùtàishǎo,劉píng,shíyuánsūnbèifú.
 1	由於	由於	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
@@ -13096,6 +13565,7 @@
 14	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s470
+# parallel_id = zhgsd/test470
 # text = 1952年12月美國總統艾森豪威爾訪問韓國，他擔任檢閱主管。
 # translit = 1952nián12yuèměiguózǒngtǒng'àisēnháowēi'ěrfǎngwèn韓guó,tādānrènjiǎnyuèzhǔguǎn.
 1	1952	1952	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1952|LTranslit=1952
@@ -13115,6 +13585,7 @@
 15	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s471
+# parallel_id = zhgsd/test471
 # text = 1960年3·15選舉舞弊引發群眾抗議示威，學生示威擴大為4·19學運，他任戒嚴司令官，1960年5月辭去陸軍參謀長職務，並在美國留學1年，1961年5月在華盛頓DC訪問時得知5.16軍事政變的消息。
 # translit = 1960nián3·15xuǎnjǔwǔ弊yǐnfāqúnzhòngkàngyìshìwēi,xuéshēngshìwēikuòdàwèi4·19xuéyùn,tārènjièyánsīlìngguān,1960nián5yuècíqùlùjūncānmóuzhǎngzhíwu,bìngzàiměiguóliúxué1nián,1961nián5yuèzàihuáshèngdùnDCfǎngwènshídezhī5.16jūnshìzhèngbiàndexiāoxi.
 1	1960	1960	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=1960|LTranslit=1960
@@ -13175,6 +13646,7 @@
 56	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s472
+# parallel_id = zhgsd/test472
 # text = 抗戰勝利後，兼辦《天行報》、《原子能》雜誌。
 # translit = kàngzhànshènglìhòu,jiānbàn«tiānxíngbào»,«yuánzinéng»zá誌.
 1	抗戰	抗戰	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=kàngzhàn|LTranslit=kàngzhàn
@@ -13196,6 +13668,7 @@
 17	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s473
+# parallel_id = zhgsd/test473
 # text = 神學是自覺宗教與自發宗教的最大分別，因為神學有其理論化及系統化，而自發宗教是不具神學體系的。
 # translit = shénxuéshìzìjuézōngjiàoyǔzìfāzōngjiàodezuìdàfēnbié,yīnwèishénxuéyǒuqílǐlùnhuàjíxìtǒnghuà,'érzìfāzōngjiàoshìbùjùshénxuétǐxìde.
 1	神學	神學	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=shénxué|LTranslit=shénxué
@@ -13231,6 +13704,7 @@
 31	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s474
+# parallel_id = zhgsd/test474
 # text = 這種信仰被視為萬物的起源和歸宿，一切存在的根基及依據。
 # translit = zhèzhǒngxìnyǎngbèishìwèiwànwùdeqǐyuánhéguīsù,yīqiècúnzàidegēnjījíyījù.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -13254,6 +13728,7 @@
 19	。	。	PUNCT	.	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s475
+# parallel_id = zhgsd/test475
 # text = 不料明軍艦隊挺進江面後，以大斧斫斷大鐵索，逆流而上。
 # translit = bùliàomíngjūnjiànduìtǐngjìnjiāngmiànhòu,yǐdàfǔ斫duàndàtiěsuǒ,逆liú'érshàng.
 1	不料	料	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùliào|LTranslit=liào
@@ -13276,6 +13751,7 @@
 18	。	。	PUNCT	.	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s476
+# parallel_id = zhgsd/test476
 # text = 英語中定語從句中甚至還可能包含定語從句，即多重定語從句。
 # translit = yīngyǔzhōngdìngyǔcóngjùzhōngshénzhìháikěnéngbāohándìngyǔcóngjù,jíduōzhòngdìngyǔcóngjù.
 1	英	英	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=yīng|LTranslit=yīng
@@ -13299,6 +13775,7 @@
 19	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s477
+# parallel_id = zhgsd/test477
 # text = 就像所有的大賣場一樣，宜家家居吸引的消費者來自於範圍非常廣大的地區。
 # translit = jiùxiàngsuǒyǒudedàmàichǎngyīyàng,yijiājiājūxīyǐndexiāofèizhěláizìyúfànwéifēichángguǎngdàdedeqū.
 1	就	就	SCONJ	RB	_	7	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
@@ -13326,6 +13803,7 @@
 23	。	。	PUNCT	.	_	15	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s478
+# parallel_id = zhgsd/test478
 # text = 這樣的結果是可以生產出具有高度適應力的傢具，無論是大型房屋還是為數越來越眾多卻受到忽略的小型寓所，這些傢具都能夠改變大小來容納。
 # translit = zhèyàngdejiéguǒshìkěyǐshēngchǎnchūjùyǒugāodùshìyīnglìde傢jù,wúlùnshìdàxíngfángwūháishìwèishùyuèláiyuèzhòngduōquèshòudàohū'èdexiǎoxíngyùsuǒ,zhèxiē傢jùdōunénggòugǎibiàndàxiǎoláiróngnà.
 1	這樣	這樣	PRON	PRD	_	3	det	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
@@ -13368,6 +13846,7 @@
 38	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s479
+# parallel_id = zhgsd/test479
 # text = 宜都市是地處中華人民共和國湖北省西南部的一個縣級市，隸屬地級宜昌市管轄，位於長江南岸，長江與其支流清江交匯處。
 # translit = yidōushìshìdechùzhōnghuárénmíngònghéguóhúběishěngxinánbùdeyīgèxiànjíshì,lìshǔdejíyi昌shìguǎnxiá,wèiyúzhǎngjiāngnán'àn,zhǎngjiāngyǔqízhīliúqīngjiāngjiāohuìchù.
 1	宜都	宜都	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=yidōu|LTranslit=yidōu
@@ -13410,6 +13889,7 @@
 38	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s480
+# parallel_id = zhgsd/test480
 # text = 宜都市處於鄂西山地和江漢平原過渡地帶，地勢西南高、東北低，由西南向東北傾斜，是一個丘陵起伏的半山區。
 # translit = yidōushìchùyú鄂xishāndehéjiānghànpíngyuánguòdùdedài,deshìxinángāo,dōngběidī,yóuxinánxiàngdōngběiqīngxié,shìyīgèqiūlíngqǐfúdebànshānqū.
 1	宜都	宜都	PROPN	NNP	_	2	compound	_	SpaceAfter=No|Translit=yidōu|LTranslit=yidōu
@@ -13449,6 +13929,7 @@
 35	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s481
+# parallel_id = zhgsd/test481
 # text = 2012年3月15日，徐明遭到了中紀委調查，大連實德集團表示徐明已失去聯絡半個月。
 # translit = 2012nián3yuè15rì,xúmíngzāodàolezhōngjìwěidiàochá,dàliánshídéjítuánbiǎoshìxúmíngyǐshīqùliánluòbàngèyuè.
 1	2012	2012	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2012|LTranslit=2012
@@ -13480,6 +13961,7 @@
 27	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s482
+# parallel_id = zhgsd/test482
 # text = 實德集團是大連市的一家民營企業，成立於1992年。
 # translit = shídéjítuánshìdàliánshìdeyījiāmínyíngqǐyè,chénglìyú1992nián.
 1	實德	實德	PROPN	NNP	_	2	nmod	_	SpaceAfter=No|Translit=shídé|LTranslit=shídé
@@ -13501,6 +13983,7 @@
 17	。	。	PUNCT	.	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s483
+# parallel_id = zhgsd/test483
 # text = 總部位於大連市西崗區高爾基路38號。
 # translit = zǒngbùwèiyúdàliánshìxigǎngqūgāo'ěrjīlù38hào.
 1	總部	總部	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=zǒngbù|LTranslit=zǒngbù
@@ -13517,6 +14000,7 @@
 12	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s484
+# parallel_id = zhgsd/test484
 # text = 在戲劇上，審美距離指觀眾不應混淆舞台表演與現實世界的距離。
 # translit = zàixìjùshàng,shěnměijùlízhǐguānzhòngbùyīnghùn淆wǔtáibiǎoyǎnyǔxiànshíshìjièdejùlí.
 1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -13539,6 +14023,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s485
+# parallel_id = zhgsd/test485
 # text = 審美距離的存在並不排除觀眾方面出現某種「對號入座」的現象。
 # translit = shěnměijùlídecúnzàibìngbùpáichúguānzhòngfāngmiànchūxiànmǒuzhǒng‘duìhàorùzuò’dexiànxiàng.
 1	審美	審美	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=shěnměi|LTranslit=shěnměi
@@ -13561,6 +14046,7 @@
 18	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s486
+# parallel_id = zhgsd/test486
 # text = 主要職責是管理宮廷的修繕、食事、掃除、醫療等事庶務，以及天皇財産的管理。
 # translit = zhǔyàozhízéshìguǎnlǐgōngtíngdexiū繕,shíshì,sǎochú,yīliáoděngshì庶wu,yǐjítiānhuángcái産deguǎnlǐ.
 1	主要	主要	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=zhǔyào|LTranslit=zhǔyào
@@ -13588,6 +14074,7 @@
 23	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s487
+# parallel_id = zhgsd/test487
 # text = 10日上午在陸軍省的會議中，青年軍官們要求阿南惟幾辭職，從而逼迫內閣總辭職，以達到阻止無條件投降的目的。
 # translit = 10rìshàngwǔzàilùjūnshěngdehuìyìzhōng,qīngniánjūnguānmenyàoqiú'ānánwéijǐcízhí,cóng'érbīpònèi閣zǒngcízhí,yǐdádàozǔzhǐwútiáojiàntóujiàngdemùde.
 1	10	10	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
@@ -13625,6 +14112,7 @@
 33	。	。	PUNCT	.	_	26	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s488
+# parallel_id = zhgsd/test488
 # text = 另一方面，畑中等人也試圖做近衛師團的工作。
 # translit = lìngyīfāngmiàn,畑zhōngděngrényěshìtúzuòjìnwèishītuándegōngzuò.
 1	另	另	DET	DT	_	3	det	_	SpaceAfter=No|Translit=lìng|LTranslit=lìng
@@ -13644,6 +14132,7 @@
 15	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s489
+# parallel_id = zhgsd/test489
 # text = 天皇隨即表示贊同外相東鄉的主張，會議遂做出了接受波茨坦宣言的決定。
 # translit = tiānhuángsuíjíbiǎoshìzàntóngwàixiāngdōngxiāngdezhǔzhāng,huìyì遂zuòchūlejiēshòubō茨tǎnxuānyándejuédìng.
 1	天皇	天皇	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=tiānhuáng|LTranslit=tiānhuáng
@@ -13667,6 +14156,7 @@
 19	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s490
+# parallel_id = zhgsd/test490
 # text = 宮城因為自負的性格，曾經與三井壽有過一段私人恩怨。
 # translit = gōngchéngyīnwèizìfùdexìnggé,céngjīngyǔsānjǐngshòuyǒuguòyīduànsīrén'ēnyuàn.
 1	宮城	宮城	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=gōngchéng|LTranslit=gōngchéng
@@ -13688,6 +14178,7 @@
 17	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s491
+# parallel_id = zhgsd/test491
 # text = 1912年，宮崎滔天參加了孫文就任臨時大總統的儀式。
 # translit = 1912nián,gōngqítāotiāncānjiālesūnwénjiùrènlínshídàzǒngtǒngdeyíshì.
 1	1912	1912	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1912|LTranslit=1912
@@ -13708,6 +14199,7 @@
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s492
+# parallel_id = zhgsd/test492
 # text = 吉本本想召集沼田一家進行家訪，然而關鍵人物茂之卻不肯露面，面對如此學生，吉本作出了驚人之舉。
 # translit = jíběnběnxiǎngzhàojí沼tiányījiājìnxíngjiāfǎng,rán'érguānjiànrénwùmàozhīquèbùkěnlùmiàn,miànduìrúcǐxuéshēng,jíběnzuòchūlejīngrénzhījǔ.
 1	吉本	吉本	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=jíběn|LTranslit=jíběn
@@ -13741,6 +14233,7 @@
 29	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s493
+# parallel_id = zhgsd/test493
 # text = 安仁屋政昭以長達20多年對當地居民的採訪經驗為依據，其證言表明無論是屠殺居民還是集體自殺的責任都在日本軍方，對於居民的犧牲，軍方總指揮官曾有過計劃（命令），另外即使沒有命令，各級官兵都自發作出了上述行為。
 # translit = 'ānrénwūzhèng昭yǐzhǎngdá20duōniánduìdāngdejūmíndecǎifǎngjīngyànwèiyījù,qízhèngyánbiǎomíngwúlùnshìtúshājūmínháishìjítǐzìshādezérèndōuzàirìběnjūnfāng,duìyújūmíndexīshēng,jūnfāngzǒngzhǐhuīguāncéngyǒuguòjìhuà(mìnglìng),lìngwàijíshǐméiyǒumìnglìng,gèjíguānbīngdōuzìfāzuòchūleshàngshùxíngwèi.
 1	安仁屋	安仁屋	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit='ānrénwū|LTranslit='ānrénwū
@@ -13808,6 +14301,7 @@
 63	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s494
+# parallel_id = zhgsd/test494
 # text = 家用伺服器通常都會扮演網路儲存設備的角色，為所有使用者提供安全的檔案儲存服務，而且擁有存取控制管理。
 # translit = jiāyòngcìfúqìtōngchángdōuhuìbanyǎnwǎnglùchǔcúnshèbèidejiǎosè,wèisuǒyǒushǐyòngzhětígōng'ānquándedàng'ànchǔcúnfúwu,'érqiěyōngyǒucúnqǔkòngzhìguǎnlǐ.
 1	家	家	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=jiā|LTranslit=jiā
@@ -13843,6 +14337,7 @@
 31	。	。	PUNCT	.	_	27	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s495
+# parallel_id = zhgsd/test495
 # text = 酪梨醣是利用高科技分子蒸餾法由天然酪梨中萃取。
 # translit = 酪lí醣shìlìyònggāokējìfēnzizhēng餾fǎyóutiānrán酪lízhōng萃qǔ.
 1	酪梨	酪梨	NOUN	NN	_	2	compound	_	SpaceAfter=No|Translit=酪lí|LTranslit=酪lí
@@ -13862,6 +14357,7 @@
 15	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s496
+# parallel_id = zhgsd/test496
 # text = 寬吻海豚可以同其他種類的海豚交配，在自然界和圈養狀態下都有這種情況發生。
 # translit = kuānwěnhǎi豚kěyǐtóngqítāzhǒnglèidehǎi豚jiāopèi,zàizìránjièhéquānyǎngzhuàngtàixiàdōuyǒuzhèzhǒngqíngkuàngfāshēng.
 1	寬吻海豚	寬吻海豚	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=kuānwěnhǎi豚|LTranslit=kuānwěnhǎi豚
@@ -13889,6 +14385,7 @@
 23	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s497
+# parallel_id = zhgsd/test497
 # text = 宵禁就是管理員下班（0:00 AM）到次日上班之前（9:00 AM）禁止發帖和回復，該規則在2010上海世博會期間實行，導致大量海外網友由於時差緣故無法正常發帖。
 # translit = xiāojìnjiùshìguǎnlǐyuánxiàbān(0:00 AM)dàocìrìshàngbānzhīqián(9:00 AM)jìnzhǐfā帖héhuífù,gāiguīzézài2010shànghǎishìbóhuìqījiānshíxíng,dǎozhìdàliànghǎiwàiwǎngyouyóuyúshíchàyuángùwúfǎzhèngchángfā帖.
 1	宵禁	宵禁	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=xiāojìn|LTranslit=xiāojìn
@@ -13936,6 +14433,7 @@
 43	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s498
+# parallel_id = zhgsd/test498
 # text = 分布於西達印度洋塞席爾群島及馬爾地夫群島以及海南省中沙群島等，屬於熱帶淺海底層魚。
 # translit = fēnbùyúxidáyìndùyángsāixí'ěrqúndǎojímǎ'ěrdefuqúndǎoyǐjíhǎinánshěngzhōngshāqúndǎoděng,shǔyúrèdàiqiǎnhǎidǐcéngyú.
 1	分布	分布	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=fēnbù|LTranslit=fēnbù
@@ -13965,6 +14463,7 @@
 25	。	。	PUNCT	.	_	18	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s499
+# parallel_id = zhgsd/test499
 # text = 這兩句話的意思分別和前述兩句話意義相同。
 # translit = zhèliǎngjùhuàdeyìsīfēnbiéhéqiánshùliǎngjùhuàyìyìxiāngtóng.
 1	這	這	DET	DT	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -13984,6 +14483,7 @@
 15	。	。	PUNCT	.	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = test-s500
+# parallel_id = zhgsd/test500
 # text = 密室推理（Locked room mystery，或稱密室殺人）是推理小說常見的一種類型。
 # translit = mìshìtuīlǐ(Locked room mystery,huòchēngmìshìshārén)shìtuīlǐxiǎoshuōchángjiàndeyīzhǒnglèixíng.
 1	密室	密室	NOUN	NN	_	2	nmod	_	SpaceAfter=No|Translit=mìshì|LTranslit=mìshì
