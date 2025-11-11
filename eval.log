@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Chinese-GSD:
-commit 30193f2969e3f9c898fee7e3b6155682b5ca6ab3
+commit ec8bc3f6475a0799541c036302fc1c2b075dbbee
+Merge: 7957b07 e0d85a0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 15:06:34 2024 +0100
-Size: counted 123291 of 123291 words (nodes).
-Size: min(0, log((N/1000)**2)) = 9.62909482961094.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'zh_gsd'
+Language code (from CoNLL-U file name) = 'zh'
+Found the following data files: zh_gsd-ud-dev.conllu, zh_gsd-ud-test.conllu, zh_gsd-ud-train.conllu
+Size: counted 123289 of 123289 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.62906238577933.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,105 +19,61 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.5.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 13784 out of 123291 total words have one or more features.
+Features: 14758 out of 123289 total words have one or more features.
 Features: source of annotation (from README) factor is 0.5.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi:
-               TOTAL      21637
-Udapi: found 21637 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 123291 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-dev.conllu
-[Line 268 Sent dev-s11 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [4, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 401 Sent dev-s16 Node 4]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 400 Sent dev-s16 Node 3]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1389 Sent dev-s46 Node 34]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1387 Sent dev-s46 Node 32]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1740 Sent dev-s56 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [10, 14] not subtyped as ':outer'.
-[Line 2291 Sent dev-s72 Node 25]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2290 Sent dev-s72 Node 24]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2366 Sent dev-s74 Node 25]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2364 Sent dev-s74 Node 23]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2375 Sent dev-s74 Node 34]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2373 Sent dev-s74 Node 32]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 2433 Sent dev-s76 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [4, 7] not subtyped as ':outer'.
+[Line 57 Sent dev-s3]: [L3 Warning pron-det-without-prontype] The word '這種 zhèzhǒng' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 101 Sent dev-s4]: [L3 Warning pron-det-without-prontype] The word '它 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 115 Sent dev-s5]: [L3 Warning pron-det-without-prontype] The word '其 qí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 217 Sent dev-s8]: [L3 Warning pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 245 Sent dev-s10]: [L3 Warning pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 334 Sent dev-s13]: [L3 Warning pron-det-without-prontype] The word '他們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 336 Sent dev-s13]: [L3 Warning pron-det-without-prontype] The word '其他 qítā' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 476 Sent dev-s18]: [L3 Warning pron-det-without-prontype] The word '前 qián' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 492 Sent dev-s19]: [L3 Warning pron-det-without-prontype] The word '這次 zhècì' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 503 Sent dev-s19]: [L3 Warning pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further errors regarding Warning
-[Line 3263 Sent dev-s106 Node 18]: [L3 Syntax leaf-clf] 'clf' not expected to have children (18:個:clf --> 17:這:det)
-[Line 4572 Sent dev-s149 Node 27]: [L3 Syntax too-many-subjects] Multiple subjects [23, 26] not subtyped as ':outer'.
-[Line 4935 Sent dev-s164 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:類:clf --> 1:這:det)
-[Line 5534 Sent dev-s186 Node 19]: [L3 Syntax leaf-det] 'det' not expected to have children (19:夕拾:det --> 18:朝花:nsubj)
-[Line 5994 Sent dev-s202 Node 33]: [L3 Syntax leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
-[Line 6024 Sent dev-s203 Node 24]: [L3 Syntax leaf-clf] 'clf' not expected to have children (24:個:clf --> 23:這:det)
-[Line 6084 Sent dev-s206 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:個:clf --> 2:這:det)
-...suppressing further errors regarding Syntax
-Syntax errors: 32
-Warnings: 48
-*** FAILED *** with 32 errors
-Exit code: 1
+Warnings: 294
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
-[Line 107 Sent test-s5 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [4, 9] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 183 Sent test-s7 Node 28]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 182 Sent test-s7 Node 27]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 434 Sent test-s15 Node 19]: [L3 Syntax leaf-clf] 'clf' not expected to have children (19:種:clf --> 18:這:det)
-[Line 701 Sent test-s24 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
-[Line 719 Sent test-s25 Node 5]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 718 Sent test-s25 Node 4]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 720 Sent test-s25 Node 6]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 718 Sent test-s25 Node 4]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 721 Sent test-s25 Node 7]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 718 Sent test-s25 Node 4]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1105 Sent test-s42 Node 6]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1104 Sent test-s42 Node 5]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 7 Sent test-s1]: [L3 Warning pron-det-without-prontype] The word '這樣 zhèyàng' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 224 Sent test-s9]: [L3 Warning pron-det-without-prontype] The word '這些 zhèxiē' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 449 Sent test-s15]: [L3 Warning pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 460 Sent test-s15]: [L3 Warning pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 567 Sent test-s18]: [L3 Warning pron-det-without-prontype] The word '它們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 593 Sent test-s19]: [L3 Warning pron-det-without-prontype] The word '它 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 672 Sent test-s22]: [L3 Warning pron-det-without-prontype] The word '它 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 688 Sent test-s23]: [L3 Warning pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 776 Sent test-s26]: [L3 Warning pron-det-without-prontype] The word '該 gāi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 797 Sent test-s27]: [L3 Warning pron-det-without-prontype] The word '該 gāi' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further errors regarding Warning
-[Line 1198 Sent test-s44 Node 33]: [L3 Syntax leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
-[Line 1367 Sent test-s51 Node 19]: [L3 Syntax leaf-clf] 'clf' not expected to have children (19:條:clf --> 18:這:det)
-[Line 2494 Sent test-s90 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
-[Line 3333 Sent test-s121 Node 50]: [L3 Syntax too-many-subjects] Multiple subjects [43, 48] not subtyped as ':outer'.
-[Line 3457 Sent test-s126 Node 6]: [L3 Syntax leaf-clf] 'clf' not expected to have children (6:項:clf --> 5:這:det)
-[Line 3869 Sent test-s142 Node 10]: [L3 Syntax leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:這:det)
-[Line 3999 Sent test-s147 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
-...suppressing further errors regarding Syntax
-Syntax errors: 32
-Warnings: 54
-*** FAILED *** with 32 errors
-Exit code: 1
+Warnings: 309
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
-[Line 57 Sent train-s2 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 81 Sent train-s3 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
-[Line 260 Sent train-s9 Node 7]: [L3 Syntax leaf-clf] 'clf' not expected to have children (7:個:clf --> 6:這:det)
-[Line 565 Sent train-s16 Node 6]: [L3 Syntax leaf-clf] 'clf' not expected to have children (6:個:clf --> 5:這:det)
-[Line 622 Sent train-s16 Node 62]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 621 Sent train-s16 Node 61]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1036 Sent train-s31 Node 22]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1035 Sent train-s31 Node 21]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1037 Sent train-s31 Node 23]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1035 Sent train-s31 Node 21]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 1735 Sent train-s57 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:個:clf --> 2:這:det)
-[Line 2619 Sent train-s88 Node 35]: [L3 Syntax leaf-det] 'det' not expected to have children (35:關於:det --> 40:裁減:xcomp)
-[Line 2945 Sent train-s99 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:條:clf --> 1:這:det)
-[Line 3026 Sent train-s102 Node 12]: [L3 Syntax leaf-clf] 'clf' not expected to have children (12:個:clf --> 11:這:det)
-[Line 3281 Sent train-s114 Node 4]: [L3 Syntax leaf-clf] 'clf' not expected to have children (4:個:clf --> 3:這:det)
-[Line 3294 Sent train-s114 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [5, 9] not subtyped as ':outer'.
-[Line 3719 Sent train-s131 Node 11]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3718 Sent train-s131 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3720 Sent train-s131 Node 12]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 3718 Sent train-s131 Node 10]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-...suppressing further errors regarding Syntax
+[Line 18 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word '他們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 22 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word '你 nǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 31 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word '你 nǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 43 Sent train-s1]: [L3 Warning pron-det-without-prontype] The word '自己 zìjǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 50 Sent train-s2]: [L3 Warning pron-det-without-prontype] The word '其 qí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 84 Sent train-s3]: [L3 Warning pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 136 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word '什麼 shénme' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 140 Sent train-s5]: [L3 Warning pron-det-without-prontype] The word '她 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 165 Sent train-s6]: [L3 Warning pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 167 Sent train-s6]: [L3 Warning pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further errors regarding Warning
-Syntax errors: 267
-Warnings: 548
-*** FAILED *** with 267 errors
-Exit code: 1
-Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.15) = 0.0115384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=0.5) = 0.0384615384615385
-(weight=0.256410256410256) * (score{size}=0.696977125037194) = 0.17871208334287
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.398485567234001) * (availability=1) * (validity=0.01) = 0.00398485567234001
-STARS = 0
-UD_Chinese-GSD	0.00398485567234001	0
+Warnings: 2503
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.15) = 0.0166666666666667
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.5) = 0.0555555555555556
+(weight=0.37037037037037) * (score{size}=0.696974776674354) = 0.258138806175687
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
+(weight=0.111111111111111) * (score{udeprels}=0.691891891891892) = 0.0768768768768769
+(TOTAL score=0.571144949573987) * (availability=1) * (validity=1) = 0.571144949573987
+STARS = 3
+UD_Chinese-GSD	0.571144949573987	3
