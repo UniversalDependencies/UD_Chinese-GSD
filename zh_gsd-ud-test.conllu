@@ -6737,7 +6737,7 @@
 3	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 4	教友	教友	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=jiàoyou|LTranslit=jiàoyou
 5	54,942	54,942	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=54,942|LTranslit=54,942
-6	人	人	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+6	人	人	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 7	、	、	PUNCT	EC	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	廿一	廿一	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=niànyī|LTranslit=niànyī
 9	個	個	NOUN	NNB	_	8	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -6818,7 +6818,7 @@
 14	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 15	教友	教友	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=jiàoyou|LTranslit=jiàoyou
 16	10,000	10,000	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=10,000|LTranslit=10,000
-17	人	人	NOUN	NN	_	15	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+17	人	人	NOUN	NN	_	15	nmod	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 18	、	、	PUNCT	EC	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	四	四	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=sì|LTranslit=sì
 20	個	個	NOUN	NNB	_	19	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
