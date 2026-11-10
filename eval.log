@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Chinese-GSD:
-commit 200dbe8acf60ff0d194f2d30bf925c410eee762a
+commit c1d59a85456634a4e0432f6dfc555734cebe4d45
+Merge: 22f73e8 666317e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 18:55:58 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'zh_gsd'
 Language code (from CoNLL-U file name) = 'zh'
@@ -35,12 +35,9 @@ Genres: found 1 out of 18 known.
 [Line 476 Sent dev-s18]: [L3 WARNING pron-det-without-prontype] The word '前 qián' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 492 Sent dev-s19]: [L3 WARNING pron-det-without-prontype] The word '這次 zhècì' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 503 Sent dev-s19]: [L3 WARNING pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 523 Sent dev-s20]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] '年 nián') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 ...suppressing further messages regarding WARNING/MORPHO
 Warnings: 293
-SYNTAX errors: 1
-*** FAILED *** with 1 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-test.conllu
 [Line 7 Sent test-s1]: [L3 WARNING pron-det-without-prontype] The word '這樣 zhèyàng' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 224 Sent test-s9]: [L3 WARNING pron-det-without-prontype] The word '這些 zhèxiē' is tagged 'DET' but it lacks the 'PronType' feature
@@ -53,12 +50,8 @@ Exit code: 1
 [Line 776 Sent test-s26]: [L3 WARNING pron-det-without-prontype] The word '該 gāi' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 797 Sent test-s27]: [L3 WARNING pron-det-without-prontype] The word '該 gāi' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 6740 Sent test-s235]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] '教友 jiàoyou') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 6821 Sent test-s238]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] '教友 jiàoyou') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 Warnings: 307
-SYNTAX errors: 2
-*** FAILED *** with 2 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-GSD/zh_gsd-ud-train.conllu
 [Line 18 Sent train-s1]: [L3 WARNING pron-det-without-prontype] The word '他們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 22 Sent train-s1]: [L3 WARNING pron-det-without-prontype] The word '你 nǐ' is tagged 'PRON' but it lacks the 'PronType' feature
@@ -71,22 +64,9 @@ Exit code: 1
 [Line 165 Sent train-s6]: [L3 WARNING pron-det-without-prontype] The word '此 cǐ' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 167 Sent train-s6]: [L3 WARNING pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 56397 Sent train-s1896]: [L3 SYNTAX obl-should-be-nmod] The parent (node [38] '今日 jīnrì') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 57116 Sent train-s1922]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] '師範 shīfàn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 57127 Sent train-s1922]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] '師範 shīfàn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 65601 Sent train-s2210]: [L3 SYNTAX obl-should-be-nmod] The parent (node [31] '評估 pínggū') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 67775 Sent train-s2275]: [L3 SYNTAX obl-should-be-nmod] The parent (node [38] '環境 huánjìng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 75373 Sent train-s2532]: [L3 SYNTAX obl-should-be-nmod] The parent (node [23] '公里 gōnglǐ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 76260 Sent train-s2565]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] '度 dù') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 76262 Sent train-s2565]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] '大賽 dàsài') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 77029 Sent train-s2594]: [L3 SYNTAX obl-should-be-nmod] The parent (node [26] '次 cì') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 81217 Sent train-s2732]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] '度 dù') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further messages regarding ERROR/SYNTAX
 Warnings: 2489
-SYNTAX errors: 14
-*** FAILED *** with 14 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.15) = 0.0166666666666667
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.5) = 0.0555555555555556
@@ -94,6 +74,6 @@ Validity: 0.01
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
 (weight=0.111111111111111) * (score{udeprels}=0.691891891891892) = 0.0768768768768769
-(TOTAL score=0.571144949573987) * (availability=1) * (validity=0.01) = 0.00571144949573987
-STARS = 0
-UD_Chinese-GSD	0.00571144949573987	0
+(TOTAL score=0.571144949573987) * (availability=1) * (validity=1) = 0.571144949573987
+STARS = 3
+UD_Chinese-GSD	0.571144949573987	3
