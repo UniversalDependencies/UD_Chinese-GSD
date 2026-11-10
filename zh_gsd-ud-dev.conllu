@@ -520,7 +520,7 @@
 # parallel_id = zhgsd/dev20
 # text = 年復一年，無論颳風下雨，不顧警察和暴徒騷擾，白衣女士們堅持著她們無聲的周日步行，抗議關押古巴的所有良心犯。
 # translit = niánfùyīnián,wúlùn颳fēngxiàyǔ,bùgùjǐngcháhébàotú騷rǎo,báiyīnǚshìmenjiānchízhetāmenwúshēngdezhōurìbùxíng,kàngyìguānyāgǔbadesuǒyǒuliángxīnfàn.
-1	年	年	NOUN	NNB	_	4	obl	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+1	年	年	NOUN	NNB	_	4	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 2	復	復	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=fù|LTranslit=fù
 3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 4	年	年	NOUN	NNB	_	27	nmod:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
